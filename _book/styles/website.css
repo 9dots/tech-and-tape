@@ -1,0 +1,17 @@
+.page-title-text {
+  margin: 0;
+  margin-bottom: 10px !important;
+}
+.page-title {
+  flex-direction: column;
+  justify-content: center;
+}
+.page-subtitle-text {
+  margin-top: 0px !important;
+}
+.icon.explain {
+  background-image: url('/images/explain.png')
+}
+.icon.eyes {
+  background-image: url('/images/eyes.png')
+}

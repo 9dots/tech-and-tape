@@ -1,0 +1,19 @@
+{
+  "gitbook": "3.x.x",
+  "structure": {
+      "summary": "SUMMARY.md"
+  },
+  "plugins": ["edit-link", "prism", "-highlight", "tasklist"],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/9dots/get-coding-curricula/tree/master"
+    },
+    "github": {
+      "url": "https://github.com/9dots/get-coding-curricula"
+    }
+  },
+  "pdf": {
+    "paperSize": "letter",
+    "paperLayout": "landscape"
+  }
+}
