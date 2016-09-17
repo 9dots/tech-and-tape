@@ -1,4 +1,4 @@
-{% title title='' subtitle='' %}
+{% title title='', subtitle='' %}
 {% endtitle %}
 
 {% header title='Overview', icon='overview' %}

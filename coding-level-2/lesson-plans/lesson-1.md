@@ -33,8 +33,8 @@ Students program Pixel Bots to paint, focusing on sequence.
 
 - Lesson 1 | Worksheet 1
 - Lesson 1 | Worksheet 2
-- Small turtle cutout for each student
-- Magnetic turtle
+- Small pixel bot cutout for each student
+- Magnetic pixel bot
 - Scratch paper grids
 - Pencils
 - Whiteboard
@@ -117,8 +117,8 @@ Demonstrate how to read code by reading and stepping through three or four examp
 {% table %}
 
 1) Explain that when a computer executes code, it runs it in the order that it is written. This is called sequence.
-2) Point to the program on the whiteboard and ask students, “What is the first line of code?” After they answer, put a number 1 next to the corresponding line. Move the turtle according to the line of code just numbered.
-3) Continue reading and stepping one line at a time. Trace the path of the turtle as it moves and shade in the squares whenever it paints.
+2) Point to the program on the whiteboard and ask students, “What is the first line of code?” After they answer, put a number 1 next to the corresponding line. Move the pixel bot according to the line of code just numbered.
+3) Continue reading and stepping one line at a time. Trace the path of the pixel bot as it moves and shade in the squares whenever it paints.
 4) Show students three new examples (design these problems on the fly, making them interesting and complex enough), reading and stepping together as a class.
 
 ,,,
@@ -140,9 +140,9 @@ Students individually practice reading code.
 
 {% table %}
 
-1) **Individual Work:** Leave the worked example from the previous activity on the whiteboard. Ask students to individually fill out the worksheet. Remind students to trace the path of the turtle and to shade in squares whenever the turtle paints.
+1) **Individual Work:** Leave the worked example from the previous activity on the whiteboard. Ask students to individually fill out the worksheet. Remind students to trace the path of the pixel bot and to shade in squares whenever the pixel bot paints.
 ,,,
 
-1) Students read the code, trace the pathway of the turtle, and paint the correct blocks on the worksheet.
+1) Students read the code, trace the pathway of the pixel bot, and paint the correct blocks on the worksheet.
 
 {% endtable %}
