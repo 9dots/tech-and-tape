@@ -15,7 +15,8 @@ Students program Pixel Bots to paint, focusing on sequence.
 {% overviewSection title='Agenda', icon='agenda' %}
 {% endoverviewSection %}
 
-#### Lesson Time: 45 mintues
+**Time: 45 mintues**
+
 
 1. Welcome to coding (10 minutes)
 1. Predict pixel bot icons (15 minutes)
@@ -25,7 +26,7 @@ Students program Pixel Bots to paint, focusing on sequence.
 {% overviewSection title='Vocab', icon='vocab' %}
 {% endoverviewSection %}
 
-**Sequence** - The idea that statements must be performed in the order they are written.
+- **Sequence** - The idea that statements must be performed in the order they are written.
 
 {% overviewSection title='Materials', icon='materials' %}
 {% endoverviewSection %}
