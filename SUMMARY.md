@@ -7,3 +7,4 @@
     * [write some code](coding/coding-level-2/lesson-plans/lesson-2.md)
     * [write read repeat](coding/coding-level-2/lesson-plans/lesson-3.md)
     * [pixel bot online](coding/coding-level-2/lesson-plans/lesson-4.md)
+    * [code.org maze](coding/coding-level-2/lesson-plans/lesson-5.md)
