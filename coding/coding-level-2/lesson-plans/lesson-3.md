@@ -1,7 +1,7 @@
 {% title title='Write.Read.Repeat.', subtitle='Unplugged' %}
 {% endtitle %}
 
-{% header title='Overview', icon='overview' %}
+{% header title='Overview', icon='activity' %}
 {% endheader %}
 
 Students continue to solve pixel bot problems by playing Coders & Bots to read and write code.

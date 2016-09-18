@@ -1,7 +1,7 @@
 {% title title='Pixel Bots Online', subtitle='Plugged' %}
 {% endtitle %}
 
-{% header title='Overview', icon='overview' %}
+{% header title='Overview', icon='activity' %}
 {% endheader %}
 
 Students review writing code offline. Then, students demonstrate their learning by writing programs to complete online pixel bot challenges.

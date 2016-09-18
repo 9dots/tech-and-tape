@@ -1,7 +1,7 @@
 {% title title='Code.org Maze', subtitle='Plugged' %}
 {% endtitle %}
 
-{% header title='Overview', icon='overview' %}
+{% header title='Overview', icon='activity' %}
 {% endheader %}
 
 Students will build on their understanding of algorithms learned in Pixelbots to solve problems with different commands in the Code.org environment.

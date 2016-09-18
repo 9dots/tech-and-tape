@@ -1,7 +1,7 @@
 {% title title='', subtitle='' %}
 {% endtitle %}
 
-{% header title='Overview', icon='overview' %}
+{% header title='Overview', icon='activity' %}
 {% endheader %}
 
 *** Add overview here ***

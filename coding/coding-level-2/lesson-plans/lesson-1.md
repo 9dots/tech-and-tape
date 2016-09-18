@@ -1,4 +1,4 @@
-{% title title='Lesson 1 - Sequencing Pixels', subtitle='Unplugged' %}
+{% title title='Sequencing Pixels', subtitle='Unplugged' %}
 {% endtitle %}
 
 {% header title='Overview', icon='activity' %}
