@@ -8,4 +8,8 @@
     * [write read repeat](coding/coding-level-2/lesson-plans/lesson-3.md)
     * [pixel bot online](coding/coding-level-2/lesson-plans/lesson-4.md)
     * [code.org maze](coding/coding-level-2/lesson-plans/lesson-5.md)
+    * [dance dance js](coding/coding-level-2/lesson-plans/lesson-6.md)
     * [pixel bot js](coding/coding-level-2/lesson-plans/lesson-7.md)
+    * [winter is coming - gather food](coding/coding-level-2/lesson-plans/lesson-8.md)
+    * [space ranger and magic words](coding/coding-level-2/lesson-plans/lesson-9.md)
+    * [coding arguments](coding/coding-level-2/lesson-plans/lesson-10.md)

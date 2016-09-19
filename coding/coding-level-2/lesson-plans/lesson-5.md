@@ -15,7 +15,7 @@ Students will build on their understanding of algorithms learned in Pixelbots to
 {% overviewSection title='Agenda', icon='agenda' %}
 {% endoverviewSection %}
 
-**Time: 45 minutes**
+#### Length: 45 minutes
 
 1. Solving problems with new code elements
 2. Introduce code.org maze

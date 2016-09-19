@@ -17,7 +17,7 @@ Students continue to solve pixel bot problems by playing Coders & Bots to read a
 {% overviewSection title='Agenda', icon='agenda' %}
 {% endoverviewSection %}
 
-**Time: 45 minutes**
+#### Length: 45 minutes
 
 1. Pixel Bots: Write Code Warm-up
 2. Pixel Bots: Coders and Bots

@@ -15,6 +15,8 @@ Students review writing code offline. Then, students demonstrate their learning 
 {% overviewSection title='Agenda', icon='agenda' %}
 {% endoverviewSection %}
 
+#### Length: 45 mintues
+
 1. Pixel Bots: Warm-up
 2. Introduce Pixel Bots Online
 3. Pixel Bots Online Practice

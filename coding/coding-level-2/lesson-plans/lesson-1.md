@@ -15,8 +15,7 @@ Students program Pixel Bots to paint, focusing on sequence.
 {% overviewSection title='Agenda', icon='agenda' %}
 {% endoverviewSection %}
 
-**Time: 45 mintues**
-
+#### Length: 45 mintues
 
 1. Welcome to coding (10 minutes)
 1. Predict pixel bot icons (15 minutes)
@@ -31,13 +30,13 @@ Students program Pixel Bots to paint, focusing on sequence.
 {% overviewSection title='Materials', icon='materials' %}
 {% endoverviewSection %}
 
-- Lesson 1 | Worksheet 1
-- Lesson 1 | Worksheet 2
-- Small pixel bot cutout for each student
-- Magnetic pixel bot
-- Scratch paper grids
-- Pencils
-- Whiteboard
+1. Lesson 1 | Worksheet 1
+1. Lesson 1 | Worksheet 2
+1. Small pixel bot cutout for each student
+1. Magnetic pixel bot
+1. Scratch paper grids
+1. Pencils
+1. Whiteboard
 
 {% header title='Welcome to coding', icon='objectives' %}
 {% endheader %}

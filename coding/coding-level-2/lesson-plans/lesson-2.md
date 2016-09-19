@@ -16,7 +16,7 @@ Students learn the different components of reading and writing code by exploring
 {% overviewSection title='Agenda', icon='agenda' %}
 {% endoverviewSection %}
 
-**Time: 45 mintues**
+#### Length: 45 mintues
 
 
 1. Pixel Bots: Practice Reading Code

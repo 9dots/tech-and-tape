@@ -15,3 +15,21 @@
 .icon.eyes {
   background-image: url('../images/eyes.png')
 }
+.icon.objectives {
+  background-image: url('../images/objectives.png')
+}
+.icon.agenda {
+  background-image: url('../images/agenda.png');
+}
+.icon.vocab {
+  background-image: url('../images/vocab.png');
+}
+.icon.materials {
+  background-image: url('../images/materials.png');
+}
+.icon.standards {
+  background-image: url('../images/standards.png');
+}
+.icon.activity {
+  background-image: url('../images/activity.png');
+}
