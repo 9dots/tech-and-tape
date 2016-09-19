@@ -13,3 +13,6 @@
     * [winter is coming - gather food](coding/coding-level-2/lesson-plans/lesson-8.md)
     * [space ranger and magic words](coding/coding-level-2/lesson-plans/lesson-9.md)
     * [coding arguments](coding/coding-level-2/lesson-plans/lesson-10.md)
+* [developer](developer/README.md)
+  * [unit 1](developer/unit-1/README.md)
+    * [I am a coder](developer/unit-1/lesson-1.md)

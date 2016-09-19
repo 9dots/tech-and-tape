@@ -26,10 +26,6 @@
 
 *** Add materials here ***
 
-{% overviewSection title='Standards', icon='standards' %}
-{% endoverviewSection %}
-
-*** Add standards here ***
 
 ACTIVITY 1 (delete this line)
 
