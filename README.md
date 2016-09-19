@@ -9,7 +9,7 @@ To run locally
 npm install -g gitbook-cli
 npm install
 ```
-3. In the command line, navgitate to folder and serve.
+3. In the command line, navigate to folder and serve.
 ```
 gitbook serve
 ```
