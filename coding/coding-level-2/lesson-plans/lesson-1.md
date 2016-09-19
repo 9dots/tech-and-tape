@@ -15,7 +15,7 @@ Students program Pixel Bots to paint, focusing on sequence.
 {% overviewSection title='Agenda', icon='agenda' %}
 {% endoverviewSection %}
 
-#### Length: 45 mintues
+#### Length: 45 minutes
 
 1. Welcome to coding (10 minutes)
 1. Predict pixel bot icons (15 minutes)
