@@ -1,7 +1,7 @@
 # Summary
 
 * [introduction](README.md)
-* [coding](coding/README.md)
+* [coder](coding/README.md)
   * [level 2](coding/coding-level-2/README.md)
     * [sequencing pixels](coding/coding-level-2/lesson-plans/lesson-1.md)
     * [write some code](coding/coding-level-2/lesson-plans/lesson-2.md)
