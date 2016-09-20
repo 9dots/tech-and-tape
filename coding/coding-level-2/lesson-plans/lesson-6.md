@@ -140,3 +140,39 @@ Dance bot is a game in which a dance bot is programmed to perform a dance. The m
 All commands should be executed on a beat. It is the job of the reader of the program to keep the beat.
 
 The dance bot operates in a 9x9 grid (real or imaginary). It starts each move from the center of the grid. This means the dance bot should never move outside of the 9x9 grid - the dance is essentially performed in place.
+
+{% overviewSection title='Example Dance', icon='explain' %}
+{% endoverviewSection %}
+
+```js
+up()
+up()
+left()
+right()
+up()
+up()
+left()
+right()
+spintLeft()
+up()
+up()
+right()
+left()
+up()
+up()
+right()
+left()
+spinLeft()
+back()
+back()
+left()
+wait()
+back()
+back()
+right()
+wait()
+spinLeft()
+spinLeft()
+left()
+right()
+```
