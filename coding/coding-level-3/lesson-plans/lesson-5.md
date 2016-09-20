@@ -1,4 +1,4 @@
-{% title title='Gather Food - Winter is Coming', subtitle='plugged', color='#C2DACC' %}
+{% title title='Gather Food - Winter is Coming', subtitle='plugged', color='#2baca5' %}
 {% endtitle %}
 
 {% header title='Overview', icon='activity' %}

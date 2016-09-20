@@ -1,4 +1,4 @@
-{% title title='Coding arguments', subtitle='Unplugged', color='#C2DACC' %}
+{% title title='Coding arguments', subtitle='Unplugged', color='#2baca5' %}
 {% endtitle %}
 
 {% header title='Overview', icon='activity' %}

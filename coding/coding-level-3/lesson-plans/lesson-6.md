@@ -1,4 +1,4 @@
-{% title title='Space Ranger and Magic Words', subtitle='Plugged', color='#C2DACC' %}
+{% title title='Space Ranger and Magic Words', subtitle='Plugged', color='#2baca5' %}
 {% endtitle %}
 
 {% header title='Overview', icon='activity' %}
