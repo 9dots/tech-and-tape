@@ -1,6 +1,7 @@
 # Summary
 
 * [introduction](README.md)
+* [preCoder](precoder/README.md)
 * [coder](coder/README.md)
   * [level 2](coder/level-2/README.md)
     * [sequencing pixels](coder/level-2/lesson-plans/lesson-1.md)
@@ -23,3 +24,4 @@
     * [coding arguments in JS](coder/level-3/lesson-plans/lesson-7.md)
     * [practicing arguments](coder/level-3/lesson-plans/lesson-8.md)
     * [fire ice and squirrels](coder/level-3/lesson-plans/lesson-9.md)
+* [developer](developer/README.md)
