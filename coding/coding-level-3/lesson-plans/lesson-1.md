@@ -1,4 +1,4 @@
-{% title title='Sequencing Pixels', subtitle='Unplugged', color='#2baca5' %}
+{% title title='Sequencing Pixels', subtitle='Unplugged', color='#C2DACC' %}
 {% endtitle %}
 
 {% header title='Overview', icon='activity' %}
