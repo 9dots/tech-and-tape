@@ -1,3 +1,7 @@
 ## Developer
 
-The developer series features project and product based curricula designed to introduce and reinforce conceptual learning in a fun and engaging way for students. These units include unplugged activities where students can explore coding in a physical space, worksheets to help organize student thinking, and online games to practice their skills.
+The developer series features project and product based curricula designed to introduce and reinforce applied learning in projects motivated by the product design cycle. The lessons in these units are couched in the context of an overarching product that the student is working on developing. Students will create games, apps, and collaborative worlds.
+
+## Curriculum
+
+### Coming Soon!
