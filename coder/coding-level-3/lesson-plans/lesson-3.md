@@ -1,4 +1,4 @@
-{% title title='Write.Read.Repeat.', subtitle='Unplugged', color='#2baca5' %}
+{% title title='Write.Read.Repeat.', subtitle='Unplugged', color='#C2DACC' %}
 {% endtitle %}
 
 {% header title='Overview', icon='activity' %}

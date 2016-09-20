@@ -1,4 +1,4 @@
-{% title title='Pixel Bots Online', subtitle='Plugged', color='#2baca5' %}
+{% title title='Pixel Bots Online', subtitle='Plugged', color='#C2DACC' %}
 {% endtitle %}
 
 {% header title='Overview', icon='activity' %}

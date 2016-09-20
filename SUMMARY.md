@@ -21,3 +21,5 @@
     * [winter is coming - gather food](coder/coding-level-3/lesson-plans/lesson-5.md)
     * [space ranger and magic words](coder/coding-level-3/lesson-plans/lesson-6.md)
     * [coding arguments in JS](coder/coding-level-3/lesson-plans/lesson-7.md)
+    * [practicing arguments](coder/coding-level-3/lesson-plans/lesson-8.md)
+    * [fire ice and squirrels](coder/coding-level-3/lesson-plans/lesson-9.md)

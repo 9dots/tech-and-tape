@@ -1,4 +1,4 @@
-{% title title='Coding arguments', subtitle='Unplugged', color='#2baca5' %}
+{% title title='Coding arguments', subtitle='Unplugged', color='#C2DACC' %}
 {% endtitle %}
 
 {% header title='Overview', icon='activity' %}
@@ -162,10 +162,10 @@ Students use arguments to solve coding challenges.
 
 {% table %}
 
-1) **Individual work:** Students work on the problems on Lesson 7 | Worksheet 2. Remind students to use arguments to solve the problems more efficiently.
+1) **Individual work:** Students work on the problems on Lesson 7 | Worksheet. Remind students to use arguments to solve the problems more efficiently.
 
 ,,,
 
-1) Students individually fill in the first 4 problems on their worksheet.
+1) Students individually fill in the problems on their worksheet.
 
 {% endtable %}
