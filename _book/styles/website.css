@@ -5,6 +5,7 @@
 .page-title {
   flex-direction: column;
   justify-content: center;
+  min-height: 330px;
 }
 .page-subtitle-text {
   margin-top: 0px !important;
