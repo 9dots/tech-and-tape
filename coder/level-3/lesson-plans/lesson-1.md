@@ -31,8 +31,8 @@ Students program Pixel Bots to paint, focusing on sequence.
 {% overviewSection title='Materials', icon='materials' %}
 {% endoverviewSection %}
 
-1. Lesson 1 | Worksheet 1
-1. Lesson 1 | Worksheet 2
+1. [Lesson 1 | Warm-up Worksheet][warm-up]
+1. Worksheet 1: [Page 1][worksheet1-1] & [Page 2][worksheet1-2]
 1. Small pixel bot cutout for each student
 1. Magnetic pixel bot
 1. Scratch paper grids
@@ -64,7 +64,7 @@ Starting with this class you are now coders. What do you think it means to be a 
 
 {% endtable %}
 
-{% header title='Predict pixel bot icons', icon='eyes' %}
+{% header title='Predict pixel bot JS', icon='eyes' %}
 {% endheader %}
 
 {% length '15 minutes' %}
@@ -72,12 +72,12 @@ Starting with this class you are now coders. What do you think it means to be a 
 
 Students individually predict the outcome of sequences and then regroup to discuss findings.
 
-**Prep:** Distribute Lesson 1 | Worksheet 1
+**Prep:** Distribute [Lesson 1 | Warm-up Worksheet][warm-up]
 
 {% table %}
 
 1) Tell students: Before we can write code, we need to learn how to read code
-2) Discuss the elements at the top of Lesson 1 | Worksheet 1 and ask students to speculate about what they mean.
+2) Discuss the elements at the top of [Lesson 1 | Warm-up Worksheet][warm-up]  and ask students to speculate about what they mean.
 
 Answer:
   - up() - move up one square
@@ -135,7 +135,7 @@ Demonstrate how to read code by reading and stepping through three or four examp
 
 Students individually practice reading code.
 
-**Prep:** Distribute Lesson 1 | Worksheet 2
+**Prep:** Distribute Worksheet 1: [Page 1][worksheet1-1] & [Page 2][worksheet1-2]
 
 {% table %}
 
@@ -145,3 +145,7 @@ Students individually practice reading code.
 1) Students read the code, trace the pathway of the pixel bot, and paint the correct blocks on the worksheet.
 
 {% endtable %}
+
+[warm-up]: ../worksheets/lesson1-warmup.pdf
+[worksheet1-1]: ../worksheets/lesson1-worksheet1-1.pdf
+[worksheet1-2]: ../worksheets/lesson1-worksheet1-2.pdf

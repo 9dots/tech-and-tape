@@ -31,8 +31,8 @@ Students review writing code offline. Then, students demonstrate their learning 
 {% overviewSection title='Materials', icon='materials' %}
 {% endoverviewSection %}
 
-1. Lesson 4 | Worksheet 1
-2. Lesson 4 | Exit Ticket Worksheet
+1. [Lesson 4 | Worksheet 1][worksheet1]
+2. [Lesson 4 | Exit Ticket Worksheet][wrap-up]
 3. Scratch paper grids
 4. Small pixel bot cutout for each student
 5. Magnetic pixel bot
@@ -100,7 +100,7 @@ Show students how to solve a problem on pixel bot online. Also revisit `program`
 
 Students are given a set of pixel bot images to reproduce on the computer. Partners star the ones that are completed. Remind students that the images with lots of shaded squares will be difficult, but they should remember to read code from the beginning when things go wrong.
 
-**Prep:** Distribute the Pixel bot practice worksheet and write www.pixelbots.io up on the board.
+**Prep:** Distribute the [Lesson 4 | Worksheet 1][worksheet1] and write www.pixelbots.io up on the board.
 
 {% table %}
 
@@ -132,7 +132,7 @@ Students are given a set of pixel bot images to reproduce on the computer. Partn
 
 Students complete Exit Ticket.
 
-**Prep:** Distribute Lesson 4 | Exit Ticket Worksheet.
+**Prep:** Distribute [Lesson 4 | Exit Ticket Worksheet][wrap-up].
 
 {% table %}
 
@@ -142,3 +142,6 @@ Students complete Exit Ticket.
 1) Students write their answers on the worksheet.
 
 {% endtable %}
+
+[worksheet1]: ../worksheets/lesson4-worksheet1.pdf
+[wrap-up]: ../worksheets/lesson4-wrapup.pdf

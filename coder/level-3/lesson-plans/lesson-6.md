@@ -24,8 +24,7 @@ Students write JavaScript online in a series of increasingly difficult challenge
 {% overviewSection title='Materials', icon='materials' %}
 {% endoverviewSection %}
 
-1. Lesson 6 | Unplugged Warm-up Worksheet
-1. Lesson 6 | Exit Ticket Worksheet
+1. [Lesson 6 | Warm-up Worksheet][warm-up]
 1. Laptops/Computers
 1. Scratch paper grids
 1. Small turtle cutout for each student
@@ -42,11 +41,11 @@ Students write JavaScript online in a series of increasingly difficult challenge
 
 Practice writing basic JavaScript to maneuver the squirrel to the nut.
 
-**Prep:** Hand out the Lesson 6 | Unplugged Warm-up Worksheet.
+**Prep:** Hand out the [Lesson 6 | Warm-up Worksheet][warm-up].
 
 {% table %}
 
-1) **Individual Work:** Ask students to write the code to maneuver the squirrel to the nut in the Lesson 6 | Unplugged Warm-up Worksheet. Consider reminding students of the proper JavaScript syntax (see Elements on the worksheet).
+1) **Individual Work:** Ask students to write the code to maneuver the squirrel to the nut in the [Lesson 6 | Warm-up Worksheet][warm-up]. Consider reminding students of the proper JavaScript syntax (see Elements on the worksheet).
 2) Draw the squirrel, nut, and grid on the whiteboard and code the solution with the students, randomly calling on one student at a time to provide each next line of code.
 
 ,,,
@@ -115,3 +114,5 @@ Students continue writing code in JavaScript on the getCoding.io platform for th
 1) Students resume coding
 
 {% endtable %}
+
+[warm-up]: ../worksheets/lesson6-warmup.pdf

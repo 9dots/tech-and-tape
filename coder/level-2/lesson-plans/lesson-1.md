@@ -30,8 +30,8 @@ Students program Pixel Bots to paint, focusing on sequence.
 {% overviewSection title='Materials', icon='materials' %}
 {% endoverviewSection %}
 
-1. <a href="../worksheets/lesson1-warmup.pdf" target="_blank">Warmup</a>
-1. Worksheet 1: <a href="../worksheets/lesson1-worksheet1-1.pdf" target="_blank">Page 1</a> & <a href="../worksheets/lesson1-worksheet1-2.pdf" target="_blank">Page 2</a>
+1. [Lesson 1 | Warm-up Worksheet][warm-up]
+1. Worksheet 1: [Page 1][worksheet1-1] & [Page 2][worksheet1-2]
 1. Small pixel bot cutout for each student
 1. Magnetic pixel bot
 1. Scratch paper grids
@@ -71,7 +71,7 @@ Starting with this class you are now coders. What do you think it means to be a 
 
 Students individually predict the outcome of sequences and then regroup to discuss findings.
 
-**Prep:** Distribute <a href="../worksheets/lesson1-warmup.pdf" target="_blank">Warmup</a>
+**Prep:** Distribute [Warm-up][warm-up]
 
 {% table %}
 
@@ -132,7 +132,7 @@ Demonstrate how to read code by reading and stepping through three or four examp
 
 Students individually practice reading code.
 
-**Prep:** Distribute Worksheet 1: <a href="../worksheets/lesson1-worksheet1-1.pdf" target="_blank">Page 1</a> & <a href="../worksheets/lesson1-worksheet1-2.pdf" target="_blank">Page 2</a>
+**Prep:** Distribute Worksheet 1: [Page 1][worksheet1-1] & [Page 2][worksheet1-2]
 
 {% table %}
 
@@ -142,3 +142,7 @@ Students individually practice reading code.
 1) Students read the code, trace the pathway of the pixel bot, and paint the correct blocks on the worksheet.
 
 {% endtable %}
+
+[warm-up]: ../worksheets/lesson1-warmup.pdf
+[worksheet1-1]: ../worksheets/lesson1-worksheet1-1.pdf
+[worksheet1-2]: ../worksheets/lesson1-worksheet1-2.pdf

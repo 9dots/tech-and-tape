@@ -33,9 +33,9 @@ Students will learn the JavaScript syntax for a function call and apply that kno
 {% overviewSection title='Materials', icon='materials' %}
 {% endoverviewSection %}
 
-1. Lesson 6 | Warm-up Worksheet
-2. Lesson 6 | Worksheet 1
-3. Lesson 6 | Worksheet 2
+1. [Lesson 6 | Warm-up Worksheet][warm-up]
+2. [Lesson 6 | Worksheet 1][worksheet1]
+3. [Lesson 6 | Worksheet 2][worksheet2]
 4. Scratch paper grids
 5. Small turtle cutout for each student
 6. Magnetic turtle
@@ -51,11 +51,11 @@ Students will learn the JavaScript syntax for a function call and apply that kno
 
 Students warm up their code writing skills by performing a medium difficulty pixel bot exercise.
 
-**Prep:** Hand out Lesson 6 | Warm-up Worksheet.
+**Prep:** Hand out [Lesson 6 | Warm-up Worksheet][warm-up].
 
 {% table %}
 
-1) Ask students to solve the problem on the Lesson 6 | Warm-up Worksheet.
+1) Ask students to solve the problem on the [Lesson 6 | Warm-up Worksheet][warm-up].
 ,,,
 
 1) Students complete the warm-up.
@@ -70,12 +70,12 @@ Students warm up their code writing skills by performing a medium difficulty pix
 
 Students perform the same exercise as in the warm-up, but the programming elements are replaced with real JavaScript syntax. Teacher emphasizes the importance of getting the syntax right.
 
-**Prep:** Hand out Lesson 6 | Worksheet 1.
+**Prep:** Hand out [Lesson 6 | Worksheet 1][worksheet1].
 
 {% table %}
 
 1) Point out to students that the programming elements changed but that they may still be able to solve the problem.
-2) **Individual Work:** Ask students to attempt the problem in Lesson 6 | Worksheet 1.
+2) **Individual Work:** Ask students to attempt the problem in [Lesson 6 | Worksheet 1][worksheet1].
 3) Explain that these new programming elements are part of JavaScript.
 4) Explain that these particular programming elements are all function calls and that we know they are function calls because they have an open and closed parenthesis after the name.
 5) Walk through the solution to the worksheet on the board. Highlight the importance of including the parenthesis.
@@ -83,7 +83,7 @@ Students perform the same exercise as in the warm-up, but the programming elemen
 
 ,,,
 
-2) Students attempt to complete Lesson 6 | Worksheet 1.
+2) Students attempt to complete [Lesson 6 | Worksheet 1][worksheet1].
 
 {% endtable %}
 
@@ -95,7 +95,7 @@ Students perform the same exercise as in the warm-up, but the programming elemen
 
 Teacher performs dance based on dance program that only she/he can see. Then students try to figure out the code for the dance by playing Coders and Bots. If there is extra time, teams can write their own programs for dances.
 
-**Prep:** Hand out Lesson 6 | Worksheet 2.
+**Prep:** Hand out [Lesson 6 | Worksheet 2][worksheet2].
 
 {% table %}
 
@@ -111,8 +111,8 @@ Teacher performs dance based on dance program that only she/he can see. Then stu
 
 ,,,
 
-6) Students start playing Coders and Bots to come up with the code for the dance. They can write the code on a blank Lesson 6 | Worksheet 2.
-7) Students individually write the code for their own dance using a blank Lesson 6 | Worksheet 2.
+6) Students start playing Coders and Bots to come up with the code for the dance. They can write the code on a blank [Lesson 6 | Worksheet 2][worksheet2].
+7) Students individually write the code for their own dance using a blank [Lesson 6 | Worksheet 2][worksheet2].
 8) Readers and writers dance their partner’s code.
 9) Steppers and navigators dance their partner’s code.
 
@@ -176,3 +176,7 @@ spinLeft()
 left()
 right()
 ```
+
+[warm-up]: ../worksheets/lesson6-warmup.pdf
+[worksheet1]: ../worksheets/lesson6-worksheet1.pdf
+[worksheet2]: ../worksheets/lesson6-worksheet2.pdf
