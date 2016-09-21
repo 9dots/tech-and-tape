@@ -25,3 +25,7 @@
     * [practicing arguments](coder/level-3/lesson-plans/lesson-8.md)
     * [fire ice and squirrels](coder/level-3/lesson-plans/lesson-9.md)
 * [developer](developer/README.md)
+  * [unit 1](developer/unit-1/README.md)
+    * [I am a coder](developer/unit-1/lesson-1.md)
+    * [Getting Started on Scratch](developer/unit-1/lesson-2.md)
+    * [Maze Scavenger Hunt](developer/unit-1/lesson-3.md)
