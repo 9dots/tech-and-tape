@@ -5,6 +5,10 @@
 .page-title {
   flex-direction: column;
   justify-content: center;
+  min-height: 330px;
+}
+span.token {
+  font-family: Consolas,"Liberation Mono",Menlo,Courier,monospace;
 }
 .page-subtitle-text {
   margin-top: 0px !important;

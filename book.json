@@ -3,7 +3,7 @@
   "structure": {
       "summary": "SUMMARY.md"
   },
-  "plugins": ["edit-link", "prism", "-highlight", "tasklist"],
+  "plugins": ["edit-link", "prism", "-highlight", "tasklist", "toggle-chapters"],
   "pluginsConfig": {
     "edit-link": {
       "base": "https://github.com/9dots/get-coding-curricula/tree/master"
