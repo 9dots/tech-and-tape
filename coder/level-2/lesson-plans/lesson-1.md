@@ -30,8 +30,8 @@ Students program Pixel Bots to paint, focusing on sequence.
 {% overviewSection title='Materials', icon='materials' %}
 {% endoverviewSection %}
 
-1. Lesson 1 | Worksheet 1
-1. Lesson 1 | Worksheet 2
+1. <a href="../worksheets/lesson1-warmup.pdf" target="_blank">Warmup</a>
+1. Worksheet 1: <a href="../worksheets/lesson1-worksheet1-1.pdf" target="_blank">Page 1</a> & <a href="../worksheets/lesson1-worksheet1-2.pdf" target="_blank">Page 2</a>
 1. Small pixel bot cutout for each student
 1. Magnetic pixel bot
 1. Scratch paper grids
@@ -71,12 +71,12 @@ Starting with this class you are now coders. What do you think it means to be a 
 
 Students individually predict the outcome of sequences and then regroup to discuss findings.
 
-**Prep:** Distribute Lesson 1 | Worksheet 1
+**Prep:** Distribute <a href="../worksheets/lesson1-warmup.pdf" target="_blank">Warmup</a>
 
 {% table %}
 
 1) Tell students: Before we can write code, we need to learn how to read code
-2) Discuss the symbols at the top of Lesson 1 | Worksheet 1 and ask students to speculate about what they mean.
+2) Discuss the symbols at the top of Warmup and ask students to speculate about what they mean.
 
 Answer:
   - Up
@@ -105,7 +105,6 @@ Answer:
 
 Demonstrate how to read code by reading and stepping through three or four example programs.
 
-**Prep:**
 
 1. Draw a blank 3x3 grid on the whiteboard
 2. Write a short (3 line) program on the whiteboard
@@ -113,7 +112,7 @@ Demonstrate how to read code by reading and stepping through three or four examp
 
 {% table %}
 
-1) Explain that when a computer executes code, it runs it in the order that it is written. This is called sequence.
+1) Explain that when a computer executes code, it runs it in the order that it is written. This is called sequencing.
 2) Point to the program on the whiteboard and ask students, “What is the first line of code?” After they answer, put a number 1 next to the corresponding line. Move the pixel bot according to the line of code just numbered.
 3) Continue reading and stepping one line at a time. Trace the path of the pixel bot as it moves and shade in the squares whenever it paints.
 4) Show students three new examples (design these problems on the fly, making them interesting and complex enough), reading and stepping together as a class.
@@ -133,7 +132,7 @@ Demonstrate how to read code by reading and stepping through three or four examp
 
 Students individually practice reading code.
 
-**Prep:** Distribute Lesson 1 | Worksheet 2
+**Prep:** Distribute Worksheet 1: <a href="../worksheets/lesson1-worksheet1-1.pdf" target="_blank">Page 1</a> & <a href="../worksheets/lesson1-worksheet1-2.pdf" target="_blank">Page 2</a>
 
 {% table %}
 
