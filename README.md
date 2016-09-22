@@ -14,6 +14,6 @@ Our coding curriculum gives you the tools you need to empower your students to b
 2. **[coder](coder)** - A slowly paced deep dive into core coding concepts through puzzle-based lessons. (grades 3-8)
 3. **[developer](developer)** - An exploration of the many applications of coding concepts through project- and product-based lessons. (grades 3-8)
 
-Ideally students would start with preCoder and then start working on coder and developer stages in 3rd grade. However, teachers should feel free to grab units from preCoder, coder, and developer as they see fit.
+Ideally students would start with preCoder and move to coder and developer stages in 3rd grade. However, teachers should feel free to grab units from preCoder, coder, and developer as they see fit.
 
 #### Let's getCoding!
