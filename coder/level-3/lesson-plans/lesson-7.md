@@ -34,7 +34,6 @@ Introduce arguments by having kids do a repetitive task.
 2. Lesson 7 | Worksheet 1 Cont'd
 3. Lesson 7 | Worksheet 1 Cont'd
 1. Lesson 7 | Worksheet 2
-1. Laptops/Computers
 1. Scratch paper grids
 1. Small pixel bot cutout for each student
 1. Magnetic pixel bot
