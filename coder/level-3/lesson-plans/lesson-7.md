@@ -158,11 +158,10 @@ Students use arguments to solve coding challenges.
 **Prep:**
 
 - Distribute Lesson 7 | Worksheet 2
-- Draw problem 5 from Lesson 7 | Worksheet 2 on the board
 
 {% table %}
 
-1) **Individual work:** Students work on the problems on Lesson 7 | Worksheet. Remind students to use arguments to solve the problems more efficiently.
+1) **Individual work:** Students work on the problems on Lesson 7 | Worksheet 2. Remind students to use arguments to solve the problems more efficiently.
 
 ,,,
 
