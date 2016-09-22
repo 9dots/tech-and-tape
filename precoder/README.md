@@ -1,6 +1,6 @@
 # preCoder
 
-The coder series targets learners who cannot yet read and write. The series features game-based curricula that introduces and reinforces coding concepts in a fun and engaging way. These units include unplugged activities, worksheets, and online games.
+The preCoder series targets learners who cannot yet read and write. The series introduces and reinforces coding concepts through fun and engaging game-based curricula. Lessons include unplugged activities, worksheets, and online games.
 
 ## Curriculum
 
