@@ -100,25 +100,35 @@ When we read programs, we try to understand the coder's plan. What does the code
 4) Recreate the problems on the board as students work.
 5) After students finish, discuss sequence with students.  
 ```
-How did you arrive at your answer? What is the difference between the two problems? How does the order of the icons matter?
+How did you arrive at your answer? What is the difference between the two programs? How does the order of the icons matter?
 ```
 6) Students write in what each symbol means on their worksheets.
  
 ,,,
  
 2)
-Possible Answers:
-<br>The bot rotates in place
-<br>The bot jumps
-<br>The bot moves until it hits the edge
-<br>The bot shoots lightning
-<br>**Correct Answers**:
-<br>The bot moves one square at a time
-<br>The bot moves up, right, left, and down
-<br>The bot paints
-3) Work individually on the worksheet.
+Possible Responses:
+```
+The bot rotates in place
+The bot jumps
+The bot moves until it hits the edge
+The bot shoots lightning
+```
+<br><br>
+**Answers**:
+```
+The bot moves one square at a time
+The bot moves up, right, left, and down
+The bot paints
+```
+4) 3) Work individually on the worksheet.
 5) 
-Possible Answers:
+**Answers**:
+```
+I read an element and moved the bot
+The programs have the same elements. But two of the elements are in a different order.
+The bot paints a different square when the order changes.
+```
 
 6) Students write in what each symbols means on their worksheet.
  
