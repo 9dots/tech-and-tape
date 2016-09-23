@@ -26,7 +26,7 @@ In this lesson, students play with the order of commands in Pixel Bot to explore
 {% endoverviewSection %}
  
 - **Sequence** - The idea that statements must be performed in the order they are written.
-- 
+
 {% header title='Materials', icon='materials' %}
 {% endheader %}
  
@@ -62,22 +62,20 @@ In this class, you all will become coders. What do you think it means to be a co
 ,,,
  
 1)
-```
-Q1) Possible Answers:
-**Coders work on computers**
-**Coders hack things**
-**Create video games**
-**Make websites**
-**Work with data**
-Q2 ) Possible Answers:
-**In phones**
-**In cars**
-**In computers**
-**In traffic lights**
-**In buses**
-**In game consoles**
-**In movies and tv shows**
-```
+Coders:
+**work on computers**
+**hack things**
+**create video games**
+**make websites**
+**work with data**
+We use code in:
+**phones**
+**cars**
+**computers**
+**traffic lights**
+**buses**
+**game consoles**
+**movies and tv shows**
 
 {% endtable %}
  
