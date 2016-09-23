@@ -106,7 +106,9 @@ We have to read carefully, paying attention to every line of code.
 4) Recreate the problems on the board as students work.
 5) After students finish, discuss sequence with students.  
 ```
-How did you arrive at your answer? What is the difference between the two programs? How does the order of the icons matter?
+How did you arrive at your answer? 
+What is the difference between the two programs? 
+How does the order of the icons matter?
 ```
 6) Students write in what each symbol means on their worksheets.
  
@@ -129,11 +131,20 @@ The bot paints.
 ```
 4) 3) Work individually on the worksheet.
 5) 
-**Answers**:
+I arrived at my answer by:
 ```
-I read an element and moved the bot.
-The programs have the same elements. But two of the elements are in a different order.
-The bot paints a different square when the order changes.
+reading an element and moving the bot.
+reading each line of code.
+```
+The programs:
+```
+have the same elements
+have elements in a different order
+change the order of two elements
+```
+The result is that:
+```
+the bot paints a different square
 ```
 
 6) Students write in what each symbols means on their worksheet.
