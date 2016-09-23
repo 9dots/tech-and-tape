@@ -62,21 +62,25 @@ In this class, you all will become coders. What do you think it means to be a co
 ,,,
  
 1)
-Coders:
-<br>work on computers
-<br>hack things
-<br>create video games
-<br>make websites
-<br>work with data
-<br><br>We use code in:
-<br>phones
-<br>cars
-<br>computers
-<br>traffic lights
-<br>buses
-<br>game consoles
-<br>movies and tv shows
-
+**Coders**:
+```
+work on computers
+hack things
+create video games
+make websites
+work with data
+```
+<br><br>
+**We use code in**:
+```
+phones
+cars
+computers
+traffic lights
+buses
+game consoles
+movies and tv shows
+```
 {% endtable %}
  
 {% header title='Predict pixel bot icons', icon='eyes' %}
@@ -109,23 +113,23 @@ How did you arrive at your answer? What is the difference between the two progra
 2)
 Possible Responses:
 ```
-The bot rotates in place
-The bot jumps
-The bot moves until it hits the edge
-The bot shoots lightning
+The bot rotates in place.
+The bot jumps.
+The bot moves until it hits the edge.
+The bot shoots lightning.
 ```
 <br><br>
 **Answers**:
 ```
-The bot moves one square at a time
-The bot moves up, right, left, and down
-The bot paints
+The bot moves one square at a time.
+The bot moves up, right, left, and down.
+The bot paints.
 ```
 4) 3) Work individually on the worksheet.
 5) 
 **Answers**:
 ```
-I read an element and moved the bot
+I read an element and moved the bot.
 The programs have the same elements. But two of the elements are in a different order.
 The bot paints a different square when the order changes.
 ```
