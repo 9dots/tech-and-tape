@@ -60,6 +60,8 @@ each color)
 ![Small Group Roles](lesson-1/img/small-group-roles.png "Small Group Roles")
 
 ## Resources
+**[Powerpoint:Lesson 1](https://docs.google.com/presentation/d/1x93rJjY6hmRabIbfh6HnhEUf8Jmwz6GwwUGeETPOmdc/edit#slide=id.p)**
+
 **Attention getting signals:**
 
 - [One](http://www.theteachertoolkit.com/index.php/tool/attention-signal)

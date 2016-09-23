@@ -54,6 +54,9 @@ Do Now (5 min) - logging in
 - Idea Journals
 - Pencils
 
+## Resources
+**[Powerpoint:Lesson 4](https://docs.google.com/a/9-dots.org/presentation/d/10qL9cBqm8bmxiTEU4tv7slTdAZhIzNm41yWqUu6KHUk/edit?usp=sharing)**
+
 {% table %}
 
 1) Circulate room to assist students in logging-in to their Scratch accounts
