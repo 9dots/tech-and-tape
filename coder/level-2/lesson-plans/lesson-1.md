@@ -108,7 +108,16 @@ Answer:
  
 ,,,
  
-2) Students raise their hands to give answers.
+2)
+```
+Possible Answers:
+The turtle rotates in place
+The turtle jumps
+The turtle moves until it hits the edge
+The turtle shoots lightning
+**The turtle moves one square at a time**
+**The turtle moves up, right, left, and down**
+```
 3) Students work individually on their worksheet.
 4) Students raise their hands to give answers.
 5) Students write in what each symbols means on their worksheet.
