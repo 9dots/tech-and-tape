@@ -56,8 +56,8 @@ Introduce students to the world of coding and get them excited about its endless
 Starting with this class you are now coders. What do you think it means to be a coder? Where is code used in our world?
 ```
  
-2) Chart student responses on the board.
-3) Fill in additional interesting uses for code on the board, such as autonomous cars, streetlights, music, etc.
+2) Chart student responses on the whiteboard.
+3) Fill in more uses for code on the board: autonomous cars, streetlights, music, etc.
 4) Watch video: A day in the life of a software engineer.
 ,,,
  
