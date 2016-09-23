@@ -31,8 +31,8 @@ Students learn about how to type the special symbols required for JS and use Jav
 {% overviewSection title='Materials', icon='materials' %}
 {% endoverviewSection %}
 
-1. Lesson 7 | Worksheet 1
-2. Lesson 7 | Exit Ticket Worksheet
+1. [Lesson 7 | Worksheet 1][worksheet1]
+2. [Lesson 7 | Exit Ticket Worksheet][wrap-up]
 3. Scratch paper grids
 4. Small turtle cutout for each student
 5. Magnetic turtle
@@ -71,7 +71,7 @@ Answer: The computer would throw a syntax error and the program would not run.
 
 Students learn how to input special characters on the keyboard and are given a series of images to recreate using pixelbot.
 
-**Prep:** Distribute Lesson 7 | Worksheet 1
+**Prep:** Distribute [Lesson 7 | Worksheet 1][worksheet1]
 
 {% table %}
 
@@ -104,7 +104,7 @@ Testers check the output for a given problem and listen to the coder’s explana
 
 Students finish a JS worksheet to demonstrate learning
 
-**Prep:** Distribute Lesson 7 | Exit Ticket Worksheet
+**Prep:** Distribute [Lesson 7 | Exit Ticket Worksheet][wrap-up]
 
 {% table %}
 
@@ -114,3 +114,6 @@ Students finish a JS worksheet to demonstrate learning
 1) Students complete the exit ticket to the best of their abilities.
 
 {% endtable %}
+
+[worksheet1]: ../worksheets/lesson7-worksheet1.pdf
+[wrap-up]: ../worksheets/lesson7-wrapup.pdf

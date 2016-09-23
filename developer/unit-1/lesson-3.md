@@ -1,4 +1,4 @@
-{% title title='Maze Scavenger Hunt', subtitle='Unplugged' %}
+{% title title='Lesson 3: Maze Scavenger Hunt', subtitle='Unplugged' %}
 {% endtitle %}
 
 {% header title='Overview', icon='activity' %}

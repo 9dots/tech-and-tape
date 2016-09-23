@@ -2,7 +2,7 @@
 
 ![coder level 2](../../images/coder-level-2.jpg)
 
-Students are introduced to core coding concepts: sequences, calling functions, passing arguments, creating loops, and using conditionals. New concepts are introduced in a steady progression from an icon based language, to block language, and finally to fully typed JavaScript. This course includes lesson plans: unplugged and online, worksheets, and a custom-designed coding environment.
+Students are introduced to core coding concepts: sequences, calling functions, passing arguments, creating loops, and using conditionals. New concepts are introduced in a steady progression from an icon-based language to a block-based language and finally to typed JavaScript. This course includes lesson plans (unplugged and online), worksheets, and a custom-designed coding environment.
 
 ## Lessons
 
@@ -19,4 +19,4 @@ Students are introduced to core coding concepts: sequences, calling functions, p
 
 ## Workbook
 
-<div style="margin-top: 1em;"><a href="Workbook.pdf" target="_blank">Download </a></div>
+[Download](workbook.pdf)

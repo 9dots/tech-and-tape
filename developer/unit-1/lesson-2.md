@@ -1,4 +1,4 @@
-{% title title='Getting Started on Scratch', subtitle='Plugged' %}
+{% title title='Lesson 2: Getting Started on Scratch', subtitle='Plugged' %}
 {% endtitle %}
 
 {% header title='Overview', icon='activity' %}

@@ -1,4 +1,4 @@
-{% title title='Dance Off', subtitle='Online' %}
+{% title title='Lesson 4: Dance Off', subtitle='Online' %}
 {% endtitle %}
 
 {% header title='Overview', icon='activity' %}

@@ -18,4 +18,4 @@ Students are introduced to core coding concepts: sequences, calling functions, p
 
 ## Workbook
 
-<div style="margin-top: 1em;"><a href="Workbook.pdf" target="_blank">Download </a></div>
+[Download](workbook.pdf)
