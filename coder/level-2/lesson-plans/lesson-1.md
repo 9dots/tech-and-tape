@@ -121,7 +121,7 @@ The bot jumps.
 The bot moves until it hits the edge.
 The bot shoots lightning.
 ```
-Answers:
+Correct Responses:
 ```
 The bot moves one square at a time.
 The bot moves up, right, left, and down.
