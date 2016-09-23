@@ -4,23 +4,23 @@
 {% header title='Overview', icon='activity' %}
 {% endheader %}
 
-Students program Pixel Bots to paint, focusing on sequence.
+In this lesson, students play with the order of commands in Pixel Bot to explore a foundational concept in computer science—sequence.
 
 {% overviewSection title='Objectives', icon='objectives' %}
 {% endoverviewSection %}
 
-- Students will learn that computers run code in a sequence.
-- Students will learn how to read, write, and execute code in a sequence.
+- Know that computers run code in a sequence.
+- Read, write, and execute code in a sequence.
 
 {% overviewSection title='Agenda', icon='agenda' %}
 {% endoverviewSection %}
 
 #### Length: 45 minutes
 
-1. Welcome to coding (10 minutes)
-1. Predict pixel bot icons (15 minutes)
-1. Explain sequence (10 minutes)
-1. Read pixel bot sequence (10 minutes)
+1. Whet students’ appetites for coding. Hold a discussion about the many ways computer code shapes our present and future world: autonomous cars, music, online communities. Watch A Day in the Life of a Software Engineer to give students a feel for coding. (10 minutes). 
+1. [Lesson 1 | Warm-up Worksheet][warm-up]. Have students develop ideas about what each arrow and paint coding element does in Pixel Bot.  Working with code that varies slightly in sequence, students then predict what Pixel Bot will paint. (15 minutes)
+1. Draw a Pixel Bot program on the whiteboard (about 3 lines of code) and practice reading, stepping through, and numbering the code. At the same time, trace and paint with the Bot on the whiteboard. Repeat a few times. (10 minutes)
+1. Worksheet 1: [Page 1][worksheet1-1] & [Page 2][worksheet1-2]. Students practice reading and stepping through code, and tracing and painting with the turtle. Read pixel bot sequence (10 minutes)
 
 {% overviewSection title='Vocab', icon='vocab' %}
 {% endoverviewSection %}
@@ -146,3 +146,4 @@ Students individually practice reading code.
 [warm-up]: ../worksheets/lesson1-warmup.pdf
 [worksheet1-1]: ../worksheets/lesson1-worksheet1-1.pdf
 [worksheet1-2]: ../worksheets/lesson1-worksheet1-2.pdf
+
