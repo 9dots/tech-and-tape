@@ -64,8 +64,8 @@ In this class, you all will become coders. What do you think it means to be a co
 1)
 Coders:
 **work on computers**
-**hack things**
-**create video games**
+<br>**hack things**
+<br>**create video games**
 **make websites**
 **work with data**
 We use code in:
