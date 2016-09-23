@@ -27,11 +27,6 @@ In this lesson, students play with the order of commands in Pixel Bot to explore
  
 - **Sequence** - The idea that statements must be performed in the order they are written.
  
-
- 
-
-
-
 {% header title='Materials', icon='materials' %}
 {% endheader %}
  
