@@ -53,11 +53,11 @@ Introduce students to the world of coding and get them excited about its endless
 1) Lead a discussion about coding and what it means to be a coder. 
  
 ```
-In this class, you all will become coders. What do you think it means to be a coder? Where is code used in our world?
+In this class, you will become a coder. What do you think it means to be a coder? Where is code used in our world?
 ```
  
-2) Chart student responses on the whiteboard.
-3) Fill in more uses for code on the board: autonomous cars, streetlights, music, etc.
+2) Chart responses on the whiteboard.
+3) Provide even more uses for code: autonomous cars, streetlights, music, etc.
 4) Watch video: A day in the life of a software engineer.
 ,,,
  
@@ -101,15 +101,16 @@ Imagine being a computer when you read code.
 We have to read carefully, paying attention to every line of code.
 ```
 2) Develop ideas with students about what the coding elements do in [Lesson 1 | Warm-up Worksheet][warm-up].
-3) **Individual Work:** Students fill out the worksheet. Ask students to trace the movement of the Bot and color in anything it paints. 
-4) Recreate the problems on the board as students work.
-5) After students finish, discuss sequence with students.  
+3) **Individual Work:** Students fill out the worksheet.
+4) As students work, draw on the whiteboard the programs and grids from the worksheet. 
+5) Reflect on sequence. 
 ```
 How did you arrive at your answer? 
 What is the difference between the two programs? 
 How does the order of the icons matter?
 ```
-6) Students write in what each symbol means on their worksheets.
+6) Solve the problems together on the whiteboard.
+7) Ask students to write in the meaning of each symbol on their worksheets.
  
 ,,,
  
@@ -127,7 +128,7 @@ The bot moves one square at a time.
 The bot moves up, right, left, and down.
 The bot paints.
 ```
-4) 3) Work individually on the worksheet.
+3) Trace the movement of the Bot and color in anything it paints.
 5) 
 I arrived at my answer by:
 ```
@@ -145,8 +146,8 @@ The outcome is that:
 ```
 The bot paints a different square
 ```
-
-6) Students write in what each symbols means on their worksheet.
+6) Call out lines of code and bot actions
+7) On the worksheet, write in what each symbols means.
  
 {% endtable %}
  
