@@ -120,7 +120,7 @@ What is the difference between the two programs?
 How does the order of the icons matter?
 ```
 6) Solve the problems together on the whiteboard.
-7) Ask students to write in the meaning of each symbol on their worksheets.
+7) Work as a class to define each element. 
  
 ,,,
  
@@ -138,7 +138,7 @@ The bot moves one square at a time.
 The bot moves up, right, left, and down.
 The bot paints.
 ```
-3) Trace the movement of the Bot and color in anything it paints.
+3) Trace the movement of the Bot. Color in anything it paints.
 5) 
 I arrived at my answer by:
 ```
@@ -156,8 +156,8 @@ The outcome:
 ```
 The bot paints a different square
 ```
-6) Call out lines of code and bot actions
-7) On the worksheet, write in what each symbols means.
+6) Call out lines of code and bot actions.
+7) Write definition of each element on the worksheet.
  
 {% endtable %}
  
