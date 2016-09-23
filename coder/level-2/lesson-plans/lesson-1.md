@@ -148,13 +148,13 @@ Reading each line of code.
 ```
 The two programs:
 ```
-Have the same elements
-Have elements in a different order
-Change the order of two elements
+Have the same elements.
+Have elements in a different order.
+Change the order of two elements.
 ```
-The outcome:
+As a result:
 ```
-The bot paints a different square
+The bot paints a different square.
 ```
 6) Call out lines of code and bot actions.
 7) Write definition of each element on the worksheet.
