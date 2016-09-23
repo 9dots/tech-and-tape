@@ -29,3 +29,4 @@
     * [I am a coder](developer/unit-1/lesson-1.md)
     * [Getting Started on Scratch](developer/unit-1/lesson-2.md)
     * [Maze Scavenger Hunt](developer/unit-1/lesson-3.md)
+    * [Dance Off](developer/unit-1/lesson-4.md)
