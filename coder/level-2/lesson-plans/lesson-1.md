@@ -108,7 +108,7 @@ We read carefully. We pay attention to every line of code.
 What do you think these elements do?
 ```
 3) **Individual Work:** Students fill out the worksheet.
-4) As students work, draw on the whiteboard the programs and grids from the worksheet. 
+4) As students work, draw the worksheet programs and grids on the whiteboard. 
 5) Reflect on sequence:
 ```
 How did you arrive at your answer? 
