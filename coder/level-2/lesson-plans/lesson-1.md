@@ -96,9 +96,13 @@ Students individually predict the outcome of sequences and then regroup to discu
 When we read programs, we try to understand the coder's plan. What does the coder want to happen? We want to imagine being computers when we read code. We have to read carefully, paying attention to every line of code.
 ```
 2) Develop ideas with students about what the coding elements do in [Lesson 1 | Warm-up Worksheet][warm-up].
-3) **Individual Work:** Tell students to read the symbols on the worksheet and paint (color in) the correct square. While students are working on the worksheet, recreate the problems on the board.
-4) After they are finished, discuss the answers and how the students got to those answers. What is the difference between the two problems? Does the order of the icons matter?
-5) Students write in what each symbol means on their worksheets.
+3) **Individual Work:** Students fill out the worksheet. Ask students to trace the movement of the Bot and color in anything it paints. 
+4) Recreate the problems on the board as students work.
+5) After students finish, discuss sequence with students.  
+```
+How did you arrive at your answer? What is the difference between the two problems? How does the order of the icons matter?
+```
+6) Students write in what each symbol means on their worksheets.
  
 ,,,
  
@@ -111,9 +115,11 @@ Possible Answers:
 <br>**The bot moves one square at a time**
 <br>**The bot moves up, right, left, and down**
 <br>**The bot paints**
-3) Students work individually on their worksheet.
-4) Students raise their hands to give answers.
-5) Students write in what each symbols means on their worksheet.
+3) Work individually on the worksheet.
+5) 
+Possible Answers:
+
+6) Students write in what each symbols means on their worksheet.
  
 {% endtable %}
  
