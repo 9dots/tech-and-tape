@@ -63,19 +63,19 @@ In this class, you all will become coders. What do you think it means to be a co
  
 1)
 Coders:
-<br>**work on computers**
-<br>**hack things**
-<br>**create video games**
-<br>**make websites**
-<br>**work with data**
+<br>work on computers
+<br>hack things
+<br>create video games
+<br>make websites
+<br>work with data
 <br><br>We use code in:
-<br>**phones**
-<br>**cars**
-<br>**computers**
-<br>**traffic lights**
-<br>**buses**
-<br>**game consoles**
-<br>**movies and tv shows**
+<br>phones
+<br>cars
+<br>computers
+<br>traffic lights
+<br>buses
+<br>game consoles
+<br>movies and tv shows
 
 {% endtable %}
  
@@ -112,9 +112,10 @@ Possible Answers:
 <br>The bot jumps
 <br>The bot moves until it hits the edge
 <br>The bot shoots lightning
-<br>**The bot moves one square at a time**
-<br>**The bot moves up, right, left, and down**
-<br>**The bot paints**
+<br>**Correct Answers**:
+<br>The bot moves one square at a time
+<br>The bot moves up, right, left, and down
+<br>The bot paints
 3) Work individually on the worksheet.
 5) 
 Possible Answers:
