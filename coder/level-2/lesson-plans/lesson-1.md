@@ -62,7 +62,7 @@ In this class, you all will become coders. What do you think it means to be a co
 ,,,
  
 1)
-**Coders**:
+Coders:
 ```
 work on computers
 hack things
@@ -70,8 +70,7 @@ create video games
 make websites
 work with data
 ```
-<br>
-**We use code in**:
+We use code in:
 ```
 phones
 cars
@@ -122,8 +121,7 @@ The bot jumps.
 The bot moves until it hits the edge.
 The bot shoots lightning.
 ```
-<br>
-**Answers**:
+Answers:
 ```
 The bot moves one square at a time.
 The bot moves up, right, left, and down.
