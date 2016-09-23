@@ -17,9 +17,9 @@ In this lesson, students play with the order of commands in Pixel Bot to explore
  
 #### Length: 45 minutes
  
-  1. **Whet students’ appetites for coding**. Hold a discussion about the ways computer code shapes our present and future world. Consider autonomous cars, music, online communities. Watch A Day in the Life of a Software Engineer (http://tinyurl.com/q966xd5) to give students a feel for coding. (10 minutes)
-  1. **Guide students to see the importance of sequence in code**. Use [Lesson 1 | Warm-up Worksheet][warm-up]. Students first develop ideas about what each arrow and paint element does in Pixel Bot. Working with two programs that vary slightly in sequence, students then predict what Pixel Bot will paint. Compare the results of the two programs and reflect on sequence. (15 minutes)
-  1. **Demonstrate how a computer executes a program**. Draw a Pixel Bot program and grid on the whiteboard (about 3 or 4 lines of code) and work with students to read, step through, and number the code. At the same time, trace and paint with the Bot. Repeat a few times. (10 minutes)
+  1. **Whet students’ appetites for coding**. Hold a discussion about the ways computer code shapes our present and future world. Consider autonomous cars, music, online communities. Watch A Day in the Life of a Software Engineer (http://tinyurl.com/q966xd5) to give students a feel for coding. (10 minutes) <br>
+  1. **Guide students to see the importance of sequence in code**. Use [Lesson 1 | Warm-up Worksheet][warm-up]. Students first develop ideas about what each arrow and paint element does in Pixel Bot. Working with two programs that vary slightly in sequence, students then predict what Pixel Bot will paint. Compare the results of the two programs and reflect on sequence. (15 minutes) <br>
+  1. **Demonstrate how a computer executes a program**. Draw a Pixel Bot program and grid on the whiteboard (about 3 or 4 lines of code) and work with students to read, step through, and number the code. At the same time, trace and paint with the Bot. Repeat a few times. (10 minutes) <br>
   1. **Students practice reading, writing, and executing code**. Use Worksheet 1 | [Page 1][worksheet1-1] & [Page 2][worksheet1-2]. Students read and step through code while tracing and painting with the turtle. (10 minutes)
  
 {% overviewSection title='Content Knowledge', icon='vocab' %}
