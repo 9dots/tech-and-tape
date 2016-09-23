@@ -4,4 +4,4 @@ The developer series features project- and product-based curricula. The lessons 
 
 ## Curriculum
 
-- [Unit 1](https://teach.getcoding.io/developer/unit-1/)
+- [unit 1](https://teach.getcoding.io/developer/unit-1/)
