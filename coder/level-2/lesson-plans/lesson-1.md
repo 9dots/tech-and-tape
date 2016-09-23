@@ -68,7 +68,7 @@ Coders:
 <br>**create video games**
 <br>**make websites**
 <br>**work with data**
-<br>We use code in:
+<br><br>We use code in:
 <br>**phones**
 <br>**cars**
 <br>**computers**
