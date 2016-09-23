@@ -63,19 +63,19 @@ In this class, you all will become coders. What do you think it means to be a co
  
 1)
 Coders:
-**work on computers**
+<br>**work on computers**
 <br>**hack things**
 <br>**create video games**
-**make websites**
-**work with data**
-We use code in:
-**phones**
-**cars**
-**computers**
-**traffic lights**
-**buses**
-**game consoles**
-**movies and tv shows**
+<br>**make websites**
+<br>**work with data**
+<br>We use code in:
+<br>**phones**
+<br>**cars**
+<br>**computers**
+<br>**traffic lights**
+<br>**buses**
+<br>**game consoles**
+<br>**movies and tv shows**
 
 {% endtable %}
  
@@ -91,9 +91,9 @@ Students individually predict the outcome of sequences and then regroup to discu
  
 {% table %}
  
-1) Introduce students to the notion of reading code.
+1) Introduce students to the notion of reading code with care.
 ```
-When we read programs, we are trying to understand the coders plan. What does the coder want to happen? We want to imagine being computers when we read code. We have to read extremely carefully, paying attention to every mark in the code.
+When we read programs, we try to understand the coder's plan. What does the coder want to happen? We want to imagine being computers when we read code. We have to read carefully, paying attention to every line of code.
 ```
 2) Develop ideas with students about what the coding elements do in [Lesson 1 | Warm-up Worksheet][warm-up].
 3) **Individual Work:** Tell students to read the symbols on the worksheet and paint (color in) the correct square. While students are working on the worksheet, recreate the problems on the board.
@@ -103,16 +103,14 @@ When we read programs, we are trying to understand the coders plan. What does th
 ,,,
  
 2)
-```
 Possible Answers:
-The turtle rotates in place
-The turtle jumps
-The turtle moves until it hits the edge
-The turtle shoots lightning
-**The turtle moves one square at a time**
-**The turtle moves up, right, left, and down**
-**The turtle paints**
-```
+<br>The turtle rotates in place
+<br>The turtle jumps
+<br>The turtle moves until it hits the edge
+<br>The turtle shoots lightning
+<br>**The turtle moves one square at a time**
+<br>**The turtle moves up, right, left, and down**
+<br>**The turtle paints**
 3) Students work individually on their worksheet.
 4) Students raise their hands to give answers.
 5) Students write in what each symbols means on their worksheet.
