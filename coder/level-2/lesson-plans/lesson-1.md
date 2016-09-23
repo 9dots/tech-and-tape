@@ -50,7 +50,7 @@ Introduce students to the world of coding and get them excited about its endless
  
 {% table %}
  
-1) Lead a discussion about what it means to be a coder. 
+1) Lead a discussion: 
  
 ```
 What do you think it means to be a coder? 
@@ -96,7 +96,7 @@ Students individually predict the outcome of sequences and then regroup to discu
  
 {% table %}
  
-1) Introduce students to the idea of reading code with care.
+1) Introduce the idea of reading code with care:
 ```
 Imagine being a computer when you read code. 
 ```
@@ -105,7 +105,7 @@ We have to read carefully, paying attention to every line of code.
 ```
 2) Develop ideas with students about what the coding elements do in [Lesson 1 | Warm-up Worksheet][warm-up].
 ```
-What do you think these elements mean?
+What do you think these elements do?
 ```
 3) **Individual Work:** Students fill out the worksheet.
 4) As students work, draw on the whiteboard the programs and grids from the worksheet. 
