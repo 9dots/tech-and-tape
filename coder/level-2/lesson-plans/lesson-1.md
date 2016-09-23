@@ -53,7 +53,7 @@ Introduce students to the world of coding and get them excited about its endless
 1) Lead a discussion about coding and what it means to be a coder. 
  
 ```
-Starting with this class you are now coders. What do you think it means to be a coder? Where is code used in our world?
+In this class, you all will become coders. What do you think it means to be a coder? Where is code used in our world?
 ```
  
 2) Chart student responses on the whiteboard.
@@ -64,19 +64,19 @@ Starting with this class you are now coders. What do you think it means to be a 
 1)
 ```
 Q1) Possible Answers:
-Coders work on computers
-Coders hack on things
-Create video games
-Make websites
-Work with data
+**Coders work on computers**
+**Coders hack things**
+**Create video games**
+**Make websites**
+**Work with data**
 Q2 ) Possible Answers:
-In phones
-In cars
-In computers
-In traffic lights
-In buses
-In game consoles
-In movies and tv shows
+**In phones**
+**In cars**
+**In computers**
+**In traffic lights**
+**In buses**
+**In game consoles**
+**In movies and tv shows**
 ```
 
 {% endtable %}
