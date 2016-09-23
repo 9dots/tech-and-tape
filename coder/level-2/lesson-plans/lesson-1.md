@@ -64,21 +64,21 @@ In this class, you all will become coders. What do you think it means to be a co
 1)
 Coders:
 ```
-work on computers
-hack things
-create video games
-make websites
-work with data
+Work on computers
+Hack things
+Create video games
+Make websites
+Work with data
 ```
 We use code in:
 ```
-phones
-cars
-computers
-traffic lights
-buses
-game consoles
-movies and tv shows
+Phones
+Cars
+Computers
+Traffic lights
+Buses
+Game consoles
+Movies and tv shows
 ```
 {% endtable %}
  
@@ -131,18 +131,19 @@ The bot paints.
 5) 
 I arrived at my answer by:
 ```
-reading an element and moving the bot.
-reading each line of code.
+Reading one element at a time.
+Moving the bot after each element.
+Reading each line of code.
 ```
-The programs:
+The two programs:
 ```
-have the same elements
-have elements in a different order
-change the order of two elements
+Have the same elements
+Have elements in a different order
+Change the order of two elements
 ```
-The result is that:
+The outcome is that:
 ```
-the bot paints a different square
+The bot paints a different square
 ```
 
 6) Students write in what each symbols means on their worksheet.
