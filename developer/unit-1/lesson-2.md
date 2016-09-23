@@ -1,4 +1,4 @@
-{% title title='Getting Started on Scratch', subtitle='Plugged' %}
+{% title title='Lesson 2: Getting Started on Scratch', subtitle='Plugged' %}
 {% endtitle %}
 
 {% header title='Overview', icon='activity' %}
@@ -25,6 +25,10 @@ speak and write.
 - **Brainstorm (5 min):** Students brainstorm ideas for building out the Escape the Maze game.
 - **OPTIONAL: Exit Ticket (15 min):** Students predict how simple sequences of
 blocks will perform in the Scratch stage.
+
+## Resources
+
+**[Powerpoint:Lesson 2](https://docs.google.com/a/9-dots.org/presentation/d/1xjzc_2GR6s8ZQA_3JihmaLFH8jbB-fr2awWQu3-Opd8/edit?usp=sharing)**
 
 {% overviewSection title='Vocab', icon='vocab' %}
 {% endoverviewSection %}

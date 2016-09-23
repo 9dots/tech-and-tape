@@ -1,4 +1,4 @@
-{% title title='Maze Scavenger Hunt', subtitle='Unplugged' %}
+{% title title='Lesson 3: Maze Scavenger Hunt', subtitle='Unplugged' %}
 {% endtitle %}
 
 {% header title='Overview', icon='activity' %}
@@ -20,6 +20,9 @@ In this lesson, students learn the importance of giving clear and explicit direc
 
 - **Code:** A set of instructions designed to be carried out by a computer.
 - **Validate:** To check if something is correct or does what it is intended to do.
+
+## Resources
+**[Powerpoint:Lesson 3](https://docs.google.com/presentation/d/1doT9puwBxNG200Mt_Fk7CvCTWuUkC0twQ79mJtZ-M6A/edit?usp=sharing)**
 
 {% overviewSection title='Materials', icon='materials' %}
 {% endoverviewSection %}
