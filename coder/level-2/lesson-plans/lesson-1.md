@@ -93,15 +93,11 @@ Students individually predict the outcome of sequences and then regroup to discu
  
 {% table %}
  
-1) Introduce students to the idea of reading code.
-2) Ask students to develop ideas about what the coding elements mean at the top of [Lesson 1 | Warm-up Worksheet][warm-up].
- 
-Answer:
-  - Up
-  - Down
-  - Right
-  - Left
-  - Paint
+1) Introduce students to the notion of reading code.
+```
+When we read programs, we are trying to understand the coders plan. What does the coder want to happen? We want to imagine being computers when we read code. We have to read extremely carefully, paying attention to every mark in the code.
+```
+2) Develop ideas with students about what the coding elements do in [Lesson 1 | Warm-up Worksheet][warm-up].
 3) **Individual Work:** Tell students to read the symbols on the worksheet and paint (color in) the correct square. While students are working on the worksheet, recreate the problems on the board.
 4) After they are finished, discuss the answers and how the students got to those answers. What is the difference between the two problems? Does the order of the icons matter?
 5) Students write in what each symbol means on their worksheets.
@@ -117,6 +113,7 @@ The turtle moves until it hits the edge
 The turtle shoots lightning
 **The turtle moves one square at a time**
 **The turtle moves up, right, left, and down**
+**The turtle paints**
 ```
 3) Students work individually on their worksheet.
 4) Students raise their hands to give answers.
