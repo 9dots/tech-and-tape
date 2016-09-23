@@ -53,11 +53,11 @@ Introduce students to the world of coding and get them excited about its endless
 1) Lead a discussion about what it means to be a coder. 
  
 ```
-In this class, you will become a coder. 
 What do you think it means to be a coder? 
-Where is code used in our world?
 ```
- 
+```
+Where is code used in our world?
+``` 
 2) Chart responses on the whiteboard.
 3) Provide more uses for code: autonomous cars, streetlights, music, etc.
 4) Watch video: A day in the life of a software engineer.
@@ -78,7 +78,7 @@ Phones
 Cars
 Computers
 Traffic lights
-Buses
+Spaceships
 Game consoles
 Movies and tv shows
 ```
