@@ -101,15 +101,15 @@ Students individually predict the outcome of sequences and then regroup to discu
 Imagine being a computer when you read code. 
 ```
 ```
-We have to read carefully, paying attention to every line of code.
+We read carefully. We pay attention to every line of code.
 ```
-2) Develop ideas with students about what the coding elements do in [Lesson 1 | Warm-up Worksheet][warm-up].
+2) Develop ideas about the coding elements in [Lesson 1 | Warm-up Worksheet][warm-up]:
 ```
 What do you think these elements do?
 ```
 3) **Individual Work:** Students fill out the worksheet.
 4) As students work, draw on the whiteboard the programs and grids from the worksheet. 
-5) Reflect on sequence. 
+5) Reflect on sequence:
 ```
 How did you arrive at your answer? 
 ```
