@@ -99,11 +99,12 @@ Students individually predict the outcome of sequences and then regroup to discu
 1) Introduce students to the idea of reading code with care.
 ```
 Imagine being a computer when you read code. 
+```
+```
 We have to read carefully, paying attention to every line of code.
 ```
 2) Develop ideas with students about what the coding elements do in [Lesson 1 | Warm-up Worksheet][warm-up].
 ```
-Let's take a look at some code.
 What do you think these elements mean?
 ```
 3) **Individual Work:** Students fill out the worksheet.
@@ -111,7 +112,11 @@ What do you think these elements mean?
 5) Reflect on sequence. 
 ```
 How did you arrive at your answer? 
+```
+```
 What is the difference between the two programs? 
+```
+```
 How does the order of the icons matter?
 ```
 6) Solve the problems together on the whiteboard.
