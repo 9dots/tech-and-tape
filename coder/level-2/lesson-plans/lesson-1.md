@@ -18,6 +18,7 @@ In this lesson, students play with the order of commands in Pixel Bot to explore
 #### Length: 45 minutes
  
 1. Whet students’ appetites for coding. Hold a discussion about the many ways computer code shapes our present and future world: autonomous cars, music, online communities. Watch A Day in the Life of a Software Engineer to give students a feel for coding. (10 minutes)
+
 1. [Lesson 1 | Warm-up Worksheet][warm-up]. Guide students to see the importance of sequence in code. Students develop ideas about what each arrow and paint element does in Pixel Bot. Working with two programs that vary slightly in sequence, students predict what Pixel Bot will paint. Compare the results of the programs and discuss sequence. (15 minutes)
 1. Demonstrate how a computer executes a program. Draw a Pixel Bot program on the whiteboard (about 3 lines of code) and work with students to read, step through, and number the code. At the same time, trace and paint with the Bot on the whiteboard. Repeat a few times. (10 minutes)
 1. Worksheet 1: [Page 1][worksheet1-1] & [Page 2][worksheet1-2]. Students practice reading and stepping through code, and tracing and painting with the turtle. (10 minutes)
