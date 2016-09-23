@@ -19,19 +19,19 @@ In this lesson, students play with the order of commands in Pixel Bot to explore
  
   1. **Whet students’ appetites for coding.** Hold a discussion about the ways computer code shapes our present and future world. Consider autonomous cars, music, online communities. Watch A Day in the Life of a Software Engineer (http://tinyurl.com/q966xd5) to give students a feel for coding. (10 minutes)
   1. **Guide students to see the importance of sequence in code.** Use [Lesson 1 | Warm-up Worksheet][warm-up]. Students first develop ideas about what each arrow and paint element does in Pixel Bot. Working with two programs that vary slightly in sequence, students then predict what Pixel Bot will paint. Compare the results of the two programs and reflect on sequence. (15 minutes)
-  1. **Demonstrate how a computer executes a program.** Draw a Pixel Bot program on the whiteboard (about 3 or 4 lines of code) and work with students to read, step through, and number the code. At the same time, trace and paint with the Bot on the whiteboard. Repeat a few times. (10 minutes)
-  1. **Students practice reading, writing, and executing code.** Use Worksheet 1: [Page 1][worksheet1-1] & [Page 2][worksheet1-2]. Students read and step through code while tracing and painting with the turtle. (10 minutes)
+  1. **Demonstrate how a computer executes a program.** Draw a Pixel Bot program and grid on the whiteboard (about 3 or 4 lines of code) and work with students to read, step through, and number the code. At the same time, trace and paint with the Bot. Repeat a few times. (10 minutes)
+  1. **Students practice reading, writing, and executing code.** Use Worksheet 1 | [Page 1][worksheet1-1] & [Page 2][worksheet1-2]. Students read and step through code while tracing and painting with the turtle. (10 minutes)
  
 {% overviewSection title='Content Knowledge', icon='vocab' %}
 {% endoverviewSection %}
  
 - **Sequence** - The idea that statements must be performed in the order they are written.
- 
+- 
 {% header title='Materials', icon='materials' %}
 {% endheader %}
  
 1. [Lesson 1 | Warm-up Worksheet][warm-up]
-1. Worksheet 1: [Page 1][worksheet1-1] & [Page 2][worksheet1-2]
+1. Worksheet 1 | [Page 1][worksheet1-1] & [Page 2][worksheet1-2]
 1. Small pixel bot cutout for each student
 1. Magnetic pixel bot
 1. Scratch paper grids
@@ -51,13 +51,9 @@ Introduce students to the world of coding and get them excited about its endless
 {% table %}
  
 1) Lead a discussion about coding and what it means to be a coder. 
-
-Suggested script:
  
 ```
-Starting with this class you are now coders. 
-What do you think it means to be a coder? 
-Where is code used in our world?
+Starting with this class you are now coders. What do you think it means to be a coder? Where is code used in our world?
 ```
  
 2) Chart student responses on the board.
@@ -67,13 +63,13 @@ Where is code used in our world?
  
 1)
 ```
-Answers:
+Q1) Possible Answers:
 Coders work on computers
 Coders hack on things
 Create video games
 Make websites
 Work with data
-2 ) Answers:
+Q2 ) Possible Answers:
 In phones
 In cars
 In computers
