@@ -70,7 +70,7 @@ create video games
 make websites
 work with data
 ```
-<br><br>
+<br>
 **We use code in**:
 ```
 phones
@@ -97,7 +97,9 @@ Students individually predict the outcome of sequences and then regroup to discu
  
 1) Introduce students to the idea of reading code with care.
 ```
-When we read programs, we try to understand the coder's plan. What does the coder want to happen? We want to imagine being computers when we read code. We have to read carefully, paying attention to every line of code.
+We want to understand the coder's plan. 
+Imagine being a computer when you read code. 
+We have to read carefully, paying attention to every line of code.
 ```
 2) Develop ideas with students about what the coding elements do in [Lesson 1 | Warm-up Worksheet][warm-up].
 3) **Individual Work:** Students fill out the worksheet. Ask students to trace the movement of the Bot and color in anything it paints. 
@@ -118,7 +120,7 @@ The bot jumps.
 The bot moves until it hits the edge.
 The bot shoots lightning.
 ```
-<br><br>
+<br>
 **Answers**:
 ```
 The bot moves one square at a time.
