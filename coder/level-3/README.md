@@ -4,7 +4,7 @@
 
 Students are introduced to core coding concepts: sequences, calling functions, passing arguments, creating loops, and using conditionals. All of the work in this unit is written in fully typed JavaScript. This course includes lesson plans: unplugged and online, worksheets, and a custom-designed coding environment.
 
-## Lessons
+### Lessons
 
 - [sequencing pixels JS](lesson-plans/lesson-1.html)
 - [write some code](lesson-plans/lesson-2.html)
@@ -16,6 +16,10 @@ Students are introduced to core coding concepts: sequences, calling functions, p
 - [practicing arguments](lesson-plans/lesson-8.html)
 - [fire ice and squirrels](lesson-plans/lesson-9.html)
 
-## Workbook
+### Download lesson plans
+
+[Download](../levelPDFs/level 3.pdf)
+
+### Workbook
 
 [Download](workbook.pdf)
