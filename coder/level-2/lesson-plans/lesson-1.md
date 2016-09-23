@@ -91,7 +91,7 @@ Students individually predict the outcome of sequences and then regroup to discu
  
 {% table %}
  
-1) Introduce students to the notion of reading code with care.
+1) Introduce students to the idea of reading code with care.
 ```
 When we read programs, we try to understand the coder's plan. What does the coder want to happen? We want to imagine being computers when we read code. We have to read carefully, paying attention to every line of code.
 ```
@@ -104,13 +104,13 @@ When we read programs, we try to understand the coder's plan. What does the code
  
 2)
 Possible Answers:
-<br>The turtle rotates in place
-<br>The turtle jumps
-<br>The turtle moves until it hits the edge
-<br>The turtle shoots lightning
-<br>**The turtle moves one square at a time**
-<br>**The turtle moves up, right, left, and down**
-<br>**The turtle paints**
+<br>The bot rotates in place
+<br>The bot jumps
+<br>The bot moves until it hits the edge
+<br>The bot shoots lightning
+<br>**The bot moves one square at a time**
+<br>**The bot moves up, right, left, and down**
+<br>**The bot paints**
 3) Students work individually on their worksheet.
 4) Students raise their hands to give answers.
 5) Students write in what each symbols means on their worksheet.
