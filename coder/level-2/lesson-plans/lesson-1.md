@@ -122,7 +122,7 @@ What is the difference between the two programs?
 ```
 How does the order of the icons matter?
 ```
-7) Solve the problems together on the whiteboard.
+7) Solve the two warm-up problems together on the whiteboard.
 8) Work as a class to define each element. 
  
 ,,,
