@@ -101,7 +101,7 @@ Students individually predict the outcome of sequences and then regroup to discu
 Imagine being a computer when you read code. 
 ```
 ```
-We read carefully. We pay attention to every line of code.
+As computers, we read carefully. We pay attention to every line of code.
 ```
 2) Develop ideas about the coding elements in [Lesson 1 | Warm-up Worksheet][warm-up]:
 ```
