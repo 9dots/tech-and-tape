@@ -65,7 +65,14 @@ What do you think it means to be a coder?
 Where is code used in our world?
 ``` 
 Chart responses on the whiteboard.
-2) Offer other applications: autonomous cars, streetlights, music, etc.
+2) Offer other applications:
+```
+autonomous cars
+streetlights
+music
+flight simulators
+and on and on... 
+```
 3) Watch video: A day in the life of a software engineer: [http://tinyurl.com/q966xd5](http://tinyurl.com/q966xd5)
 ,,,
  
