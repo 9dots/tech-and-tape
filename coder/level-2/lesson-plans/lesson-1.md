@@ -98,7 +98,7 @@ Movies and tv shows
  
 {% table %}
  
-1) Distribute [Warm-up][warm-up].
+1) Distribute [Lesson 1 | Warm-up Worksheet][warm-up].
 2) Introduce the idea of reading code with care:
 ```
 Imagine being a computer when you read code. 
@@ -106,7 +106,7 @@ Imagine being a computer when you read code.
 ```
 As computers, we read carefully. We pay attention to every detail. Every line of code.
 ```
-3) Develop ideas about the coding elements in [Lesson 1 | Warm-up Worksheet][warm-up]:
+3) Develop ideas about the coding elements in warm-up:
 ```
 What do you think these elements do?
 ```
