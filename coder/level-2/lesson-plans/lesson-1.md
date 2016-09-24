@@ -183,7 +183,8 @@ The bot paints a different square.
 When a computer executes code, it steps through the code in the correct order. This is called sequencing.
 ```
 4) Read the first line of code together:
-```What is the first line of code?
+```
+What is the first line of code?
 ```
 Number that line of code.
 5) Move the Pixel Bot after each line. Trace its path or shade in a square.
