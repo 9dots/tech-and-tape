@@ -29,7 +29,7 @@ In this lesson, students play with the order of commands in Pixel Bot to explore
  
 <br>
  
-4. **Students practice reading, writing, and executing code**. Use Worksheet 1 | [Page 1][worksheet1-1] & [Page 2][worksheet1-2]. Students read and step through code while tracing and painting with the turtle. (10 minutes) ja
+4. **Students practice reading, writing, and executing code**. Use Worksheet 1 | [Page 1][worksheet1-1] & [Page 2][worksheet1-2]. Students read and step through code while tracing and painting with the turtle. (10 minutes) jam
  
 {% overviewSection title='Content Knowledge', icon='vocab' %}
 {% endoverviewSection %}
