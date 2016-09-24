@@ -71,7 +71,7 @@ autonomous cars
 streetlights
 music
 flight simulators
-and on and on... 
+and on and on...
 ```
 3) Watch video: A day in the life of a software engineer: [http://tinyurl.com/q966xd5](http://tinyurl.com/q966xd5)
 ,,,
