@@ -17,7 +17,7 @@ In this lesson, students play with the order of commands in unplugged Pixel Bot 
  
 #### Length: 45 minutes
  
-- **Whet students’ appetites for coding**. Hold a discussion about the ways computer code shapes our world. Consider autonomous cars, music, online communities. Watch A Day in the Life of a Software Engineer (http://tinyurl.com/q966xd5) to give students a feel for coding. (10 minutes) 
+- **Whet students’ appetites for coding**. Hold a discussion about the ways computer code shapes our world. Consider autonomous cars, music, online communities. Watch A Day in the Life of a Software Engineer (http://tinyurl.com/q966xd5). (10 minutes) 
 
 <br>
 
@@ -59,10 +59,10 @@ In this lesson, students play with the order of commands in unplugged Pixel Bot 
 1) Lead a discussion: 
  
 ```
-What do you think it means to be a coder? 
+What does it mean to be a coder? 
 ```
 ```
-Where is code used in our world?
+Where do we use code?
 ``` 
 Chart responses on the whiteboard.
 2) Offer other examples:
@@ -105,7 +105,7 @@ Movies and tv shows
 {% table %}
  
 1) Distribute [Lesson 1 | Warm-up Worksheet][warm-up].
-2) Introduce the idea of reading code with care:
+2) Introduce reading code with care:
 ```
 Imagine being a computer when you read code. 
 ```
@@ -147,7 +147,7 @@ The bot moves one square at a time.
 The bot moves up, right, left, and down.
 The bot paints.
 ```
-4) Trace the movement of the Bot. Color any squares the Bot paints.
+4) Trace the movement of the Bot. Paint with the Bot.
 6) 
 I arrived at my answer by:
 ```
@@ -159,7 +159,7 @@ The two programs:
 ```
 Have elements in different orders.
 ```
-The order matter because:
+Order matters because:
 ```
 The bot paints a different square.
 ```
@@ -177,7 +177,7 @@ The bot paints a different square.
 {% table %}
  
 1) Draw a blank 3x3 grid on the whiteboard.
-2) Write a short (3 line) program on the whiteboard.
+2) Write a short (3 or 4 line) program on the whiteboard.
 3) Explain sequence:
 ```
 When a computer executes code, it steps through the code in the correct order. This is called sequencing.
@@ -186,14 +186,14 @@ When a computer executes code, it steps through the code in the correct order. T
 ```
 What is the first line of code?
 ```
-Number that line of code.
-5) Move the Pixel Bot after each line. Trace its path or shade in a square.
+Number the first line of code.
+5) Move the Pixel Bot after reading each line. Trace its path or shade in a square.
 6) Continue reading and stepping one line at a time.
 7) Read and step through three new examples with the class. Design problems on the fly, making them interesting and complex enough.
  
 ,,,
  
-4) Students call out first line of code.
+4) Students call out the first line of code.
 5) Students call out where Pixel Bot should move.
 6) Students continue helping to read the code. 
 
@@ -205,14 +205,12 @@ Number that line of code.
  
 {% length '5 minutes' %}
 {% endlength %}
- 
-Students individually practice reading code.
- 
-**Prep:** Distribute Worksheet 1: [Page 1][worksheet1-1] & [Page 2][worksheet1-2]
- 
+  
 {% table %}
  
-1) **Individual Work:** Leave the worked example from the previous activity on the whiteboard. Ask students to individually fill out the worksheet. Remind students to trace the path of the pixel bot and to shade in squares whenever the pixel bot paints.
+1) Distribute Worksheet 1: [Page 1][worksheet1-1] & [Page 2][worksheet1-2].
+2) Leave the worked example from the previous activity on the whiteboard. 
+3) **Individual Work:** Ask students to individually fill out the worksheet.
 ,,,
  
 1) Students read the code, trace the pathway of the pixel bot, and paint the correct blocks on the worksheet.
