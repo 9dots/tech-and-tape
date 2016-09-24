@@ -46,7 +46,7 @@ In this lesson, students play with the order of commands in unplugged Pixel Bot 
 1. Scratch paper grids
 1. Pencils
 1. Whiteboard
-1. Queue up video: [http://tinyurl.com/q966xd5](http://tinyurl.com/q966xd5)
+1. Queued up video: [http://tinyurl.com/q966xd5](http://tinyurl.com/q966xd5)
  
 {% header title='Welcome to coding', icon='objectives' %}
 {% endheader %}
