@@ -147,12 +147,11 @@ I arrived at my answer by:
 ```
 Reading one element at a time.
 Moving the bot after each element.
-Reading each line of code.
+Following the correct sequence.
 ```
 The two programs:
 ```
 Have the same elements.
-Have elements in a different order.
 Change the order of two elements.
 ```
 As a result:
