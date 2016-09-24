@@ -4,4 +4,4 @@ The developer series features project- and product-based curricula. The lessons 
 
 ## Curriculum
 
-- [unit 1](unit-1)
+- [Unit 1](unit-1)
