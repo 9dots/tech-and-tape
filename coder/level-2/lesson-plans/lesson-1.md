@@ -44,10 +44,6 @@ In this lesson, students play with the order of commands in Pixel Bot to explore
 {% length '10 minutes' %}
 {% endlength %}
  
-Introduce students to the world of coding and get them excited about its endless possibilities.
- 
-**Prep:** Queue up video [http://tinyurl.com/q966xd5](http://tinyurl.com/q966xd5)
- 
 {% table %}
  
 1) Lead a discussion: 
@@ -60,7 +56,7 @@ Where is code used in our world?
 ``` 
 2) Chart responses on the whiteboard.
 3) Provide more uses for code: autonomous cars, streetlights, music, etc.
-4) Watch video: A day in the life of a software engineer.
+4) Watch video: A day in the life of a software engineer: [http://tinyurl.com/q966xd5](http://tinyurl.com/q966xd5)
 ,,,
  
 1)
