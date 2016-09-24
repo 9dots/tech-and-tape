@@ -112,7 +112,7 @@ Imagine being a computer when you read code.
 ```
 As computers, we read carefully. We pay attention to every detail. Every line of code.
 ```
-3) Develop ideas about the coding elements in warm-up:
+3) Have students try to interpret the coding elements in the warm-up:
 ```
 What do you think these elements do?
 ```
