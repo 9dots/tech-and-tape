@@ -213,7 +213,7 @@ Number the first line of code.
 3) **Individual Work:** Ask students to individually fill out the worksheet.
 ,,,
  
-1) Students read the code, trace the pathway of the pixel bot, and paint the correct blocks on the worksheet.
+3) Students read the code, trace the pathway of the pixel bot, and paint the correct blocks on the worksheet.
  
 {% endtable %}
  
