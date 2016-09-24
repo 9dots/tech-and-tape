@@ -112,7 +112,7 @@ Imagine being a computer when you read code.
 ```
 As computers, we read carefully. We pay attention to every detail. Every line of code.
 ```
-3) Have students try to interpret the coding elements in the warm-up:
+3) Have students interpret the coding elements in the warm-up:
 ```
 What do you think these elements do?
 ```
@@ -147,7 +147,7 @@ The bot moves one square at a time.
 The bot moves up, right, left, and down.
 The bot paints.
 ```
-4) Trace the movement of the Bot. Color in anything it paints.
+4) Trace the movement of the Bot. Color in any squares the Bot paints.
 6) 
 I arrived at my answer by:
 ```
@@ -165,34 +165,38 @@ As a result:
 The bot paints a different square.
 ```
 7) Call out lines of code and bot actions.
-8) Write definition of each element on the worksheet.
+8) Write definitions of each element on the worksheet.
  
 {% endtable %}
  
-{% header title='Explain sequence', icon='explain' %}
+{% header title='Demonstrate how to read and step through programs', icon='explain' %}
 {% endheader %}
  
 {% length '10 minutes' %}
 {% endlength %}
- 
-Demonstrate how to read code by reading and stepping through three or four example programs.
- 
- 
-1. Draw a blank 3x3 grid on the whiteboard
-2. Write a short (3 line) program on the whiteboard
- 
- 
+   
 {% table %}
  
-1) Explain that when a computer executes code, it runs it in the order that it is written. This is called sequencing.
-2) Point to the program on the whiteboard and ask students, “What is the first line of code?” After they answer, put a number 1 next to the corresponding line. Move the pixel bot according to the line of code just numbered.
-3) Continue reading and stepping one line at a time. Trace the path of the pixel bot as it moves and shade in the squares whenever it paints.
-4) Show students three new examples (design these problems on the fly, making them interesting and complex enough), reading and stepping together as a class.
+1) Draw a blank 3x3 grid on the whiteboard.
+2) Write a short (3 line) program on the whiteboard.
+3) Explain sequence:
+```
+When a computer executes code, it steps through the code in the correct order. This is called sequencing.
+```
+4) Read the first line of code together:
+```What is the first line of code?
+```
+Number that line of code.
+5) Move the Pixel Bot after each line. Trace its path or shade in a square.
+6) Continue reading and stepping one line at a time.
+7) Read and step through three new examples with the class. Design problems on the fly, making them interesting and complex enough.
  
 ,,,
  
-2) Students raise their hands to answer questions.
-4) Students follow along and offer answer for what each action does.
+4) Students call out first line of code.
+5) Students call out where Pixel Bot should move.
+6) Students continue helping to read the code. 
+
  
 {% endtable %}
  
