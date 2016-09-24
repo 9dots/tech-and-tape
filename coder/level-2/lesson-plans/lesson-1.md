@@ -147,7 +147,7 @@ The bot moves one square at a time.
 The bot moves up, right, left, and down.
 The bot paints.
 ```
-4) Trace the movement of the Bot. Color in any squares the Bot paints.
+4) Trace the movement of the Bot. Color any squares the Bot paints.
 6) 
 I arrived at my answer by:
 ```
@@ -157,15 +157,14 @@ Following the correct sequence.
 ```
 The two programs:
 ```
-Have the same elements.
-Change the order of two elements.
+Have elements in different orders.
 ```
-As a result:
+The order matter because:
 ```
 The bot paints a different square.
 ```
 7) Call out lines of code and bot actions.
-8) Write definitions of each element on the worksheet.
+8) Work as a class to figure out what each element makes the bot do.
  
 {% endtable %}
  
