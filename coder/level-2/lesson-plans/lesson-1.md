@@ -93,26 +93,23 @@ Movies and tv shows
 {% length '15 minutes' %}
 {% endlength %}
  
-Students individually predict the outcome of sequences and then regroup to discuss findings.
- 
-**Prep:** Distribute [Warm-up][warm-up]
- 
 {% table %}
  
-1) Introduce the idea of reading code with care:
+1) Distribute [Warm-up][warm-up]
+2) Introduce the idea of reading code with care:
 ```
 Imagine being a computer when you read code. 
 ```
 ```
 As computers, we read carefully. We pay attention to every line of code.
 ```
-2) Develop ideas about the coding elements in [Lesson 1 | Warm-up Worksheet][warm-up]:
+3) Develop ideas about the coding elements in [Lesson 1 | Warm-up Worksheet][warm-up]:
 ```
 What do you think these elements do?
 ```
-3) **Individual Work:** Have students fill out the worksheet.
-4) As students work, draw the worksheet programs and grids on the whiteboard. 
-5) Reflect on sequence:
+4) **Individual Work:** Have students fill out the worksheet.
+5) As students work, draw the worksheet programs and grids on the whiteboard. 
+6) Reflect on sequence:
 ```
 How did you arrive at your answer? 
 ```
@@ -122,12 +119,12 @@ What is the difference between the two programs?
 ```
 How does the order of the icons matter?
 ```
-6) Solve the problems together on the whiteboard.
-7) Work as a class to define each element. 
+7) Solve the problems together on the whiteboard.
+8) Work as a class to define each element. 
  
 ,,,
  
-2)
+3)
 Possible Responses:
 ```
 The bot rotates in place.
@@ -141,8 +138,8 @@ The bot moves one square at a time.
 The bot moves up, right, left, and down.
 The bot paints.
 ```
-3) Trace the movement of the Bot. Color in anything it paints.
-5) 
+4) Trace the movement of the Bot. Color in anything it paints.
+6) 
 I arrived at my answer by:
 ```
 Reading one element at a time.
@@ -159,8 +156,8 @@ As a result:
 ```
 The bot paints a different square.
 ```
-6) Call out lines of code and bot actions.
-7) Write definition of each element on the worksheet.
+7) Call out lines of code and bot actions.
+8) Write definition of each element on the worksheet.
  
 {% endtable %}
  
