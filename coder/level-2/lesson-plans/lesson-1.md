@@ -39,7 +39,7 @@ In this lesson, students play with the order of commands in Pixel Bot to explore
 {% header title='Materials', icon='materials' %}
 {% endheader %}
  
-1. [Lesson 1 | Warm-up Worksheet][warm-up].
+1. [Lesson 1 | Warm-up Worksheet][warm-up]
 1. Worksheet 1 | [Page 1][worksheet1-1] & [Page 2][worksheet1-2]
 1. Small pixel bot cutout for each student
 1. Magnetic pixel bot
@@ -98,7 +98,7 @@ Movies and tv shows
  
 {% table %}
  
-1) Distribute [Warm-up][warm-up]
+1) Distribute [Warm-up][warm-up].
 2) Introduce the idea of reading code with care:
 ```
 Imagine being a computer when you read code. 
