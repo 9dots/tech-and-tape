@@ -25,7 +25,7 @@ In this lesson, students play with the order of commands in Pixel Bot to explore
 
 <br>
 
-**Demonstrate how a computer executes a program**. Draw a Pixel Bot program and grid on the whiteboard (about 3 or 4 lines of code) and work with students to read, step through, and number the code. At the same time, trace and paint with the Bot. Repeat a few times. (10 minutes) 
+**Demonstrate how a computer executes a program**. Draw a Pixel Bot program and grid on the whiteboard (about 3 or 4 lines of code). Work with students to read, step through, and number the program. As you read the program, trace and paint with the Bot. Repeat a few times with new programs. (10 minutes) 
  
 <br>
  
