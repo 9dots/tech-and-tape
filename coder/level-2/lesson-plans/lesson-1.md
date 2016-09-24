@@ -21,8 +21,8 @@ In this lesson, students play with the order of commands in Pixel Bot to explore
 
 <br>
 
-**Guide students to see the importance of sequence in code**. Use [Lesson 1 | Warm-up Worksheet][warm-up]. Students first develop ideas about what each arrow and paint element does in Pixel Bot. Working with two programs that vary slightly in sequence, students then predict what Pixel Bot will paint. Compare the results of the two programs and reflect on sequence. (15 minutes) 
-  
+**Guide students to see the importance of sequence in code**. Use [Lesson 1 | Warm-up Worksheet][warm-up]. Students develop ideas about what each arrow and paint element does in the Pixel Bot worksheet. Students then read the two programs, which have slightly different sequences. Students predict what Pixel Bot will paint for each program and compare the results. The class reflects on the idea of sequence. (15 minutes) 
+
 <br>
 
 **Demonstrate how a computer executes a program**. Draw a Pixel Bot program and grid on the whiteboard (about 3 or 4 lines of code) and work with students to read, step through, and number the code. At the same time, trace and paint with the Bot. Repeat a few times. (10 minutes) 
