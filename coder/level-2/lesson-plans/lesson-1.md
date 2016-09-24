@@ -78,7 +78,7 @@ Create video games
 Make websites
 Work with data
 ```
-We use code in:
+Code runs in:
 ```
 Phones
 Cars
