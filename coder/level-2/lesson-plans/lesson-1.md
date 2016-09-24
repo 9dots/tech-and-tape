@@ -17,7 +17,7 @@ In this lesson, students play with the order of commands in unplugged Pixel Bot 
  
 #### Length: 45 minutes
  
-**Whet students’ appetites for coding**. Hold a discussion about the ways computer code shapes our present and future world. Consider autonomous cars, music, online communities. Watch A Day in the Life of a Software Engineer (http://tinyurl.com/q966xd5) to give students a feel for coding. (10 minutes) 
+**Whet students’ appetites for coding**. Hold a discussion about the ways computer code shapes our world. Consider autonomous cars, music, online communities. Watch A Day in the Life of a Software Engineer (http://tinyurl.com/q966xd5) to give students a feel for coding. (10 minutes) 
 
 <br>
 
@@ -88,7 +88,6 @@ Work with data
 Code runs in:
 ```
 Phones
-Cars
 Computers
 Traffic lights
 Spaceships
