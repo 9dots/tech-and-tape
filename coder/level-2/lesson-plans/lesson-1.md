@@ -4,7 +4,7 @@
 {% header title='Overview', icon='activity' %}
 {% endheader %}
  
-In this lesson, students play with the order of commands in Pixel Bot to explore a foundational concept in computer science—sequence.
+In this lesson, students play with the order of commands in unplugged Pixel Bot exercises. The lesson explores a foundational concept in computer science—sequence.
  
 {% overviewSection title='Objectives', icon='objectives' %}
 {% endoverviewSection %}
