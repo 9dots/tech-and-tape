@@ -107,7 +107,7 @@ As computers, we read carefully. We pay attention to every line of code.
 ```
 What do you think these elements do?
 ```
-3) **Individual Work:** Students fill out the worksheet.
+3) **Individual Work:** Have students fill out the worksheet.
 4) As students work, draw the worksheet programs and grids on the whiteboard. 
 5) Reflect on sequence:
 ```
