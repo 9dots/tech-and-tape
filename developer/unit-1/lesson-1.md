@@ -7,7 +7,7 @@
 In this lesson, students discover the importance of
 code in today’s world. Additionally, students will
 repeatedly encounter failure in a positive way through
-an interactive problem-solving game. They should begin to view failure as a step towards succeeding. 
+an interactive problem-solving game. They should begin to view failure as a step towards succeeding.
 
 {% overviewSection title='Agenda', icon='agenda' %}
 {% endoverviewSection %}
@@ -71,10 +71,10 @@ each color)
 - [Five](https://www.teachingchannel.org/videos/attention-getting-signals-drum)
 
 **Working in groups:**
-- [Teaching Channel](https://www.teachingchannel.org/videos/student-collaboration-achieve) 
+- [Teaching Channel](https://www.teachingchannel.org/videos/student-collaboration-achieve)
 
-**Choral Response:** 
-- [Video](https://www.youtube.com/watch?v=Em-VRAqZTck) 
+**Choral Response:**
+- [Video](https://www.youtube.com/watch?v=Em-VRAqZTck)
 
 {% header title='Do Now', icon='objectives' %}
 {% endheader %}
@@ -123,7 +123,7 @@ need to use an attention getting signal. Use a signal that
 you already have or grab some ideas from our Resources.
 ,,,
 
-1) Students practice the attention getting signal. 
+1) Students practice the attention getting signal.
 
 {% endtable %}
 
@@ -137,7 +137,7 @@ River Crossing Activity: Students repeatedly encounter failure
 and connect it to progress as they solve the river crossing challenge.
 
 
-**Prep:** 
+**Prep:**
 - Code Cards
 - Felt Strips
 - Paper River Crossing Worksheet
@@ -279,7 +279,7 @@ they will treat themselves and their peers when they encounter failure.
 - Group together similar ideas and read aloud.
 - Students give thumbs up when they agree
 
-4) Close out the lesson by acknowledging their great ideas and work they have accomplished. 
+4) Close out the lesson by acknowledging their great ideas and work they have accomplished.
 
 ```
 Suggested script:

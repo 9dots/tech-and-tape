@@ -4,7 +4,7 @@
 
 Students are introduced to core coding concepts: sequences, calling functions, passing arguments, creating loops, and using conditionals. New concepts are introduced in a steady progression from an icon-based language to a block-based language and finally to typed JavaScript. This course includes lesson plans (unplugged and online), worksheets, and a custom-designed coding environment.
 
-## Lessons
+### Lessons
 
 - [sequencing pixels](lesson-plans/lesson-1.html)
 - [write some code](lesson-plans/lesson-2.html)
@@ -17,6 +17,10 @@ Students are introduced to core coding concepts: sequences, calling functions, p
 - [space ranger and magic words](lesson-plans/lesson-9.html)
 - [coding arguments](lesson-plans/lesson-10.html)
 
-## Workbook
+### Download lesson plans
+
+[Download](../levelPDFs/level 2.pdf)
+
+### Workbook
 
 [Download](workbook.pdf)
