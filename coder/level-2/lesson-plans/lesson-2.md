@@ -29,8 +29,8 @@ Students learn the different components of reading and writing code by exploring
 - **Computer** - A device that can be instructed to do something.
 - **Program** - A list of statements that a computer can perform.
 
-{% overviewSection title='Materials', icon='materials' %}
-{% endoverviewSection %}
+{% header title='Materials', icon='materials' %}
+{% endheader %}
 
 1. [Lesson 2 | Warm-up Worksheet][warm-up]
 2. [Lesson 2 | Worksheet 1][worksheet1]
