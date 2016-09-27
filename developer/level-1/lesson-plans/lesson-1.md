@@ -9,6 +9,10 @@ code in today’s world. Additionally, students will
 repeatedly encounter failure in a positive way through
 an interactive problem-solving game. They should begin to view failure as a step towards succeeding.
 
+## Print PDF
+
+[Print this lesson](../lessonPDFs/Lesson 1: I am a coder.pdf)
+
 {% overviewSection title='Agenda', icon='agenda' %}
 {% endoverviewSection %}
 

@@ -6,6 +6,10 @@
 
 In this lesson, students learn how to plan, code, and validate their work by creating a dance off with their sprites on Scratch. 
 
+## Print PDF
+
+[Print this lesson](../lessonPDFs/Lesson 4: Dance Off.pdf)
+
 {% overviewSection title='Objectives', icon='objectives' %}
 {% endoverviewSection %}
 

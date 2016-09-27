@@ -6,6 +6,10 @@
 
 In this lesson, students will learn to login to Scratch and begin to use the editor, block palette, and stage to sequence a program. 
 
+## Print PDF
+
+[Print this lesson](../lessonPDFs/Lesson 2: Getting Started on Scratch.pdf)
+
 {% overviewSection title='Objectives', icon='objectives' %}
 {% endoverviewSection %}
 

@@ -6,6 +6,10 @@
 
 In this lesson, students learn the importance of giving clear and explicit directions. They practice sequencing code, writing code, and navigating their robot on a paper grid. 
 
+## Print PDF
+
+[Print this lesson](../lessonPDFs/Lesson 3: Maze Scavenger Hunt.pdf)
+
 {% overviewSection title='Agenda', icon='agenda' %}
 {% endoverviewSection %}
 
