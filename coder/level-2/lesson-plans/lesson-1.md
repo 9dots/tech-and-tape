@@ -17,7 +17,7 @@ In this lesson, students play with the order of commands in unplugged Pixel Bot 
 
 #### Length: 45 minutes
 
-- **Whet students’ appetites for coding**. Hold a discussion about how computer code shapes our world. Consider autonomous cars, music, online communities. Watch A Day in the Life of a Software Engineer (http://tinyurl.com/q966xd5). (10 minutes)
+- **Whet students’ appetites for coding**. Hold a discussion about how code shapes our world. Consider autonomous cars, music, online communities. Watch "A Day in the Life of a Software Engineer" (http://tinyurl.com/q966xd5). (10 minutes)
 
 <br>
 
@@ -25,11 +25,11 @@ In this lesson, students play with the order of commands in unplugged Pixel Bot 
 
 <br>
 
-- **Demonstrate how a computer executes a program**. Draw a Pixel Bot program and grid on the whiteboard (3 or 4 lines of code, 3 x 3 grid). Work with students to read, step through, and number the program. As you read the program, trace and paint with the Magnetic Pixel Bot. Repeat a few times with new programs. (10 minutes)
+- **Demonstrate how a computer executes a program**. Draw a Pixel Bot program and grid on the whiteboard (3 or 4 lines of code, 3 x 3 grid). Work with students to read, step through, and number the program. While reading the program, trace and paint with the Magnetic Pixel Bot. Repeat a few times with new programs. (10 minutes)
 
 <br>
 
-- **Students practice reading, writing, and executing code**. Use Worksheet 1 | [Page 1][worksheet1-1] & [Page 2][worksheet1-2]. Students read and step through code while tracing and painting with the pixel bot. (10 minutes)
+- **Students practice reading and executing code**. Use Worksheet 1 | [Page 1][worksheet1-1] & [Page 2][worksheet1-2]. Students read and step through code while tracing and painting with the pixel bot. (10 minutes)
 
 {% overviewSection title='Content Knowledge', icon='vocab' %}
 {% endoverviewSection %}
