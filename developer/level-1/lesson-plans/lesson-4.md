@@ -43,6 +43,9 @@ Do Now (5 min) - logging in
 
 ![Classroom Setup](lesson-2/img/desk-setup.png "Classroom Setup")
 
+## Resources
+**[Powerpoint:Lesson 4](https://docs.google.com/a/9-dots.org/presentation/d/10qL9cBqm8bmxiTEU4tv7slTdAZhIzNm41yWqUu6KHUk/edit?usp=sharing)**
+
 {% header title='Do Now', icon='objectives' %}
 {% endheader %}
 
@@ -53,9 +56,6 @@ Do Now (5 min) - logging in
 - Computers
 - Idea Journals
 - Pencils
-
-## Resources
-**[Powerpoint:Lesson 4](https://docs.google.com/a/9-dots.org/presentation/d/10qL9cBqm8bmxiTEU4tv7slTdAZhIzNm41yWqUu6KHUk/edit?usp=sharing)**
 
 {% table %}
 
