@@ -11,11 +11,11 @@ The developer series features project and product based curricula designed to in
 ## Overview: Escape the Maze
 In this 27-lesson course, students master computational thinking skills and the fundamentals of coding to build an interactive maze game with multiple obstacles, enemies, and levels. These lessons incorporate unplugged and online activities that build connections between coding concepts and apply them to projects. Along with hard skills in coding, students learn the processes and mindsets of a computer programmer. Students learn to approach failure as an opportunity, collaborate with peers on writing and reviewing code, and tap into their own creativity without reservations. At the end of the course students apply their knowledge of the software design process to plan an unplugged event - a class-wide Arcade Day - in which they share their final maze projects and celebrate their development as a coder. 
 
-##Purpose
+## Purpose
 1. Empower students to use computational practices to analyze problems, build solutions, and be creative.
 2. Empower students to apply computational practices to understand and change the world.
 
-##Big Goals
+## Big Goals
 1. Students will utilize computational thinking to read their world and will utilize their coding skills to write their world. 
 2. Students will experience failure as a learning opportunity to master core concepts and the process of creation. 
 3. Students will collaboratively build software and assess its effectiveness for users. 
