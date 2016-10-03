@@ -51,6 +51,7 @@ In this lesson, students play with the order of commands in unplugged Pixel Bot 
 {% header title='Welcome to coding', icon='objectives' %}
 {% endheader %}
 
+
 {% length '10 minutes' %}
 {% endlength %}
 
