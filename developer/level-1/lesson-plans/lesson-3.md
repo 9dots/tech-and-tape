@@ -310,7 +310,7 @@ Introduce the class to the scavenger hunt challenge.
 
 3) Students listen to the roles they will play.
 
-4) Groups plan and trace the path they will take to complete the challenge.
+4) Groups plan and trace the path they will take to complete the challenge. Writer uses expo markers to write the group's code. 
 
 5) The person playing the role of the computer rotates and checks the code of a neighboring group.
 
