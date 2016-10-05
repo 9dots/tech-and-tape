@@ -3,14 +3,10 @@
   "structure": {
       "summary": "SUMMARY.md"
   },
-  "plugins": ["prism", "-highlight", "tasklist", "toggle-chapters"],
+  "plugins": ["prism", "-highlight", "tasklist", "collapsible-menu"],
   "pluginsConfig": {
     "github": {
       "url": "https://github.com/9dots/get-coding-curricula"
     }
-  },
-  "pdf": {
-    "paperSize": "letter",
-    "paperLayout": "landscape"
   }
 }
