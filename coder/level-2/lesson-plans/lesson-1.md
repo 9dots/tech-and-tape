@@ -38,7 +38,7 @@ Repeat a few times with new programs.
 
 <br>
 
-**Support**__students’ practice of reading programs.__ 
+**Support**__students’ practice of reading programs.__ (10 minutes)
 Using Worksheet 1 | [Page 1][worksheet1-1] & [Page 2][worksheet1-2]:
 Students step through and enact the programs by tracing the route of the pixel bot and shading in any squares that it paints. (10 minutes)
 
