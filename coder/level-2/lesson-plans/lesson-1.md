@@ -17,9 +17,7 @@ In this lesson, students play with the order of commands in unplugged Pixel Bot 
 
 #### Length: 45 minutes
 
-**Demonstrate** how coders shape our world. (10 minutes)
-1. Present an array of examples of where we find code in the modern world. Consider autonomous cars, music, online communities. 
-2. Watch "A Day in the Life of a Software Engineer" (http://tinyurl.com/q966xd5). 
+**Demonstrate** how coders shape our world. (10 minutes) Present an array of examples of where we find code in the modern world. Consider autonomous cars, music, online communities. Watch "A Day in the Life of a Software Engineer" (http://tinyurl.com/q966xd5). 
 
 <br>
 
