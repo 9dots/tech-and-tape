@@ -23,24 +23,16 @@ In this lesson, students play with the order of commands in unplugged Pixel Bot 
 
 <br>
 
-**Unearth** students’ ideas about computer sequencing. (15 minutes) 
-1. Using [Lesson 1 | Warm-up Worksheet][warm-up]:
-2. Students develop ideas about how the arrow and paint elements work in Pixel Bot. 
-3. Students step through and enact the two programs in the worksheet. 
-4. Gather students’ ideas about computer sequencing and show how a slight change in sequence alters the outcome.  
+**Unearth** students’ ideas about computer sequencing. (15 minutes) Using [Lesson 1 | Warm-up Worksheet][warm-up]: Students develop ideas about how the arrow and paint elements work in Pixel Bot. Students step through and enact the two programs in the worksheet. Gather students’ ideas about computer sequencing and show how a slight change in sequence alters the outcome.  
 
 <br>
 
-**Demonstrate** how to read a program like a computer. (10 minutes)
-1. Draw a Pixel Bot program and grid on the whiteboard (3 or 4 lines of code, 3 x 3 grid). 
-2. Work with students to step through and enact the program. Show the usefulness of numbering lines of code. 
-3. Repeat a few times with new programs. 
+**Demonstrate** how to read a program like a computer. (10 minutes) Draw a Pixel Bot program and grid on the whiteboard (3 or 4 lines of code, 3 x 3 grid). Work with students to step through and enact the program. Show the usefulness of numbering lines of code. Repeat a few times with new programs. 
 
 <br>
 
 **Support** students’ practice of reading programs. (10 minutes)
-Using Worksheet 1 | [Page 1][worksheet1-1] & [Page 2][worksheet1-2]:
-Students step through and enact the programs by tracing the route of the pixel bot and shading in any squares that it paints. (10 minutes)
+Using Worksheet 1 | [Page 1][worksheet1-1] & [Page 2][worksheet1-2]: Students step through and enact the programs by tracing the route of the pixel bot and shading in any squares that it paints. (10 minutes)
 
 {% overviewSection title='Content Knowledge', icon='vocab' %}
 {% endoverviewSection %}
