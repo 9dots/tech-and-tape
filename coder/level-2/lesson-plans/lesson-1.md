@@ -17,24 +17,24 @@ In this lesson, students play with the order of commands in unplugged Pixel Bot 
 
 #### Length: 45 minutes
 
-**Demonstrate** __how coders shape our world.__ (10 minutes)
-Present an array of examples of where we find code in the modern world. Consider autonomous cars, music, online communities. 
-Watch "A Day in the Life of a Software Engineer" (http://tinyurl.com/q966xd5). 
+**Demonstrate**__how coders shape our world.__ (10 minutes)
+1. Present an array of examples of where we find code in the modern world. Consider autonomous cars, music, online communities. 
+2. Watch "A Day in the Life of a Software Engineer" (http://tinyurl.com/q966xd5). 
 
 <br>
 
-**Unearth** __students’ ideas about computer sequencing.__ (15 minutes) 
-Using [Lesson 1 | Warm-up Worksheet][warm-up]:
-Students develop ideas about how the arrow and paint elements work in Pixel Bot. 
-Students step through and enact the two programs in the worksheet. 
-Gather students’ ideas about computer sequencing and show how a slight change in sequence alters the outcome.  
+**Unearth**__students’ ideas about computer sequencing.__ (15 minutes) 
+1. Using [Lesson 1 | Warm-up Worksheet][warm-up]:
+2. Students develop ideas about how the arrow and paint elements work in Pixel Bot. 
+3. Students step through and enact the two programs in the worksheet. 
+4. Gather students’ ideas about computer sequencing and show how a slight change in sequence alters the outcome.  
 
 <br>
 
-**Demonstrate** __how to read a program like a computer.__ (10 minutes)
-Draw a Pixel Bot program and grid on the whiteboard (3 or 4 lines of code, 3 x 3 grid). 
-Work with students to step through and enact the program. Show the usefulness of numbering lines of code. 
-Repeat a few times with new programs. 
+**Demonstrate**__how to read a program like a computer.__ (10 minutes)
+1. Draw a Pixel Bot program and grid on the whiteboard (3 or 4 lines of code, 3 x 3 grid). 
+2. Work with students to step through and enact the program. Show the usefulness of numbering lines of code. 
+3. Repeat a few times with new programs. 
 
 <br>
 
