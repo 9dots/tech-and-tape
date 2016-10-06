@@ -39,22 +39,46 @@ Building on students' prior thinking is central to good teaching. Each pedagogic
 7. Build on students' thinking to assemble an explanation of how to solve the problem
 
 ### 2. Remind
-#### ***Generation***
-1. Give students partial prompts to remember something they already learned 
+#### ***Recall***
+1. Give students partial prompts to remember something they have already learned 
 2. Ask students to freely recall something they have already learned
 3. Space out memory exercises
 
-### Support
-#### ***Deliberate Practice***
-1.  Have students practice the activity spaced out throughout the unit/year
-
-### Demonstrate
+### 3. Demonstrate
 #### ***Observation***
+1. Start with an idea/skill students should learn
+2. Segment the idea/skill into relevant stages
+3. Model live how to execute the idea/skill
+
 #### ***Worked Examples***
+1. Start with an idea/skill students should learn
+3. Create a representation of how you execute the idea/skill:
+ - Break down the steps required to execute the idea/skill
+ - Explain the reason for each step
+ - Highlight any subgoals
+ - Reduce distracting complexity
+ - Keep students' attention focused on one place
+3. Ask students to self-explain worked examples
+8. Set up problem pairs (one worked example beside an unsolved problem)
+
+### 4. Support
+#### ***Preparation***
+1. Preparation is best suited when there is an authentic context to apply the targeted skill
+2. Preparation should be effortful and focused
+3. Preparation should take place in short sessions of intense concentration
+3. Preparation should target specific skills not yet automated
+4. Students should receive immediate feedback
+5. Preparation should be spaced out
 
 ### Coordinate
 #### ***Teaching***
-#### ***Play***
+1. Student prepares to teach a peer (e.g. by building a concept map)
+2. Student actually teaches the peer
+3. Student watches as the peer tries to solve a problem with the new knowledge 
+
+#### ***Role Play***
+See our roleplay protocols. 
+
 #### ***Listening and Sharing***
 
 ### Evaluate
