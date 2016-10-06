@@ -31,4 +31,5 @@
        * [Lesson 2: Getting Started on Scratch](developer/level-1/lesson-plans/lesson-2.md)
        * [Lesson 3: Maze Scavenger Hunt](developer/level-1/lesson-plans/lesson-3.md)
        * [Lesson 4: Dance Off](developer/level-1/lesson-plans/lesson-4.md)
+* resources/README.md
 
