@@ -2,6 +2,7 @@
 
 * [introduction](README.md)
 * [preCoder](precoder/README.md)
+   * resources/README.md
 * [coder](coder/README.md)
    * [level 2](coder/level-2/README.md)
        * [sequencing pixels](coder/level-2/lesson-plans/lesson-1.md)
