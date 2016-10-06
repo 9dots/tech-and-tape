@@ -34,9 +34,9 @@
 * [resources](resources/README.md)
    * [pedagogy](pedagogy/README.md)
        * [pedagogical-practices](pedagogy/pedagogical-practices.md) 
-   * platforms
-   * practices
-   * roleplays
-   * standards 
+   * [platforms](platforms/README.md)
+   * [practices](practices/README.md)
+   * [roleplays](roleplays/README.md)
+   * [standards](standards/README.md) 
     
 
