@@ -67,8 +67,10 @@ Watching someone demonstrate how to perform a skill can be immensely helpful for
 8. Set up problem pairs (one worked example beside an unsolved problem)
 
 ### 4. Support
+It pays to give students freedom to practice what they have learned. In these cases, the teacher designs effective forms of practice, paces the activities, and motivates students -- in short, the teacher moves into a support role. 
+
 #### ***Preparation***
-1. Preparati on is best suited when there is an authentic context to apply the targeted skill
+1. Preparation is best suited when there is an authentic context to apply the targeted skill
 2. Preparation should be effortful and focused
 3. Preparation should take place in short sessions of intense concentration
 3. Preparation should target specific skills not yet automated
@@ -76,9 +78,14 @@ Watching someone demonstrate how to perform a skill can be immensely helpful for
 5. Preparation should be spaced out
 
 #### ***Self explanation***
-
+1. Ask students to keep track of what they understand
+2. Ask students to make connections between ideas
+3. Ask students to make predictions
+4. Give students activities where they map out their thinking (e.g. in a concept map) 
 
 ### 5. Coordinate
+These activities involve students collaborating with one another and the teacher stepping into a coordination role. 
+
 #### ***Teaching***
 1. Student prepares to teach a peer (e.g. by building a concept map)
 2. Student actually teaches the peer
@@ -98,6 +105,8 @@ Watching someone demonstrate how to perform a skill can be immensely helpful for
 See our [role play](roleplays/README.md) protocols. 
 
 ### 6. Evaluate
+Assessing what students know and how they feel about the class should be regular occurrences in the classroom. Formative and summative assessments keep us honest about how well our lessons are working. 
+
 #### ***Feedback***
 1. Ask students to independently solve short problems to gauge their knowledge
 2. You may also choose to assess non-cognitive experiences: 
@@ -109,7 +118,20 @@ See our [role play](roleplays/README.md) protocols.
 
 ## Constant Practices
 ### 1. Motivate
+This is the pulse of learning -- without it, not much happens. 
 #### ***Self efficacy***
+1. Talk with students about a number of motivating ideas:
+ - Self-efficacy
+ - Mastery over performance
+ - Attributions that pinpoint changeable factors
+ - Fixed versus growth mindset
+ - Long-term purpose
+ - Grit
 
 ### 2. Engrain
+Norms guide how we interact with one another and how we pursue knowledge. Both are essential to a joyful and productive learning environment.
 #### *** Norms***
+1. Explain the rationale for norms
+2. Model the norms
+3. Remind students frequently about the norms
+4. Tie the norms to specific academic practices in the classroom
