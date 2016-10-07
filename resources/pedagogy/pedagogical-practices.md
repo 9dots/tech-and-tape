@@ -12,7 +12,7 @@ Building on students' prior thinking is central to good teaching. Each pedagogic
 2. Come up with two analogies for that idea
 3. Transform each analogy into a problem
 4. Ask students to solve each problem
-5. Ha#ve students propose commonalities between the two analogies
+5. Have students propose commonalities between the two analogies
 6. Nudge students to describe the commonalities in general terms
 6. Ask students to make sense of the original idea using the common structure from the two analogies
 
