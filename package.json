@@ -20,8 +20,8 @@
   "homepage": "https://github.com/9dots/get-coding-curricula#readme",
   "dependencies": {
     "gitbook-plugin-collapsible-menu": "^1.0.2",
-    "gitbook-plugin-edit-link": "^2.0.2",
+    "gitbook-plugin-highlight": "^2.0.2",
     "gitbook-plugin-prism": "^1.1.0",
-    "gitbook-plugin-tasklist": "^0.5.1"
+    "gitbook-plugin-tasklist": "0.5.1"
   }
 }
