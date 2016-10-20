@@ -6,16 +6,16 @@ Students are introduced to core coding concepts: sequences, calling functions, p
 
 ### Lessons
 
-- [sequencing pixels](lesson-plans/lesson-1.html)
-- [write some code](lesson-plans/lesson-2.html)
-- [write read repeat](lesson-plans/lesson-3.html)
-- [pixel bot online](lesson-plans/lesson-4.html)
-- [code.org maze](lesson-plans/lesson-5.html)
-- [dance dance js](lesson-plans/lesson-6.html)
-- [pixel bot js](lesson-plans/lesson-7.html)
-- [winter is coming - gather food](lesson-plans/lesson-8.html)
-- [space ranger and magic words](lesson-plans/lesson-9.html)
-- [coding arguments](lesson-plans/lesson-10.html)
+- [sequencing pixels](http://teach.getcoding.io/coder/level2/lesson-plans/lesson-1.md)
+- [write some code](http://teach.getcoding.io/coder/level2/lesson-plans/lesson-2.md)
+- [write read repeat](http://teach.getcoding.io/coder/level2/lesson-plans/lesson-3.md)
+- [pixel bot online](http://teach.getcoding.io/coder/level2/lesson-plans/lesson-4.md)
+- [code.org maze](http://teach.getcoding.io/coder/level2/lesson-plans/lesson-5.md)
+- [dance dance js](http://teach.getcoding.io/coder/level2/lesson-plans/lesson-6.md)
+- [pixel bot js](http://teach.getcoding.io/coder/level2/lesson-plans/lesson-7.md)
+- [winter is coming - gather food](http://teach.getcoding.io/coder/level2/lesson-plans/lesson-8.md)
+- [space ranger and magic words](http://teach.getcoding.io/coder/level2/lesson-plans/lesson-9.md)
+- [coding arguments](http://teach.getcoding.io/coder/level2/lesson-plans/lesson-10.md)
 
 ### Download lesson plans
 
