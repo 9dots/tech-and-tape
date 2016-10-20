@@ -24,3 +24,7 @@ Students are introduced to core coding concepts: sequences, calling functions, p
 ### Workbook
 
 [Download](workbook.pdf)
+
+### Answer key
+
+[Download](answer-key.pdf)
