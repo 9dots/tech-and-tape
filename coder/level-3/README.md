@@ -6,15 +6,15 @@ Students are introduced to core coding concepts: sequences, calling functions, p
 
 ### Lessons
 
-- [sequencing pixels JS](http://teach.getcoding.io/coder/level3/lesson-plans/lesson-1.html)
-- [write some code](http://teach.getcoding.io/coder/level3/lesson-plans/lesson-2.html)
-- [write read repeat](http://teach.getcoding.io/coder/level3/lesson-plans/lesson-3.html)
-- [pixel bot online](http://teach.getcoding.io/coder/level3/lesson-plans/lesson-4.html)
-- [winter is coming - gather food](http://teach.getcoding.io/coder/level3/lesson-plans/lesson-5.html)
-- [space ranger and magic words](http://teach.getcoding.io/coder/level3/lesson-plans/lesson-6.html)
-- [coding arguments in JS](http://teach.getcoding.io/coder/level3/lesson-plans/lesson-7.html)
-- [practicing arguments](http://teach.getcoding.io/coder/level3/lesson-plans/lesson-8.html)
-- [fire ice and squirrels](http://teach.getcoding.io/coder/level3/lesson-plans/lesson-9.html)
+- [sequencing pixels JS](../level-3/lesson-plans/lesson-1.html)
+- [write some code](../level-3/lesson-plans/lesson-2.html)
+- [write read repeat](../level-3/lesson-plans/lesson-3.html)
+- [pixel bot online](../level-3/lesson-plans/lesson-4.html)
+- [winter is coming - gather food](../level-3/lesson-plans/lesson-5.html)
+- [space ranger and magic words](../level-3/lesson-plans/lesson-6.html)
+- [coding arguments in JS](../level-3/lesson-plans/lesson-7.html)
+- [practicing arguments](../level-3/lesson-plans/lesson-8.html)
+- [fire ice and squirrels](../level-3/lesson-plans/lesson-9.html)
 
 ### Download lesson plans
 
