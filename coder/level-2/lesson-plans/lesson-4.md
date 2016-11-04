@@ -69,7 +69,7 @@ Create a medium difficulty pixel bot image for the students on the whiteboard. S
 {% length '10 minutes' %}
 {% endlength %}
 
-Show students how to solve a problem on pixel bot online. Also revisit `program` as a vocabulary word.
+Show students how to solve a problem on pixel bot online. Also revisit **program** as a vocabulary word.
 
 **Prep:** Browse to www.pixelbots.io and project onto the wall.
 
