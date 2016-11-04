@@ -17,19 +17,20 @@ In this lesson, students play with the order of commands in unplugged Pixel Bot 
 
 #### Length: 45 minutes
 
-- **Whet students’ appetites for coding**. Hold a discussion about how code shapes our world. Consider autonomous cars, music, online communities. Watch "A Day in the Life of a Software Engineer" (http://tinyurl.com/q966xd5). (10 minutes)
+**Demonstrate** how coders shape our world. (10 minutes) Present an array of examples of where we find code in the modern world. Consider autonomous cars, music, online communities. Watch "A Day in the Life of a Software Engineer" (http://tinyurl.com/q966xd5). 
 
 <br>
 
-- **Guide students to see the importance of sequence**. Use [Lesson 1 | Warm-up Worksheet][warm-up]. Students first develop ideas about how the arrow and paint elements work in Pixel Bot. Once settled on the meaning of each element, students read the two programs in the worksheet. The programs have slightly different sequences. Students predict what Pixel Bot will paint for each program and compare the results. The class reflects on the idea of sequence. (15 minutes)
+**Unearth** students’ ideas about computer sequencing. (15 minutes) Using [Lesson 1 | Warm-up Worksheet][warm-up]: Students develop ideas about how the arrow and paint elements work in Pixel Bot. Students step through and enact the two programs in the worksheet. Gather students’ ideas about computer sequencing and show how a slight change in sequence alters the outcome.  
 
 <br>
 
-- **Demonstrate how a computer executes a program**. Draw a Pixel Bot program and grid on the whiteboard (3 or 4 lines of code, 3 x 3 grid). Work with students to read, step through, and number the program. While reading the program, trace and paint with the Magnetic Pixel Bot. Repeat a few times with new programs. (10 minutes)
+**Demonstrate** how to read a program like a computer. (10 minutes) Draw a Pixel Bot program and grid on the whiteboard (3 or 4 lines of code, 3 x 3 grid). Work with students to step through and enact the program. Show the usefulness of numbering lines of code. Repeat a few times with new programs. 
 
 <br>
 
-- **Students practice reading and executing code**. Use Worksheet 1 | [Page 1][worksheet1-1] & [Page 2][worksheet1-2]. Students read and step through code while tracing and painting with the pixel bot. (10 minutes)
+**Support** students’ practice of reading programs. (10 minutes)
+Using Worksheet 1 | [Page 1][worksheet1-1] & [Page 2][worksheet1-2]: Students step through and enact the programs by tracing the route of the pixel bot and shading in any squares that it paints. (10 minutes)
 
 {% overviewSection title='Content Knowledge', icon='vocab' %}
 {% endoverviewSection %}
