@@ -7,5 +7,5 @@ The coder series features game-based curricula designed to introduce and reinfor
 ### Curriculum
 
 - Level 1 (Coming Soon!)
-- [Level 2](level-2)
-- [Level 3](level-3)
+- [Level 2](../coder/level-2/index.html)
+- [Level 3](../coder/level-3/index.html)

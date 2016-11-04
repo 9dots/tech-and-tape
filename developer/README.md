@@ -5,7 +5,7 @@
 The developer series features project and product based curricula designed to introduce and reinforce applied learning in projects motivated by the product design cycle. The lessons in these units are couched in the context of an overarching product that the student is working on developing. Students will create games, apps, and collaborative worlds.
 
 ## Curriculum
-- [Level 1](level-1) 
+- [Level 1](../developer/level-1/index.html) 
 - Level 2 (Coming Soon!)
 
 ## Overview: Escape the Maze
