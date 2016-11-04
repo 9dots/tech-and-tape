@@ -30,8 +30,8 @@ Students write JavaScript on getcoding.io to solve increasingly difficult challe
 {% overviewSection title='Materials', icon='materials' %}
 {% endoverviewSection %}
 
-1. Lesson 8 | Warm-up Worksheet
-2. Lesson 8 | Exit Ticket
+1. [Lesson 8 | Warm-up Worksheet][warm-up]
+2. [Lesson 8 | Exit Ticket][wrap-up]
 3. Laptops/Computers
 4. Scratch paper grids
 5. Small turtle cutout for each student
@@ -48,11 +48,11 @@ Students write JavaScript on getcoding.io to solve increasingly difficult challe
 
 Students practice writing basic javascript to create a simple Pixel Bot drawing.
 
-**Prep:** Hand out Lesson 8 | Warm-up Worksheet
+**Prep:** Hand out [Lesson 8 | Warm-up Worksheet][warm-up]
 
 {% table %}
 
-1) **Individual Work:** Ask students to write the code to produce the Pixel Bot image in the Lesson 8 | Warm-up Worksheet. Consider reminding students of the proper JavaScript syntax (see Elements on the worksheet).
+1) **Individual Work:** Ask students to write the code to produce the Pixel Bot image in the [Lesson 8 | Warm-up Worksheet][warm-up]. Consider reminding students of the proper JavaScript syntax (see Elements on the worksheet).
 2) Draw the Pixel Bot image on the whiteboard and code the solution with the students, randomly calling on one student at a time to provide each next line of code. (Note the problem can be solved in different ways. Students should follow the class’ ongoing code which may differ from their own solution).
 
 ,,,
@@ -138,7 +138,7 @@ Students continue writing code in JavaScript on the getcoding.io platform to hel
 
 Students individually fill out an exit ticket focused on simple sequence.
 
-**Prep:** Hand out Lesson 8 | Exit Ticket.
+**Prep:** Hand out [Lesson 8 | Exit Ticket][wrap-up].
 
 {% table %}
 
@@ -148,3 +148,6 @@ Students individually fill out an exit ticket focused on simple sequence.
 1) Students fill out the exit ticket.
 
 {% endtable %}
+
+[warm-up]: ../worksheets/lesson8-warmup.pdf
+[wrap-up]: ../worksheets/lesson8-wrapup.pdf

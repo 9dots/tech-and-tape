@@ -31,8 +31,8 @@ Students review writing code offline. Then, students demonstrate their learning 
 {% overviewSection title='Materials', icon='materials' %}
 {% endoverviewSection %}
 
-1. Lesson 4 | Worksheet 1
-2. Lesson 4 | Exit Ticket Worksheet
+1. [Lesson 4 | Worksheet 1][worksheet1]
+2. [Lesson 4 | Exit Ticket Worksheet][wrap-up]
 3. Scratch paper grids
 4. Small pixel bot cutout for each student
 5. Magnetic pixel bot
@@ -71,13 +71,13 @@ Create a medium difficulty pixel bot image for the students on the whiteboard. S
 
 Show students how to solve a problem on pixel bot online. Also revisit **program** as a vocabulary word.
 
-**Prep:** Browse to www.pixelbots.io and project onto the wall.
+**Prep:** Browse to [pixelbots.io](https://www.pixelbots.io) and project onto the wall.
 
 {% table %}
 
 1) Now that students have practice creating code sequences on paper, they are ready to start writing programs.
 2) Revisit the idea that a program is a sequence that a computer is able to understand.
-3) On a projector, show students www.pixelbots.io
+3) On a projector, show students [pixelbots.io](https://www.pixelbots.io)
 4) Use the problem you created in the warm-up to demonstrate how to solve the problem in the online interface. Show students a variety of features in the pixel bot interface:
 - How to add code
 - How to delete code
@@ -100,7 +100,7 @@ Show students how to solve a problem on pixel bot online. Also revisit **program
 
 Students are given a set of pixel bot images to reproduce on the computer. Partners star the ones that are completed. Remind students that the images with lots of shaded squares will be difficult, but they should remember to read code from the beginning when things go wrong.
 
-**Prep:** Distribute the Pixel bot practice worksheet and write www.pixelbots.io up on the board.
+**Prep:** Distribute the [Lesson 4 | Worksheet 1][worksheet1] and write [pixelbots.io](https://www.pixelbots.io) up on the board.
 
 {% table %}
 
@@ -117,7 +117,7 @@ Students are given a set of pixel bot images to reproduce on the computer. Partn
 ,,,
 
 1) Students are faced away from their computers toward the teacher.
-2) Students get on their computers and go to www.pixelbots.io. Students work individually on recreating each of the images with code.
+2) Students get on their computers and go to [pixelbots.io](https://www.pixelbots.io). Students work individually on recreating each of the images with code.
 - When they finish a puzzle, students have their partner (student sitting next to them) check to make sure the images match up. If they are a match, the checker puts a checkmark next to the image and the programmer can continue on to the next challenge.
 3) Students raise their hands to provide answers.
 
@@ -132,7 +132,7 @@ Students are given a set of pixel bot images to reproduce on the computer. Partn
 
 Students complete Exit Ticket.
 
-**Prep:** Distribute Lesson 4 | Exit Ticket Worksheet.
+**Prep:** Distribute [Lesson 4 | Exit Ticket Worksheet][wrap-up].
 
 {% table %}
 
@@ -142,3 +142,6 @@ Students complete Exit Ticket.
 1) Students write their answers on the worksheet.
 
 {% endtable %}
+
+[worksheet1]: ../worksheets/lesson4-worksheet1.pdf
+[wrap-up]: ../worksheets/lesson4-wrapup.pdf

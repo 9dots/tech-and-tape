@@ -116,11 +116,8 @@ Explain how to use arguments through observation.
 3) Ask students what they think the argument will do in the case of the arrows?
 
   Answer: The number controls how many spaces to move in that direction.
-4) Add a paint icon and color a blue circle next to it.
-5) Ask students what they think the argument will do in the case of the paint icon?
+6) Ask students how adding a number next to the arrow icon relates to changing clubs in the golf swing?
 
-  Answer: the argument controls what color the turtle will paint
-6) Ask students how changing the color next to the icon relates to changing clubs in the golf swing?
   Answer: In both examples, the action is the same (swing the golf club, paint the square) but the input can be changed to customize the output.
 7) Solve the warm up problem while narrating the steps out loud.
 
@@ -136,7 +133,7 @@ Explain how to use arguments through observation.
 {% header title='Coding with arguments', icon='objectives' %}
 {% endheader %}
 
-{% length '20 minutes' %}
+{% length '10 minutes' %}
 {% endlength %}
 
 Students use arguments to solve coding challenges.
@@ -144,21 +141,13 @@ Students use arguments to solve coding challenges.
 **Prep:**
 
 - Distribute Lesson 10 | Worksheet 2
-- Draw problem 5 from Lesson 10 | Worksheet 2 on the board
 
 {% table %}
 
-1) **Individual work:** Students work on the first 4 problems on Lesson 10 | Worksheet 2. Remind students to use arguments to solve the problems more efficiently.
-2) **Individual work:** Gather students’ attention and show them problem number 5. Tell students that this problem can be solved in many ways but when coding it is important to try and find the solution with the least lines of code. Students work on problem #5 and write down the number of steps it took them to complete the puzzle.
-3) With a partner students discuss their solution for problem #5
-4) As a whole class, discuss solutions and find the one with the least steps.
-5) **Individual work:** Students finish the rest of the worksheet.
+1) **Individual work:** Students work on the problems on Lesson 10 | Worksheet 2. Remind students to use arguments to solve the problems more efficiently.
+
 ,,,
 
-1) Students individually fill in the first 4 problems on their worksheet.
-2) Students write down their solution for problem #5.
-3) Students get a partner and discuss their answers.
-4) Students raise their hands to give their answers.
-5) Students individually finish the rest of the worksheet.
+1) Students individually fill in their worksheet.
 
 {% endtable %}

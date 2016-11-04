@@ -4,63 +4,98 @@
 {% header title='Overview', icon='activity' %}
 {% endheader %}
 
-Students program Pixel Bots to paint, focusing on sequence.
+In this lesson, students play with the order of commands in unplugged Pixel Bot exercises. The lesson explores a foundational concept in computer science—sequence.
 
 {% overviewSection title='Objectives', icon='objectives' %}
 {% endoverviewSection %}
 
-- Students will learn that computers run code in a sequence.
-- Students will learn how to read, write, and execute code in a sequence.
+- Know that computers run code in a sequence.
+- Read, write, and execute code in a sequence.
 
 {% overviewSection title='Agenda', icon='agenda' %}
 {% endoverviewSection %}
 
 #### Length: 45 minutes
 
-1. Welcome to coding (10 minutes)
-1. Predict pixel bot icons (15 minutes)
-1. Explain sequence (10 minutes)
-1. Read pixel bot sequence (10 minutes)
+**Demonstrate** how coders shape our world. (10 minutes) Present an array of examples of where we find code in the modern world. Consider autonomous cars, music, online communities. Watch "A Day in the Life of a Software Engineer" (http://tinyurl.com/q966xd5). 
 
-{% overviewSection title='Vocab', icon='vocab' %}
+<br>
+
+**Unearth** students’ ideas about computer sequencing. (15 minutes) Using [Lesson 1 | Warm-up Worksheet][warm-up]: Students develop ideas about how the arrow and paint elements work in Pixel Bot. Students step through and enact the two programs in the worksheet. Gather students’ ideas about computer sequencing and show how a slight change in sequence alters the outcome.  
+
+<br>
+
+**Demonstrate** how to read a program like a computer. (10 minutes) Draw a Pixel Bot program and grid on the whiteboard (3 or 4 lines of code, 3 x 3 grid). Work with students to step through and enact the program. Show the usefulness of numbering lines of code. Repeat a few times with new programs. 
+
+<br>
+
+**Support** students’ practice of reading programs. (10 minutes)
+Using Worksheet 1 | [Page 1][worksheet1-1] & [Page 2][worksheet1-2]: Students step through and enact the programs by tracing the route of the pixel bot and shading in any squares that it paints. (10 minutes)
+
+{% overviewSection title='Content Knowledge', icon='vocab' %}
 {% endoverviewSection %}
 
 - **Sequence** - The idea that statements must be performed in the order they are written.
 
-{% overviewSection title='Materials', icon='materials' %}
-{% endoverviewSection %}
+{% header title='Materials', icon='materials' %}
+{% endheader %}
 
-1. Lesson 1 | Worksheet 1
-1. Lesson 1 | Worksheet 2
+1. [Lesson 1 | Warm-up Worksheet][warm-up]
+1. Worksheet 1 | [Page 1][worksheet1-1] & [Page 2][worksheet1-2]
 1. Small pixel bot cutout for each student
 1. Magnetic pixel bot
 1. Scratch paper grids
 1. Pencils
 1. Whiteboard
+1. Queued up video: [http://tinyurl.com/q966xd5](http://tinyurl.com/q966xd5)
 
 {% header title='Welcome to coding', icon='objectives' %}
 {% endheader %}
 
+
 {% length '10 minutes' %}
 {% endlength %}
 
-Introduce students to the world of coding and get them excited about its endless possibilities.
-
-**Prep:** Queue up video [http://tinyurl.com/q966xd5](http://tinyurl.com/q966xd5)
-
 {% table %}
 
-1) Lead a discussion about coding and what it means to be a coder. Suggested script:
+1) Lead a discussion:
 
-Starting with this class you are now coders. What do you think it means to be a coder? Where is code used in our world?
-
-2) Chart student responses on the board.
-3) Fill in additional interesting uses for code on the board, such as autonomous cars, streetlights, music, etc.
-4) Watch video: A day in the life of a software engineer.
+```
+What does it mean to be a coder?
+```
+```
+Where do we use code?
+```
+Chart responses on the whiteboard.
+2) Offer other examples:
+```
+Autonomous cars
+Streetlights
+Music
+Flight simulators
+And on and on...
+```
+3) Watch video: A day in the life of a software engineer: [http://tinyurl.com/q966xd5](http://tinyurl.com/q966xd5)
 ,,,
 
-1) Students raise their hands to give responses to the questions.
-
+1)
+Coders:
+```
+Work on computers
+Hack things
+Create video games
+Make websites
+Work with data
+```
+Code runs in:
+```
+Phones
+Computers
+Traffic lights
+Spaceships
+Game consoles
+Movies and tv shows
+```
 {% endtable %}
 
 {% header title='Predict pixel bot icons', icon='eyes' %}
@@ -69,59 +104,101 @@ Starting with this class you are now coders. What do you think it means to be a 
 {% length '15 minutes' %}
 {% endlength %}
 
-Students individually predict the outcome of sequences and then regroup to discuss findings.
-
-**Prep:** Distribute Lesson 1 | Worksheet 1
-
 {% table %}
 
-1) Tell students: Before we can write code, we need to learn how to read code
-2) Discuss the symbols at the top of Lesson 1 | Worksheet 1 and ask students to speculate about what they mean.
-
-Answer:
-  - Up
-  - Down
-  - Right
-  - Left
-  - Paint
-3) **Individual Work:** Tell students to read the symbols on the worksheet and paint (color in) the correct square. While students are working on the worksheet, recreate the problems on the board.
-4) After they are finished, discuss the answers and how the students got to those answers. What is the difference between the two problems? Does the order of the icons matter?
-5) Students write in what each symbol means on their worksheets.
+1) Distribute [Lesson 1 | Warm-up Worksheet][warm-up].
+2) Introduce reading code with care:
+```
+Imagine being a computer when you read code.
+```
+```
+As computers, we read carefully. We pay attention to every detail. Every line of code.
+```
+3) Have students interpret the coding elements in the warm-up:
+```
+What do you think these elements do?
+```
+4) **Individual Work:** Have students fill out the worksheet.
+5) While students code, draw the worksheet's programs and grids on the whiteboard.
+6) Reflect on sequence:
+```
+How did you arrive at your answer?
+```
+```
+What is the difference between the two programs?
+```
+```
+How does the order of the icons matter?
+```
+7) Solve the two warm-up problems together on the whiteboard.
+8) Work as a class to define each element.
 
 ,,,
 
-2) Students raise their hands to give answers.
-3) Students work individually on their worksheet.
-4) Students raise their hands to give answers.
-5) Students write in what each symbols means on their worksheet.
+3)
+Possible Responses:
+```
+The bot rotates in place.
+The bot jumps.
+The bot moves until it hits the edge.
+The bot shoots lightning.
+```
+Correct Responses:
+```
+The bot moves one square at a time.
+The bot moves up, right, left, and down.
+The bot paints.
+```
+4) Trace the movement of the Bot. Paint with the Bot.
+6)
+I arrived at my answer by:
+```
+Reading one element at a time.
+Moving the bot after each element.
+Following the correct sequence.
+```
+The two programs:
+```
+Have elements in different orders.
+```
+Order matters because:
+```
+The bot paints a different square.
+```
+7) Call out lines of code and bot actions.
+8) Work as a class to figure out what each element makes the bot do.
 
 {% endtable %}
 
-{% header title='Explain sequence', icon='explain' %}
+{% header title='Demonstrate how to read and step through programs', icon='explain' %}
 {% endheader %}
 
 {% length '10 minutes' %}
 {% endlength %}
 
-Demonstrate how to read code by reading and stepping through three or four example programs.
-
-**Prep:**
-
-1. Draw a blank 3x3 grid on the whiteboard
-2. Write a short (3 line) program on the whiteboard
-
-
 {% table %}
 
-1) Explain that when a computer executes code, it runs it in the order that it is written. This is called sequence.
-2) Point to the program on the whiteboard and ask students, “What is the first line of code?” After they answer, put a number 1 next to the corresponding line. Move the pixel bot according to the line of code just numbered.
-3) Continue reading and stepping one line at a time. Trace the path of the pixel bot as it moves and shade in the squares whenever it paints.
-4) Show students three new examples (design these problems on the fly, making them interesting and complex enough), reading and stepping together as a class.
+1) Draw a blank 3x3 grid on the whiteboard.
+2) Write a short (3 or 4 line) program on the whiteboard.
+3) Explain sequence:
+```
+When a computer executes code, it steps through the code in the correct order. This is called sequencing.
+```
+4) Read the first line of code together:
+```
+What is the first line of code?
+```
+Number the first line of code.
+5) Move the Pixel Bot after reading each line. Trace its path or shade in a square.
+6) Continue reading and stepping one line at a time.
+7) Read and step through three new examples with the class. Design problems on the fly, making them interesting and complex enough.
 
 ,,,
 
-2) Students raise their hands to answer questions.
-4) Students follow along and offer answer for what each action does.
+4) Students call out the first line of code.
+5) Students call out where Pixel Bot should move.
+6) Students continue helping to read the code.
+
 
 {% endtable %}
 
@@ -131,15 +208,17 @@ Demonstrate how to read code by reading and stepping through three or four examp
 {% length '5 minutes' %}
 {% endlength %}
 
-Students individually practice reading code.
-
-**Prep:** Distribute Lesson 1 | Worksheet 2
-
 {% table %}
 
-1) **Individual Work:** Leave the worked example from the previous activity on the whiteboard. Ask students to individually fill out the worksheet. Remind students to trace the path of the pixel bot and to shade in squares whenever the pixel bot paints.
+1) Distribute Worksheet 1: [Page 1][worksheet1-1] & [Page 2][worksheet1-2].
+2) Leave the worked example from the previous activity on the whiteboard.
+3) **Individual Work:** Ask students to individually fill out the worksheet.
 ,,,
 
-1) Students read the code, trace the pathway of the pixel bot, and paint the correct blocks on the worksheet.
+3) Students read the code, trace the pathway of the pixel bot, and paint the correct blocks on the worksheet.
 
 {% endtable %}
+
+[warm-up]: ../worksheets/lesson1-warmup.pdf
+[worksheet1-1]: ../worksheets/lesson1-worksheet1-1.pdf
+[worksheet1-2]: ../worksheets/lesson1-worksheet1-2.pdf

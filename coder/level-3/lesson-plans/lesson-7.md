@@ -4,7 +4,7 @@
 {% header title='Overview', icon='activity' %}
 {% endheader %}
 
-Introduce arguments by having kids do a very repetitive task.
+Introduce arguments by having kids do a repetitive task.
 
 {% overviewSection title='Objectives', icon='objectives' %}
 {% endoverviewSection %}
@@ -29,13 +29,14 @@ Introduce arguments by having kids do a very repetitive task.
 {% overviewSection title='Materials', icon='materials' %}
 {% endoverviewSection %}
 
-1. Lesson 7 | Warm-up worksheet
-1. Lesson 7 | Worksheet 1
-1. Lesson 7 | Worksheet 2
-1. Laptops/Computers
+1. [Lesson 7 | Warm-up worksheet][warm-up]
+1. [Lesson 7 | Worksheet 1-1][worksheet1-1]
+2. [Lesson 7 | Worksheet 1-2][worksheet1-2]
+3. [Lesson 7 | Worksheet 1-3][worksheet1-3]
+1. [Lesson 7 | Worksheet 2][worksheet2]
 1. Scratch paper grids
-1. Small turtle cutout for each student
-1. Magnetic turtle
+1. Small pixel bot cutout for each student
+1. Magnetic pixel bot
 1. Scratch paper grids
 1. Pencils
 1. Whiteboard
@@ -50,19 +51,19 @@ Students solve a puzzle in a large pixelbot grid.
 
 **Prep:**
 
-- Draw the Pixel Bot image from Lesson 7 | Warm-up worksheet on the whiteboard
-- Distribute Lesson 7 | Warm-up worksheet
+- Draw the Pixel Bot image from [Lesson 7 | Warm-up worksheet][warm-up] on the whiteboard
+- Distribute [Lesson 7 | Warm-up worksheet][warm-up]
 
 {% table %}
 
-1) **Individual work:** Ask students to write code to create the image from Lesson 7 | Warm-up worksheet.
+1) **Individual work:** Ask students to write code to create the image from [Lesson 7 | Warm-up worksheet][warm-up].
 2) Randomly call on one student at a time to provide each next line of code.
-3) Discuss what made this particular picture difficult or frustrating to code?
+3) Discuss what made this particular picture difficult or frustrating to code.
 
 	Possible answer: It required a lot of code because of the size of the grid.
 ,,,
 
-1) Students individually fill out the Lesson 7 | Warm-up worksheet
+1) Students individually fill out the [Lesson 7 | Warm-up worksheet][warm-up]
 2) If called on, students provide the next line of code.
 3) Students raise their hands to provide an answer.
 
@@ -76,36 +77,25 @@ Students solve a puzzle in a large pixelbot grid.
 
 Explore golf swing and drill bit analogies that help students arrive at concept of parameters/arguments.
 
-**Prep:** Distribute Lesson 7 | Worksheet 1
+**Prep:** Distribute [Lesson 7 | Worksheet 1-1][worksheet1-1]
 
 {% table %}
 
-1) Model a golf swing for students. Show how the same golf swing is used for different clubs. Show the Lesson 7 | Worksheet 1 golf diagram on the board and walk students through it.
-2) Model using a drill for students. Show how the same drill motion is used for different drill bits. Show the Lesson 7 | Worksheet 1 drill bit diagram on the board and walk students through it.
-3) Point students’ attention to Lesson 7 | Worksheet 1. Ask students to find what is similar about the two situations depicted.
-4) **Individual work:** Ask students to write down an answer.
-5) With a partner, students discuss their findings.
-6) As a whole class, discuss the similarities between the two situations.
-7) Demonstrate how to use arguments in code
-  - Start with the golf club example. As a class come up with a name for the function that swings the golf club: Ex. golfSwing()
-  - Show students passing an argument with the first club. To pass an argument, add it between the parentheses of the function call: `golfSwing( 9 )`.
-  - Ask students what the 9 represents in this case.
-
-	Answer: The 9 represent the #9 golf club.
-  - Ask students to predict the output of that function: Would the ball arc high into the air or low to the ground?
-
-  Answer: High into the air.
-  - Student write down the example on their worksheet and then fill in the function calls for the other two examples.
-  - Repeat the process for the drill and drill bits.
-
+1) **Individual work:** Ask students to fill out [Lesson 7 | Worksheet 1-1][worksheet1-1].
+2) As a whole class, pool students' ideas.
+3) **Individual work:** Hand out [Lesson 7 | Worksheet 1-2][worksheet1-2] and ask students to give it a try.
+4) Discuss how to write the proper syntax for the golf and drill bit programs. Write a few examples of the syntax on the board and ask students to predict how far the ball would go or how big the hole would be.
+5) **Individual work:** Hand out the next [Lesson 7 | Worksheet 1-3][worksheet1-3] Cont'd and ask students to map these ideas over to pixel bot.
+6) Discuss students' ideas for Question 6.
   Answer: The process is exactly the same (the golf swing never changes; the drill and the drill motion never change), but we can customize the output by changing the inputs (golf club, drill bit).
 ,,,
 
-3) Students look at Lesson 7 | Worksheet 1
-4) Students individually write down their answers on the worksheet.
-5) Students get with a partner and discuss their answers.
-6) Students raise their hands to offer answers.
-7) Students raise their hands to provide answers
+1) Students fill out Lesson 7 | Worksheet 1-1.
+2) Students share ideas.
+3) Students fill out [Lesson 7 | Worksheet 1-2][worksheet1-2].
+4) Students predict the teacher's code.
+5) Students fill out next part of [Lesson 7 | Worksheet 1-3][worksheet1-3].
+6) Students raise their hands to provide answers
 
 {% endtable %}
 
@@ -126,7 +116,7 @@ Explain how to use arguments through observation.
 
 Example: `up( 5 )`
 
-3) Ask students what they think the argument will do in the case of the movements?
+3) Ask students to say once again what the argument will do in the case of the movements?
 
 Answer: The number controls how many spaces to move in that direction.
 
@@ -157,15 +147,20 @@ Students use arguments to solve coding challenges.
 
 **Prep:**
 
-- Distribute Lesson 7 | Worksheet 2
-- Draw problem 5 from Lesson 7 | Worksheet 2 on the board
+- Distribute [Lesson 7 | Worksheet 2][worksheet2]
 
 {% table %}
 
-1) **Individual work:** Students work on the problems on Lesson 7 | Worksheet. Remind students to use arguments to solve the problems more efficiently.
+1) **Individual work:** Students work on the problems on [Lesson 7 | Worksheet 2][worksheet2]. Remind students to use arguments to solve the problems more efficiently.
 
 ,,,
 
 1) Students individually fill in the problems on their worksheet.
 
 {% endtable %}
+
+[warm-up]: ../worksheets/lesson7-warmup.pdf
+[worksheet1-1]: ../worksheets/lesson7-worksheet1-1.pdf
+[worksheet1-2]: ../worksheets/lesson7-worksheet1-2.pdf
+[worksheet1-3]: ../worksheets/lesson7-worksheet1-3.pdf
+[worksheet2]: ../worksheets/lesson7-worksheet2.pdf

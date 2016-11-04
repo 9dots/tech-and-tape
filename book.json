@@ -1,19 +1,13 @@
 {
-  "gitbook": "3.x.x",
+  "gitbook": "3.2.2",
   "structure": {
       "summary": "SUMMARY.md"
   },
-  "plugins": ["edit-link", "prism", "-highlight", "tasklist", "toggle-chapters"],
+  "plugins": ["tasklist", "toggle-chapters", "markedx", "mdx-components", "9dots-style"],
   "pluginsConfig": {
-    "edit-link": {
-      "base": "https://github.com/9dots/get-coding-curricula/tree/master"
-    },
     "github": {
       "url": "https://github.com/9dots/get-coding-curricula"
-    }
-  },
-  "pdf": {
-    "paperSize": "letter",
-    "paperLayout": "landscape"
+    },
+    "theme": "./theme.js"
   }
 }
