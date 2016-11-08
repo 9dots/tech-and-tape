@@ -105,10 +105,9 @@ The chili peppers represent the level of difficulty of a card. Four peppers is t
 
 ![salsacards](./images/salsacards.jpeg)
 
-<note>
 ###### Slides:
-![salsa-slides](./images/slides-salsa.jpeg)
-</note>
+![salsa-slides](./images/slides-salsa1.jpeg)
+![salsa-slides](./images/slides-salsa2.jpeg)
 </notable>
 
 
