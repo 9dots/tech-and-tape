@@ -66,7 +66,7 @@ In this lesson students explore and predict how they can use loops to more effic
 	- While one group completes a coding lesson with the teacher, the other group practices a coding concept independently.
 	- Halfway through class the groups will switch so that everyone completes both sets of activities.
 
-<note type='tip'>
+<note type='tip' title='Tip'>
 _For younger students and students not used to moving around the classroom, have them practice the transition between groups while practicing moving quickly and safely to their new seat. Use a timer to encourage speed._
 </note>
 
@@ -79,7 +79,7 @@ _For younger students and students not used to moving around the classroom, have
 - [ ] **Practice Sequence Debugging:** Instruct students to move their rover around their paper maze to **identify where in the given sequence there is a bug**. Students can use a dry erase marker to tick off each line of code as it is completed. 
 ![sequence](./images/sequence.png)
 
-<note type='reminder' title='reminders'>
+<note type='reminder' title='Reminders'>
 - Students may need to be reminded what a sequence is: the order in which the code is given.
 - Students may also need a remind of what 90 degrees clockwise and counterclockwise means.
 </note>
