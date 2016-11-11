@@ -13,7 +13,8 @@ Students practice reading code by predicting and stepping through the code of en
 **Small Group: (20 min)**
 1. **Engage:** Super Mario (5 min)
 1. **Elaborate:** Stepping Through Loops (10 min)
-1. **Evaluate:** Salsa Practice (5 min)
+1. **Evaluate:** Salsa Practice (5 min)  
+
 **Independent Coding Practice: (20 min)** [Code.org Course 2 Stage 8: Bee Loops](https://studio.code.org/s/course2/stage/8/puzzle/1)
 
 <note>
