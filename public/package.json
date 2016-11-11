@@ -1,11 +1,11 @@
 {
   "name": "get-coding-curricula",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "description": "get coding curricula",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "release": "make teacherbooks; make workbooks; gitbook build . public; firebase deploy; git add .; git commit -am 'new release'; npm version patch;",
+    "release": "gitbook build . public; firebase deploy;",
     "postversion": "git push && git push --tags"
   },
   "repository": {
@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/9dots/get-coding-curricula#readme",
   "dependencies": {
-    "gitbook-plugin-9dots-style": "0.1.4",
+    "gitbook-plugin-9dots-style": "^0.1.5",
     "gitbook-plugin-collapsible-menu": "^1.0.2",
     "gitbook-plugin-highlight": "^2.0.2",
     "gitbook-plugin-markedx": "0.1.17",

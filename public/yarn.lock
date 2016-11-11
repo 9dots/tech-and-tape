@@ -1738,9 +1738,9 @@ gitbook-cli:
     tmp "0.0.28"
     user-home "2.0.0"
 
-gitbook-plugin-9dots-style@0.1.4:
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/gitbook-plugin-9dots-style/-/gitbook-plugin-9dots-style-0.1.4.tgz#e575ae368235b9bcda423259f3306765e05442be"
+gitbook-plugin-9dots-style:
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/gitbook-plugin-9dots-style/-/gitbook-plugin-9dots-style-0.1.5.tgz#d41f90cf2b0bd076f4e6761ea48d1373c9978c52"
 
 gitbook-plugin-collapsible-menu@^1.0.2:
   version "1.0.2"
