@@ -1758,9 +1758,9 @@ gitbook-plugin-markedx@0.1.17:
   dependencies:
     markedx "0.1.15"
 
-gitbook-plugin-mdx-components:
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/gitbook-plugin-mdx-components/-/gitbook-plugin-mdx-components-0.1.5.tgz#0c121648094b946f4d285eec96e90a92c71c2d3b"
+gitbook-plugin-mdx-components@0.1.7:
+  version "0.1.7"
+  resolved "https://registry.yarnpkg.com/gitbook-plugin-mdx-components/-/gitbook-plugin-mdx-components-0.1.7.tgz#ce0fe18485909acbf0a0b1f0cb9303e47a3201ad"
   dependencies:
     "@f/foreach" "^1.2.2"
     "@f/switch" "^1.0.1"
