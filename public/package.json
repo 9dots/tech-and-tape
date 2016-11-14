@@ -1,6 +1,6 @@
 {
   "name": "get-coding-curricula",
-  "version": "0.1.15",
+  "version": "0.1.17",
   "description": "get coding curricula",
   "main": "index.js",
   "scripts": {
@@ -27,5 +27,8 @@
     "gitbook-plugin-prism": "^1.1.0",
     "gitbook-plugin-tasklist": "0.5.10",
     "gitbook-plugin-toggle-chapters": "^0.0.3"
+  },
+  "devDependencies": {
+    "gitbook-cli": "^2.3.0"
   }
 }

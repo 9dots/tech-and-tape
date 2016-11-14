@@ -55,7 +55,7 @@ Pods of four.
 {% header title='Pixel Bots: Write Code Warm-up', icon='vocab' %}
 {% endheader %}
 
-{% length '15 minutes' %}
+{% length '10 minutes' %}
 {% endlength %}
 
 Students write code for a simple pixel bot image.
