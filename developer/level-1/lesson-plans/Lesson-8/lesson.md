@@ -122,11 +122,14 @@ In this lesson students identify repeating patterns in a sequence and replace th
 > > "This is what the enemy looks like when we run our code in Scratch."
 <br/>
 
+- [ ] Students practice the same process with enemies 4, 5, and 6 on their handouts.
+
 <strong>Slides</strong>
 
 ![slides1](./images/slides-loops1.jpeg)
 ![slides2](./images/slides-loops2.jpeg)
+![slides3](./images/slides-loops3.jpeg)
 </notable>
 
 [slide-show]: https://docs.google.com/presentation/d/1qY2UHzrIAYHKvO47l1gtxVDtr68lObRKzMVWHIrS888/edit?usp=sharing
-[code-handouts]: something
+[code-handouts]: https://drive.google.com/file/d/0B2wBzr9vcXjPbmZZRHVNVTcwM2M/view?usp=sharing
