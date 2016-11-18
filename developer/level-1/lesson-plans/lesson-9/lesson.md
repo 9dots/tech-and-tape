@@ -27,7 +27,7 @@ We want to establish a coding learning culture where students identify as coders
 
 ###### Student Materials: 
 - [ ] Pencil
-- [ ] Independent Coding Challenge (class set)
+- [ ] [Independent Coding Challenge][icc]
 - [ ] Index Cards (class set)
 - [ ] Rovers (class set)
 - [ ] Student Surveys (class set)
@@ -115,3 +115,5 @@ We want to establish a coding learning culture where students identify as coders
 </note>
 
 </notable>
+
+[icc]: https://docs.google.com/document/d/1Yf3NHLkcZu8F6c9p7GSH7QXo0dGf6nhD9HzYe7cweHE/edit?usp=sharing 
