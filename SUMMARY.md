@@ -32,3 +32,5 @@
     * [Lesson 4: Dance Off](developer/level-1/lesson-plans/lesson-4.md)
     * [Lesson 5: In the Loop](developer/level-1/lesson-plans/lesson-5/lesson.md)
     * [Lesson 7: Read Loops 2](developer/level-1/lesson-plans/lesson-7/lesson.md)
+    * [Lesson 8: Enemies on Patrol](developer/level-1/lesson-plans/lesson-8/lesson.md)
+    * [Lesson 9: Independent Coding Challenge](developer/level-1/lesson-plans/lesson-9/lesson.md)
