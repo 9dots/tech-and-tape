@@ -24,6 +24,7 @@
     * [coding arguments in JS](coder/level-3/lesson-plans/lesson-7.md)
     * [practicing arguments](coder/level-3/lesson-plans/lesson-8.md)
     * [fire ice and squirrels](coder/level-3/lesson-plans/lesson-9.md)
+    * [pixelbot colors](coder/level-3/lesson-plans/lesson-10.md)
 * [developer](developer/README.md)
   * [level 1](developer/level-1/README.md)
     * [Lesson 1: I am a coder](developer/level-1/lesson-plans/lesson-1.md)
