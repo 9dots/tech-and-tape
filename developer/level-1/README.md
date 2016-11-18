@@ -11,3 +11,7 @@ Students begin applying core coding concepts into an Escape the Maze project. In
 - [Lesson 3: Maze Scavenger Hunt](../level-1/lesson-plans/lesson-3.html)
 - [Lesson 4: Dance Off](../level-1/lesson-plans/lesson-4.html)
 - [Lesson 5: In the Loop](../level-1/lesson-plans/lesson-5/lesson.html)
+- [Lesson 6: Rover Paint](../level-1/lesson-plans/lesson-6/lesson.html)
+- [Lesson 7: Read Loops 2](../level-1/lesson-plans/lesson-7/lesson.html)
+- [Lesson 8: Enemies on Patrol](../level-1/lesson-plans/lesson-8/lesson.html)
+- [Lesson 9: Independent Coding Challenge](../level-1/lesson-plans/lesson-9/lesson.html)

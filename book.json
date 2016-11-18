@@ -3,7 +3,7 @@
   "structure": {
       "summary": "SUMMARY.md"
   },
-  "plugins": ["tasklist", "toggle-chapters", "markedx", "mdx-components", "9dots-style"],
+  "plugins": ["tasklist", "toggle-chapters", "markedx", "mdx-components", "9dots-style", "lunr"],
   "pluginsConfig": {
     "github": {
       "url": "https://github.com/9dots/get-coding-curricula"

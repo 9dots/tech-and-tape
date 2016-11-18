@@ -2,3 +2,5 @@ node_modules
 _book
 .git
 .DS_Store
+public
+book
