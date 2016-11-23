@@ -1,4 +1,4 @@
-<header class='header' title='Lesson 8' subtitle='Enemies on Patrol'/>
+<header class='header' title='Lesson 8' subtitle='Code the Enemy (Write Loops)'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -12,8 +12,8 @@ In this lesson students identify repeating patterns in a sequence and replace th
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 **Small Group: (20 min)**
-1. **Explore:** Code the Enemy (5 min)
-1. **Explain:** Translating Patterns to Loops (15 min)  
+1. **Explore:** Patterns in Cubes (10 min)
+1. **Explain:** Patterns in Loops (10 min)  
 
 **Independent Coding Practice: (20 min)** [Continue on Code.org](https://studio.code.org/s/course2/stage/8/puzzle/1)
 
@@ -22,9 +22,6 @@ In this lesson students identify repeating patterns in a sequence and replace th
 ###### Teacher Materials:
 - [ ] [Lesson 8 Slides][slide-show]
 - [ ] Projector
-- [ ] Unplugged Platform 
-- [ ] Piece of Paper 
-- [ ] Teacher Scratch Blocks
 
 ###### Student Materials: 
 - [ ] Index cards (1 per student)
@@ -34,11 +31,11 @@ In this lesson students identify repeating patterns in a sequence and replace th
 - [ ] [Code Handouts] [code-handouts]
 - [ ] Student Code Blocks: repeat, 2 moves, turn, 2 waits
 - [ ] Computers
+- [ ] Unific Cubes
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
 - **Loop:** A sequence of instructions that is continually repeated until a certain condition is reached.
-- **For-Loop:** A type of loop that specifies the number of times to repeat the nested sequence of instructions.
 
 </note>
 
@@ -56,51 +53,83 @@ In this lesson students identify repeating patterns in a sequence and replace th
 - [ ] action item
 </note>
 <pagebreak/>
-## 1. Explore: Code the Enemy (5 min)
+## 1. Explore: Patterns in Cubes (10 min)
 
-- [ ] **Introduce:** Remind students of the Escape the Maze game. We are going to write the code for one of the enemies to patrol the maze. Connect this to the ideas they came up with in lesson 2 to improve on the game and make it more challenging. 
-<note> 
-![slides1](./images/slides-code-the-enemy1.jpeg)
+- [ ] Handout containers of unifix cubes so each student has enough to build their own pattern.
+
+> > "Today we are going to practice finding patterns because loops are really just patterns."
+
+- [ ] Students build the pattern shown on the board.
+
+> > "Build this pattern using the cubes at your table."
+
+![pattern1](./images/unifix-cubes-pattern1.jpeg)
+
+- [ ] Identify the repeating section of code and break that section off. 
+
+<iconp type='question'>What is repeating in this pattern?</iconp>
+<br/>
+- [ ] Have students break apart the pattern into its repeating sections. Verify that they all match by lining them up. 
+
+<iconp type='question'>How many times does the section repeat itself?</iconp>  
+<br/>
+- [ ] Build a "loop" with student code blocks
+
+> > "Place one of the repeating sections inside a loop block. Write in the number of times the section repeats."
+![cubes-slides](./images/slides-cubes1.jpeg)
+
+- [ ] Optional: Repeat the process with a second pattern if students need more practice.
+![cubes-slides2](./images/slides-cubes2.jpeg)
+
+## 2. Explain: Patterns in Loops (10 min)
+
+- [ ] Handout the code worksheet.
+
+> > “Now we’re going to do the same process to translate a sequence of code to a loop.”
+
+<br/>
+<note>
+<strong>Slides</strong>
+![slides-why](./images/slides-why.jpeg)
 </note>
-- [ ] **Plan:** Act out the movement on the unplugged maze. Use sticky notes to mark which tiles the enemy is moving between. Students can also draw this movement on their maze handout.
-<note> 
-![slides2](./images/slides-code-the-enemy2.jpeg)
+
+- [ ] Explain the "why" of this lesson & show the slide of enemies moving.
+
+> > “This lesson will help us write the code that will make our enemies patrol our maze.”
+
+- [ ] Identify the repeating section of code.
+
+<iconp type='question'> What is repeating in this pattern? Circle the section of code each time it repeats.</iconp>
+<iconp type='answer'>See slides</iconp>
+<br/>
+<iconp type='question'>How many times does the section of code repeat itself?</iconp>
+<iconp type='answer'>See slides</iconp>
+
+<note type='key' title='To Write a Loop:'>
+1. Identify the repeating element of a pattern and how many times it repeats.
+1. Place the repeating section of code within the loop’s mouth.
+1. Place the number of times the pattern repeats as the loop’s argument.
 </note>
-- [ ] **Code:** The writer uses the magnetic code strips on the board to code the enemy’s movements.
-<note> 
-![slides3](./images/slides-code-the-enemy3.jpeg)
-</note>
-<iconp type='question'>What pattern do you see in the enemy's movement?</iconp>
-<iconp type='answer'>The enemy is moving backwards and forwards.</iconp>  
+
+- [ ] Build a loop in pairs
+
+> > "At your table use your code blocks to build the repeating section of code and place it inside the loop. The argument is the number of repeating sections you have.”
 
 <br/>
 
-<iconp type='question'>How would we write the code that makes our enemy patrol this part of the maze?</iconp>
-<iconp type='answer'>Remind students that in Scratch we use a negative number to move backwards.</iconp>
+- [ ] Show the slides of the loops executing in Scratch.
 
-![enemy sequence](./images/enemy-sequence.jpeg)
-
-
-<iconp type='question'>What pattern do you see in the enemy’s code?</iconp>
-<iconp type='answer'>Move 4, Move -4 repeats. Have them circle the repeating pattern.</iconp>
-
+> > "This is what the enemy looks like when we run our code in Scratch."
 <br/>
 
-<iconp type='question'>What loop could we use to represent the pattern and shorten our code?</iconp>
-<iconp type='answer'>Nest two move blocks in a repeat 4 loop. Remind students that in Scratch we use a negative number to move backwards.</iconp>
+- [ ] Students practice the same process with enemies 4, 5, and 6 on their handouts.
 
-![enemy loop](./images/enemy-loop.jpeg)
+<strong>Slides</strong>
 
-<iconp type='question'> **Extension Question:** How would we change our code if we wanted the enemy to continue to patrol the maze until game play ends?</iconp>
-<iconp type='answer'>Change the repeat loop to a forever loop.</iconp>
-
-<br/>
-- [ ] **Validate:** The whole group acts as the computer, reading each line outloud while using the index card.
-
-
-## 2. Explain: Translating Patterns to Loops (15 min)
-
+![slides1](./images/slides-loops1.jpeg)
+![slides2](./images/slides-loops2.jpeg)
+![slides3](./images/slides-loops3.jpeg)
 </notable>
 
-[slide-show]: https://docs.google.com/presentation/d/1qY2UHzrIAYHKvO47l1gtxVDtr68lObRKzMVWHIrS888/edit#slide=id.p
-[code-handouts]: something
+[slide-show]: https://docs.google.com/presentation/d/1qY2UHzrIAYHKvO47l1gtxVDtr68lObRKzMVWHIrS888/edit?usp=sharing
+[code-handouts]: https://drive.google.com/file/d/0B2wBzr9vcXjPbmZZRHVNVTcwM2M/view?usp=sharing

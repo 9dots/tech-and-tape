@@ -1738,9 +1738,9 @@ gitbook-cli:
     tmp "0.0.28"
     user-home "2.0.0"
 
-gitbook-plugin-9dots-style@0.1.4:
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/gitbook-plugin-9dots-style/-/gitbook-plugin-9dots-style-0.1.4.tgz#e575ae368235b9bcda423259f3306765e05442be"
+gitbook-plugin-9dots-style:
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/gitbook-plugin-9dots-style/-/gitbook-plugin-9dots-style-0.1.5.tgz#d41f90cf2b0bd076f4e6761ea48d1373c9978c52"
 
 gitbook-plugin-collapsible-menu@^1.0.2:
   version "1.0.2"
@@ -1752,15 +1752,23 @@ gitbook-plugin-highlight@^2.0.2:
   dependencies:
     highlight.js "9.2.0"
 
+gitbook-plugin-lunr:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/gitbook-plugin-lunr/-/gitbook-plugin-lunr-1.2.0.tgz#f3e80ec76512fbdb75eb0524aa82b8dff12a50ab"
+  dependencies:
+    gitbook-plugin-search "*"
+    html-entities "1.2.0"
+    lunr "0.5.12"
+
 gitbook-plugin-markedx@0.1.17:
   version "0.1.17"
   resolved "https://registry.yarnpkg.com/gitbook-plugin-markedx/-/gitbook-plugin-markedx-0.1.17.tgz#fa57d1962733f84bbc52ecd31a5305e7c619f382"
   dependencies:
     markedx "0.1.15"
 
-gitbook-plugin-mdx-components:
-  version "0.1.5"
-  resolved "https://registry.yarnpkg.com/gitbook-plugin-mdx-components/-/gitbook-plugin-mdx-components-0.1.5.tgz#0c121648094b946f4d285eec96e90a92c71c2d3b"
+gitbook-plugin-mdx-components@0.1.7:
+  version "0.1.7"
+  resolved "https://registry.yarnpkg.com/gitbook-plugin-mdx-components/-/gitbook-plugin-mdx-components-0.1.7.tgz#ce0fe18485909acbf0a0b1f0cb9303e47a3201ad"
   dependencies:
     "@f/foreach" "^1.2.2"
     "@f/switch" "^1.0.1"
@@ -1774,6 +1782,10 @@ gitbook-plugin-prism@^1.1.0:
   resolved "https://registry.yarnpkg.com/gitbook-plugin-prism/-/gitbook-plugin-prism-1.1.0.tgz#89e63155e98b329357ace00dd0b10b4605c60071"
   dependencies:
     prismjs "1.5.1"
+
+gitbook-plugin-search@*:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/gitbook-plugin-search/-/gitbook-plugin-search-2.2.1.tgz#6d25b5a776990fa98fdfdfa37de331f78e0f6b13"
 
 gitbook-plugin-tasklist@0.5.10:
   version "0.5.10"
@@ -1901,6 +1913,10 @@ home-or-tmp@^2.0.0:
 hosted-git-info@^2.1.4, hosted-git-info@^2.1.5, hosted-git-info@~2.1.4, hosted-git-info@~2.1.5:
   version "2.1.5"
   resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.1.5.tgz#0ba81d90da2e25ab34a332e6ec77936e1598118b"
+
+html-entities@1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/html-entities/-/html-entities-1.2.0.tgz#41948caf85ce82fed36e4e6a0ed371a6664379e2"
 
 htmlparser2@^3.9.1:
   version "3.9.2"
@@ -2267,6 +2283,10 @@ lru-cache@~4.0.1:
 lru-cache@2:
   version "2.7.3"
   resolved "https://registry.yarnpkg.com/lru-cache/-/lru-cache-2.7.3.tgz#6d4524e8b955f95d4f5b58851ce21dd72fb4e952"
+
+lunr@0.5.12:
+  version "0.5.12"
+  resolved "https://registry.yarnpkg.com/lunr/-/lunr-0.5.12.tgz#a2f6b7d7801cbe2ccb1696da67f1f7788f89e0c8"
 
 marked@^0.3.6:
   version "0.3.6"
