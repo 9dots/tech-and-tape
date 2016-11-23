@@ -1,7 +1,13 @@
 # Summary
 
 * [introduction](README.md)
-* [preCoder](precoder/README.md)
+* [precoder](precoder/README.md)
+  * [level 1](precoder/level-1/README.md)
+    * [Lesson 1: Mystery Robot](precoder/level-1/lesson-plans/lesson-1/lesson.md)
+    * [Lesson 2: turtleMove Part I](precoder/level-1/lesson-plans/lesson-2/lesson.md)
+    * [Lesson 3: turtleMove Part II](precoder/level-1/lesson-plans/lesson-3/lesson.md)
+    * [Lesson 4: Turtle Steps](precoder/level-1/lesson-plans/lesson-4/lesson.md)
+    * [Lesson 5: Pixel Bot](precoder/level-1/lesson-plans/lesson-5/lesson.md)
 * [coder](coder/README.md)
   * [level 2](coder/level-2/README.md)
     * [sequencing pixels](coder/level-2/lesson-plans/lesson-1.md)
