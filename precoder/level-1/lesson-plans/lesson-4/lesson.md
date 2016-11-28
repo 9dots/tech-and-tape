@@ -21,14 +21,14 @@ I can read a 2-5 block sequence of code.
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Projector
-- [ ] Slideshow
-- [ ] Board Token
+- [ ] [Slideshow][slide-show]
+- [ ] [Board Token][token]
 
 ###### Student Materials:
 - [ ] Dry Erase Markers
-- [ ] Tokens
-- [ ] Independent Practice Worksheet
-- [ ] Exit Ticket
+- [ ] [Tokens][token]
+- [ ] [Independent Practice Worksheet][ind-practice]
+- [ ] [Exit Ticket][exit-ticket]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
@@ -39,6 +39,8 @@ I can read a 2-5 block sequence of code.
 <pagebreak/>
 
 ## Room Design
+
+![room](./images/layout-tables.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
@@ -108,3 +110,8 @@ I can read a 2-5 block sequence of code.
 - [ ] Have students complete the exit ticket to check for understanding.
 
 </notable>
+
+[slide-show]: https://drive.google.com/open?id=1bK9-uPRxR7YiNm53pGFELiFsjBXf4OoWYIXw8oo5WE0
+[token]: https://drive.google.com/open?id=0B48_2vIyABioVjJucTBqNE1ELUE
+[ind-practice]: https://drive.google.com/open?id=0B48_2vIyABioN2RPX0dqZVhzbjg
+[exit-ticket]: https://drive.google.com/open?id=0B48_2vIyABioTHlfWFJKY3d2MHc

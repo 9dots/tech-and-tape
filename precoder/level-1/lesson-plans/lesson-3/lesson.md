@@ -21,14 +21,14 @@ In lesson 3 students continue to develop an understanding of how to use commands
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Projector
-- [ ] Slideshow
+- [ ] [Slideshow][slide-show]
 - [ ] Floor Grid
-- [ ] Paper Star
+- [ ] [Paper Star][paper-star]
 
 ###### Student Materials:
-- [ ] Paper Game Controller
-- [ ] Independent Practice Worksheet
-- [ ] Exit Ticket
+- [ ] [Paper Game Controller][game-controllers]
+- [ ] [Independent Practice Worksheet][ind-practice]
+- [ ] [Exit Ticket][exit-ticket]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
@@ -39,6 +39,8 @@ In lesson 3 students continue to develop an understanding of how to use commands
 <pagebreak/>
 
 ## Room Design
+
+![room](./images/layout-rug-grid.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
@@ -104,3 +106,9 @@ In lesson 3 students continue to develop an understanding of how to use commands
 - [ ] Have students complete the exit ticket to check for understanding.
 
 </notable>
+
+[slide-show]: https://drive.google.com/open?id=1sEgDN-IjoNcAdUqGP7Vlm5bqLMkpUa1Agt_x6rCLoTU
+[paper-star]: https://drive.google.com/open?id=0B48_2vIyABioelNBOFh0VHhWaEE
+[game-controllers]: https://drive.google.com/open?id=0B48_2vIyABioRVJkODVORy1FNEk
+[ind-practice]: https://drive.google.com/open?id=0B48_2vIyABioRlNJQjhjMlJSUU0 
+[exit-ticket]: https://drive.google.com/open?id=0B48_2vIyABioU0FPUVlXaXBQcU0

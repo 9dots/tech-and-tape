@@ -21,7 +21,7 @@ I can write a 2-5 block sequence of code.
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Projector
-- [ ] Slideshow
+- [ ] [Slideshow][slide-show]
 
 ###### Student Materials:
 - [ ] Computers
@@ -36,6 +36,8 @@ I can write a 2-5 block sequence of code.
 <pagebreak/>
 
 ## Room Design
+
+![room](./images/layout-computer.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
@@ -106,3 +108,5 @@ I can write a 2-5 block sequence of code.
 - [ ] Monitor the room to ensure all students are finished.
 
 </notable>
+
+[slide-show]: https://drive.google.com/open?id=1ean8naFUkfNz0ntGLzHQzfmtFkctSoI8hKEruMHbujQ

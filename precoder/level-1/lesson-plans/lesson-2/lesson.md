@@ -18,15 +18,15 @@ In lesson 2 students begin to develop an understanding of how to use commands to
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Projector
-- [ ] Slideshow
+- [ ] [Slideshow][slide-show]
 - [ ] Toothbrush
 - [ ] Tube of Toothpaste
 - [ ] Floor Grid
-- [ ] Paper Star 
+- [ ] [Paper Star][paper-star] 
 
 ###### Student Materials:
-- [ ] Paper Game Controllers
-- [ ] Direction Cards
+- [ ] [Paper Game Controllers][paper-controllers]
+- [ ] [Direction Cards][direction-cards]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
@@ -37,6 +37,8 @@ In lesson 2 students begin to develop an understanding of how to use commands to
 <pagebreak/>
 
 ## Room Design
+
+![room](./images/layout-rug-grid.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
@@ -105,3 +107,8 @@ Debrief the activity with a discussion.
 <iconp type='answer'>I pressed the arrow buttons on the controller.</iconp>
 
 </notable>
+
+[slide-show]: https://drive.google.com/open?id=1Ff8QsgmBG1q5Pa-Kq14IPe-3HArs8f7EAW73lxKFVBk
+[paper-star]: https://drive.google.com/open?id=0B48_2vIyABioelNBOFh0VHhWaEE
+[paper-controllers]: https://drive.google.com/open?id=0B48_2vIyABioRVJkODVORy1FNEk
+[direction-cards]: https://drive.google.com/open?id=0B48_2vIyABioRm5NbkN4VGxZU2s

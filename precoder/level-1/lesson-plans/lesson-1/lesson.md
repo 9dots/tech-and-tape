@@ -19,12 +19,12 @@ In lesson 1 students are introduced to the concept of productive failure. Studen
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Projector
-- [ ] Slideshow
-- [ ] Robot Cards 
+- [ ] [Slideshow][slide-show]
+- [ ] [Robot Cards][robot-cards] 
 - [ ] Book: The Most Magnificent Thing
 
 ###### Student Materials:
-- [ ] Robot Boards
+- [ ] [Robot Boards][robot-boards]
 - [ ] Dry Erase Markers
 
 </note>
@@ -33,7 +33,7 @@ In lesson 1 students are introduced to the concept of productive failure. Studen
 
 ## Room Design
 
-![room](./images/room-layout.png)
+![room](./images/layout-rug.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
@@ -128,3 +128,7 @@ Debrief the activity with a discussion.
 
 
 </notable>
+
+[slide-show]: https://drive.google.com/open?id=1bIGou3ARKNB78DqcmsXUgywcwctqkx-pHWLKNK5IzpU
+[robot-boards]: https://drive.google.com/open?id=0B48_2vIyABioa0Z0WXFfbFllaGc
+[robot-cards]: https://drive.google.com/open?id=0B48_2vIyABioRWN5b2ZtM0JWcE0
