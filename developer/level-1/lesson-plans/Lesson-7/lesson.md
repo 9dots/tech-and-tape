@@ -11,7 +11,7 @@ Students practice reading code by predicting and stepping through the code of en
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 **Small Group: (20 min)**
-1. **Engage:** Super Mario (5 min)
+1. **Engage:** Enemies (5 min)
 1. **Elaborate:** Stepping Through Loops (10 min)
 1. **Evaluate:** Salsa Practice (5 min)  
 
@@ -57,14 +57,27 @@ Students practice reading code by predicting and stepping through the code of en
 </note>
 
 <pagebreak/>
-## Engage: Super Mario (5 min)
-- [ ] **Unearth loops in examples of video games:** Students turn to the next blank page in their idea journal and title it Loops. Play the Super Mario Bros. video and have students create a list of examples of actions that may be coded as a loop in the video game.
+## Engage: Enemies (5 min)
+- [ ] Students setup their journals to make a list.
+
+> > "On the next blank page of your idea journal, setup a page that looks like what you see on the board."
+<br/>
+- [ ] **Unearth loops in the maze:** Students write a list of movements that may be coded as a loop in their idea journals.
+
+> > "List all the loops you see."
+<br/>
+- [ ] [Think Pair Share:][tps] Students share their list of loops.
+
+> > "Turn to your table partner and share what loops you listed."
+<br/>
+- [ ] **Present the Why**
+
+> > "This lesson will allow us to write the code to make our maze look like this."
 
 <note type='key' title='Key Points'> 
 Loops allow us to repeat sequences without having to write out the entire sequence multiple times.
 </note>
 
-- [ ] [Think Pair Share:][tps] Students share their list of loops.
 
 ###### Slides:
 ![donow-slides](./images/slides-do-now.jpeg)
@@ -73,6 +86,9 @@ Loops allow us to repeat sequences without having to write out the entire sequen
 ## Elaborate: Support Stepping Through Loops: (10 min)
 
 - [ ] Show students the code for Enemy 1.
+
+> > "Let's look at this code for one of the enemies in the maze."
+
 <iconp type='question'>What do you predict this code will do?</iconp>
 <iconp type='answer'>Answers will vary</iconp>
 
@@ -81,10 +97,14 @@ The "Wait 1 secs" block is necessary in Scratch to be able to see the Sprite's m
 </note>
 
 - [ ] Step through the code using the strategy from lesson 6:
-	- Demonstrate uncovering each line one at a time using a sheet of paper (students use an index card). 
-	- Make a  mark at the end of the sequence each time you complete a loop.
 
-- [ ] For grades proficient in writing: Students write a sentence summary in their idea journals of each enemy’s movements.
+> > "On your paper follow along as we step through this code. Move your index card to uncover each line one at a time. Make a  mark at the end of the sequence each time you complete a loop."
+<br/>
+
+- [ ] For grades proficient in writing: Students write a sentence summary on their paper of each enemy’s movements.
+
+> > "Summarize how the enemy moved."
+<br/>
 
 - [ ] Repeat this process for Enemies 2 & 3. 
 
@@ -95,11 +115,13 @@ The "Wait 1 secs" block is necessary in Scratch to be able to see the Sprite's m
 <pagebreak/>
 ## Evaluate: Salsa Practice (5 min)
 
-- [ ] In pairs students predict and step through the code from one of the four cards. 
+- [ ] Students predict and step through the code from one of the four options. 
 <note type='tip'>
 The chili peppers represent the level of difficulty of a card. Four peppers is the most challenging.
 </note>
 
+> > "Choose one of the sets of code to predict and step through on your maze. The chili peppers represent the level of difficulty. Start with one or two chili peppers and then work your way up to four."
+<br/>
 - [ ] Observe student work to evaluate how comfortable students are reading loops. 
 
 - [ ] Encourage pairs that finish early to try a more challenging card.
