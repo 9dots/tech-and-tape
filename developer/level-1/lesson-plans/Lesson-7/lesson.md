@@ -56,7 +56,6 @@ Students practice reading code by predicting and stepping through the code of en
 - [ ] action item
 </note>
 
-<pagebreak/>
 ## Engage: Enemies (5 min)
 - [ ] Students setup their journals to make a list.
 
@@ -82,7 +81,6 @@ Loops allow us to repeat sequences without having to write out the entire sequen
 ###### Slides:
 ![donow-slides](./images/slides-do-now.jpeg)
 
-<pagebreak/>
 ## Elaborate: Support Stepping Through Loops: (10 min)
 
 - [ ] Show students the code for Enemy 1.
@@ -112,7 +110,6 @@ The "Wait 1 secs" block is necessary in Scratch to be able to see the Sprite's m
 ![stepping-slides1](./images/slides-stepping1.jpeg)
 ![stepping-slides2](./images/slides-stepping2.jpeg)
 
-<pagebreak/>
 ## Evaluate: Salsa Practice (5 min)
 
 - [ ] Students predict and step through the code from one of the four options. 
