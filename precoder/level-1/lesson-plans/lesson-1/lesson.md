@@ -72,6 +72,8 @@ In lesson 1 students are introduced to the concept of productive failure. Studen
 <iconp type='answer'>The girl learned that it is ok to get things wrong because you can still learn something when you are wrong.</iconp>
 <iconp type='answer'>The girl learned that it is ok to get things wrong because you can still learn something when you are wrong.</iconp>  
 
+<pagebreak/>
+
 ## Explore: Mystery Robot (10 min)
 
 <note type='key' title='Key Points'>

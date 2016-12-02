@@ -1,6 +1,6 @@
 {
   "name": "get-coding-curricula",
-  "version": "0.1.21",
+  "version": "0.1.24",
   "description": "get coding curricula",
   "main": "index.js",
   "scripts": {
@@ -30,6 +30,7 @@
     "gitbook-plugin-toggle-chapters": "^0.0.3"
   },
   "devDependencies": {
+    "firebase-tools": "^3.2.0",
     "gitbook-cli": "^2.3.0"
   }
 }

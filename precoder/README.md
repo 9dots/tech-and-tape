@@ -6,4 +6,4 @@ The preCoder series targets learners who cannot yet read and write. The series i
 
 ## Curriculum
 
-- [Level 1]()
+- [Level 1](../precoder/level-1/index.html)

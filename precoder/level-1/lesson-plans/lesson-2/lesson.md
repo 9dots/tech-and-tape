@@ -1,7 +1,7 @@
 <header class='header' title='Lesson 2' subtitle='turtleMove Part I'/>
 
 <notable>
-<iconp src-='/icons/activity.png'>### Overview</iconp>
+<iconp src='/icons/activity.png'>### Overview</iconp>
 In lesson 2 students begin to develop an understanding of how to use commands to control the actions of a computer. Students are introduced to the idea that commands must be clear and precise in order for a computer to carry them out. 
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
@@ -87,7 +87,7 @@ In lesson 2 students begin to develop an understanding of how to use commands to
 ## Elaborate: Turtle Go (15 min)
 
 Pass out 1 game controller cutout to each student and project the large game controller from the slideshow.
-
+<br/>
 - [ ] Demonstrate how to orient and hold the game controller. Make sure each student is holding it properly.
 - [ ] Place a star in one square of the grid and stand in another square at the opposite end of the grid.
 - [ ] Ask the whole group to press the button they would use to get the turtle closer to the star.
