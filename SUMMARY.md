@@ -8,6 +8,7 @@
     * [Lesson 3: turtleMove Part II](precoder/level-1/lesson-plans/lesson-3/lesson.md)
     * [Lesson 4: Turtle Steps](precoder/level-1/lesson-plans/lesson-4/lesson.md)
     * [Lesson 5: Pixel Bot](precoder/level-1/lesson-plans/lesson-5/lesson.md)
+    * [Lesson 6: Debugging](precoder/level-1/lesson-plans/lesson-6/lesson.md)
 * [coder](coder/README.md)
   * [level 2](coder/level-2/README.md)
     * [sequencing pixels](coder/level-2/lesson-plans/lesson-1.md)

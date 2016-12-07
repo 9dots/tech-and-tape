@@ -56,6 +56,8 @@ I can read a 2-5 block sequence of code.
 
 - [ ] Present the sequence in slide 2 to the class and ask:
 
+![slide-two](./images/slide-two.png)
+
 <iconp type='question'>Where would the turtle stop if I pressed the buttons in order starting from the top?</iconp>
 <iconp type='answer'>The turtle will end up on the G.</iconp>
 
@@ -65,7 +67,12 @@ I can read a 2-5 block sequence of code.
 - [ ] Have students repeat the word in unison until all students are able to pronounce it.
 - [ ] Explain that a sequence is  a set of actions that happen a specific order.
 - [ ] Show the example of a sequence in slide 3.
+
+![slide-three](./images/slide-three.png)
+
 - [ ] Show slide 4 and ask
+
+![slide-four](./images/slide-four.png)
 
 
 <iconp type='question'>What is similar about the sequences you see on the board?</iconp>
@@ -95,10 +102,15 @@ I can read a 2-5 block sequence of code.
    1. As each direction in the sequence is completed, place a checkmark next to it.
    1. Repeat the process until the token reaches it’s final destination.
 - [ ] Project slide 5 and demonstrate how to complete it using the same process described above.
+
+![slide-five](./images/slide-five.png)
+
 - [ ] Invite two students to come up to the board to read and act out the code in slide 6. 
    1. One student will read and check mark the directions in the sequence. 
    1. The second student will move the token.
 - [ ] Have the students read and act out the code together.
+
+![slide-six](./images/slide-six.png)
 
 ## Elaborate: Independent Practice (7 min)
 
