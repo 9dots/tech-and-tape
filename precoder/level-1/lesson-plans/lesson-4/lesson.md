@@ -26,7 +26,7 @@ I can read a 2-5 block sequence of code.
 
 ###### Student Materials:
 - [ ] Dry Erase Markers
-- [ ] [Tokens][token]
+- [ ] [Stepping Tokens][token]
 - [ ] [Independent Practice Worksheet][ind-practice]
 - [ ] [Exit Ticket][exit-ticket]
 
