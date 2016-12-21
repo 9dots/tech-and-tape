@@ -10,10 +10,6 @@
     * [Lesson 5: Pixel Bot](precoder/level-1/lesson-plans/lesson-5/lesson.md)
     * [Lesson 6: Debugging](precoder/level-1/lesson-plans/lesson-6/lesson.md)
     * [Lesson 7: Directional Moves](precoder/level-1/lesson-plans/lesson-7/lesson.md)
-<<<<<<< HEAD
-
-=======
->>>>>>> master
 * [coder](coder/README.md)
   * [level 2](coder/level-2/README.md)
     * [sequencing pixels](coder/level-2/lesson-plans/lesson-1.md)
