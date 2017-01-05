@@ -73,6 +73,8 @@ In lesson 2 students begin to develop an understanding of how to use commands to
 - [ ] Tell students that you need help navigating to the colored tile.
 - [ ] Have volunteers to give you directions to the colored tile.
 
+![grid-one](./images/grid-one.png)
+
 
 - [ ] Present the same scenario. This time inform students that they cannot use their voice. 
 - [ ] Have volunteers to give you directions to the colored tile.
@@ -90,6 +92,10 @@ Pass out 1 game controller cutout to each student and project the large game con
 <br/>
 - [ ] Demonstrate how to orient and hold the game controller. Make sure each student is holding it properly.
 - [ ] Place a star in one square of the grid and stand in another square at the opposite end of the grid.
+
+![grid-two](./images/grid-two.png)
+
+
 - [ ] Ask the whole group to press the button they would use to get the turtle closer to the star.
 - [ ] Have a volunteer share his/her choice and ask the class to agree or disagree by raising their hands.
 - [ ] Once the group agrees on a button have a volunteer press the button on the large controller and move to an adjacent square in response to the button that was selected.

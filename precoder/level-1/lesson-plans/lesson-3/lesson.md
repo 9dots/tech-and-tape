@@ -57,8 +57,14 @@ In lesson 3 students continue to develop an understanding of how to use commands
 
 - [ ] Pass out a set of paper game controllers.
 - [ ] Place a star on the floor grid and stand in an adjacent square. Ask the class to hold the button they would press to navigate you to the star on the grid.
+
+![grid-one](./images/grid-one.png)
+
 - [ ] Repeat step 2 three more times to ensure that students have practiced using all four directional commands.
 - [ ] Place the star in a square at one end of the floor grid and stand in a square on the opposite end of the grid as shown in the picture below.
+
+![grid-two](./images/grid-two.png)
+
 - [ ] Have the class press the button they would use to get you closer to the star. 
 - [ ] Have a volunteer share out their selection and ask the class to agree or disagree. Once the class has settled on a button choice act out their selection. Repeat this process until the class has successfully navigated you to the star.
 
@@ -77,12 +83,18 @@ In lesson 3 students continue to develop an understanding of how to use commands
 - [ ] Divide the class into two teams, Team Hare and Team Turtle.
 - [ ] Select a volunteer from each group to play the role of the turtle and hare for their respective teams.
 - [ ] Have the volunteer from Team Turtle stand in a corner of the grid and have the volunteer from Team Hare stand in an adjacent square.
+
+![turtle-hare](./images/turtle-hare.png)
+
 - [ ] Explain the goal and rules of the game.
 - [ ] Have students play the game.
 
 ## Explain: Multiple Commands (7 min.)
 
 - [ ] Project the slide of problem 1 on the independent practice worksheet.
+
+![slide-three](./images/slide-three.png)
+
 - [ ] Model how to solve the problem.
    1. Circle the button you should press to get the turtle to the colored square.
    1. Count the number times you should press the button by counting the number of squares the turtle would have to step through to stand in the colored square.
@@ -95,10 +107,11 @@ In lesson 3 students continue to develop an understanding of how to use commands
 
 - [ ] Complete problem two with the help of the class.
 
+![slide-four](./images/slide-four.png)
 
 ## Elaborate: Independent Practice (7 min)
 
-- [ ] Have students complete the independent practice worksheet independently. Monitor the class for students in need of assistance.
+- [ ] Have students complete the independent practice worksheet. Monitor the class for students in need of assistance.
 - [ ] Review 2-3 problems from the worksheet with the group by having student volunteers share out their answers. 
 
 ## Exit Ticket (3 min)

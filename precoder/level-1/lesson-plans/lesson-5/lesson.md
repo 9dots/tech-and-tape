@@ -22,9 +22,12 @@ I can write a 2-5 block sequence of code.
 ###### Teacher Materials:
 - [ ] Projector
 - [ ] [Slideshow][slide-show]
+- [ ] [Engage Link][engage-link]
 
 ###### Student Materials:
 - [ ] Computers
+- [ ] [Pixel Bot Playlist][ind-practice]
+- [ ] [Exit Ticket][exit-ticket]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
@@ -52,6 +55,7 @@ I can write a 2-5 block sequence of code.
 ## Engage: Pixel Bot Predictions (5 min)
 - [ ] Show students the code on slide 2 and ask the question below.
 
+![slide-two](./images/slide-two.png)
 
 <iconp type='question'>What do you think would happen if the character on the screen followed these directions?</iconp>
 <iconp type='answer'>The character would move 5 spaces.</iconp>
@@ -60,10 +64,13 @@ I can write a 2-5 block sequence of code.
 
 - [ ] As students make their predictions mark where they think the character would stop with a marker on the board.
 - [ ] Run the code and emphasize the connection between each individual coding block and the character’s movement.
-- [ ] Tell students that today they will be writing their very own code.
+- [ ] Tell students that they will be writing their very own code.
 
 ## Explore: Challenge (2 min)
 - [ ] Show slide 3. Tell students that they will be given 2 minutes to try to complete the challenge independently. Add that during this time you will not be answering any questions so that they can try on their own.
+
+![slide-three](./images/slide-three.png)
+
 - [ ] Reassure students that it is ok if they don’t figure it out as long as they try their hardest during the 2 minutes.
 - [ ] Have students try to complete the challenge by getting the character to move to marked square and paint it black.
 
@@ -92,7 +99,10 @@ I can write a 2-5 block sequence of code.
    - [ ] **Stage:** The stage is where we see the character act out the code we wrote in the editor.
    - [ ] **Run Button:** The run button tells the computer act out the code we wrote in the editor.
 
-- [ ] Present the challenge on slide 4 and perform a code along with the class. 
+- [ ] Present the challenge on slide 4 and perform a code along with the class.
+
+![slide-four](./images/slide-four.png)
+
    - [ ] Solve the problem one step a time making sure to stop and allow students to copy what you do on their computers.
    - [ ] As you solve the problem, highlight all of the parts of the Pixel Bot interface that you described in the previous demonstration.
 
@@ -104,9 +114,14 @@ I can write a 2-5 block sequence of code.
 
 ## Evaluate: Exit Ticket (3 min) 
 
-- [ ] Have students complete the 2 Pixel Bot exit ticket challenges.
+- [ ] Have students complete the exit ticket challenge.
 - [ ] Monitor the room to ensure all students are finished.
+
+![exit-problem](./images/exit-ticket.png)
 
 </notable>
 
 [slide-show]: https://drive.google.com/open?id=1ean8naFUkfNz0ntGLzHQzfmtFkctSoI8hKEruMHbujQ
+[engage-link]: https://artbot-26016.firebaseapp.com/VY518
+[ind-practice]: https://artbot-26016.firebaseapp.com/J42DG
+[exit-ticket]: https://artbot-26016.firebaseapp.com/V3ZP3
