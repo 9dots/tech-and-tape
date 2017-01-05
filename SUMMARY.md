@@ -45,3 +45,5 @@
     * [Lesson 8: Enemies on Patrol](developer/level-1/lesson-plans/lesson-8/lesson.md)
     * [Lesson 8 Accelerated: Enemies on Patrol](developer/level-1/lesson-plans/lesson-8-accelerated/lesson.md)
     * [Lesson 9: Independent Coding Challenge](developer/level-1/lesson-plans/lesson-9/lesson.md)
+    * [Lesson 10 part1: ICC Review](developer/level-1/lesson-plans/lesson-10-part1/lesson.md)
+    * [Lesson 10 part2: Enemies Everywhere](developer/level-1/lesson-plans/lesson-10-part2/lesson.md)
