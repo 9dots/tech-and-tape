@@ -22,6 +22,8 @@
     * [winter is coming - gather food](coder/level-2/lesson-plans/lesson-8.md)
     * [space ranger and magic words](coder/level-2/lesson-plans/lesson-9.md)
     * [coding arguments](coder/level-2/lesson-plans/lesson-10.md)
+    * [coding with arguments in pixelbots](coder/level-2/lesson-plans/lesson-11.md)
+    * [coding with arguments in code.org](coder/level-2/lesson-plans/lesson-12.md)
   * [level 3](coder/level-3/README.md)
     * [sequencing pixels JS](coder/level-3/lesson-plans/lesson-1.md)
     * [write some code](coder/level-3/lesson-plans/lesson-2.md)
