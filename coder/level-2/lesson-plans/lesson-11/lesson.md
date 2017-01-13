@@ -41,6 +41,8 @@ Students will use numbers as arguments, so that they can write less code. In pix
 
 </note>
 
+<pagebreak/>
+
 ## Engage: Coding without arguments (5 mins)
 
 - [ ] **Guided practice:** Together as a class, do the first challenge of [Pixelbots Warm-up][warm-up] over the projector.
@@ -90,8 +92,8 @@ Students will use numbers as arguments, so that they can write less code. In pix
 
 </notable>
 
-[worksheet]: ../worksheets/lesson11-worksheet.pdf
-[worksheet2]: ../worksheets/lesson11-wrapup.pdf
+[worksheet]: ../../worksheets/lesson11-worksheet.pdf
+[worksheet2]: ../../worksheets/lesson11-wrapup.pdf
 [warm-up]: http://www.pixelbots.io/VPDOK
 [practice]: http://www.pixelbots.io/JW6GP
 [exit ticket]: http://www.pixelbots.io/VYWZW

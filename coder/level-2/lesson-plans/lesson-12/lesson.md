@@ -36,6 +36,7 @@ Students will use numbers as arguments to move an artist to draw on code.org. Ar
 
 
 </note>
+<pagebreak/>
 
 ## Engage: Showcase art projects from Code.org (5 mins)
 
