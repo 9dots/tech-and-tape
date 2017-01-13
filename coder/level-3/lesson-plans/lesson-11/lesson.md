@@ -5,21 +5,16 @@
 <iconp src='/icons/activity.png'>### Overview</iconp>
 Students understand that computing is a creative experience and a tool for personal expression. In the next 3 lessons, students will design and create an emoji in pixelbots that they think a friend or family member will like. Today’s lesson will focus on designing how our pixel emoji will look.
 
-
-
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 
 - Students will use the design thinking process to prototype pixel emoji art.
 - Students will use decomposition to identify components of the art.
-
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
 1. Engage: Intro to Emojis & Pixel Art (5 minutes)
 2. Explore: Designing Pixel Emojis (35 minutes)
 3. Evaluate: Exit Ticket (5 minutes)
-
-
 
 <note>
 
@@ -96,13 +91,12 @@ Students understand that computing is a creative experience and a tool for perso
 
 - [ ] **Turn and Talk:** Students share their top 2 emoji ideas and explain why they created it for the person they chose.
 
-
 - [ ] **Define** Prototype (18 minutes) (slide 10)
   - **Modeling:** Show prototype of math face emoji
     - Show more of video from above. https://youtu.be/1w12ztafphk?t=32
 - Students prototype their favorite pixel emoji idea on handout.
 
-<note type="remind" title="Reminder">Remind students that the designing process is iterative. If they begin prototyping and realize they want to explore a different emoji pixel design, then they should.</note>
+<note type="reminder" title="Reminder">Remind students that the designing process is iterative. If they begin prototyping and realize they want to explore a different emoji pixel design, then they should.</note>
 
 - [ ] **Define and Explore** Decomposition (5 minutes) (slide 11)
   - **Modeling:** Circle features on math emoji prototype.
@@ -118,6 +112,7 @@ Students understand that computing is a creative experience and a tool for perso
 - [ ] Share Out: Have 2-3 students volunteer to share their prototype with the class.
 
 </notable>
+
 [slideshow]: [https://docs.google.com/presentation/d/1PA7nBcC0mxUcgpNjD782NmT9x8QhMdGVM4CGzLij20E/edit#slide=id.p]
 [worksheet1]: ../../worksheets/lesson11-worksheet1-1.pdf
 [worksheet2]: ../../worksheets/lesson11-worksheet1-2.pdf
