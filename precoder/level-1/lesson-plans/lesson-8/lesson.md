@@ -2,6 +2,7 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
+In lesson 8 students begin writing more complex sequences. Complexity arises from the addition of mixed commands and sequence length.
 
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
