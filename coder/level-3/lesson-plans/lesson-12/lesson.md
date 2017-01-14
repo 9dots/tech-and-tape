@@ -28,12 +28,13 @@ Students use the code planning protocol to organize their project and begin codi
 <iconp src='/icons/materials.png'>### Materials</iconp>
 
 ###### Teacher materials
-- [ ] Projector
-- [ ] Computer
+- Projector
+- Computer
+- [Example Feature & Todo List][example]
 
 ###### Student materials
-- [ ] Crayons/colored pencils
-- [ ] [Lesson 12 Worksheet][worksheet1]
+- Computer
+- Lesson 12 Worksheet [Page 1][worksheet1] & [Page 2][worksheet2]
 
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
@@ -52,9 +53,11 @@ Students use the code planning protocol to organize their project and begin codi
   <iconp type='question'>How would we fix the bug?</iconp>
   <iconp type='answer'>Insert paint(‘yellow’) between line 432 and 433</iconp>
 
+![debug](./images/debug.png)
+
 #### Explain: Code Planning Protocol (5 minutes)
 
-- [ ] Define Feature List - a document that outlines the important features for a program.
+- [ ] **Define:** Feature List - a document that outlines the important features for a program.
 
 - [ ] **Model:** Write a feature list for the math eyed emoji example, then create a todo list
   - Review decomposition of math eyed emoji
@@ -68,7 +71,7 @@ Students use the code planning protocol to organize their project and begin codi
 
 - [ ] Students write a feature list for their project.
 
-- [ ] Define comment - a line that gets ignored when the code is run.
+- [ ] **Define:** comment - a line that gets ignored when the code is run.
   >> “Why are comments helpful? Comments are for both you as a programmer to organize your work and for other programmers to understand your work. Anyone should be able to read and understand what all of your code does.”
 
 - [ ] **Model:** Use comments in pixel bots to organize program.
@@ -94,5 +97,9 @@ Students use the code planning protocol to organize their project and begin codi
 
 
 </notable>
+[debug]: ../images/debug.png
+[example]: https://drive.google.com/file/d/0BzdzqwuMjqy2NjFhZm5QZm1QeVk/view
 [pi eye code]: ../images/pieyecode.png
-[playlist]: [http://www.pixelbots.io/XB4GZ]
+[playlist]: http://www.pixelbots.io/XB4GZ
+[worksheet1]: ../../worksheets/lesson12-worksheet1-1.pdf
+[worksheet2]: ../../worksheets/lesson12-worksheet1-2.pdf

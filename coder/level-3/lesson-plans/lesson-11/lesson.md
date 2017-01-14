@@ -27,14 +27,13 @@ Students understand that computing is a creative experience and a tool for perso
 
 ###### Teacher materials
 - [ ] Projector
-- [ ] [Slideshow][slideshow]
+- [ ] [Lesson 11: Slideshow][slideshow]
 - [ ] Computer
+- [ ] [Math Eyed Emoji Example][example]
 
 ###### Student materials
 - [ ] Crayons/colored pencils
-- [ ] [Emoji Deign Thinking - P.1][worksheet1]
-- [ ] [Emoji Design Thinking - P.2][worksheet2]
-- [ ] [Emoji Design Thinking - P.3][worksheet3]
+- [ ] Emoji Design Thinking: [Page 1][worksheet1], [Page 2][worksheet2], [Page 3][worksheet3]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
@@ -62,8 +61,7 @@ Students understand that computing is a creative experience and a tool for perso
   >>
   >>"Here is an example of an emoji turned into pixel art."
 
-
-  - Show video of [pixel art emoji](https://youtu.be/1w12ztafphk?t=32)
+- [ ] Show video of [pixel art emoji](https://youtu.be/1w12ztafphk?t=32)
 
  <note type="tip" title="Tip">
  Play video at 2x speed  settings > speed > 2
@@ -75,7 +73,7 @@ Students understand that computing is a creative experience and a tool for perso
  >>"We are developers! And as developers we are designers, builders, artists, and coders. For the next few lessons we will focus on being designers and artists to create our very own pixel emoji. Today we will start our design process."
 
 
-- [ ] Pass out Emoji Design Thinking Handout.
+- [ ] Pass out Emoji Design Thinking Handout
 - [ ] Introduce Design Thinking (slide 7)
 
 - [ ] **Define** Empathize (5 minutes) (slide 8)
@@ -99,10 +97,11 @@ Students understand that computing is a creative experience and a tool for perso
 
 - [ ] **Define** Prototype (18 minutes) (slide 10)
   - **Modeling:** Show prototype of math face emoji
-    - Show more of video from above. https://youtu.be/1w12ztafphk?t=32
-- Students prototype their favorite pixel emoji idea on handout.
+    - Show more of [pixel art emoji](https://youtu.be/1w12ztafphk?t=32) video from above.
 
-<note type="remind" title="Reminder">Remind students that the designing process is iterative. If they begin prototyping and realize they want to explore a different emoji pixel design, then they should.</note>
+- [ ] Students prototype their favorite pixel emoji idea on handout.
+
+<note type="reminder" title="Reminder">Remind students that the designing process is iterative. If they begin prototyping and realize they want to explore a different emoji pixel design, then they should.</note>
 
 - [ ] **Define and Explore** Decomposition (5 minutes) (slide 11)
   - **Modeling:** Circle features on math emoji prototype.
@@ -118,7 +117,8 @@ Students understand that computing is a creative experience and a tool for perso
 - [ ] Share Out: Have 2-3 students volunteer to share their prototype with the class.
 
 </notable>
-[slideshow]: [https://docs.google.com/presentation/d/1PA7nBcC0mxUcgpNjD782NmT9x8QhMdGVM4CGzLij20E/edit#slide=id.p]
+[example]: https://drive.google.com/file/d/0BzdzqwuMjqy2eHNkTmVqaFlCbmM/view
+[slideshow]: https://docs.google.com/presentation/d/1PA7nBcC0mxUcgpNjD782NmT9x8QhMdGVM4CGzLij20E/edit#slide=id.p
 [worksheet1]: ../../worksheets/lesson11-worksheet1-1.pdf
 [worksheet2]: ../../worksheets/lesson11-worksheet1-2.pdf
 [worksheet3]: ../../worksheets/lesson11-worksheet1-3.pdf
