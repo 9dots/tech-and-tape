@@ -38,6 +38,7 @@ Students discover how code is used to create art. Students learn the basics of P
 ###### Student materials
 - [ ] Computer
 - [ ] P5.js zine
+- [ ] [Grid Paper][gridpaper]
 - [ ] pencil
 - [ ] coding journal
 
@@ -117,6 +118,7 @@ Students discover how code is used to create art. Students learn the basics of P
 
 
 </notable>
+[gridpaper]: ../../worksheets/gridpaper.pdf
 [example]: https://vimeo.com/24930344
 [example2]: http://patatap.com/
 [logo]: https://www.openprocessing.org/sketch/398615

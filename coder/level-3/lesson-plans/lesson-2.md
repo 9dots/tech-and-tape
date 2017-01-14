@@ -1,20 +1,15 @@
-{% title title='Write Some Code', subtitle='Unplugged', color='#C2DACC' %}
-{% endtitle %}
+<header title='Write Some Code' subtitle='unplugged'/>
 
-{% header title='Overview', icon='activity' %}
-{% endheader %}
-
+<notable>
+<iconp src='/icons/activity.png'>### Overview</iconp>
 Students learn the different components of reading and writing code by exploring the roles (writer, reader, navigator, and stepper) of Coders & Bots.
 
-{% overviewSection title='Objectives', icon='objectives' %}
-{% endoverviewSection %}
-
+<iconp src='/icons/objectives.png'>### Objectives</iconp>
 - Students will be able to read basic code.
 - Students will be able to write basic code.
 - Together as a class, students will be able to enact the Coders & Bots roles of Writer, Navigator, Reader, and Stepper to write and read code.
 
-{% overviewSection title='Agenda', icon='agenda' %}
-{% endoverviewSection %}
+<iconp src='/icons/agenda.png'>### Agenda</iconp>
 
 #### Length: 45 mintues
 
@@ -23,15 +18,15 @@ Students learn the different components of reading and writing code by exploring
 2. Pixel Bots: Write Code
 3. Pixel Bots: Write Code Together
 
-{% overviewSection title='Vocab', icon='vocab' %}
-{% endoverviewSection %}
 
-- **Computer** - A device that can be instructed to do something.
-- **Program** - A list of statements that a computer can perform.
+<note>
 
-{% overviewSection title='Materials', icon='materials' %}
-{% endoverviewSection %}
+<iconp src='/icons/materials.png'>### Materials</iconp>
 
+#### Teacher Materials
+1. Whiteboard
+
+#### Student Materials
 1. [Lesson 2 | Warm-up Worksheet][warm-up]
 2. [Lesson 2 | Worksheet 1][worksheet1]
 3. Small pixel bot cutout for each student
@@ -39,6 +34,13 @@ Students learn the different components of reading and writing code by exploring
 5. Scratch paper grids
 6. Pencils
 7. Whiteboard
+
+
+<iconp src='/icons/vocab.png'>### Vocabulary</iconp>
+- **Computer** - A device that can be instructed to do something.
+- **Program** - A list of statements that a computer can perform.
+
+</note>
 
 {% header title='Pixel Bots: Practice Reading Code', icon='eyes' %}
 {% endheader %}
@@ -118,7 +120,7 @@ Add a new problem on the board: a checkerboard pattern. Divide the class in half
 6) Students provide descriptions of what each role entails.
 
 
-{% endtable %}
+</notable>
 
 [warm-up]: ../worksheets/lesson2-warmup.pdf
 [worksheet1]: ../worksheets/lesson2-worksheet1.pdf
