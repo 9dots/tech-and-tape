@@ -2,7 +2,7 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 8 students begin writing more complex sequences. Complexity arises from the addition of mixed commands and sequence length.
+In lesson 8 students begin writing increasingly complex sequences. Students apply the plan, code, validate protocol to complete a series of challenges with mixed commands.
 
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
@@ -20,7 +20,7 @@ I can write a 2-10 block sequence with more than one directional move.
 1. **Explain:  How to Code with Multiple Directional Moves (7 min)**
 	1. **Share Out:** Students share the approaches they took to complete the challenge. (2 min)
 	1. **Model** how to complete the pixel art challenge. (1 min)
-	1. **Guided Practice:** Class solves a problem together. (4 min)
+	1. **Guided Practice:** The class solves a problem together. (4 min)
 1. **Elaborate: Independent Coding (10 min)**
 	1. **Independent Coding:** Students work on the independent practice playlist.
 1. **Evaluate: Exit Ticket & Debrief (5 min)**
