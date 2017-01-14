@@ -1,9 +1,10 @@
 {
   "name": "get-coding-curricula",
-  "version": "0.1.27",
+  "version": "0.1.32",
   "description": "get coding curricula",
   "main": "index.js",
   "scripts": {
+    "start": "gitbook serve",
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "make workbooks; gitbook build . public; firebase deploy; git add .; git commit -am 'new release'; npm version patch;",
     "postversion": "git push && git push --tags"
