@@ -15,6 +15,9 @@ Students are introduced to core coding concepts: sequences, calling functions, p
 - [coding arguments in JS](../level-3/lesson-plans/lesson-7.html)
 - [practicing arguments](../level-3/lesson-plans/lesson-8.html)
 - [fire ice and squirrels](../level-3/lesson-plans/lesson-9.html)
+- [pixelbot colors](../level-3/lesson-plans/lesson-10.html)
+- [designing pixel emojis](../level-3/lesson-plans/lesson-11/lesson.html)
+- [coding pixel emojis](../level-3/lesson-plans/lesson-12/lesson.html)
 
 ### Download lesson plans
 
