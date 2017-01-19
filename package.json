@@ -25,7 +25,7 @@
     "gitbook-plugin-highlight": "^2.0.2",
     "gitbook-plugin-lunr": "^1.2.0",
     "gitbook-plugin-markedx": "0.1.17",
-    "gitbook-plugin-mdx-components": "0.1.7",
+    "gitbook-plugin-mdx-components": "^0.1.8",
     "gitbook-plugin-prism": "^1.1.0",
     "gitbook-plugin-tasklist": "0.5.10",
     "gitbook-plugin-toggle-chapters": "^0.0.3"
