@@ -32,7 +32,7 @@ Students learn the different components of reading and writing code by exploring
 #### Student Materials
 - [ ] [Lesson 2 | Warm-up Worksheet][warm-up]
 - [ ] [Lesson 2 | Worksheet 1][worksheet1]
-- [ ] Pixelbots Challenges: [Version 1][2-1] and [Version 2][2-2]
+- [ ] Pixelbots Challenges: [Version 1][2-1], [Version 2][2-2], [Version 3][2-3]
 - [ ] Small pixelbot cutout for each student
 - [ ] [Coding Paper][coding]
 - [ ] [Grid Paper][grid]
@@ -83,7 +83,7 @@ Students learn the different components of reading and writing code by exploring
 
 - [ ] Pair students
 
-- [ ] Pass out [Version 1][2-1] and [Version 2][2-2] of pixelbots challenges and coding paper.
+- [ ] Pass out [Version 1][2-1] and [Version 2][2-2] of pixelbots challenges and coding paper, use [Version 3][2-3] for classes with odd number of pairs.
   - Pairs write their names on coding paper and number of worksheet. Ex: 2-1 or 2-2
   - Tell students to write code on coding paper and not the worksheets with the challenges.
 
