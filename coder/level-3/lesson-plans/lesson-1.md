@@ -57,7 +57,10 @@ Introduce students to the world of coding and get them excited about its endless
 
 - [ ] Watch video: [A day in the life of a software engineer][video].
 
-
+<note type="tip" title="Tip">
+After video, if time allows, use inspector on Chrome to show code of websites.
+- View > Developer > Developer Tools
+</note>
 
 
 #### Explore: Predict pixel bot JS (15 minutes)
@@ -65,10 +68,11 @@ Introduce students to the world of coding and get them excited about its endless
 "Before we can write code, we need to learn how to read code"
 
 - [ ] Distribute [Lesson 1 | Warm-up Worksheet][warm-up]
+  - Tell students pixelbots starts on the star.
   - Students individually predict the outcome of sequences.
 - [ ] **Turn and talk:** Students turn in pairs and discuss outcome of sequence.
 
-- [ ] Discuss elements, students write their responses on worksheet.
+- [ ] Discuss elements as a whole class, students define elements on worksheet.
 <iconp type='question'>What do the elements at the top of the worksheet mean?</iconp>
   <iconp type='answer'>up() - move up one square</iconp>
   <iconp type='answer'>down() - move down one square</iconp>
@@ -90,20 +94,27 @@ Introduce students to the world of coding and get them excited about its endless
 
 >"When a computer executes code, it runs it in the order that it is written. This is called sequence. These programming elements are part of JavaScript. These particular programming elements are all function calls and that we know they are function calls because they have an open and closed parenthesis after the name."
 
-- [ ] **Model:** how to read code by reading and stepping through three or four example programs.
+- [ ] **Model:** how to read code by stepping and acting through two [example programs][examples].
 
 <note>
 **Prep Before Lesson**
-- Draw a blank 4x4 grid on the whiteboard
+- Draw a blank 4x4 grid on the whiteboard.
 - Write the [Example Pixelbots problems][examples] on the whiteboard
+- Draw star to indicate the starting square.
 </note>
 
-  <iconp type='question'>What is the first line of code?</iconp>
-
-1. After they answer, put a number 1 next to the corresponding line. Move the pixel bot according to the line of code just numbered.
-1. Continue reading and stepping one line at a time. Trace the path of the pixel bot as it moves and shade in the squares whenever it paints.
+1. Ask "What is the first line of code?"
+1. Number the corresponding line.
+1. Move magnetic pixel bot.
+1. Continue reading and stepping one line at a time (ask, number, move).
 
 - [ ] **Guided Practice:** Read and step through remaining example pixelbots sequences together as a class.
+  1. Ask for a volunteer
+  1. Student goes to board
+    1. Reads next line out loud
+    1. Numbers line
+    1. Moves magnetic pixel bot
+  1. Repeat until challenge is complete
 
 <note type="tip" title="Tip">
 If there is time, design more problems on the fly, making them interesting and complex enough.
@@ -113,7 +124,7 @@ If there is time, design more problems on the fly, making them interesting and c
 #### Evaluate: Read pixel bot icons (5 minutes)
 
 - [ ] Distribute Worksheet 1: [Page 1][worksheet1-1] & [Page 2][worksheet1-2]
-- [ ] Students read the code, trace the pathway of the pixel bot, and paint the correct blocks on the worksheet.
+- [ ] Students read the code and paint the correct blocks on the worksheet.
 - [ ] Review answers together as a class.
 
 
