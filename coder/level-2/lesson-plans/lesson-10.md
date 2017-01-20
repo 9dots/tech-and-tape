@@ -29,9 +29,9 @@ Introduce arguments by having kids do a very repetitive task.
 {% overviewSection title='Materials', icon='materials' %}
 {% endoverviewSection %}
 
-1. Lesson 10 | Warm-up worksheet
-1. Lesson 10 | Worksheet 1
-1. Lesson 10 | Worksheet 2
+1. [Lesson 10 | Warm-up worksheet][warm-up]
+1. Lesson 10 | Worksheet 1: [Page 1][worksheet1-1], [Page 2][worksheet1-2], [Page 3][worksheet1-3]
+1. [Lesson 10 | Worksheet 2][worksheet2]
 1. Laptops/Computers
 1. Scratch paper grids
 1. Small turtle cutout for each student
@@ -50,8 +50,8 @@ Students solve a puzzle in a large pixelbot grid.
 
 **Prep:**
 
-- Draw the Pixel Bot image from Lesson 10 | Warm-up worksheet on the whiteboard
-- Distribute Lesson 10 | Warm-up worksheet
+- Draw the Pixel Bot image from [Lesson 10 | Warm-up][warm-up] worksheet on the whiteboard
+- Distribute [Lesson 10 | Warm-up][warm-up]
 
 {% table %}
 
@@ -76,13 +76,13 @@ Students solve a puzzle in a large pixelbot grid.
 
 Explore golf swing and drill bit analogies that help students arrive at concept of parameters/arguments.
 
-**Prep:** Distribute Lesson 10 | Worksheet 1
+**Prep:** Distribute Lesson 10 | Worksheet 1: [Page 1][worksheet1-1], [Page 2][worksheet1-2], [Page 3][worksheet1-3]
 
 {% table %}
 
-1) Model a golf swing for students. Show how the same golf swing is used for different clubs. Show the Lesson 10 | Worksheet 1 golf diagram on the board and walk students through it.
-2) Model using a drill for students. Show how the same drill motion is used for different drill bits. Show the Lesson 10 | Worksheet 1 drill bit diagram on the board and walk students through it.
-3) Point students’ attention to Lesson 10 | Worksheet 1. Ask students to find what is similar about the two situations depicted.
+1) Model a golf swing for students. Show how the same golf swing is used for different clubs. Show the Lesson 10 | Worksheet 1: [Page 1][worksheet1-1] golf diagram on the board and walk students through it.
+2) Model using a drill for students. Show how the same drill motion is used for different drill bits. Show the Lesson 10 | Worksheet 1: [Page 2][worksheet1-1] drill bit diagram on the board and walk students through it.
+3) Point students’ attention to Lesson 10 | Worksheet 1: [Page 2][worksheet1-2]. Ask students to find what is similar about the two situations depicted.
 4) **Individual work:** Ask students to write down an answer.
 5) With a partner, students discuss their findings.
 6) As a whole class, discuss the similarities between the two situations.
@@ -109,7 +109,7 @@ Explain how to use arguments through observation.
 
 {% table %}
 
-1) Point students back to the problem on the whiteboard from Lesson 1 | Warm-up worksheet.
+1) Point students to the problem on Page 3 of Lesson 10 | Worksheet 1.
 2) Tell students that the elements can use an argument. An argument is extra information to customize the output of a function. The argument goes into the space to the right of the element
 
 	Example: → 5
@@ -119,7 +119,7 @@ Explain how to use arguments through observation.
 6) Ask students how adding a number next to the arrow icon relates to changing clubs in the golf swing?
 
   Answer: In both examples, the action is the same (swing the golf club, paint the square) but the input can be changed to customize the output.
-7) Solve the warm up problem while narrating the steps out loud.
+7) Solve worksheet problem while narrating the steps out loud.
 
 ,,,
 
@@ -140,7 +140,7 @@ Students use arguments to solve coding challenges.
 
 **Prep:**
 
-- Distribute Lesson 10 | Worksheet 2
+- Distribute [Lesson 10 | Worksheet 2][worksheet2]
 
 {% table %}
 
@@ -151,3 +151,9 @@ Students use arguments to solve coding challenges.
 1) Students individually fill in their worksheet.
 
 {% endtable %}
+
+[warm-up]: ../worksheets/lesson10-warmup.pdf
+[worksheet1-1]: ../worksheets/lesson10-worksheet1-1.pdf
+[worksheet1-2]: ../worksheets/lesson10-worksheet1-2.pdf
+[worksheet1-3]: ../worksheets/lesson10-worksheet1-3.pdf
+[worksheet2]: ../worksheets/lesson10-worksheet2.pdf

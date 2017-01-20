@@ -2,7 +2,7 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 8 students are introduced to sequences with increasing complexity. Complexity arises from the addition of directional moves and increasing length. Students practice reading code by stepping through it one line at a time.
+In lesson 7 students are introduced to sequences with increasing complexity. Complexity arises from the addition of directional moves and increasing length. Students practice reading code by stepping through it one line at a time.
 
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>

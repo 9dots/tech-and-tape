@@ -16,6 +16,8 @@ Students are introduced to core coding concepts: sequences, calling functions, p
 - [winter is coming - gather food](../level-2/lesson-plans/lesson-8.html)
 - [space ranger and magic words](../level-2/lesson-plans/lesson-9.html)
 - [coding arguments](../level-2/lesson-plans/lesson-10.html)
+- [coding with arguments in pixelbots](../level-2/lesson-plans/lesson-11/lesson.html)
+- [coding with arguments in code.org](../level-2/lesson-plans/lesson-12/lesson.html)
 
 ### Download lesson plans
 
