@@ -54,7 +54,6 @@
     * [Lesson 10 part 2: Enemies Everywhere](developer/level-1/lesson-plans/lesson-10-part2/lesson.md)
     * [Lesson 11: Enemies Everywhere Continued](developer/level-1/lesson-plans/lesson-11/lesson.md)
     * [Lesson 12: Strategic Enemies](developer/level-1/lesson-plans/lesson-12/lesson.md)
-
   * [p5](developer/p5/README.md)
     * [visual-beat-machine](developer/p5/visual-beat-machine/README.md)
       * [Lesson 1: Introducing P5.js & Mouse Input](developer/p5/visual-beat-machine/lesson-plans/lesson-1/lesson.md)
