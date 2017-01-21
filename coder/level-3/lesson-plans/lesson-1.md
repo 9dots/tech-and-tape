@@ -121,7 +121,7 @@ If there is time, design more problems on the fly, making them interesting and c
 </note>
 
 
-#### Evaluate: Read pixel bot icons (5 minutes)
+#### Evaluate: Read pixel bot icons (10 minutes)
 
 - [ ] Distribute Worksheet 1: [Page 1][worksheet1-1] & [Page 2][worksheet1-2]
 - [ ] Students read the code and paint the correct blocks on the worksheet.

@@ -1,4 +1,4 @@
-<header title='Lesson 1: Introducing P5.js & Mouse Input' subtitle='unplugged'/>
+<header title='Introducing P5.js & Mouse Input' subtitle='Lesson 1'/>
 
 <notable>
 
@@ -118,6 +118,7 @@ Students discover how code is used to create art. Students learn the basics of P
 
 
 </notable>
+
 [gridpaper]: ../../worksheets/gridpaper.pdf
 [example]: https://vimeo.com/24930344
 [example2]: http://patatap.com/
