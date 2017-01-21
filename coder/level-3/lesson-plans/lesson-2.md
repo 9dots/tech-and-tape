@@ -12,7 +12,7 @@ Students learn the different components of reading and writing code by exploring
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-#### Length: 45 mintues
+###### Length: 45 mintues
 1. Engage: Practice reading code
 2. Explore: Write Code
 3. Explain/Elaborate: Coders & Bots
@@ -22,17 +22,17 @@ Students learn the different components of reading and writing code by exploring
 
 <iconp src='/icons/materials.png'>### Materials</iconp>
 
-#### Teacher Materials
+###### Teacher Materials
 - [ ] Whiteboard
 - [ ] Magnetic pixel bot
 - [ ] [Lesson 2 | Warm-up][warm-up]
 - [ ] [Lesson 2 | Worksheet 1][worksheet1]
 - [ ] [How to Play Coders & Bots][coders&bots]
 
-#### Student Materials
+###### Student Materials
 - [ ] [Lesson 2 | Warm-up Worksheet][warm-up]
 - [ ] [Lesson 2 | Worksheet 1][worksheet1]
-- [ ] Pixelbots Challenges: [Version 1][2-1] and [Version 2][2-2]
+- [ ] Pixelbots Challenges: [Version 1][2-1], [Version 2][2-2], [Version 3][2-3]
 - [ ] Small pixelbot cutout for each student
 - [ ] [Coding Paper][coding]
 - [ ] [Grid Paper][grid]
@@ -82,9 +82,13 @@ Students learn the different components of reading and writing code by exploring
 #### Explain/Elaborate: Coders & Bots (35 minutes)
 
 - [ ] Pair students
+<note type="tip" title="Tip: Odd Number of Students">
+One trio and the rest of the class in pairs.
+</note>
 
-- [ ] Pass out [Version 1][2-1] and [Version 2][2-2] of pixelbots challenges and coding paper.
-  - Pairs write their names on coding paper and number of worksheet. Ex: 2-1 or 2-2
+- [ ] Pass out [Version 1][2-1] and [Version 2][2-2] of pixelbots challenges, coding paper, and grid paper.  
+  - Pass out one [Version 3][2-3] for classes with odd number of pairs.
+  - Pairs write their names on coding paper and number of worksheet. Ex: 2-1 or 2-3 or 2-3
   - Tell students to write code on coding paper and not the worksheets with the challenges.
 
   <note type="tip" title="Tip: Read Coders & Bots">
@@ -100,16 +104,22 @@ Students learn the different components of reading and writing code by exploring
   - "Navigators, take the pixelbots challenges and pixelbot cutout and put them in front of you."
 
 - [ ] **Assign** Writers
-  >>"Partners, you are the writers. Take a pencil and coding paper."
+  >>"Partners, you are the writers. Take a pencil, coding paper, and grid paper."
 
 - [ ] **Explain** Writer
   >>"Writers, you add code to your program. Pay attention to syntax."
 
 - [ ] **Write Phase** of Coders & Bots
   - Coders team work together to write code for 1st challenge.
+  - At the end of the writing phase, have students draw a star on the starting square of their challenge on the grid paper.
+  <note type="key" title="Key: Draw Star">
+  Coders must draw a star on one of the blank grids so the Bots know where to start.
+  </note>
+
 
 - [ ] **Switch Phase** of Coders & Bots
-  - Pairs who coded 2-1 switch coding paper with pairs who coded 2-2
+  - Pairs who coded 2-1 switch coding paper and grids with pairs who coded 2-2
+  - If one worksheet 2-3 was passed out, switch among the three pairs of the different worksheets so Bots read for a challenge they have not coded.
   <note type="key" title="Key">
   Bots read code for a challenge different than the one they coded so they do not know the desired outcome.
   </note>
