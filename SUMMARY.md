@@ -11,6 +11,7 @@
     * [Lesson 6: Debugging](precoder/level-1/lesson-plans/lesson-6/lesson.md)
     * [Lesson 7: Directional Moves](precoder/level-1/lesson-plans/lesson-7/lesson.md)
     * [Lesson 8: Pixel Artists](precoder/level-1/lesson-plans/lesson-8/lesson.md)
+    * [Lesson 9: Bug Catchers](precoder/level-1/lesson-plans/lesson-9/lesson.md)
 * [coder](coder/README.md)
   * [level 2](coder/level-2/README.md)
     * [sequencing pixels](coder/level-2/lesson-plans/lesson-1.md)

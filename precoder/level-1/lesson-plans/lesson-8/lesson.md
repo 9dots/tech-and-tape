@@ -48,8 +48,6 @@ I can write a 2-10 block sequence with more than one directional move.
 
 <pagebreak/>
 
-<pagebreak/>
-
 ## Room Design
 
 ![room](./images/layout-computer.png)
