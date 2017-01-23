@@ -11,6 +11,7 @@
     * [Lesson 6: Debugging](precoder/level-1/lesson-plans/lesson-6/lesson.md)
     * [Lesson 7: Directional Moves](precoder/level-1/lesson-plans/lesson-7/lesson.md)
     * [Lesson 8: Pixel Artists](precoder/level-1/lesson-plans/lesson-8/lesson.md)
+    * [Lesson 9: Bug Catchers](precoder/level-1/lesson-plans/lesson-9/lesson.md)
 * [coder](coder/README.md)
   * [level 2](coder/level-2/README.md)
     * [sequencing pixels](coder/level-2/lesson-plans/lesson-1.md)
@@ -54,8 +55,7 @@
     * [Lesson 10 part 2: Enemies Everywhere](developer/level-1/lesson-plans/lesson-10-part2/lesson.md)
     * [Lesson 11: Enemies Everywhere Continued](developer/level-1/lesson-plans/lesson-11/lesson.md)
     * [Lesson 12: Strategic Enemies](developer/level-1/lesson-plans/lesson-12/lesson.md)
-
   * [p5](developer/p5/README.md)
     * [visual-beat-machine](developer/p5/visual-beat-machine/README.md)
       * [Lesson 1: Introducing P5.js & Mouse Input](developer/p5/visual-beat-machine/lesson-plans/lesson-1/lesson.md)
-      
+      * [Lesson 2: Variable, Operators, & Loops](developer/p5/visual-beat-machine/lesson-plans/lesson-2/lesson.md)
