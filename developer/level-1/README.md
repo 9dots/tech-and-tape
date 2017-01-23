@@ -19,3 +19,4 @@ Students begin applying core coding concepts into an Escape the Maze project. In
 - [Lesson 10 part 1: ICC Review](../level-1/lesson-plans/lesson-10-part1/lesson.html)
 - [Lesson 10 part 2: Enemies Everywhere](../level-1/lesson-plans/lesson-10-part2/lesson.html)
 - [Lesson 11: Enemies Everywhere Continued](../level-1/lesson-plans/lesson-11/lesson.html)
+- [Lesson 12: Strategic Enemies](../level-1/lesson-plans/lesson-12/lesson.html)

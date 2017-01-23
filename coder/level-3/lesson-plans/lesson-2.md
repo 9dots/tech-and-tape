@@ -1,124 +1,172 @@
-{% title title='Write Some Code', subtitle='Unplugged', color='#C2DACC' %}
-{% endtitle %}
+<header title='Write Some Code' subtitle='unplugged' bgColor='#C2DACC'/>
 
-{% header title='Overview', icon='activity' %}
-{% endheader %}
+<notable>
 
-Students learn the different components of reading and writing code by exploring the roles (writer, reader, navigator, and stepper) of Coders & Bots.
+<iconp src='/icons/activity.png'>### Overview</iconp>
+Students learn the different components of reading and writing code by exploring the roles of Coders & Bots (navigator, writer, stepper, actor).
 
-{% overviewSection title='Objectives', icon='objectives' %}
-{% endoverviewSection %}
-
+<iconp src='/icons/objectives.png'>### Objectives</iconp>
 - Students will be able to read basic code.
 - Students will be able to write basic code.
-- Together as a class, students will be able to enact the Coders & Bots roles of Writer, Navigator, Reader, and Stepper to write and read code.
+- Students will be able to enact the Coders & Bots roles of Navigator, Writer,       Stepper, and Actor to write, read, and check code.
 
-{% overviewSection title='Agenda', icon='agenda' %}
-{% endoverviewSection %}
+<iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-#### Length: 45 mintues
+###### Length: 45 mintues
+1. Engage: Practice reading code
+2. Explore: Write Code
+3. Explain/Elaborate: Coders & Bots
 
 
-1. Pixel Bots: Practice Reading Code
-2. Pixel Bots: Write Code
-3. Pixel Bots: Write Code Together
+<note>
 
-{% overviewSection title='Vocab', icon='vocab' %}
-{% endoverviewSection %}
+<iconp src='/icons/materials.png'>### Materials</iconp>
 
+###### Teacher Materials
+- [ ] Whiteboard
+- [ ] Magnetic pixel bot
+- [ ] [Lesson 2 | Warm-up][warm-up]
+- [ ] [Lesson 2 | Worksheet 1][worksheet1]
+- [ ] [How to Play Coders & Bots][coders&bots]
+
+###### Student Materials
+- [ ] [Lesson 2 | Warm-up Worksheet][warm-up]
+- [ ] [Lesson 2 | Worksheet 1][worksheet1]
+- [ ] Pixelbots Challenges: [Version 1][2-1], [Version 2][2-2], [Version 3][2-3]
+- [ ] Small pixelbot cutout for each student
+- [ ] [Coding Paper][coding]
+- [ ] [Grid Paper][grid]
+- [ ] Pencils
+
+
+
+<iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 - **Computer** - A device that can be instructed to do something.
 - **Program** - A list of statements that a computer can perform.
 
-{% overviewSection title='Materials', icon='materials' %}
-{% endoverviewSection %}
+</note>
 
-1. [Lesson 2 | Warm-up Worksheet][warm-up]
-2. [Lesson 2 | Worksheet 1][worksheet1]
-3. Small pixel bot cutout for each student
-4. Magnetic pixel bot
-5. Scratch paper grids
-6. Pencils
-7. Whiteboard
-
-{% header title='Pixel Bots: Practice Reading Code', icon='eyes' %}
-{% endheader %}
-
-{% length '15 minutes' %}
-{% endlength %}
-
-Students practice reading basic code sequences.
+#### Engage: Practice reading code (10 minutes)
 
 **Prep:** Draw on the whiteboard the grid and the lines of code from the example problem on the front page of [Lesson 2 | Warm-up Worksheet][warm-up].
 
-{% table %}
+- [ ] **Model:** Read and step through example from Warm-up
+  - Narrate what you are doing out loud.
+- [ ] Pass out [Lesson 2 | Warm-up Worksheet][warm-up], pixelbots cut out, and pencils.
+- [ ] **Independent Practice:** Students read and step through code to paint the picture.
+- [ ] Review answer together as a class.
 
-1) Remind students of the value of revisiting ideas explored in previous lessons. Revisiting past ideas helps to see them in a new light and makes sure they are not forgotten.
-2) Step through the example problem as a whole class, talking through the process of reading code.
-3) Hand out [Lesson 2 | Warm-up Worksheet][warm-up].
-4) **Individual Work:** Ask students to place the movable pixel bot at the start block of the example problem just demonstrated on the board. Students should work individually, reading the code and moving their pixel bot along. Ask the students to get into a rhythm of reading and stepping.
-5) **Individual Work:** Ask students to flip the page and perform the same exercise with the new problem. Ask students to shade in the appropriate squares and trace the pathway of the pixel bot.
-6) On the board, draw the empty grid and the code from the problem students have been working on. Read the code and step the pixel bot (tracing its pathway and shading in squares), narrating your thought process.
+>>“We have learned to read code that other people have written. Now we are going to explore writing code.”
 
-,,,
+#### Explore: Write code (10 minutes)
+- [ ] Pass out [Lesson 2 | Worksheet 1][worksheet1]
+- [ ] **Independent Exploration:** Students write code that produces the provided pixel bot image.
+- [ ] **Model:** Code the solution on the whiteboard, voicing your code writing process along the way.
+  - Plan which path to take, using your finger to trace out a path.
+  - Write a line of code.
+  - Number line of code.
+  - Move magnetic pixelbot.
+  - Repeat writing code and moving until the image is finished.
 
-3) Students place their pixel bot at the starting square. Students read the code and move their pixel bot. Students do this a few times to get into a rhythm.
-5) Students turn the page and attempt to solve the problem.
+  <note type="tip" title="Tip: Narrate">
+  - "I am writing a line of code."
+  - "I am numbering this line of code."
+  - "I am moving my pixelbot."
+  - "I am navigating my pixelbot (up, down, left, right, to paint)."
+  </note>
 
+- [ ] **Model:** Read and step through your solution from beginning to end to check code.
 
-{% endtable %}
+>> “We will now practice writing and reading code in pairs. We will act as Coders and Bots to solve pixelbots challenges.”
 
-{% header title='Pixel Bots: Write Code', icon='vocab' %}
-{% endheader %}
+#### Explain/Elaborate: Coders & Bots (35 minutes)
 
-{% length '10 minutes' %}
-{% endlength %}
+- [ ] Pair students
+<note type="tip" title="Tip: Odd Number of Students">
+One trio and the rest of the class in pairs.
+</note>
 
-Students write code to produce a simple pixel bot image.
+- [ ] Pass out [Version 1][2-1] and [Version 2][2-2] of pixelbots challenges, coding paper, and grid paper.  
+  - Pass out one [Version 3][2-3] for classes with odd number of pairs.
+  - Pairs write their names on coding paper and number of worksheet. Ex: 2-1 or 2-3 or 2-3
+  - Tell students to write code on coding paper and not the worksheets with the challenges.
 
-**Prep:** Hand out [Lesson 2 | Worksheet 1][worksheet1].
-
-{% table %}
-
-1) Talk to students about how they have already learned to read code that other people have written. Now they are going to explore writing code.
-2) **Individual Work:** Have students place their pixel bot at the start square. Ask students to write code that produces the provided pixel bot image. The students should think through their plan for their code, write their code, and move their pixel bot along.
-3) As a whole class, solicit ideas from multiple students about how they designed their code to solve the problem. Hold off on presenting the correct answer until the next activity.
-
-,,,
-
-2) Students place their pixel bot at the starting square, write code that creates the picture, and enact the pixel bot actions each step of the way.
-3) Students share their code, especially if they have solved the problem a different way.
-
-
-{% endtable %}
-
-{% header title='Pixel Bots: Write Code Together', icon='vocab' %}
-{% endheader %}
-
-{% length '20 minutes' %}
-{% endlength %}
-
-Teacher shows student how to write code, emphasizing roles of the Writer, Navigator, Reader, and Stepper (see Coders and Bots Protocol). The students then enact these roles together as a whole class solving a new problem.
-
-**Prep:** Draw the problem from [Lesson 2 | Worksheet 1][worksheet1] on the whiteboard.
-
-{% table %}
-
-1) Code the solution to [Lesson 2 | Worksheet 1][worksheet1] on the whiteboard. Voice your code writing process along the way: write and number a new line of code and only then move the pixel bot on the whiteboard. Use this as an opportunity to discuss how there are different ways to solve the same problem. After the code is written, introduce the idea that the computer reads code in sequence. 2) After coding the solution, explain that you are switching gears into Bot mode. Read each line and step the pixel bot, checking to see if you coded the correct solution.
-Add a new problem on the board: a checkerboard pattern. Divide the class in half and follow the process spelled out in the whole class section of the Coders and Bots Protocol. Students start as Coders. Assign half of the students to be writers and half to be navigators; one person from each team walks up to collaboratively add and enact a line of code. The two students then tag in a member of their team to walk up and write the next line of code. Allow the class to code a wrong solution.
-3) The whole class then switches roles to become Bots. Use this opportunity to emphasize the definition of a computer (see vocabulary section above). Following the same procedure as above, ask students to come up to the board to take turns reading and stepping through one line of code at a time before tagging in a new classmate.
-4) Have students switch back and forth between Coders and Bots until they code the solution on the checkerboard.
-5) Summarize any conceptual difficulties. Introduce and define a Program (see vocabulary section above), and explain how it connects to the code the students just wrote.
-6) Ask students to write down on a piece of paper what each of the the four roles does, focusing on one role at a time. After each role definition, ask students to share their definition with the whole class. Pool the students’ ideas into overall definitions of the roles.
-
-,,,
-
-2) Students take turns walking up to the board to write and navigate code.
-3) Students take turns walking up to the board to read and step through the solution.
-4) Students switch back and forth between Coders and Bots to complete the puzzle.
-6) Students provide descriptions of what each role entails.
+  <note type="tip" title="Tip: Read Coders & Bots">
+  Teacher must read [Coders & Bots][coders&bots] document throughly to understand this section of the lesson.
+  </note>
 
 
-{% endtable %}
+- [ ] **Assign** Navigators
+  >>“During the writing phase, everyone will be Coders helping to write code. One student in each pair raise your hand, you will be the Navigator"
 
+- [ ] **Explain** Navigator
+  >> "Navigators, you are responsible for the overall plan for the program. Guide the Writer and keep track of what your program is doing."
+  - "Navigators, take the pixelbots challenges and pixelbot cutout and put them in front of you."
+
+- [ ] **Assign** Writers
+  >>"Partners, you are the writers. Take a pencil, coding paper, and grid paper."
+
+- [ ] **Explain** Writer
+  >>"Writers, you add code to your program. Pay attention to syntax."
+
+- [ ] **Write Phase** of Coders & Bots
+  - Coders team work together to write code for 1st challenge.
+  - At the end of the writing phase, have students draw a star on the starting square of their challenge on the grid paper.
+  <note type="key" title="Key: Draw Star">
+  Coders must draw a star on one of the blank grids so the Bots know where to start.
+  </note>
+
+
+- [ ] **Switch Phase** of Coders & Bots
+  - Pairs who coded 2-1 switch coding paper and grids with pairs who coded 2-2
+  - If one worksheet 2-3 was passed out, switch among the three pairs of the different worksheets so Bots read for a challenge they have not coded.
+  <note type="key" title="Key">
+  Bots read code for a challenge different than the one they coded so they do not know the desired outcome.
+  </note>
+
+- [ ] Pass out grid paper.
+
+- [ ] **Assign** Stepper
+  >>"Writers, raise your hands. You are now Steppers."
+
+- [ ] **Explain** Stepper
+  >>"Steppers step through the program one line at a time and read each line aloud. Keep your finger on the step you are reading."
+  - "Steppers, take the coding paper and place it in front of you."
+
+
+- [ ] **Explain** Actor
+  >>"Actors listen carefully to each line of code the Stepper says aloud. Using the materials available, show what each line of code does."
+  - "Actors, grab the pencil and grid paper. You will move and paint the outcome."
+
+- [ ] **Read Phase** of Coders & Bots
+  - Bots team work together to paint the outcome from the code they were given.
+
+- [ ] **Check Phase** of Coders & Bots
+  - Code and outcome is given back to original Coders Team.
+  <note type="key" title="Key">
+  If CT and BT have a disagreement, the Coders can redo the 1st challenge instead of moving onto the 2nd challenge.
+  </note>
+
+- [ ] Play Coders & Bots for 2nd challenge (if time allows)
+  - Guide students through each phase.
+  1. Write
+  1. Switch
+  1. Read
+  1. Check
+
+- [ ] **Introduce and define** Program (see definition above).
+  - Explain how it connects to the code the students wrote.
+
+  <note type="key" title="Key Take Away">
+  Coders & Bots helps us practice writing and reading code while collaborating with other coders.
+  </note>'
+
+</notable>
+[coders&bots]: https://docs.google.com/document/d/1TDR92dYe0W8fd3_fGlbMoTG8YtHvxQiPFsXmw3wokrk/edit
 [warm-up]: ../worksheets/lesson2-warmup.pdf
 [worksheet1]: ../worksheets/lesson2-worksheet1.pdf
+[2-1]: ../worksheets/lesson2-worksheet2-1.pdf
+[2-2]: ../worksheets/lesson2-worksheet2-2.pdf
+[2-3]: ../worksheets/lesson2-worksheet2-3.pdf
+[coding]: ../worksheets/x-code-1.pdf
+[grid]: ../worksheets/x-grids-1.pdf
