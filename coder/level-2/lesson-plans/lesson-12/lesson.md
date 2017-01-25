@@ -123,7 +123,7 @@ Students will use numbers as arguments to move an artist to draw on code.org. Ar
 
 </notable>
 
-[worksheet]: ../worksheets/lesson12-wrapup.pdf
+[worksheet]: ../../worksheets/lesson12-wrapup.pdf
 [art gallery]: https://studio.code.org/gallery/art
 [code.org artist]: https://studio.code.org/s/course2/stage/4/puzzle/1
 [puzzle 3]: https://studio.code.org/s/course2/stage/4/puzzle/3
