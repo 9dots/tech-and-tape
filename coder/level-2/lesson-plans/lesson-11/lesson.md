@@ -24,13 +24,13 @@ Students will use numbers as arguments, so that they can write less code. In pix
 ###### Teacher materials
 - [ ] Projector
 - [ ] Computer
-- [ ] [Pixelbots Warm-up link][warm-up]
+- [ ] [Pixelbots Warm-up link][warm-up] (pixelBots code: VPDOK)
 
 
 ###### Student materials
 - [ ] Computer
 - [ ] [Lesson 11 | Worksheet][worksheet]
-- [ ] [Pixelbots Lesson 11: Ind. Practice link][practice]
+- [ ] [Pixelbots Lesson 11: Ind. Practice link][practice] (pixelBots code: JW6GP)
 - [ ] [Pixelbots Lesson 11: Exit Ticket link][exit ticket]
 - [ ] [Lesson 11 | Exit Ticket][worksheet2]
 
@@ -45,7 +45,7 @@ Students will use numbers as arguments, so that they can write less code. In pix
 
 ## Engage: Coding without arguments (5 mins)
 
-- [ ] **Guided practice:** Together as a class, do the first challenge of [Pixelbots Warm-up][warm-up] over the projector.
+- [ ] **Guided practice:** Together as a class, do the first challenge of [Pixelbots Warm-up][warm-up] (pixelBots code: VPDOK) over the projector.
 
 ![engage](./images/engage.png)
 
@@ -60,7 +60,7 @@ Students will use numbers as arguments, so that they can write less code. In pix
 
 	“We are going to do the same pixelbots challenge, but with panda instead!”
 
-- [ ] **Independent Exploration:** Students rewrite the program using numbers as arguments on second challenge of [Pixelbots Warm-up][warm-up]
+- [ ] **Independent Exploration:** Students rewrite the program using numbers as arguments on second challenge of [Pixelbots Warm-up][warm-up] (pixelBots code: VPDOK)
 
 	<iconp type='question'> How many lines of code did we write? </iconp>
 	<iconp type='answer'>6 lines.</iconp>
@@ -74,7 +74,7 @@ Students will use numbers as arguments, so that they can write less code. In pix
 
 ## Elaborate: Coding with arguments (23 minutes)
 
-- [ ] **Independent Practice:** Students practice using numbers as arguments on [Pixelbots Ind. Practice][practice]
+- [ ] **Independent Practice:** Students practice using numbers as arguments on [Pixelbots Ind. Practice][practice] (pixelBots code: JW6GP)
 	- Pass out [Lesson 11 | Worksheet][worksheet]
 	- Students write code link on worksheet and check the box when they have completed each challenge
 
@@ -82,7 +82,7 @@ Students will use numbers as arguments, so that they can write less code. In pix
 
 ## Evaluate: Exit Ticket (10 minutes)
 
-- [ ] Students do [Pixelbots Exit Ticket][exit ticket] and write their code link on [Lesson 11 | Exit Ticket][worksheet2] (7 mins)
+- [ ] Students do [Pixelbots Exit Ticket][exit ticket] (pixelBots code: VYWZW) and write their code link on [Lesson 11 | Exit Ticket][worksheet2] (7 mins)
 
 ![exit ticket](./images/exit ticket.png)
 
