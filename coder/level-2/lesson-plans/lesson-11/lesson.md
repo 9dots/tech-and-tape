@@ -31,7 +31,7 @@ Students will use numbers as arguments, so that they can write less code. In pix
 - [ ] Computer
 - [ ] [Lesson 11 | Worksheet][worksheet]
 - [ ] [Pixelbots Lesson 11: Ind. Practice link][practice] (pixelBots code: JW6GP)
-- [ ] [Pixelbots Lesson 11: Exit Ticket link][exit ticket]
+- [ ] [Pixelbots Lesson 11: Exit Ticket link][exit ticket] (pixelBots code: VYWZW)
 - [ ] [Lesson 11 | Exit Ticket][worksheet2]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
