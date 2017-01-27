@@ -75,7 +75,7 @@ Participation: Whole Class Unplugged
 
 <pagebreak/>
 ## 2. Explore: True/False (5 min)
-Participation: Small Group Unplugged   - materials: true/false cards
+Participation: Small Group Unplugged 
 
 - [ ] **True/False:** Students hold up True or False to respond to questions. 
 
@@ -95,7 +95,6 @@ Participation: Small Group Unplugged   - materials: true/false cards
 - The light is green.
 - Kittens grow up to be cats
 - Italy is a candy.
-- If you mix blue and yellow paint together, you get red.
 
 - [ ] **Contrasting Cases:** Give students two list of statements and ask:
 
@@ -110,7 +109,7 @@ Participation: Small Group Unplugged   - materials: true/false cards
 | Italy is a candy.    | Repeat 5 times.        |
 | 4 + 5 = 8            | Wait for 1 second.     |
 
-<note>![slides-tf3](./images/slides-tf3.png)
+<note>
 ![slides-tf4](./images/slides-tf4.png) </note>
 
 <pagebreak/>
@@ -129,7 +128,7 @@ Participation: Small Group Unplugged
 
 <note>![slides-define2](./images/slides-define2.png)</note>
 
-- [ ] **Popcorn:** Pop around the room to different students asking them if each statement is a boolean statement or not. It is important to have them say the word “boolean” to cement the term. 
+- [ ] **Popcorn:** Students hold up Boolean or Not Boolean cards to respond to questions. Pop around the room to different students asking them to explain if each statement is a boolean statement or not. It is important to have them say the word “boolean” to cement the term. 
 
 <iconp type="question"> Is this a boolean statement or not? If you’re not sure, try to answer true/false first.</iconp>
 
@@ -143,30 +142,31 @@ Participation: Small Group Unplugged
 | Run in a circle. 	|		Not boolean |
 | 5 x 3 = 		|		Not boolean |
 
-<note>![slides-define3](./images/slides-define3.png)</note>
+<note>![slides-define3](./images/slides-define3.png)
+![slides-define4](./images/slides-define4.png)</note>
 
 - [ ] **Check for Understanding:**
 
 <iconp type="question">Patty is taking a Boolean test. How do we know? </iconp>
 <iconp type="answer">All the questions can be answered with “True” or “False”. </iconp>
 
-<note>![slides-define4](./images/slides-define4.png)</note>
+<note>![slides-define4](./images/slides-define5.png)</note>
 
-## 4. Elaborate: Boolean Code (5 min)
-Participation: Small Group, Partners, Unplugged
+## 4. Elaborate: Boolean Code (5 min)    
+Participation: Small Group, Partners, Unplugged 
 
 - [ ] **Contrasting Cases:** Give students a series of Scratch blocks and have them work in partners to identify which are examples of Boolean statements. 
 
-> > “In your box you have a series of code blocks. Sort your blocks into two piles: those that are boolean blocks and those that are not. If you’re having trouble, try answering the statements with true/false”
+> > “In your box you have a series of code blocks. Sort your blocks into two piles: those that are boolean blocks and those that are not. Use your cards to label each group. If you’re having trouble, try answering the statements with true/false.”
 
-<note type="tip">If you are short on time, this section of the lesson can be cut and visited before lesson 14.
+<note type="tip">If you are short on time, this section of the lesson can be done in lesson 14.
 ![slides-elaborate](./images/slides-elaborate.png) </note>
 
 <iconp type="question"> What do you notice about the shape of boolean blocks? </iconp>
-<iconp type="answer">Students should start to notice that the ends of boolean blocks are shaped like triangles.</iconp>
+<iconp type="answer">The ends of boolean blocks have points like triangles.</iconp>
 
 ## 5. Evaluate: Exit Challenge (5 min)
-Participation: Small Group, Independent, Unplugged
+Participation: Small Group, Independent, Unplugged 
 
 - [ ] **Exit Challenge:** Students answer the [exit challenge][exit-challenge] on paper using pencil independently and turn it in.
 
