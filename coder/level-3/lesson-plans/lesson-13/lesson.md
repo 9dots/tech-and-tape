@@ -32,6 +32,8 @@ Students evaluate progress on project and create a new todo list, finish their c
 ###### Student materials
 - Computer
 - Previous Lesson Worksheets
+
+
 </note>
 
 <pagebreak/>
@@ -55,14 +57,15 @@ Students evaluate progress on project and create a new todo list, finish their c
   1. Validate
   </note>
 
+
+
+#### Evaluate: Share Pixel Emojis. (10 minutes)
+- [ ] **Turn and Talk:** Students share their design thinking process, code, and pixel bot painting their emoji to their partner.
 <note type="reminder" title="Debug Protocol">
   1. Compare
   1. Find
   1. Fix
 </note>
-
-#### Evaluate: Share Pixel Emojis. (10 minutes)
-- [ ] **Turn and Talk:** Students share their design thinking process, code, and pixel bot painting their emoji to their partner.
 - [ ] **Share Out:** A few students volunteer to share their pixel emoji through the projector.
 
 

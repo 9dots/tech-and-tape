@@ -46,6 +46,7 @@ Students understand that computing is a creative experience and a tool for perso
 
 </note>
 
+<pagebreak/>
 ## Engage: Intro To Emojis & Pixel Art (5 mins)
 
 - [ ] Lead a discussion about emojis and pixel art. (slide 2)
@@ -99,9 +100,9 @@ Students understand that computing is a creative experience and a tool for perso
   - **Modeling:** Show prototype of math face emoji
     - Show more of [pixel art emoji](https://youtu.be/1w12ztafphk?t=32) video from above.
 
-- [ ] Students prototype their favorite pixel emoji idea on handout.
-
 <note type="reminder" title="Reminder">Remind students that the designing process is iterative. If they begin prototyping and realize they want to explore a different emoji pixel design, then they should.</note>
+
+- [ ] Students prototype their favorite pixel emoji idea on handout.
 
 - [ ] **Define and Explore** Decomposition (5 minutes) (slide 11)
   - **Modeling:** Circle features on math emoji prototype.

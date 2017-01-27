@@ -40,23 +40,24 @@ Students use the project planning protocol to organize their project and begin c
 - Lesson 12 Worksheet [Page 1][worksheet1] & [Page 2][worksheet2]
 
 
-<iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
 </note>
 
 #### Engage: Comments are important (5 minutes)
-- [ ] **Contrasting Cases:** Show the importance of planning and comments by comparing math eyed emoji code without and with comments.
+
+- [ ] **Contrasting Cases:** Math eyed emoji code without and with comments.
   - Students go to [Find the Bug! playlist][playlist] (pixelBots code: XB4GZ) on pixelbots.io
   - **Step 1:** “There is a bug in my code, a pixel was not painted.”
   - **Step 2:**  Search for bug in code challenge 1 in playlist.
   - **Step 3:** Search for bug in code of challenge 2 in playlist.
-
+<note>![debug](./images/debug.png)</note>
+<pagebreak/>
   <iconp type='question'>Were you able to find the bug?</iconp>
   <iconp type='answer'>The code with the comments helped to find the bug in the code on line 433.</iconp>
   <iconp type='question'>How would we fix the bug?</iconp>
   <iconp type='answer'>Insert paint(‘yellow’) between line 432 and 433</iconp>
 
-![debug](./images/debug.png)
+>> "Planning our code with comments is important, it helps keep our code organized, and in this example, it made debugging our program easier."
 
 #### Explain: Project Planning (10 minutes)
 
@@ -65,14 +66,13 @@ Students use the project planning protocol to organize their project and begin c
 - [ ] **Model:** Write a feature list for the math eyed emoji example, then create a todo list
   - Review decomposition of math eyed emoji
   - The feature list will be the same as the decomposed emoji, if done correctly.
+  - Each feature list item should be one color.
+
+
 - [ ] **Model:** Create a todo list for the day
   - List which features you will code first.
-
-  <note type="tip" title="Tip">
-  - Each feature list item should be one color.
   - Features that require less lines of code like eyes and mouth,
-    should be first on todo list
-  </note>
+    should be first on todo list.
 
 - [ ] Students write a feature list for their project.
 
@@ -87,11 +87,7 @@ Students use the project planning protocol to organize their project and begin c
 #### Elaborate: Code Pixel Emoji (25 minutes)
 
 - [ ] **Model:** Code the first feature on your todo list, blue pi eye.
-
 ![pi eye code](./images/pieyecode.png)
-
-- [ ] Support students in coding the features of their emoji.
-  - When students get stuck, use the Read, Write, and Debug protocols to support students.
 
 <note type="reminder" title="Reminder: Protocols">
 - Read
@@ -107,6 +103,11 @@ Students use the project planning protocol to organize their project and begin c
   1. Find
   1. Fix
   </note>
+
+- [ ] Support students in coding the features of their emoji.
+  - When students get stuck, use the Read, Write, and Debug protocols to support students.
+
+
 
 #### Evaluate: Review todo list (5 minutes)
 
