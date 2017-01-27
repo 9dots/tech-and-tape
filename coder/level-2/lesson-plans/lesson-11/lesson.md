@@ -47,7 +47,7 @@ Students will use numbers as arguments, so that they can write less code. In pix
 
 - [ ] **Guided practice:** Together as a class, do the first challenge of [Pixelbots Warm-up][warm-up] (pixelBots code: VPDOK) over the projector.
 
-![engage](./images/engage.png)
+<note>![engage](./images/engage.png)</note>
 
 	<iconp type='question'> How many lines of code did we write? </iconp>
 	<iconp type='answer'>36 lines.</iconp>
@@ -58,7 +58,7 @@ Students will use numbers as arguments, so that they can write less code. In pix
 
 ## Explore: Arguments in pixelbots (7 minutes)
 
-	“We are going to do the same pixelbots challenge, but with panda instead!”
+>>“We are going to do the same pixelbots challenge, but with panda instead!”
 
 - [ ] **Independent Exploration:** Students rewrite the program using numbers as arguments on second challenge of [Pixelbots Warm-up][warm-up] (pixelBots code: VPDOK)
 
@@ -68,9 +68,9 @@ Students will use numbers as arguments, so that they can write less code. In pix
 	<iconp type='question'>Why was panda easier to code with?</iconp>
 	<iconp type='answer'>We can input numbers after the directional arrow to tell panda how many times to repeat the directional move.</iconp>
 
-	“The function calls of our program are to move down, right, and up, the arguments are the numbers that let our program know how many times to repeat a direction.”
+>> “The function calls of our program are to move down, right, and up, the arguments are the numbers that let our program know how many times to repeat a direction.”
 
-	“Both programs painted the same picture, but the program that used arguments had less lines of code, making the program easier to read. As coders one goal we should always keep in mind is to write programs that are easy for others to read and understand.”
+>>“Both programs painted the same picture, but the program that used arguments had less lines of code, making the program easier to read. As coders one goal we should always keep in mind is to write programs that are easy for others to read and understand.”
 
 ## Elaborate: Coding with arguments (23 minutes)
 
@@ -78,17 +78,13 @@ Students will use numbers as arguments, so that they can write less code. In pix
 	- Pass out [Lesson 11 | Worksheet][worksheet]
 	- Students write code link on worksheet and check the box when they have completed each challenge
 
-![elaborate](./images/elaborate.png)
+<note>![elaborate](./images/elaborate.png)</note>
 
 ## Evaluate: Exit Ticket (10 minutes)
-
 - [ ] Students do [Pixelbots Exit Ticket][exit ticket] (pixelBots code: VYWZW) and write their code link on [Lesson 11 | Exit Ticket][worksheet2] (7 mins)
-
-![exit ticket](./images/exit ticket.png)
-
 - [ ] **Turn and Talk:** Students share their code and how many lines they wrote for pixelbot challenge. (3 mins)
 - [ ] **Extension:** For students who finish early, have them rewrite the program to only use 12 lines of code.
-
+<note>![exit ticket](./images/exit ticket.png)</note>
 
 </notable>
 
