@@ -1,22 +1,21 @@
-<header title='Pixel Bots Online' subtitle='plugged'/>
+<header title='pixelBots Online' subtitle='plugged'/>
 
 <notable>
 
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Students learn the interface of pixelbots.io and write programs in Javascript to complete online pixelbots challenges.
+Students learn the interface of pixelBots.io and write programs in Javascript to complete online pixelBots challenges.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - Students will be able to write programs using JavaScript.
 - Students will continue to develop proficiency in writing and reading code.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-###### Length: 45 mintues
+###### Length: 35 mintues
 
-1. **Do Now:** Warm-up (5 minutes)
-1. **Engage:** Math Eyed Emoji on pixelbots (3 minutes)
-1. **Explain:** Introduce Pixel Bots Online (10 minutes)
-1. **Elaborate:** Practice Writing Code on Pixelbots (20 minutes)
-1. **Evaluate:** Exit Ticket (7 minutes)
+1. **Engage:** Math Eyed Emoji on pixelBots (3 minutes)
+1. **Explain:** Introduce pixelBots Online (10 minutes)
+1. **Elaborate:** Practice Writing Code on pixelBots (20 minutes)
+
 
 
 <note>
@@ -26,14 +25,13 @@ Students learn the interface of pixelbots.io and write programs in Javascript to
 - [ ] Projector
 - [ ] Computer
 - [ ] Whiteboard
-- [ ] Magnetic pixel bot
+- [ ] [Math Eyed Emoji on pixelBots][emoji] (pixelBots code: V1OQ3)
 
 ###### Student Materials
 - [ ] Computer
 - [ ] Pencil
-- [ ] Small pixel bot cutout
 - [ ] [Lesson 4 | Worksheet 1][worksheet1]
-- [ ] [Pixel Bots Online Playlist for Worksheet 1][playlist]
+- [ ] [pixelBots Online Playlist][playlist] (pixelBots code: V6G5Q)
 - [ ] [Lesson 4 | Exit Ticket Worksheet][wrap-up]
 
 
@@ -41,59 +39,57 @@ Students learn the interface of pixelbots.io and write programs in Javascript to
 - **Program** - A list of statements that a computer can perform.
 </note>
 
-#### Do Now: Warm-up (5 minutes)
+<pagebreak/>
 
-- [ ] Draw a 3 x 3 pixelbots challenge on the board
-  - Draw a star to indicate starting square.
-  - Paint 2-4 squares.
-- [ ] Write the solution together as a class
-  - Call on student to provide a line of code
-  - Number the line of code
-  - Move the magnetic pixel on the board
-  - Repeat until challenge is complete
-- [ ] Check program by stepping through code line by line
+#### Engage: Math Eyed Emoji on pixelBots (5 minutes)
+- [ ] Run code for [Math Eyed Emoji][emoji] (pixelBots code: V1OQ3) on pixelBots.io
+  - Briefly explain pixel emoji art project.
+  >> "In a few weeks, you will design an emoji! Then we will write code to have it painted on pixelBots."
 
-#### Engage: Math Eyed Emoji on pixelbots (3 minutes)
-- [ ] Run code for [Math Eyed Emoji][emoji] on pixelbots.io
-  - Or show your own emoji being painted on pixelbots
+<note><img src="./images/engageL4.png" width="350"> </img></note>
 
->>“You too will get to code pixelbots to paint your own pixel emoji!”
+#### Explain: Introduce pixelBots Online (5 minutes)
 
-#### Explain: Introduce Pixel Bots Online (10 minutes)
->>“Now that you have practiced creating code sequences on paper, you are ready to start writing programs on a computer.”
+- [ ] **Review** definition of program
+  >> “A program is a sequence that a computer is able to understand. Today we are writing programs to make pixelBots move and paint.”
 
+- [ ] **Model:** Do first challenge from [pixelBots Online Playlist][playlist] (pixelBots code: V6G5Q) over the projector
+  - Narrate what you are doing out loud.
+  - Highlight how to how to:
+    - add code
+    - run program
+    - reset after run
+    - insert code
+    - use a code link
+    - save code
+<note>
+<img src="./images/explainL4.png" width="350"> </img>
+</note>
+<pagebreak/>
 
-- [ ] **Review**
-  - What is a program?
-  - “A program is a sequence that a computer is able to understand.”
-- [ ] Show pixelbots.io over the projector
-- [ ] Show students a variety of features in the pixel bot interface by :
-  - How to add code
-  - How to delete code
-  - How to run program
-  - How to reset after run
-  - How to insert code
+#### Elaborate: Practice Writing Code on pixelBots (25 minutes)
+>>“We practiced creating code sequences on paper, now we are ready to start writing programs on a computer.”
 
->>"If you get stuck while coding on pixelbots, step through code as you would as a bot."
-
-#### Elaborate: Practice Writing Code on Pixelbots (20 minutes)
 - [ ] Pass out [Lesson 4 | Worksheet 1][worksheet1]
 - [ ] Pair students
-- [ ] Direct students to pixelbots.io [Lesson 4 playlist][playlist]
-  - Write website on board: http://www.pixelbots.io/V6G5Q
 
->>“We will do the following pixelbots challenges. Your partner will check your work and mark that you have finished a challenge and was able to explain your code on your worksheet.”
+>>“We will do the following pixelBots challenges. Your partner will check your work and mark that you have finished a challenge and was able to explain your code on your worksheet.”
 
+- [ ] Explain pixelBots pair activity.
   1. Programmer finishes a challenge, then partner checks. If challenge was done correctly, partner checks it on worksheet.
   1. Programmer explains how their code works. If partner is satisfied with the explanation, partner checks the explain box.
   1. Programmer can now continue on to the next challenge.
 
+- [ ] Direct students to pixelBots.io [Lesson 4 playlist][playlist]
+    - Write website on board: http://www.pixelBots.io
+    - Click on Code on the left
+    - Type pixelBots Code Link: V6G5Q
+
+<note>
+<img src="./images/elaborateL4.png" width="350"> </img>
+</note>
+
 - [ ] Students complete challenges and check partners code.
-
-#### Evaluate: Exit Ticket (7 minutes)
-- [ ] Pass out [Lesson 4 | Exit Ticket Worksheet][wrap-up]
-- [ ] Students complete worksheet individually.
-
 
 
 

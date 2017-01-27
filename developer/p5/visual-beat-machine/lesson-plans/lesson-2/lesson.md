@@ -11,9 +11,11 @@ Students learn and use variables, operators, and for loops to create interesting
 - Students will be able to replace a repeating sequence with a for loop to write less lines of code.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-1. **Engage:** Coding with variables, operators, & loops (5 minutes)
+###### Length: 65 minutes
+1. **Review:** Drawing a shape (5 minutes)
+1. **Engage:** mouseX & mouseY (5 minutes)
 1. **Explain:** Variables, operators & loops (25 minutes)
-1. **Explore:** Coding with variables, operators & loops (30 minutes)
+1. **Explore:** Coding with variables, operators & loops (25 minutes)
 1. **Evaluate:** Share sketches (5 minutes)
 
 <note>
@@ -38,20 +40,22 @@ Students learn and use variables, operators, and for loops to create interesting
 
 
 </note>
+<pagebreak/>
 
-#### Engage: Coding with variables, operators, & loops (5 minutes)
-- [ ] Show code without variables, operators, and loops
-  - Ask and show how to change the size of each circle.
-  - [Example sketch without variables][sketch1]
-- [ ] Show code with variables, operators, and loops.
-  - Show how to change size using operators on height and weight arguments of circles.
-  - Show how using variables makes changing the size of all circles easier.
-  - Point out loop used to draw 5 circles.
-  - [Example sketch with variables][sketch2]
+#### Review: Drawing a shape (5 minutes)
+- [ ] **Guided Practice:** Review creating a canvas and setting the background color.
+  - Students follow along on their computer.
+- [ ] **Guided Practice:** Review writing a shape function by choosing one from p.10 or p.32 of zine.
+  - Direct students to use p.10 or p.32 of zine to write a shape function in function draw.
+- [ ] **Model:** Show how to fill a shape with color using fill(r,g,b).
 
-<note type="tip" title="Tip">
-You can create your own example of code with and without variables, operators, and loops to show to the class.
-</note>
+#### Engage: mouseX & mouseY (5 minutes)
+- [ ] **Model:** Replace integer arguments with mouseX and mouseY to make sketch interactive.
+- [ ] Show [Example using mouseX & mouseY][mouseX&Y]
+  - By placing the background function in draw instead of setup, a new background is placed before each change to the ellipse.
+  - Show how the sketch changes by placing the background function in setup.
+- [ ] Students make sketch interactive by replacing number arguments with mouseX and mouseY.
+- [ ] **Turn and talk:** Students share their sketches to their neighbor.
 
 #### Explain: Variables, operators & loops (25 minutes)
 - [ ] **Introduce** Variables:
@@ -62,12 +66,16 @@ You can create your own example of code with and without variables, operators, a
     - So that we can easily change values while the program is running.
     - To write clear and effective code.
 
-"When creating variables, you determine the name, the data type, and the value + you declare them at the top of your sketch. "
+- [ ] **Explain:** mouseX and mouseY are variables.
+  - mouseX stores the x coordinate value of our mouse pointer.
+  - mouseY stores the y coordinate value of our mouse pointer.
 
-- [ ] Define parts of variable: Name, Data Type, Values
-  - Name: what you decide to call the variable (choose a name that is informative and clear)
-  - Data type: Defines the type of values that can be stored in the variable (integers, floating-point (decimal numbers, characters, words, images, fonts, etc.)
-  - Values: a number, word, image, etc.
+>>"When creating variables, you determine the name, the data type, and the value and you declare them at the top of your sketch. "
+
+- [ ] **Define** parts of variable: Name, Data Type, Values
+  - **Name:** what you decide to call the variable (choose a name that is informative and clear)
+  - **Data type:** Defines the type of values that can be stored in the variable (integers, floating-point (decimal numbers, characters, words, images, fonts, etc.)
+  - **Values:** a number, word, image, etc.
 
 - [ ] **Demonstrate** using variables.
   - Change the value of a and b to see how the sketch is altered.
@@ -80,30 +88,25 @@ You can create your own example of code with and without variables, operators, a
       ellipse (275, a, b, b)
 
 
-- [ ] Students work through mini challenge in zine
-  - Page 17  #1-4
+- [ ] Students work through mini challenge in zine, P. 17  #1-4
 
 - [ ] **Introduce** Operators:
   - What is an operator?
     - Symbols like +, -, and * are operators.
     - When placed between two values, they create an expression.
-
-- [ ] **Introduce** basic math and relational operators
-  - Direct students to page 14 of zine
-  - Review example from above and change size of ellipses using operators.
+- [ ] Review example from above and change size of ellipses using operators.
 
 - [ ] **Introduce** Loops.
-  - Show example of sketch without using a for loop and the sketch with a for loop
+  - Show example of sketch without using a for loop and the sketch with a for loop.
   - [Code without for loop][sketch1]
   - [Code with for loop][sketch2]
 
-
   >> “We can replace repeating sequences with a for loop.”
 
-- [ ] Explain braces {} and code inside loop.
+- [ ] **Explain** braces {} and code inside loop.
   - The code between the braces is called a block. This is the code that will repeat each time the for loop is run.
 
-- [ ] Explain the 4 parts of a for loop:
+- [ ] **Explain** the 4 parts of a for loop:
   - The initialization: declares a new variable (usually i is used)
   - The test: evaluates the value of this variable
   - The update: changes the variables value
@@ -111,8 +114,8 @@ You can create your own example of code with and without variables, operators, a
 
   >>“The initialization, test and update work together to control how many times the statement will run. “
 
-#### Explore: Coding with variables, operators & loops (30 minutes)
-- [ ] Students do mini challenges from zine P. 17-18
+#### Explore: Coding with variables, operators & loops (25 minutes)
+- [ ] Students do mini challenges from zine P. 17-18.
 - [ ] **Independent Exploration:** Students create their own sketch using variables, operators, and loops.
 
 #### Elaborate:  Share sketches (5 minutes)
@@ -122,7 +125,7 @@ You can create your own example of code with and without variables, operators, a
 
 
 </notable>
-
+[mouseX&Y]: https://www.openprocessing.org/sketch/398856
 [gridpaper]: ../../worksheets/gridpaper.pdf
 [examplecode]: https://docs.google.com/document/d/15q7Fc4VpcTd--i7clFKvmVy3GBWp6B8cfGgEZm1w-2w/edit
 [sketch1]:https://www.openprocessing.org/sketch/400530

@@ -8,14 +8,13 @@ Students learn the different components of reading and writing code by exploring
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - Students will be able to read basic code.
 - Students will be able to write basic code.
-- Students will be able to enact the Coders & Bots roles of Navigator, Writer,       Stepper, and Actor to write, read, and check code.
+- Students will be able to enact the Coders & Bots roles of Navigator, Writer, Stepper, and Actor to write, read, and check code.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-###### Length: 45 mintues
-1. Engage: Practice reading code
-2. Explore: Write Code
-3. Explain/Elaborate: Coders & Bots
+###### Length: 35 mintues
+1. **Explore:** Write Code (10 minutes)
+1. **Explain/Elaborate:** Coders & Bots (25 minutes)
 
 
 <note>
@@ -25,14 +24,11 @@ Students learn the different components of reading and writing code by exploring
 ###### Teacher Materials
 - [ ] Whiteboard
 - [ ] Magnetic pixel bot
-- [ ] [Lesson 2 | Warm-up][warm-up]
-- [ ] [Lesson 2 | Worksheet 1][worksheet1]
 - [ ] [How to Play Coders & Bots][coders&bots]
 
 ###### Student Materials
-- [ ] [Lesson 2 | Warm-up Worksheet][warm-up]
 - [ ] [Lesson 2 | Worksheet 1][worksheet1]
-- [ ] Pixelbots Challenges: [Version 1][2-1], [Version 2][2-2], [Version 3][2-3]
+- [ ] pixelBots Challenges: [Version 1][2-1], [Version 2][2-2], [Version 3][2-3]
 - [ ] Small pixelbot cutout for each student
 - [ ] [Coding Paper][coding]
 - [ ] [Grid Paper][grid]
@@ -45,20 +41,10 @@ Students learn the different components of reading and writing code by exploring
 - **Program** - A list of statements that a computer can perform.
 
 </note>
-
-#### Engage: Practice reading code (10 minutes)
-
-**Prep:** Draw on the whiteboard the grid and the lines of code from the example problem on the front page of [Lesson 2 | Warm-up Worksheet][warm-up].
-
-- [ ] **Model:** Read and step through example from Warm-up
-  - Narrate what you are doing out loud.
-- [ ] Pass out [Lesson 2 | Warm-up Worksheet][warm-up], pixelbots cut out, and pencils.
-- [ ] **Independent Practice:** Students read and step through code to paint the picture.
-- [ ] Review answer together as a class.
-
+<pagebreak/>
+#### Explore: Write code (10 minutes)
 >>“We have learned to read code that other people have written. Now we are going to explore writing code.”
 
-#### Explore: Write code (10 minutes)
 - [ ] Pass out [Lesson 2 | Worksheet 1][worksheet1]
 - [ ] **Independent Exploration:** Students write code that produces the provided pixel bot image.
 - [ ] **Model:** Code the solution on the whiteboard, voicing your code writing process along the way.
@@ -77,16 +63,14 @@ Students learn the different components of reading and writing code by exploring
 
 - [ ] **Model:** Read and step through your solution from beginning to end to check code.
 
->> “We will now practice writing and reading code in pairs. We will act as Coders and Bots to solve pixelbots challenges.”
+>> “We will practice writing and reading code in pairs. We will act as Coders and Bots to solve pixelBots challenges.”
 
-#### Explain/Elaborate: Coders & Bots (35 minutes)
+#### Explain/Elaborate: Coders & Bots (25 minutes)
 
 - [ ] Pair students
-<note type="tip" title="Tip: Odd Number of Students">
-One trio and the rest of the class in pairs.
-</note>
+  - If odd number of students, pair student with an assistant teacher.
 
-- [ ] Pass out [Version 1][2-1] and [Version 2][2-2] of pixelbots challenges, coding paper, and grid paper.  
+- [ ] Pass out [Version 1][2-1] and [Version 2][2-2] of pixelBots challenges, coding paper, and grid paper.  
   - Pass out one [Version 3][2-3] for classes with odd number of pairs.
   - Pairs write their names on coding paper and number of worksheet. Ex: 2-1 or 2-3 or 2-3
   - Tell students to write code on coding paper and not the worksheets with the challenges.
@@ -101,7 +85,7 @@ One trio and the rest of the class in pairs.
 
 - [ ] **Explain** Navigator
   >> "Navigators, you are responsible for the overall plan for the program. Guide the Writer and keep track of what your program is doing."
-  - "Navigators, take the pixelbots challenges and pixelbot cutout and put them in front of you."
+  - "Navigators, take the pixelBots challenges and pixelbot cutout and put them in front of you."
 
 - [ ] **Assign** Writers
   >>"Partners, you are the writers. Take a pencil, coding paper, and grid paper."
@@ -112,7 +96,8 @@ One trio and the rest of the class in pairs.
 - [ ] **Write Phase** of Coders & Bots
   - Coders team work together to write code for 1st challenge.
   - At the end of the writing phase, have students draw a star on the starting square of their challenge on the grid paper.
-  <note type="key" title="Key: Draw Star">
+
+  <note type="tip" title="Tip: Draw Star">
   Coders must draw a star on one of the blank grids so the Bots know where to start.
   </note>
 
@@ -120,11 +105,14 @@ One trio and the rest of the class in pairs.
 - [ ] **Switch Phase** of Coders & Bots
   - Pairs who coded 2-1 switch coding paper and grids with pairs who coded 2-2
   - If one worksheet 2-3 was passed out, switch among the three pairs of the different worksheets so Bots read for a challenge they have not coded.
-  <note type="key" title="Key">
+
+  <note type="tip" title="Tip">
   Bots read code for a challenge different than the one they coded so they do not know the desired outcome.
   </note>
 
 - [ ] Pass out grid paper.
+
+<pagebreak/>
 
 - [ ] **Assign** Stepper
   >>"Writers, raise your hands. You are now Steppers."
@@ -143,7 +131,8 @@ One trio and the rest of the class in pairs.
 
 - [ ] **Check Phase** of Coders & Bots
   - Code and outcome is given back to original Coders Team.
-  <note type="key" title="Key">
+
+  <note type="tip" title="Tip">
   If CT and BT have a disagreement, the Coders can redo the 1st challenge instead of moving onto the 2nd challenge.
   </note>
 
@@ -159,7 +148,7 @@ One trio and the rest of the class in pairs.
 
   <note type="key" title="Key Take Away">
   Coders & Bots helps us practice writing and reading code while collaborating with other coders.
-  </note>'
+  </note>
 
 </notable>
 [coders&bots]: https://docs.google.com/document/d/1TDR92dYe0W8fd3_fGlbMoTG8YtHvxQiPFsXmw3wokrk/edit

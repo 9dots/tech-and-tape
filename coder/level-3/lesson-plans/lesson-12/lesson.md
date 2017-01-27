@@ -3,7 +3,7 @@
 <notable>
 
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Students use the code planning protocol to organize their project and begin coding their emoji pixel art project.
+Students use the project planning protocol to organize their project and begin coding their emoji pixel art project.
 
 
 
@@ -14,11 +14,11 @@ Students use the code planning protocol to organize their project and begin codi
 
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-
-1. Engage: Comments are important (5 minutes)
-2. Explain: Code planning protocol (5 minutes)
-3. Elaborate: Code pixel emoji (30 minutes)
-4. Evaluate: Review todo list (5 minutes)
+###### Length: 45 minutes
+1. **Engage:** Comments are important (5 minutes)
+2. **Explain:** Project (10 minutes)
+3. **Elaborate:** Code pixel emoji (25 minutes)
+4. **Evaluate:** Review todo list (5 minutes)
 
 
 
@@ -31,9 +31,12 @@ Students use the code planning protocol to organize their project and begin codi
 - Projector
 - Computer
 - [Example Feature & Todo List][example]
+- [Rubric][rubric]
+
 
 ###### Student materials
 - Computer
+- [Find the Bug! playlist][playlist] (pixelBots code: XB4GZ)
 - Lesson 12 Worksheet [Page 1][worksheet1] & [Page 2][worksheet2]
 
 
@@ -43,7 +46,7 @@ Students use the code planning protocol to organize their project and begin codi
 
 #### Engage: Comments are important (5 minutes)
 - [ ] **Contrasting Cases:** Show the importance of planning and comments by comparing math eyed emoji code without and with comments.
-  - Students go to [Find the Bug! playlist][playlist] on pixelbots.io
+  - Students go to [Find the Bug! playlist][playlist] (pixelBots code: XB4GZ) on pixelbots.io
   - **Step 1:** “There is a bug in my code, a pixel was not painted.”
   - **Step 2:**  Search for bug in code challenge 1 in playlist.
   - **Step 3:** Search for bug in code of challenge 2 in playlist.
@@ -55,13 +58,15 @@ Students use the code planning protocol to organize their project and begin codi
 
 ![debug](./images/debug.png)
 
-#### Explain: Code Planning Protocol (5 minutes)
+#### Explain: Project Planning (10 minutes)
 
 - [ ] **Define:** Feature List - a document that outlines the important features for a program.
 
 - [ ] **Model:** Write a feature list for the math eyed emoji example, then create a todo list
   - Review decomposition of math eyed emoji
   - The feature list will be the same as the decomposed emoji, if done correctly.
+- [ ] **Model:** Create a todo list for the day
+  - List which features you will code first.
 
   <note type="tip" title="Tip">
   - Each feature list item should be one color.
@@ -79,7 +84,7 @@ Students use the code planning protocol to organize their project and begin codi
 
 - [ ] Students add comments to their code using their Feature List.
 
-#### Elaborate: Code Pixel Emoji (30 minutes)
+#### Elaborate: Code Pixel Emoji (25 minutes)
 
 - [ ] **Model:** Code the first feature on your todo list, blue pi eye.
 
@@ -87,6 +92,21 @@ Students use the code planning protocol to organize their project and begin codi
 
 - [ ] Support students in coding the features of their emoji.
   - When students get stuck, use the Read, Write, and Debug protocols to support students.
+
+<note type="reminder" title="Reminder: Protocols">
+- Read
+  1. Predict
+  1. Step
+  1. Summarize
+- Write
+  1. Plan
+  1. Code
+  1. Validate
+- Debug
+  1. Compare
+  1. Find
+  1. Fix
+  </note>
 
 #### Evaluate: Review todo list (5 minutes)
 
@@ -103,3 +123,4 @@ Students use the code planning protocol to organize their project and begin codi
 [playlist]: http://www.pixelbots.io/XB4GZ
 [worksheet1]: ../../worksheets/lesson12-worksheet1-1.pdf
 [worksheet2]: ../../worksheets/lesson12-worksheet1-2.pdf
+[rubric]: https://docs.google.com/document/d/1qQ3agWiwpL5hg8jD2lVk6juwkZQArCEFowgTXdAsLZA/edit?usp=sharing
