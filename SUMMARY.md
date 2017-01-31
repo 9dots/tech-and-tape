@@ -29,7 +29,7 @@
     * [write some code](coder/level-3/lesson-plans/lesson-2.md)
     * [write read repeat](coder/level-3/lesson-plans/lesson-3.md)
     * [pixelBots online](coder/level-3/lesson-plans/lesson-4.md)
-    * [winter is coming - gather food](coder/level-3/lesson-plans/lesson-5.md)
+    * [calling functions on getCoding.io](coder/level-3/lesson-plans/lesson-5.md)
     * [space ranger and magic words](coder/level-3/lesson-plans/lesson-6.md)
     * [coding arguments in JS](coder/level-3/lesson-plans/lesson-7.md)
     * [practicing arguments](coder/level-3/lesson-plans/lesson-8.md)
@@ -54,3 +54,4 @@
     * [visual-beat-machine](developer/p5/visual-beat-machine/README.md)
       * [Lesson 1: Introducing P5.js & Mouse Input](developer/p5/visual-beat-machine/lesson-plans/lesson-1/lesson.md)
       * [Lesson 2: Variable, Operators, & Loops](developer/p5/visual-beat-machine/lesson-plans/lesson-2/lesson.md)
+      * [Lesson 3: Functions, Conditionals, and Randomness](developer/p5/visual-beat-machine/lesson-plans/lesson-3/lesson.md)
