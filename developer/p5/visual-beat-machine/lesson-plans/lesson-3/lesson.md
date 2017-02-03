@@ -1,22 +1,21 @@
-<header title='Functions, Conditionals, & Randomness' subtitle='Lesson 3'/>
+<header title='Keyboard Input - “If key pressed then…”' subtitle='Lesson 3'/>
 
 <notable>
 
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Students work in pairs to apply basic knowledge of P5.js to a template that will create a simple animation.  
+Students are introduced to if-then conditional statements and practice using them to draw shapes when a key is pressed.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
-- Students will be able to  write an if-then statement to execute a sequence if a test is true.
-- Students will be able to write an if-else statement to execute different sequences if a test is true or false.
-- Students will be able to  use randomness in a sketch.
+- Students will be able to use if-then conditionals and function keyPressed() to draw a shape when a key is pressed in a P5.js sketch.
 
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-###### Length: 65 minutes
-1. **Engage:** Example of Random Walker Sketch (5 minutes)
-1. **Explain:** Functions (10 minutes)
-1. **Explore:** Conditionals and Randomness (15 minutes)
-1. **Elaborate:** Create a Random Walker Sketch (35 minutes)
+###### Length: 55 minutes
+1. **Engage:** Challenge - Drawing Shapes (10 minutes)
+1. **Explore:** Sketch with keyPressed() and if-then conditional statements (10 minutes)
+1. **Explain:** Keyboard Input (5 minutes)
+1. **Elaborate:** Practice using keyPressed() and if-then conditionals (15 minutes)
+1. **Evaluate:** Exit Challenge (15 minutes)
 
 <note>
 
@@ -25,8 +24,12 @@ Students work in pairs to apply basic knowledge of P5.js to a template that will
 ###### Teacher materials
 - [ ] Projector
 - [ ] Computer
+- [ ] [Lesson 3 Slideshow][slides]
 - [ ] [Example Code][examplecode]
-- [ ] [Slideshow][slides]
+- [ ] [Challenge Answer Sketch][challenge]
+
+
+
 
 ###### Student materials
 - [ ] Computer
@@ -34,101 +37,92 @@ Students work in pairs to apply basic knowledge of P5.js to a template that will
 - [ ] [Grid Paper][gridpaper]
 - [ ] pencil
 - [ ] coding journal
+- [ ] [Week 3 sketch][w3sketch]
+- [ ] [Starter Sketch][starter]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
-- see p5.js zine
+- **Conditional:** Asks a true/false (boolean) statement, and runs a chunk of code if the answer is true.
 
 
 </note>
 <pagebreak/>
-#### Engage: Example of Random Walker Sketch
-- [ ] Watch: [How to draw with Code][video] by Casey Reas
-- [ ] Show [Random Walker Sketch][sketch]
+#### Engage: Challenge - Drawing Shapes (10 minutes)
+- [ ] Set the challenge! Students create a sketch with: (slide 3)
+  - Black background
+  - Yellow circle with width and height of 300 at x: 500 y: 500
+  - Blue square with width and height of 25 that draws where the mouse pointer is     
+  - [Challenge Answer Sketch][challenge]
+
+“Last two Saturdays we practiced making simple sketches that draw shapes and take user inputs using mouseX and mouseY. Complete this challenge independently to show yourself how much you can do.”
+
+<note type="key" title="Key">
+- Spend 1 minute to set the challenge.
+- Let the students work independently for 7 minutes before you help.
+- Remind students they can and **should** reference their zine! </note>
+
+- [ ] Students create a sketch independently to demonstrate mastery of drawing shapes in P5.js
+<note type="tip" title="Tip">
+If students need help with the blue square following the mouse, give them a hint to use mouseX and mouseY or tell them to look at pg. 11 in the zine.</note>
+
+#### Explore: Sketch with keyPressed() and if-then conditional statements (10 minutes)
+- [ ] **Independent Exploration:** Students interact with [Week 3 sketch][w3sketch] (slide 5)
+  - Students respond to writing prompt in coding journal: (slide 6)
+    - What happens when you press certain keys?
+    - What happens when you press spacebar?
 
 <note type="tip" title="Tip">
-A random walk is a mathematical object that describes a path that consists of a sequence of random steps on some mathematical space such as the integers.</note>
+- **Important:** After pressing play, students need to click on canvas for function keyPressed() to work!
+- If students are confused about which keys to press, tell them to look at the code.
+</note>
 
->> "In today's lesson, you will be creating a random walker sketch in pairs."
-
-#### Explain: Functions
-
-- [ ] **Explain** Functions
-  - A function teaches the program a new task.
-  - It is a list of instructions that is stored with a name for later use.
-  - The function won’t run until it is called.
-  - Why are functions useful and important?
-  - Creating and calling a function saves time and helps make writing code more efficient.
-
-- [ ] **Model:** Create a function in processing that draws 5 circles in a row.
-    - To create a new function, we start with the word function.
-    - The function then needs to be named.
-    - Function name should be simple and concise, generally describing the action of the function.
-    - Function names are always followed by parentheses.
-    - After the parentheses, functions require curly braces.
-    - Curly braces are always in pairs, so when creating an open curly brace, make sure to immediately create a closing curly brace by pressing return/enter on the keyboard.
-    - Instructions for the function must be listed within the curly braces. They act as bookends to contain the action of the function.
+- [ ] Discuss student observations from sketch
+  - Students should notice that pressing w, a, s, d triggers a shape to be drawn
+  - Students should notice that pressing the spacebar will clear the canvas
 
 <pagebreak/>
-#### Explore: Conditionals and Randomness
+#### Explain: Keyboard Input (5 minutes)
+- [ ] **Define** if-then conditional statements
+  - Connect student discussion to the new vocabulary word:
+    >> “If we press w, then a circle is drawn. This is an example of an if-then conditional statement.”
 
-- [ ] Play unplugged activity exploring If/then - else statements/Conditionals
-  - Students interpret the rules. If they do the wrong actions they sit down.
-  - Slides 2 & 3
+- [ ] Students write if-then conditional statements definition in coding journals. (slide 8)
 
-- [ ] If/then - else statements or “conditionals” choose between two options.
-  >> "For example, if the weather is nice, then I will go to the beach and code - else, I will stay in my room and code. Can you think of any other conditionals?"
+<note type="tip" title="Tip">
+Use the week 3 starter code with if-then code written for you. Replace which letters you want in the conditional and add code to have shapes drawn when the key is pressed.</note>
 
-  - **Share out:** Choose 2-3 students to give an example of a if/then - else statement.
+- [ ] **Model** writing a sketch that draws shapes when a key is pressed using function keyPressed() and if-then conditionals. (slide 9)
+  - Program 2 keys
+  - Narrate each line of code you write
+  - Comment each line of code
 
-- [ ] Play unplugged activity exploring Randomness  
-  1. Start with 4 student volunteers coming to the front of the class.
-  1. 2 stand in the middle, 2 stand at each end of the front of the classroom.
-  1. Give 1 student from each pair a coin.
-  1. Partners flip the coin.  
-    1. heads = move forward
-    1. tails = move backward
-  1. The remaining partner must follow instructions until they reach the middle of the classroom.
+<note type='key' title='key'>
+Spend a maximum of 4 minutes modeling how to add and adjust week 3 starter sketch.</note>
 
-<note type= "tip" title="Tip">Engage in following activity before mentioning the word “random”</note>
 
-- [ ] **Discuss:** Unplugged activity
-  <iconp type='question'> Who reached the middle of the classroom first? </iconp>
-  <iconp type='question'> How would you strategize to win? </iconp>
-  <iconp type='answer'> Who wins is random! You would win by flipping the most heads, but you have a 50-50 chance of doing that each flip of the coin. </iconp>
-  <iconp type='question'> When / why would you want randomness when you are programming?</iconp>
-  <iconp type='answer'> Random numbers can be used for games to make sure that interactions change each time. </iconp>
-  <iconp type='answer'> It can also be used in animation to create interesting patterns.</iconp>
+
+#### Elaborate: Practice using keyPressed() and if-then conditionals (15 minutes)
+- [ ] **Independent Practice:** Students create a sketch that draws shapes when keys are pressed. (slide )
+  - Students go to Week 3 Starter Sketch,  add code to the sketch, and save it as a fork.
+>>“You will be given a sketch that has function keyPressed and four if-then conditionals coded for you. You will code which keys need to be pressed and what shape will be drawn when you press that key.”
+
+
+
+- [ ] **Extension:** Students can program more keys to trigger shapes.
+<note type="tip" title="Tip">The conditional to program the space bar is keyCode == 32. </note>
 
 <pagebreak/>
-- [ ] **Explain:** random() function
-  - The random function call can create unpredictable values within a specific range.
-  - i.e : random (5.0) : Will return values from 0.0 to 5.0.
-  - i.e : random (-5.0, 10.02) : Will return values from -5.0 to 10.02.
+#### Evaluate: Exit Challenge (15 minutes)
+- [ ] **Exit Challenge:** Students code a shape to be drawn in a random position on the window when the first letter of their name is pressed.
 
+- [ ] Instructor circulates room to check sketches.
+  - Create a list of students who were not able to complete this. Assistant instructor will work with this group of students in the next class.
 
-#### Elaborate: Create a Random Walker Sketch
-
-- [ ] Explain Random Walker Sketch: Random numbers with an if-else chain can make a point on your canvas move in random directions.
-  - The point can move in four directions (up, down, left, right) so the program should have four options.
-  - We want a random number between 1 and 4.
-  - The point moves by changing the x or y coordinate.
-    1. x++ = add one to x
-    1. x-- = subtract one from x
-    1. y++ = add one to y
-    1. y-- = subtract one from y
-
-- [ ] Pair students
-
-- [ ] Introduce Pair Programming
-  - Show video of Pair Programming
-  - Read p. 19 of zine
-
-- [ ] Students do mini challenge in zine, p. 23-34
 
 
 
 </notable>
-[slides]: https://docs.google.com/presentation/d/1rSCREdm6Yb6C3RV-vsehZ2GxaVuIg_jwt2987wDBDTM/edit?usp=sharing
-[video]: https://www.youtube.com/watch?v=_8DMEHxOLQE
-[sketch]: https://www.openprocessing.org/sketch/402154
+[starter]: https://www.openprocessing.org/sketch/403487
+[slides]: https://docs.google.com/presentation/d/15LZEx0puLgVSdcXEVtb9v6nyYqvDswPg2tOO9rNHbtc/edit?usp=sharing
+[w3sketch]: https://www.openprocessing.org/sketch/403720
+[challenge]: https://www.openprocessing.org/sketch/403278

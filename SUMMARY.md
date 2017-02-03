@@ -55,3 +55,5 @@
       * [Lesson 1: Introducing P5.js & Mouse Input](developer/p5/visual-beat-machine/lesson-plans/lesson-1/lesson.md)
       * [Lesson 2: Variable, Operators, & Loops](developer/p5/visual-beat-machine/lesson-plans/lesson-2/lesson.md)
       * [Lesson 3: Functions, Conditionals, and Randomness](developer/p5/visual-beat-machine/lesson-plans/lesson-3/lesson.md)
+  * [pixelBots](developer/pixelBots/README.MD)
+    * [Lesson 3: Arguements - Numbers & Strings](developer/pixelBots/lesson-plans/lesson-3/lesson.md)
