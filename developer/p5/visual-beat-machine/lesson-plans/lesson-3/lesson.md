@@ -102,8 +102,8 @@ Spend a maximum of 4 minutes modeling how to add and adjust week 3 starter sketc
 
 
 #### Elaborate: Practice using keyPressed() and if-then conditionals (15 minutes)
-- [ ] **Independent Practice:** Students create a sketch that draws shapes when keys are pressed. (slide )
-  - Students go to Week 3 Starter Sketch,  add code to the sketch, and save it as a fork.
+- [ ] **Independent Practice:** Students create a sketch that draws shapes when keys are pressed. (slide 11)
+  - Students go to Week 3 Starter Sketch,  add code to the sketch, and save it as a fork. (slide 12)
 >>“You will be given a sketch that has function keyPressed and four if-then conditionals coded for you. You will code which keys need to be pressed and what shape will be drawn when you press that key.”
 
 
@@ -113,7 +113,7 @@ Spend a maximum of 4 minutes modeling how to add and adjust week 3 starter sketc
 
 <pagebreak/>
 #### Evaluate: Exit Challenge (15 minutes)
-- [ ] **Exit Challenge:** Students code a shape to be drawn in a random position on the window when the first letter of their name is pressed.
+- [ ] **Exit Challenge:** Students code a shape to be drawn in a random position on the window when the first letter of their name is pressed. (slide 14)
 
 - [ ] Instructor circulates room to check sketches.
   - Create a list of students who were not able to complete this. Assistant instructor will work with this group of students in the next class.
