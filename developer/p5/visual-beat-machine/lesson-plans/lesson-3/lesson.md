@@ -54,7 +54,7 @@ Students are introduced to if-then conditional statements and practice using the
   - Blue square with width and height of 25 that draws where the mouse pointer is     
   - [Challenge Answer Sketch][challenge]
 
-“Last two Saturdays we practiced making simple sketches that draw shapes and take user inputs using mouseX and mouseY. Complete this challenge independently to show yourself how much you can do.”
+>>“Last two Saturdays we practiced making simple sketches that draw shapes and take user inputs using mouseX and mouseY. Complete this challenge independently to show yourself how much you can do.”
 
 <note type="key" title="Key">
 - Spend 1 minute to set the challenge.
@@ -92,12 +92,16 @@ If students need help with the blue square following the mouse, give them a hint
 Use the week 3 starter code with if-then code written for you. Replace which letters you want in the conditional and add code to have shapes drawn when the key is pressed.</note>
 
 - [ ] **Model** writing a sketch that draws shapes when a key is pressed using function keyPressed() and if-then conditionals. (slide 9)
-  - Program 2 keys
+  - Show how to program drawing a circle at a random point when key 'a' is pressed
+    - **ellipse(random(windowWidth), random(windowHeight), 100, 100)**
   - Narrate each line of code you write
   - Comment each line of code
 
 <note type='key' title='key'>
-Spend a maximum of 4 minutes modeling how to add and adjust week 3 starter sketch.</note>
+- Spend a maximum of 4 minutes modeling how to add and adjust week 3 starter sketch.
+- random(widowWidth) is a random x position, random(widowHeight) is a random y position
+</note>
+
 
 
 
@@ -106,10 +110,10 @@ Spend a maximum of 4 minutes modeling how to add and adjust week 3 starter sketc
   - Students go to Week 3 Starter Sketch,  add code to the sketch, and save it as a fork. (slide 12)
 >>“You will be given a sketch that has function keyPressed and four if-then conditionals coded for you. You will code which keys need to be pressed and what shape will be drawn when you press that key.”
 
-
+<note type="tip" title="Tip">The conditional to program the space bar is keyCode == 32. </note>
 
 - [ ] **Extension:** Students can program more keys to trigger shapes.
-<note type="tip" title="Tip">The conditional to program the space bar is keyCode == 32. </note>
+
 
 <pagebreak/>
 #### Evaluate: Exit Challenge (15 minutes)
