@@ -5,21 +5,23 @@
 <iconp src='/icons/activity.png'>### Overview</iconp>
 Students discover how code is used to create art. Students learn the basics of P5.js and code their first shapes. At the end of the session, students learn how to make their sketch interactive with the mouse input variable.
 
+###### Target Audience: 6th - 8th grade
+
 
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 
-- Students will be able to create shapes of different colors and sizes.
-- Students will be able to login, save work, and title work using naming conventions.
-- Students will be able to use mouseX and mouseY as arguments to make code interactive.
+- Students will be able to create shapes of different colors and sizes in P5.js.
+- Students will be able to login, save work, and title work using naming conventions in P5.js.
+- Students will be able to use mouseX and mouseY as arguments to make code interactive in P5.js.
 
 
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-
-1. Engage: You can code art! (5 mins)
+###### Length: 65 minutes
+1. Explore: You can code art! (5 mins)
 2. Explain: Open Processing (20 mins)
-3. Explore: P5.js shapes and colors (30 mins)
+3. Engage: P5.js shapes and colors (30 mins)
 4. Elaborate: Mouse input (5 mins)
 5. Evaluate: Share project (5 mins)
 
@@ -48,11 +50,21 @@ Students discover how code is used to create art. Students learn the basics of P
 
 
 </note>
+<pagebreak/>
 
-#### Engage: You can code art! (5 minutes)
+#### Explore: You can code art! (5 minutes)
 - [ ] Lead a discussion about art.
+  <iconp type='question'> What mediums do you like to use when creating art?</iconp>
+  <iconp type='answer'> Colored pencils, paint, clay, etc. </iconp>
+  <iconp type='question'> What is interactive art? Has anyone experienced interactive art?</iconp>
+  <iconp type='answer'> Rain room, infinity mirror room, etc. </iconp>
 
   >> “In this class we are going to learn to create art with code!”
+
+<note type="tip" title="Examples of interactive art rooms">
+- [Yayoi Kusama's Infinity Mirrored Room][infinity] at The Broad
+- [Random International’s Rain Room][rain] at LACMA
+</note>
 
 - [ ] Before we start coding, let’s look at what’s possible:
   - [Processing Connexions][example]
@@ -63,11 +75,15 @@ Students discover how code is used to create art. Students learn the basics of P
   >>“The coding language we will use is called p5.js. It’s a JavaScript library that starts with the original goal of Processing, to make coding accessible for artists and designers!”
 
 - [ ] Show visual beat machine project
+- [ ] Ask for student observations.
+  <iconp type='question'> What is happening? </iconp>
+  <iconp type='question'> What do you hear and see? </iconp>
 
+<pagebreak/>
 #### Explain: Open Processing (20 minutes)
 
 - [ ] Distribute Processing zine
-  - This booklet will provide students with the code and concepts needed throughout the program
+  - This booklet will provide students with the code and concepts needed throughout the program.
 
 - [ ] **Explain** the Open Processing interface:
   - Play/Replay: Plays your sketch
@@ -78,7 +94,7 @@ Students discover how code is used to create art. Students learn the basics of P
 
 <note type="tip" title="Tip">
 - Log into your account before students log onto their Open Processing accounts.
-- Since this is the browser version of P5.js, errors (if any) will not show in the console, instead the play screen will be turn gray.
+- Since this is the browser version of P5.js, errors (if any) will not show in the console, instead the play screen will turn gray.
 </note>
 
 - [ ] Direct students to log onto their open processing accounts.
@@ -92,16 +108,20 @@ Students discover how code is used to create art. Students learn the basics of P
   - Coordinate system: Unlike the Cartesian coordinate system, here (0,0) starts at the top left corner.
   - Pixels: Unit of measurement on a computer screen (tiny dots of RGB that make up your screen).
 
+<pagebreak/>
 - [ ] **Model** drawing ellipse with no outline and filled with color.
-  - Comment each line
+<note type="reminder" title="Reminder">
+// Comment lines of code.
+</note>
+
 
 ![ellipsecode](./images/ellipsecode.png)
 
-#### Explore: P5.js shapes and colors (30 minutes)
+#### Engage: P5.js shapes and colors (30 minutes)
 
 - [ ] Students do mini challenge from zine.
- - Draw shapes in various sizes and colors
- - Integer argument values determine color and shape size
+ - Draw shapes in various sizes and colors.
+ - Integer argument values determine color and shape size.
  - Example sketch of [9 Dots logo][logo]  
 
 #### Elaborate: Mouse Input (5 minutes)
@@ -109,16 +129,16 @@ Students discover how code is used to create art. Students learn the basics of P
 
 
 #### Evaluate (5 minutes)
-- [ ] **Reflect:** Students respond to the following questions in coding journal
-  - What did you learn?
-  - Greatest challenges? Successes?
+- [ ] **Reflect:** Students respond to the following questions in coding journal.
+  - What did you learn? Greatest challenges? Successes?
 
-- [ ] **Share Out:**  3-4 students volunteer to share their project with the class if time allows
+- [ ] **Share Out:**  3-4 students volunteer to share their project with the class if time allows.
 
 
 
 </notable>
-
+[infinity]: http://www.thebroad.org/art/exhibitions/yayoi-kusama-infinity-mirrored-room
+[rain]: http://www.lacma.org/rainroom#about
 [gridpaper]: ../../worksheets/gridpaper.pdf
 [example]: https://vimeo.com/24930344
 [example2]: http://patatap.com/
