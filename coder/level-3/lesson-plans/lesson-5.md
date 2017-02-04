@@ -1,153 +1,127 @@
-{% title title='Gather Food - Winter is Coming', subtitle='plugged', color='#C2DACC' %}
-{% endtitle %}
+<header title='Calling Functions on getCoding.io' subtitle='plugged'/>
 
-{% header title='Overview', icon='activity' %}
-{% endheader %}
+<notable>
 
-Students write JavaScript on getcoding.io to solve increasingly difficult challenges involving moving a squirrel to gather nuts.
+<iconp src='/icons/activity.png'>### Overview</iconp>
+Students write JavaScript online in a series of increasingly difficult challenges involving maneuvering a squirrel to gather nuts, navigating a space ranger to get parts, and opening gates using magic spells.
 
-{% overviewSection title='Objectives', icon='objectives' %}
-{% endoverviewSection %}
 
+<iconp src='/icons/objectives.png'>### Objectives</iconp>
 1. Students write basic JavaScript to solve simple navigation problems.
+1. Students will be able to recognize and use different function calls.
 
-{% overviewSection title='Agenda', icon='agenda' %}
-{% endoverviewSection %}
+<iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-#### Length: 45 minutes
+###### Length: 50 minutes
 
-1. Warm-up
-2. Help the Squirrel Gather Acorns
-3. Pair Idea Exchange
-4. Resume Helping the Squirrel Gather Acorns
-5. Unplugged Exit Ticket
+1. **Do Now:** Write Code (5 minutes)
+1. **Engage:** getCoding.io (5 minutes)
+1. **Explore:** Sequence Squirrel on getCoding.io (10 minutes)
+1. **Explain:** Functions Calls (5 minutes)
+1. **Elaborate:** Sequence Space Ranger & Magic Words (20 minutes)
+1. **Evaluate:** Exit Ticket (5 minutes)
 
-{% overviewSection title='Vocab', icon='vocab' %}
-{% endoverviewSection %}
+<note>
 
-**Code Editor** - The place where coders assemble their program.
+<iconp src='/icons/materials.png'>### Materials</iconp>
 
-{% overviewSection title='Materials', icon='materials' %}
-{% endoverviewSection %}
+###### Teacher materials
+- [ ] Computer
+- [ ] Projector
+- [ ] Whiteboard
+- [ ] Magnetic pixelBot
 
-1. [Lesson 5 | Warm-up Worksheet][warm-up]
-2. [Lesson 5 | Exit Ticket][wrap-up]
-3. Laptops/Computers
-4. Scratch paper grids
-5. Small turtle cutout for each student
-6. Magnetic turtle
-7. Scratch paper grids
-5. Pencils
-9. Whiteboard
+###### Student materials
+- [ ] [Lesson 5 | Warm-up Worksheet][warm-up]
+- [ ] [Lesson 5 | Exit Ticket][wrap-up]
+- [ ] Computers
+- [ ] Pencils
+- [ ] Small pixelBot cutout
 
-{% header title='Warm-up', icon='objectives' %}
-{% endheader %}
+<iconp src='/icons/vocab.png'>### Vocabulary</iconp>
+- **Code Editor** - The place where coders assemble their program.
+- **Function call** - A programming element that tells the computer to do something. In the beginning, most function calls will cause the computer to perform an action.
 
-{% length '10 minutes' %}
-{% endlength %}
+</note>
 
-Students practice writing basic javascript to create a simple Pixel Bot drawing.
 
-**Prep:** Hand out [Lesson 5 | Warm-up Worksheet][warm-up]
+#### Do Now: Write Code (5 minutes)
+- [ ] Pass out [Lesson 5 | Warm-up Worksheet][warm-up]
+- [ ] Students practice writing basic javascript to create a simple pixelBots drawing.
 
-{% table %}
+<pagebreak/>
+#### Engage: getCoding.io (5 minutes)
+- [ ] Introduce [getCoding.io][getCoding] website to students
+  >> “We will continue practicing writing code on a new platform.”
 
-1) **Individual Work:** Ask students to write the code to produce the Pixel Bot image in the [Lesson 5 | Warm-up Worksheet][warm-up]. Consider reminding students of the proper JavaScript syntax (see Elements on the worksheet).
-2) Draw the Pixel Bot image on the whiteboard and code the solution with the students, randomly calling on one student at a time to provide each next line of code. (Note the problem can be solved in different ways. Students should follow the class’ ongoing code which may differ from their own solution).
-
-,,,
-
-1) Students individually fill out the Warm-up Worksheet.
-2) If called on, students call out the next line of code.
-
-{% endtable %}
-
-{% header title='Help the Squirrel Gather Acorns', icon='objectives' %}
-{% endheader %}
-
-{% length '15 minutes' %}
-{% endlength %}
-
-Students write code in JavaScript on the getcoding.io platform to help the squirrel gather acorns. Students are practicing simple sequences.
-
-**Prep:** Have the getcoding.io platform open on your browser and projected on the wall. Students should also have their own computers.
-
-{% table %}
-
-1) Walk students through the getcoding.io platform. Show students how to:
+- [ ] Walk students through the getcoding.io platform. Show students how to:
   - open activities
   - use the Code Editor (where to type)
   - see elements
   - run code
   - step through the code one line at a time
   - change the speed
-2) Ask students to browse to getcoding.io and start moving through the challenges in the Calling Functions squirrel activity.  Explain the goal of the activity: Move the squirrel to the nut and pick it up. Tell students they are free to continue on to the second squirrel challenge when they are ready.
-3) When students get stuck, we suggest using the Read, Write, and Debug protocols to support students. Ask students to imagine being on the Coder team from the group activities. They should try to play the roles of the writer and navigator. Then, ask students to imagine being a Bot to understand how the computer reads the code.
+<note>![engage](./images/engageL5.png)</note>
 
-,,,
+#### Explore: Sequence Squirrel on getCoding.io (10 minutes)
+- [ ] Direct students to Unit 1, 1. Sequence Squirrel on getCoding.io website.
+<note>![engage](./images/exploreL5.png)</note>  
+- [ ] **Explain** the goal of the activity: move the squirrel to the nut and pick it up.
+- [ ] **Independent Practice:** Students do Unit 1, activities 1 and 2
+  1. Sequence Squirrel
+  1. Sequence Squirrel Climber
 
-2) Students start solving the challenges in the Calling Functions squirrel activities.
+<note type="tip" title="Tip">
+Students will be exposed to new function calls. Do not explain how they work until they have had the chance to figure it out for themselves.
+</note>
 
-{% endtable %}
+#### Explain: Functions Calls (5 minutes)
+- [ ] **Review Definition** Function Call: A programming element that tells the computer to do something. In the beginning, most function calls will cause the computer to perform an action.
+- [ ] **Discuss** similarities and differences about coding Squirrel on getCoding.io and zebra bot on pixelBots.io
+  - On the board:
+    1. List the coding elements for zebra on pixelBots
+    1. List the coding elements for squirrel on getCoding
+    <iconp type='question'>Do zebra and squirrel have the same function calls?</iconp>
+    <iconp type='answer'>Some of the names of the functions calls are the same, but they do different actions.</iconp>
+    <iconp type='answer'>For squirrel, up(), down(), left(), right() makes squirrel face in that direction.</iconp>
+    <iconp type='answer'>For zebra, up(), down(), left(), right() makes zebra move one square in that direction.</iconp>
 
+>> “Programs can have different function calls. It is important to know the function calls and the action that it performs when it is called. “
 
-{% header title='Pair Idea Exchange', icon='objectives' %}
-{% endheader %}
+#### Elaborate: Sequence Space Ranger & Magic Words (20 minutes)
+>> “We will continue practicing writing code on getCoding.io. Pay attention to the function calls that are given in each activity.”
 
-{% length '5 minutes' %}
-{% endlength %}
+- [ ] Direct students to Unit 1, activity 3. Space Ranger.
 
-Talk with a peer about how the code is working.
+- [ ] **Independent Practice:** Students write code in JavaScript on the getcoding.io platform to help the Space Ranger gather parts.
 
-**Prep:** None
+- [ ] **Pair Idea Exchange:** Students pause from writing code and talk with a neighbor about the problem they are currently trying to solve.
+  - Pairs ask each other the following questions.
+    - What is your plan?
+    - What have you tried?
+    - Is anything standing in your way?
+  - Remind students to ask questions instead of offering solutions.
+<note>![engage](./images/L5space.png)</note>
 
-{% table %}
+- [ ] Students continue Independent Practice on Space Ranger Activity continues.
 
-1) Ask students to pause their progress and talk with a neighbor about their current problem. What is their plan? What have they tried? Is there anything standing in their way? Important: Ask students to offer questions instead of solutions.
-,,,
-
-1) Students pause their progress and talk with a neighbor about the problem they are currently trying to solve.
-
-{% endtable %}
-
-{% header title='Resume Helping the Squirrel Gather Acorns', icon='objectives' %}
-{% endheader %}
-
-{% length '10 minutes' %}
-{% endlength %}
-
-Students continue writing code in JavaScript on the getcoding.io platform to help the squirrel gather acorns.
-
-**Prep:** None
-
-{% table %}
-
-1) Ask students to resume coding individually in the Calling Functions squirrel activity.
-,,,
-
-1) Students resume coding.
-
-{% endtable %}
+- [ ] **Explain** rules to Magic Words.
+  - As students finish Space Ranger, pause the class to explain next activity.
+  - Rules to Magic Words: Whenever you call out a spell in your program, all of the gates with that spell will move (either up or down, depending on its last position).
+<note>![engage](./images/L5magic.png)</note>
+- [ ] **Independent Practice:** Students continue to finish activity 3. Space Ranger and then continue to activity 4. Magic Words.
 
 
-{% header title='Unplugged Exit Ticket', icon='objectives' %}
-{% endheader %}
+#### Evaluate: Exit Ticket (5 minutes)
+- [ ] Pass out [Lesson 5 |  Exit Ticket][wrap-up]
+- [ ] Students individually work to complete exit ticket.
+- [ ] Review answer after collecting exit ticket, if time allows.
 
-{% length '5 minutes' %}
-{% endlength %}
 
-Students individually fill out an exit ticket focused on simple sequence.
 
-**Prep:** Hand out [Lesson 5 | Exit Ticket][wrap-up].
 
-{% table %}
-
-1) **Individual Work:** Ask students to fill out the Exit Ticket. Draw their attention to the Elements on the Exit Ticket worksheet because they differ ever so slightly from the squirrel elements.
-,,,
-
-1) Students fill out the exit ticket.
-
-{% endtable %}
+</notable>
 
 [warm-up]: ../worksheets/lesson5-warmup.pdf
 [wrap-up]: ../worksheets/lesson5-wrapup.pdf
+[getCoding]: www.getCoding.io
