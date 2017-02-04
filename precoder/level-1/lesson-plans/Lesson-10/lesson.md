@@ -56,7 +56,7 @@ I can debug a 2-10 block sequence with more than one directional move.
 <iconp ml='1.65em' type='question'>question</iconp>
 <iconp ml='1.65em' type='answer'>answer</iconp>
 - [ ] action item
-</note>
+</note> 
 
 <pagebreak/>
 
@@ -96,7 +96,7 @@ I can debug a 2-10 block sequence with more than one directional move.
 
 ## Elaborate: Independent Practice (17 min)
 - [ ] **Independent Practice:** Students work on a pixelBot playlist. (12 min)
-- [ ] **Review** practice problems 1, 4, and 7  with the class. (5 min)
+- [ ] **Review** practice problems 1, 4, and 7 with the class. (5 min)
 
 </notable>
 
