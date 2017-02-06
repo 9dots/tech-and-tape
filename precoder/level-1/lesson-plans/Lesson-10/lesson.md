@@ -37,6 +37,7 @@ I can debug a 2-10 block sequence with more than one directional move.
 - [ ] [Paper Coding Blocks][blocks]
 - [ ] [Tokens][token]
 - [ ] [Paper Grids][grid]
+- [ ] [Debugging Review Playlist][playlist]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 - **Bug** - An error in code.
@@ -106,3 +107,4 @@ I can debug a 2-10 block sequence with more than one directional move.
 [blocks]: https://drive.google.com/open?id=0B48_2vIyABioeFViZ3Y4UGFqMkU
 [token]: https://drive.google.com/open?id=0B48_2vIyABioc1JwYXoyeG8wZzQ
 [grid]: https://drive.google.com/open?id=0B48_2vIyABiodXQxMVJZdXNVVlk
+[playlist]: http://www.pixelbots.io/V5MM3
