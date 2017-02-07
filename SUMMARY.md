@@ -13,6 +13,8 @@
     * [Lesson 8: Pixel Artists](precoder/level-1/lesson-plans/lesson-8/lesson.md)
     * [Lesson 9: Bug Catchers](precoder/level-1/lesson-plans/lesson-9/lesson.md)
     * [Lesson 10: Review](precoder/level-1/lesson-plans/lesson-10/lesson.md)
+    * [Lesson 11: Summarizing I](precoder/level-1/lesson-plans/lesson-11/lesson.md)
+    * [Lesson 12: Summarizing II](precoder/level-1/lesson-plans/lesson-12/lesson.md)
 * [coder](coder/README.md)
   * [level 2](coder/level-2/README.md)
     * [sequencing pixels](coder/level-2/lesson-plans/lesson-1.md)
