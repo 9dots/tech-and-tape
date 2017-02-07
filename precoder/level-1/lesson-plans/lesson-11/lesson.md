@@ -35,7 +35,7 @@ In lesson 11 students are introduced to summaries. Students practice summarizing
 
 ## Room Design
 
-![room]()
+![room](./images/layout-tables.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
