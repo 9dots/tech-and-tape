@@ -42,7 +42,7 @@ Students understand that computing is a creative experience and a tool for perso
 </note>
 
 <pagebreak/>
-## Engage: Intro To Emojis & Pixel Art (5 mins)
+#### Engage: Intro To Emojis & Pixel Art (5 mins)
 
 - [ ] Lead a discussion about emojis and pixel art. (slide 2)
   <iconp type='question'> Why do people use emojis? </iconp>
@@ -65,7 +65,7 @@ Students understand that computing is a creative experience and a tool for perso
 
 
 
-## Explore: Designing Pixel Emojis (35 minutes)
+#### Explore: Designing Pixel Emojis (35 minutes)
  >>"We are developers! And as developers we are designers, builders, artists, and coders. For the next few lessons we will focus on being designers and artists to create our very own pixel emoji. Today we will start our design process."
 
 
@@ -104,7 +104,7 @@ Students understand that computing is a creative experience and a tool for perso
     >> “Our decomposed emoji will be the basis of our plan to code our emoji in pixelbots.”
 
 
-## Evaluate: Exit Ticket (3 minutes)
+#### Evaluate: Exit Ticket (3 minutes)
 - [ ] Introduce Pixel Emojis Rubric (slide 12)
   - Focus on Design Thinking & Prototype row (slide 13)
   - Teacher models using rubric to evaluate math eyed emoji prototype
