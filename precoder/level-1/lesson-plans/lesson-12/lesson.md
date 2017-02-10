@@ -53,6 +53,7 @@ Lesson 12 builds on lesson 11’s introduction to summarizing. Students learn th
 
 ## Engage: Story Time (5 min)
 - [ ] **Read** *The Lion and the Mouse* to the class and have students summarize each chunk of the story.
+
 - [ ] Read the story by clicking the animations one line at a time until you arrive at the end of a chunk.
 - [ ] Ask students to summarize each chunk.
 	<iconp type='question'>What happened during lines _____ through _____ of the story?</iconp>

@@ -49,6 +49,9 @@ In lesson 11 students are introduced to summaries. Students practice summarizing
 
 ## Engage: Story Time (5 min)
 - [ ] **Read** The Tortoise and the Hare and have students summarize the story verbally. (4 min)
+
+![tortoise](./images/slide-images.png)
+
 <iconp type='question'>What happened in the story?</iconp>
 <iconp type='answer'>The tortoise beat the hare in a race.</iconp>
 
