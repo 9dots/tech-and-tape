@@ -41,8 +41,8 @@ Two Group Lesson (groups switch 30 minutes into lesson):
 - [ ] coding journal
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
-- Functions: named storage for data
-- Variables: a reusable chunk of code that performs a task
+- Variables: named storage for data
+- Functions: a reusable chunk of code that performs a task
 
 
 
