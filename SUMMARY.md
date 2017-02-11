@@ -70,7 +70,5 @@
       * [Lesson 4: Functions](developer/p5/visual-beat-machine/lesson-plans/lesson-4/lesson.md)
   * [pixelBots](developer/pixelBots/README.MD)
     * [Lesson 3: Arguments - Numbers & Strings](developer/pixelBots/lesson-plans/lesson-3/lesson.md)
-<<<<<<< HEAD
     * [Lesson 4: Designing Pixel Emojis](developer/pixelBots/lesson-plans/lesson-4/lesson.md)
-=======
 >>>>>>> master
