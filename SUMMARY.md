@@ -10,6 +10,11 @@
     * [Lesson 5: Pixel Bot](precoder/level-1/lesson-plans/lesson-5/lesson.md)
     * [Lesson 6: Debugging](precoder/level-1/lesson-plans/lesson-6/lesson.md)
     * [Lesson 7: Directional Moves](precoder/level-1/lesson-plans/lesson-7/lesson.md)
+    * [Lesson 8: Pixel Artists](precoder/level-1/lesson-plans/lesson-8/lesson.md)
+    * [Lesson 9: Bug Catchers](precoder/level-1/lesson-plans/lesson-9/lesson.md)
+    * [Lesson 10: Review](precoder/level-1/lesson-plans/lesson-10/lesson.md)
+    * [Lesson 11: Summarizing I](precoder/level-1/lesson-plans/lesson-11/lesson.md)
+    * [Lesson 12: Summarizing II](precoder/level-1/lesson-plans/lesson-12/lesson.md)
 * [coder](coder/README.md)
   * [level 2](coder/level-2/README.md)
     * [sequencing pixels](coder/level-2/lesson-plans/lesson-1.md)
@@ -50,6 +55,13 @@
     * [Lesson 8: Enemies on Patrol](developer/level-1/lesson-plans/lesson-8/lesson.md)
     * [Lesson 8 Accelerated: Enemies on Patrol](developer/level-1/lesson-plans/lesson-8-accelerated/lesson.md)
     * [Lesson 9: Independent Coding Challenge](developer/level-1/lesson-plans/lesson-9/lesson.md)
+    * [Lesson 10 part 1: ICC Review](developer/level-1/lesson-plans/lesson-10-part1/lesson.md)
+    * [Lesson 10 part 2: Enemies Everywhere](developer/level-1/lesson-plans/lesson-10-part2/lesson.md)
+    * [Lesson 11: Enemies Everywhere Continued](developer/level-1/lesson-plans/lesson-11/lesson.md)
+    * [Lesson 12: Strategic Enemies](developer/level-1/lesson-plans/lesson-12/lesson.md)
+    * [Lesson 13: Boolean](developer/level-1/lesson-plans/lesson-13/lesson.md)
+    * [Lesson 14: Read Conditionals 1](developer/level-1/lesson-plans/lesson-14/lesson.md)
+    * [Lesson 15: Build-a-Bot](developer/level-1/lesson-plans/lesson-15/lesson.md)
   * [p5](developer/p5/README.md)
     * [visual-beat-machine](developer/p5/visual-beat-machine/README.md)
       * [Lesson 1: Introducing P5.js & Mouse Input](developer/p5/visual-beat-machine/lesson-plans/lesson-1/lesson.md)
@@ -58,4 +70,7 @@
       * [Lesson 4: Functions](developer/p5/visual-beat-machine/lesson-plans/lesson-4/lesson.md)
   * [pixelBots](developer/pixelBots/README.MD)
     * [Lesson 3: Arguments - Numbers & Strings](developer/pixelBots/lesson-plans/lesson-3/lesson.md)
+<<<<<<< HEAD
     * [Lesson 4: Designing Pixel Emojis](developer/pixelBots/lesson-plans/lesson-4/lesson.md)
+=======
+>>>>>>> master

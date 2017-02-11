@@ -1,4 +1,4 @@
-<header title='Sequencing Pixels' subtitle='unplugged'/>
+<header title='Sequencing Pixels' subtitle='unplugged' bgColor='#C2DACC'/>
 
 <notable>
 

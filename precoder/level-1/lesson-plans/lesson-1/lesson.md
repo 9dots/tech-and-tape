@@ -10,11 +10,12 @@ In lesson 1 students are introduced to the concept of productive failure. Studen
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. **Engage: The Most Magnificent Thing (7 min)** Students are introduced to the concept of productive failure by listening to the teacher read *The Most Magnificent Thing*.
+1. **Engage: The Most Magnificent Thing (7 min)** 
+	1. **Introduce** students to the concept of productive failure by reading *The Most Magnificent Thing*.
 1. **Explore: Mystery Robot (10 min)** Students use a series of clues to determine the identity of a mystery robot.
 1. **Explain/Elaborate: Mystery Robot Part II (10 min)** Students determine the identity of a mystery robot asking a series of questions.
-1. **Evaluate: Discussion (3 min)** Students participate in a whole group discussion in order to make connections between the activities and productive failure.
-
+1. **Evaluate: Debrief (3 min)** 
+	1. **Discuss:** Students make connections between the activities and productive failure by participating in a discussion.
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
@@ -47,30 +48,21 @@ In lesson 1 students are introduced to the concept of productive failure. Studen
 ## Engage: The Most Magnificent Thing (7 min)
 - [ ] Read *The Most Magnificent Thing* to the class. Pause and ask the questions below as you read.
 
-**Page 8**
-<iconp type='question'>What does the girl do after trying to build her invention the first time?</iconp>
+
+<iconp type='question'>*Page 8:* What does the girl do after trying to build her invention the first time?</iconp>
 <iconp type='answer'>The girl sees that the invention does not work and tries again.</iconp>
 
-
-**Page 14** 
-<iconp type='question'>Why does the girl build so many versions of her invention?</iconp>
-<iconp type='answer'>The girl builds different versions because she can’t seem to build it the way she wants to.</iconp>  
-
-
-**Page 22** 	
-<iconp type='question'>Why does the girl give up?</iconp>
+	
+<iconp type='question'>*Page 22:* Why does the girl give up?</iconp>
 <iconp type='answer'>The girl gives up because she can’t build her invention the right way.</iconp>  
 
 
-**Page 26**
-<iconp type='question'>What did the girl notice about each one of her inventions?</iconp>
-<iconp type='answer'>The girl notices that each invention is not completely wrong. There are parts of each invention that she can use to build the invention she wants.</iconp>  
+<iconp type='question'>*Page 26:* What did the girl notice about each one of her inventions?</iconp>
+<iconp type='answer'>The girl notices that there are parts of each invention that are actually good.</iconp>  
 
 
-**Page 29**
-<iconp type='question'>What did the girl learn about getting things wrong?</iconp>
-<iconp type='answer'>The girl learned that it is ok to get things wrong because you can still learn something when you are wrong.</iconp>
-<iconp type='answer'>The girl learned that it is ok to get things wrong because you can still learn something when you are wrong.</iconp>  
+<iconp type='question'>*Page 29:* What did the girl learn about getting things wrong?</iconp>
+<iconp type='answer'>The girl learned that you can still learn something from being wrong.</iconp>  
 
 <pagebreak/>
 

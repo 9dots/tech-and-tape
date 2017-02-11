@@ -31,7 +31,7 @@ Introduce arguments by having kids do a very repetitive task.
 
 1. [Lesson 10 | Warm-up worksheet][warm-up]
 1. Lesson 10 | Worksheet 1: [Page 1][worksheet1-1], [Page 2][worksheet1-2], [Page 3][worksheet1-3]
-1. [Lesson 10 | Worksheet 2][worksheet2]
+1. [Lesson 10 | Worksheet 2][worksheet2] (pixelBots code: JNM4G)
 1. Laptops/Computers
 1. Scratch paper grids
 1. Small turtle cutout for each student
@@ -140,7 +140,7 @@ Students use arguments to solve coding challenges.
 
 **Prep:**
 
-- Distribute [Lesson 10 | Worksheet 2][worksheet2]
+- Distribute [Lesson 10 | Worksheet 2][worksheet2] (pixelBots code: JNM4G)
 
 {% table %}
 

@@ -126,7 +126,7 @@ Students learn and use variables, operators, and for loops to create interesting
 
 </notable>
 [mouseX&Y]: https://www.openprocessing.org/sketch/398856
-[gridpaper]: ../../worksheets/gridpaper.pdf
+[gridpaper]: ../../worksheets/gridworksheet.pdf
 [examplecode]: https://docs.google.com/document/d/15q7Fc4VpcTd--i7clFKvmVy3GBWp6B8cfGgEZm1w-2w/edit
 [sketch1]:https://www.openprocessing.org/sketch/400530
 [sketch2]: https://www.openprocessing.org/sketch/400531

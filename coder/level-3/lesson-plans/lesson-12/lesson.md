@@ -1,4 +1,4 @@
-<header title='Lesson 12: Coding Pixel Emojis' subtitle='plugged'/>
+<header title='Lesson 12: Coding Pixel Emojis' subtitle='plugged' bgColor='#C2DACC'/>
 
 <notable>
 
@@ -115,9 +115,8 @@ Students use the project planning protocol to organize their project and begin c
 - [ ] Students assess progress and create a todo list for the next session.
 - [ ] Teacher reviews todo lists to prioritize check-ins with students in the next session.
 
-
-
 </notable>
+
 [debug]: ../images/debug.png
 [example]: https://drive.google.com/file/d/0BzdzqwuMjqy2NjFhZm5QZm1QeVk/view
 [pi eye code]: ../images/pieyecode.png

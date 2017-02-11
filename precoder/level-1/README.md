@@ -12,3 +12,8 @@
 - [Lesson 5: Pixel Bot](../level-1/lesson-plans/lesson-5/lesson.md)
 - [Lesson 6: Debugging](../level-1/lesson-plans/lesson-6/lesson.md)
 - [Lesson 7: Directional Moves](../level-1/lesson-plans/lesson-7/lesson.md)
+- [Lesson 8: Pixel Artists](../level-1/lesson-plans/lesson-8/lesson.md)
+- [Lesson 9: Bug Catchers](../level-1/lesson-plans/lesson-9/lesson.md)
+- [Lesson 10: Review](../level-1/lesson-plans/lesson-10/lesson.md)
+- [Lesson 11: Summarizing I](../level-1/lesson-plans/lesson-11/lesson.md)
+- [Lesson 12: Summarizing II](../level-1/lesson-plans/lesson-12/lesson.md)
