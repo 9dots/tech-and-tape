@@ -57,5 +57,5 @@
       * [Lesson 3: Keyboard Input - “If key pressed then…”](developer/p5/visual-beat-machine/lesson-plans/lesson-3/lesson.md)
       * [Lesson 4: Functions](developer/p5/visual-beat-machine/lesson-plans/lesson-4/lesson.md)
   * [pixelBots](developer/pixelBots/README.MD)
-    * [Lesson 3: Arguements - Numbers & Strings](developer/pixelBots/lesson-plans/lesson-3/lesson.md)
+    * [Lesson 3: Arguments - Numbers & Strings](developer/pixelBots/lesson-plans/lesson-3/lesson.md)
     * [Lesson 4: Designing Pixel Emojis](developer/pixelBots/lesson-plans/lesson-4/lesson.md)
