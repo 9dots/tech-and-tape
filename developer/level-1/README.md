@@ -22,3 +22,4 @@ Students begin applying core coding concepts into an Escape the Maze project. In
 - [Lesson 12: Strategic Enemies](../level-1/lesson-plans/lesson-12/lesson.html)
 - [Lesson 13: Boolean](../level-1/lesson-plans/lesson-13/lesson.html)
 - [Lesson 14: Read Conditionals 1](../level-1/lesson-plans/lesson-14/lesson.html)
+- [Lesson 15: Build-a-Bot](../level-1/lesson-plans/lesson-15/lesson.html)
