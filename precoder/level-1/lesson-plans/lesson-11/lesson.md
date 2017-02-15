@@ -70,16 +70,16 @@ In lesson 11 students are introduced to summaries. Students practice summarizing
 
 ## Explain: Summaries (8 min)
 - [ ] **Model** stepping and summarizing a sequence of code. (4 min)
-	 - [ ] Project slide 5 on the whiteboard and place the token on the start square.
+	 - [ ] Project slide 6 on the whiteboard and place the token on the start square.
 	 - [ ] Use the check and move protocol to step through the code. As you step, color squares with a dry erase marker according to the code.
 	 - [ ] **Summarize** the code using the sentence stem students will use.
-	 >> “The sequence makes the bot paint a square.”
+	 >> “The sequence makes the bot paint the letter H.”
 
 - [ ] **Guided Practice:** Students step through code and summarize the result of the code verbally. (4 min)
-	- [ ] Project slide 6 on the whiteboard and place the token on the start square. Have students do the same on their laminated grid.
+	- [ ] Project slide 7 on the whiteboard and place the token on the start square. Have students do the same on their laminated grid.
 	- [ ] Step through the first 4 lines on the board and have students step through the rest.
 	- [ ] **Turn and Talk:** Have students summarize the code with a partner using the sentence stem.
-	>> “The sequence directs the bot to paint a rectangle.”
+	>> “The sequence directs the bot to paint the letter P.”
 
 -  [ ] **Review** the solution to the problem by stepping through the rest of the sequence and sharing your summary.
 
