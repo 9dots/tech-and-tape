@@ -25,7 +25,7 @@ Lesson 12 builds on lesson 11’s introduction to summarizing. Students learn th
 
 ###### Student Materials:
 - [ ] [Tokens][token]
-- [ ] [Exploration Exploration Worksheet][explore]
+- [ ] [Exploration Worksheet][explore]
 - [ ] [Independent Practice Worksheet][practice]
 - [ ] [Exit Ticket][ticket]
 
