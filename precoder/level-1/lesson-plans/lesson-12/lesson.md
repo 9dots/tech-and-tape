@@ -98,6 +98,8 @@ Lesson 12 builds on lesson 11’s introduction to summarizing. Students learn th
 			<iconp type='question'>What did lines 1 through 7 do?</iconp>
 			<iconp type='answer'>Lines 1 through 7 painted a square.</iconp>
 
+- [ ] Repeat this process for the last two chunks.
+
 ## Elaborate: Chunking (10 min)
 - [ ] **Independent Practice:** Have students complete the independent practice worksheet. (8 min)
 - [ ] **Review** problems 1 and 2 from the worksheet with the class. (2 min)
