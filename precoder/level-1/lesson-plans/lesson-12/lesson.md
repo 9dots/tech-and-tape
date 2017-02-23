@@ -25,7 +25,7 @@ Lesson 12 builds on lesson 11’s introduction to summarizing. Students learn th
 
 ###### Student Materials:
 - [ ] [Tokens][token]
-- [ ] [Exploration Exploration Worksheet][explore]
+- [ ] [Exploration Worksheet][explore]
 - [ ] [Independent Practice Worksheet][practice]
 - [ ] [Exit Ticket][ticket]
 
@@ -77,6 +77,9 @@ Lesson 12 builds on lesson 11’s introduction to summarizing. Students learn th
 - [ ] On the grid to the right of the sequence, color only the squares that were colored according to the chunk containing lines 1-7.
 - [ ] Continue this process until all three chunks are stepped through and colored.
 
+![explore](./images/explore.png)
+
+
 - [ ] **Share Out:** Students summarize chunks of code. (1 min)
 	<iconp type='question'>What do lines 1 through 7 do?</iconp>
 	<iconp type='answer'>Lines 1 through 7 paint the happy face’s first eye.</iconp>
@@ -97,6 +100,11 @@ Lesson 12 builds on lesson 11’s introduction to summarizing. Students learn th
 - [ ] Have students color the corresponding grid on the right to reflect the image that was produced by lines 1-7. Repeat this process for the last two chunks of code.
 			<iconp type='question'>What did lines 1 through 7 do?</iconp>
 			<iconp type='answer'>Lines 1 through 7 painted a square.</iconp>
+
+- [ ] Repeat this process for the last two chunks.
+
+![explain](./images/explain.png)
+
 
 ## Elaborate: Chunking (10 min)
 - [ ] **Independent Practice:** Have students complete the independent practice worksheet. (8 min)
