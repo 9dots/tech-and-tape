@@ -10,11 +10,11 @@ Students learn the interface of pixelBots.io and write programs in Javascript to
 - Students will continue to develop proficiency in writing and reading code.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-###### Length: 35 mintues
+###### Length: 45 mintues
 
-1. **Engage:** Math Eyed Emoji on pixelBots (3 minutes)
+1. **Engage:** Math Eyed Emoji on pixelBots (5 minutes)
 1. **Explain:** Introduce pixelBots Online (10 minutes)
-1. **Elaborate:** Practice Writing Code on pixelBots (20 minutes)
+1. **Elaborate:** Practice Writing Code on pixelBots (30 minutes)
 
 
 
@@ -48,7 +48,7 @@ Students learn the interface of pixelBots.io and write programs in Javascript to
 
 <note><img src="./images/engageL4.png" width="350"> </img></note>
 
-#### Explain: Introduce pixelBots Online (5 minutes)
+#### Explain: Introduce pixelBots Online (10 minutes)
 
 - [ ] **Review** definition of program
   >> “A program is a sequence that a computer is able to understand. Today we are writing programs to make pixelBots move and paint.”
@@ -67,7 +67,7 @@ Students learn the interface of pixelBots.io and write programs in Javascript to
 </note>
 <pagebreak/>
 
-#### Elaborate: Practice Writing Code on pixelBots (25 minutes)
+#### Elaborate: Practice Writing Code on pixelBots (30 minutes)
 >>“We practiced creating code sequences on paper, now we are ready to start writing programs on a computer.”
 
 - [ ] Pass out [Lesson 4 | Worksheet 1][worksheet1]
