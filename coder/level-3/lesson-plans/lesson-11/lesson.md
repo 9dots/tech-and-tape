@@ -1,25 +1,20 @@
-<header title='Lesson 11: Designing Pixel Emojis' subtitle='unplugged'/>
+<header title='Lesson 11: Designing Pixel Emojis' subtitle='unplugged' bgColor='#C2DACC'/>
 
 <notable>
 
 <iconp src='/icons/activity.png'>### Overview</iconp>
 Students understand that computing is a creative experience and a tool for personal expression. In the next 3 lessons, students will design and create an emoji in pixelbots that they think a friend or family member will like. Today’s lesson will focus on designing how our pixel emoji will look.
 
-
-
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 
 - Students will use the design thinking process to prototype pixel emoji art.
 - Students will use decomposition to identify components of the art.
-
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
 1. Engage: Intro to Emojis & Pixel Art (5 minutes)
 2. Explore: Designing Pixel Emojis (35 minutes)
 3. Evaluate: Exit Ticket (5 minutes)
-
-
 
 <note>
 
@@ -95,7 +90,6 @@ Students understand that computing is a creative experience and a tool for perso
 
 - [ ] **Turn and Talk:** Students share their top 2 emoji ideas and explain why they created it for the person they chose.
 
-
 - [ ] **Define** Prototype (18 minutes) (slide 10)
   - **Modeling:** Show prototype of math face emoji
     - Show more of [pixel art emoji](https://youtu.be/1w12ztafphk?t=32) video from above.
@@ -118,6 +112,7 @@ Students understand that computing is a creative experience and a tool for perso
 - [ ] Share Out: Have 2-3 students volunteer to share their prototype with the class.
 
 </notable>
+
 [example]: https://drive.google.com/file/d/0BzdzqwuMjqy2eHNkTmVqaFlCbmM/view
 [slideshow]: https://docs.google.com/presentation/d/1PA7nBcC0mxUcgpNjD782NmT9x8QhMdGVM4CGzLij20E/edit#slide=id.p
 [worksheet1]: ../../worksheets/lesson11-worksheet1-1.pdf

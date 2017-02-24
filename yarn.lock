@@ -2186,9 +2186,9 @@ gitbook-plugin-markedx@0.1.17:
   dependencies:
     markedx "0.1.15"
 
-gitbook-plugin-mdx-components@0.1.7:
-  version "0.1.7"
-  resolved "https://registry.yarnpkg.com/gitbook-plugin-mdx-components/-/gitbook-plugin-mdx-components-0.1.7.tgz#ce0fe18485909acbf0a0b1f0cb9303e47a3201ad"
+gitbook-plugin-mdx-components@^0.1.8:
+  version "0.1.8"
+  resolved "https://registry.yarnpkg.com/gitbook-plugin-mdx-components/-/gitbook-plugin-mdx-components-0.1.8.tgz#e210796a63138b6fbc47e2eb055f6e3ded33fe76"
   dependencies:
     "@f/foreach" "^1.2.2"
     "@f/switch" "^1.0.1"
@@ -2207,9 +2207,9 @@ gitbook-plugin-search@*:
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/gitbook-plugin-search/-/gitbook-plugin-search-2.2.1.tgz#6d25b5a776990fa98fdfdfa37de331f78e0f6b13"
 
-gitbook-plugin-tasklist@0.5.10:
-  version "0.5.10"
-  resolved "https://registry.yarnpkg.com/gitbook-plugin-tasklist/-/gitbook-plugin-tasklist-0.5.10.tgz#f1eb9c64a8acdce08491d6ebf14875253f3793e4"
+gitbook-plugin-tasklist@^0.5.12:
+  version "0.5.12"
+  resolved "https://registry.yarnpkg.com/gitbook-plugin-tasklist/-/gitbook-plugin-tasklist-0.5.12.tgz#86744565307a224190e69cf4bef1960dc5769339"
   dependencies:
     github-markdown-css "^2.2.1"
     marked "^0.3.6"
@@ -2884,7 +2884,7 @@ lodash.without@~4.1.0:
     lodash._basedifference "~4.4.0"
     lodash.rest "^4.0.0"
 
-lodash@4.5.1, lodash@^4.2.0, lodash@^4.2.1:
+lodash@4.5.1:
   version "4.5.1"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.5.1.tgz#80e8a074ca5f3893a6b1c10b2a636492d710c316"
 
@@ -2896,7 +2896,7 @@ lodash@^3.10.0, lodash@~3.10.0, lodash@~3.10.1:
   version "3.10.1"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-3.10.1.tgz#5bf45e8e49ba4189e17d482789dfd15bd140b7b6"
 
-lodash@^4.11.2, lodash@^4.14.0, lodash@^4.3.0, lodash@^4.6.1:
+lodash@^4.11.2, lodash@^4.14.0, lodash@^4.2.0, lodash@^4.2.1, lodash@^4.3.0, lodash@^4.6.1:
   version "4.16.6"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.16.6.tgz#d22c9ac660288f3843e16ba7d2b5d06cca27d777"
 
@@ -3021,13 +3021,9 @@ ms@0.7.1, ms@^0.7.1:
   version "0.7.1"
   resolved "https://registry.yarnpkg.com/ms/-/ms-0.7.1.tgz#9cd13c03adbff25b65effde7ce864ee952017098"
 
-mute-stream@0.0.5:
+mute-stream@0.0.5, mute-stream@~0.0.4:
   version "0.0.5"
   resolved "https://registry.yarnpkg.com/mute-stream/-/mute-stream-0.0.5.tgz#8fbfabb0a98a253d3184331f9e8deb7372fac6c0"
-
-mute-stream@~0.0.4:
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/mute-stream/-/mute-stream-0.0.6.tgz#48962b19e169fd1dfc240b3f1e7317627bbc47db"
 
 nash@^2.0.0:
   version "2.0.4"
@@ -3611,7 +3607,7 @@ read@1, read@~1.0.1, read@~1.0.7:
   dependencies:
     mute-stream "~0.0.4"
 
-"readable-stream@1 || 2", readable-stream@^2.0.2, readable-stream@~2.0.0, readable-stream@~2.0.5:
+"readable-stream@1 || 2", readable-stream@^2.0.0, readable-stream@^2.0.2, readable-stream@~2.0.0, readable-stream@~2.0.5:
   version "2.0.6"
   resolved "https://registry.yarnpkg.com/readable-stream/-/readable-stream-2.0.6.tgz#8f90341e68a53ccc928788dacfcd11b36eb9b78e"
   dependencies:
@@ -3622,7 +3618,7 @@ read@1, read@~1.0.1, read@~1.0.7:
     string_decoder "~0.10.x"
     util-deprecate "~1.0.1"
 
-readable-stream@^2.0.0, "readable-stream@^2.0.0 || ^1.1.13", readable-stream@^2.0.5, readable-stream@~2.1.5:
+"readable-stream@^2.0.0 || ^1.1.13", readable-stream@^2.0.5, readable-stream@~2.1.5:
   version "2.1.5"
   resolved "https://registry.yarnpkg.com/readable-stream/-/readable-stream-2.1.5.tgz#66fa8b720e1438b364681f2ad1a63c618448c9d0"
   dependencies:
@@ -3750,33 +3746,7 @@ repeating@^2.0.0:
   dependencies:
     is-finite "^1.0.0"
 
-request@2, request@^2.47.0, request@~2.69.0:
-  version "2.69.0"
-  resolved "https://registry.yarnpkg.com/request/-/request-2.69.0.tgz#cf91d2e000752b1217155c005241911991a2346a"
-  dependencies:
-    aws-sign2 "~0.6.0"
-    aws4 "^1.2.1"
-    bl "~1.0.0"
-    caseless "~0.11.0"
-    combined-stream "~1.0.5"
-    extend "~3.0.0"
-    forever-agent "~0.6.1"
-    form-data "~1.0.0-rc3"
-    har-validator "~2.0.6"
-    hawk "~3.1.0"
-    http-signature "~1.1.0"
-    is-typedarray "~1.0.0"
-    isstream "~0.1.2"
-    json-stringify-safe "~5.0.1"
-    mime-types "~2.1.7"
-    node-uuid "~1.4.7"
-    oauth-sign "~0.8.0"
-    qs "~6.0.2"
-    stringstream "~0.0.4"
-    tough-cookie "~2.2.0"
-    tunnel-agent "~0.4.1"
-
-request@2.x, request@^2.58.0, request@^2.74.0, request@~2.74.0:
+request@2, request@2.x, request@^2.47.0, request@^2.58.0, request@^2.74.0, request@~2.74.0:
   version "2.74.0"
   resolved "https://registry.yarnpkg.com/request/-/request-2.74.0.tgz#7693ca768bbb0ea5c8ce08c084a45efa05b892ab"
   dependencies:
@@ -3800,6 +3770,32 @@ request@2.x, request@^2.58.0, request@^2.74.0, request@~2.74.0:
     qs "~6.2.0"
     stringstream "~0.0.4"
     tough-cookie "~2.3.0"
+    tunnel-agent "~0.4.1"
+
+request@~2.69.0:
+  version "2.69.0"
+  resolved "https://registry.yarnpkg.com/request/-/request-2.69.0.tgz#cf91d2e000752b1217155c005241911991a2346a"
+  dependencies:
+    aws-sign2 "~0.6.0"
+    aws4 "^1.2.1"
+    bl "~1.0.0"
+    caseless "~0.11.0"
+    combined-stream "~1.0.5"
+    extend "~3.0.0"
+    forever-agent "~0.6.1"
+    form-data "~1.0.0-rc3"
+    har-validator "~2.0.6"
+    hawk "~3.1.0"
+    http-signature "~1.1.0"
+    is-typedarray "~1.0.0"
+    isstream "~0.1.2"
+    json-stringify-safe "~5.0.1"
+    mime-types "~2.1.7"
+    node-uuid "~1.4.7"
+    oauth-sign "~0.8.0"
+    qs "~6.0.2"
+    stringstream "~0.0.4"
+    tough-cookie "~2.2.0"
     tunnel-agent "~0.4.1"
 
 restore-cursor@^1.0.1:
