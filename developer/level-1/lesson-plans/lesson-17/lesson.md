@@ -99,8 +99,8 @@ Participation: Independent Online
 **Student Handout:**
 ![Handout2](./images/Handout2.jpeg)
 
-<note>![Slides-submit1](./images/submit1.jpeg)
-![Slides-submit2](./images/submit2.jpeg)
+<note>![Slides-submit1](./images/Submit1.jpeg)
+![Slides-submit2](./images/Submit2.jpeg)
 </note>
 
 </notable>
