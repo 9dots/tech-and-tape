@@ -14,17 +14,14 @@ The preCoder series serves as an introduction to reading, writing, and debugging
 2. Empower students to apply computational practices to understand and change the world.
 
 ## Big Goals
-1. Students will utilize computational thinking to read their world and will utilize their coding skills to write their world. 
-2. Students will experience failure as a learning opportunity to master core concepts and the process of creation. 
+1. Students will utilize computational thinking to read their world and will utilize their coding skills to write their world.
+2. Students will experience failure as a learning opportunity to master core concepts and the process of creation.
 
 ## Big Ideas
-1. 
 1. When code breaks, we fearlessly, creatively, and systematically debug it.
-1. 
 
 ## Essential Questions
 1. When your code breaks or when you get stuck, what can you do?
-1. 
 
 
 [pixel-bot]: https://www.pixelbots.io/
