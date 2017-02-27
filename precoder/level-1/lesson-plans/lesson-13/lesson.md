@@ -74,7 +74,7 @@ Lesson 13 is an introduction to the concept of decomposition. The lesson begins 
 - [ ] **Build:** Have students build the letter T using the omnifix blocks.
 - [ ] **Decompose:** Have students decompose the letter T into two pieces.
 - [ ] **Discuss** the approaches taken to decompose the letter T.
-<iconp type='question'>How did you do to decompose the letter T?
+<iconp type='question'>How did you decompose the letter T?
 </iconp>
 
 ## Explain: Decomposing Letters (8 min)
@@ -100,8 +100,8 @@ Lesson 13 is an introduction to the concept of decomposition. The lesson begins 
 - [ ] **Demonstrate** how to decompose the letter H and document the results on the worksheet. Have students copy the process.
 
 - [ ] **Review** the process used to decompose the letters.
-	1. Look for all of the long lines
-	1. Find the combination of lines that produces the least amount of dots.
+	1. Look for long lines.
+	1. Break the letter apart to make more lines than dots.
 
 
 ## Elaborate: Independent Practice (12 min)
