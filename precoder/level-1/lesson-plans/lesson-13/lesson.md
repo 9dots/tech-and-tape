@@ -100,8 +100,8 @@ Lesson 13 is an introduction to the concept of decomposition. The lesson begins 
 - [ ] **Demonstrate** how to decompose the letter H and document the results on the worksheet. Have students copy the process.
 
 - [ ] **Review** the process used to decompose the letters.
-	1. Look for all of the long lines
-	1. Make more lines than dots.
+	1. Look for long lines.
+	1. Break the letter apart to make more lines than dots.
 
 
 ## Elaborate: Independent Practice (12 min)
