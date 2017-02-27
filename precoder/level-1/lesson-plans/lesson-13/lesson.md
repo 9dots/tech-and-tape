@@ -94,7 +94,7 @@ Lesson 13 is an introduction to the concept of decomposition. The lesson begins 
 
 <iconp type='question'>How many long lines do we see?</iconp>
 
--  [ ] **Explain** that there are three lines that are three blocks long, but they all can’t be produced together. Slides 18-22
+-  [ ] **Explain** that there are three lines that are three blocks long, but they all can’t be produced together. Slides 18-23
 >> “There are three long lines found in the letter H, but we can’t use them all. If I use the middle line it also makes four dots. If I use the two long lines on the end it also makes one dot. Since we want to make more lines than dots, we will use the two lines and one dot.”
 
 - [ ] **Demonstrate** how to decompose the letter H and document the results on the worksheet. Have students copy the process.
