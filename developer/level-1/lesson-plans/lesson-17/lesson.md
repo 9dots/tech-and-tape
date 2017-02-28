@@ -9,7 +9,7 @@ Students apply their knowledge of conditionals to write code in their Escape the
 - I can write a conditional (if-then) to make my maze hero and enemies interact.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-1. Engage/Explore: Code Along (15 min) 
+1. Engage/Explore: Code Along (15 min)
 1. Explain: Design (5 min)
 1. Elaborate: Code (20 min)
 1. Evaluate: Submit (5 min)
@@ -21,7 +21,7 @@ Students apply their knowledge of conditionals to write code in their Escape the
 - [ ] [Slide Show][slide-show]
 - [ ] [Scratch Studio][studio]
 
-###### Student Materials: 
+###### Student Materials:
 - [ ] Computers
 - [ ] Idea Journals
 - [ ] Code Along Handout & Checklist
@@ -51,11 +51,11 @@ Students will be on computers for the entire lesson. Your room setup should allo
 ## 1. Engage/Explore: Code Along (15 min)
 Participation: Independent Online
 
-- [ ] **Code along:** Students navigate to the Lesson 16 studio and work in the “code along” project with the teacher. 
+- [ ] **Code along:** Students navigate to the Lesson 16 studio and work in the “code along” project with the teacher.
 
 <note type="tip">You can show the videos for each challenge or write the code yourself in Scratch.</note>
 
-The four conditionals we will demo are: 
+The four conditionals we will demo are:
 1. If the goal touches the hero, then the backdrop changes to level 2 and the goal moves to the opposite end.
 1. If Enemy 2 touches the hero, then the enemy changes color.
 1. If Enemy 3 touches the hero, then it grows.
@@ -69,7 +69,7 @@ Finished product looks like this https://scratch.mit.edu/projects/143255918/#edi
 ## 2. Explain: Design (5 min)
 Participation: Independent Unplugged
 
-- [ ] **Plan:** students view the code along they completed and plan the conditionals they will add to their game today. 
+- [ ] **Plan:** students view the code along they completed and plan the conditionals they will add to their game today.
 
 > > “Now that you have seen the power of conditionals, it is your turn to write conditionals into your Escape the Maze project. The code you write today will be the start of your final version of the project. Take a minute to plan in your Idea Journal what conditionals you will write into your project. You can see all of the code we wrote in our code alongs on the handout.”
 
@@ -77,7 +77,7 @@ Participation: Independent Unplugged
 ![Handout1](./images/Handout1.jpeg)
 <note>![Slides-design](./images/plan.jpeg)</note>
 
-## 3. Elaborate: Code (20 min) 
+## 3. Elaborate: Code (20 min)
 Participation: Independent Online
 
 - [ ] **Make:** Students add the conditionals code to their projects following their plan and the code we demoed in the Code Along.
@@ -107,4 +107,3 @@ Participation: Independent Online
 
 [slide-show]: https://drive.google.com/file/d/0B2wBzr9vcXjPSkdTbThzcmQzRTQ/view?usp=sharing
 [studio]: https://scratch.mit.edu/studios/3755751/
- 
