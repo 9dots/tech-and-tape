@@ -78,5 +78,6 @@
     * [Lesson 3: Arguments - Numbers & Strings](developer/pixelBots/lesson-plans/lesson-3/lesson.md)
     * [Lesson 4: Designing Pixel Emojis](developer/pixelBots/lesson-plans/lesson-4/lesson.md)
     * [Lesson 5: Introducing For Loops](developer/pixelBots/lesson-plans/lesson-5/lesson.md)
+    * [Lesson 6: Coding Pixel Emojis](developer/pixelBots/lesson-plans/lesson-6/lesson.md)
 >>>>>>> master
 >>>>>>> master
