@@ -9,11 +9,11 @@ Students are introduced to using numbers and strings as arguments and practice p
 
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-###### Length: 55 minutes
+###### Length: 60 minutes
 1. **Engage:** Zebra Challenge (5 minutes)
 1. **Explore:** pixelBots - zebra, panda, chameleon (10 minutes)
 1. **Explain:** Arguments - numbers & strings (5 minutes)
-1. **Elaborate:**  pixelBots playlist (20 minutes)
+1. **Elaborate:**  pixelBots playlist (25 minutes)
 1. **Evaluate:** Exit Challenge (15 minutes)
 
 <note>
@@ -42,7 +42,7 @@ Students are introduced to using numbers and strings as arguments and practice p
 
 <pagebreak/>
 #### Engage: Zebra Challenge (5 min)
-- [ ] Zebra pixelBots offline Challenge (slide 3)
+- [ ] **Set the Challenge:** Students complete Zebra pixelBots offline Challenge (slide 3)
   - On paper students independently solve a pixelBots challenge with Zebra to demonstrate mastery of previous lesson.
 >>“Last weekend we practiced coding our zebra pixelBot. Complete this challenge independently to show yourself how much you can do.”
 
@@ -61,27 +61,27 @@ If students are stuck on the chameleon, give them a hint that colors need quotes
 
 
 ####  Explain: Arguments - numbers & strings (5 min)
-- [ ] **Define** argument
+- [ ] **Define** argument (slide 8)
+  - Students write definition of Argument in coding journals.
   - Connect student discussion to the new vocabulary word:  
   >> “Panda and chameleon can be told a number of steps or color. These are called arguments.”
 
-- [ ] Students write definition of Argument in coding journals. (slide 8)
 
-- [ ] **Define** strings
+- [ ] **Define** strings (slide 9)
+  - Students write definition of Strings in journals. Note: strings need quotes.
   - Connect student discussion to the new vocabulary word:
   >> “Chameleon took a specific type of argument. What was special about how you wrote the color names?”
 
-- [ ] Students write definition of Strings in journals. Note: strings need quotes. (slide 9)
 
 
->> "We can use numbers and strings as arguments when we code Toucan!"
-
+<pagebreak/>
 - [ ] **Model** painting a [challenge with Toucan][toucan] (slide 10)
   - Go to pixelBots.io, then enter code link: V3G5X
   - Demonstrate writing a comment with your name as the 1st line of code. Emphasize that this will always be our first line of code in pixelBots from now on.
   - Demonstrate hovering over a square to show the color of the square.
     - Ask if any students noticed this first.
   - Emphasize using the vocabulary words “argument” and “string”.
+>> "We can use numbers and strings as arguments when we code Toucan!"
 
 <note type="tip" title="Tip">
 - Spend no more than 3 minutes coding toucan.
@@ -91,7 +91,7 @@ If students are stuck on the chameleon, give them a hint that colors need quotes
 - [ ] **Model** saving your code by clicking on the save icon in the bottom right.  
   - Remind students that they should save their work and write their code links in their coding journals.
 
-#### Elaborate: pixelBots playlist (20 min)
+#### Elaborate: pixelBots playlist (25 min)
 - [ ] **Independent Practice:** students do pixelBots playlist (slide 12)
   - Students get to choose:
     - [Spicy][spicy] - Code Link: V7BRR
@@ -100,12 +100,11 @@ If students are stuck on the chameleon, give them a hint that colors need quotes
 
 <note type="tip" title="Tip">
 It’s ok if students don’t complete the entire playlist. Students can continue to work after they’ve completed the Exit Challenge.</note>
-
+<pagebreak/>
 #### Evaluate: Exit Challenge (15 min)
 - [ ] **Exit Challenge:** Students complete the online [pixelBots challenge][exit] (code link: J4R5K) independently. (slide 14)
   - Remind students to start their code with a comment of their first and last name.
-- [ ] Pass out Exit Challenge.
-- [ ] Students can continue to work on the pixelBots playlists.
+  - Students can continue to work on the pixelBots playlists if they complete challenge.
 
 
 </notable>

@@ -14,8 +14,8 @@ In the next few lessons, students will design and create a Visual Beat Machine i
 ###### Total Length: 60 minutes
 Participation: Whole Class
 1. **Engage/Explore:** Find the bugs! (10 minutes)
-1. **Explain:** Using the console (5 minutes)
-1. **Elaborate:** Start Visual Beat Machine Project (45 minutes)
+1. **Explain:** Console (5 minutes)
+1. **Elaborate:** Start Project (45 minutes)
 
 <note>
 
@@ -40,7 +40,7 @@ Participation: Whole Class
 
 </note>
 <pagebreak/>
-#### Engage/Explore: Find the bugs! (10 minutes)
+#### 1. Engage/Explore: Find the bugs! (10 minutes)
 >> “Today we’ll take a look at common bugs found in our P5.js sketches.”
 
 - [ ] **Independent Exploration:** students go to https://tinyurl.com/devydebug and find the bugs in each challenge. (slide 2)
@@ -57,13 +57,16 @@ Participation: Whole Class
 - **Important:** After pressing play, students need to click on canvas for function keyPressed() to work!
 </note>
 
-#### Explain: Using the console (5 minutes)
-- [ ] Discuss student observations from debugging challenge
+![engage](./images/engage.png)
+
+#### 2. Explain: Console (5 minutes)
+- [ ] **Discuss** student observations from debugging challenge
   <iconp type='question'>What did you start using to help find debug the code?</iconp>
   <iconp type='answer'>The console!</iconp>
   <iconp type='question'>What information does the console give you?</iconp>
   <iconp type='answer'>The line number of the possible bug.</iconp>
   <iconp type='answer'>The type of error or a possible solution, ex: missing ) after  argument list.</iconp>
+<br/>
 
 - [ ] **Review** the solutions to the debugging challenges. https://tinyurl.com/devydebug
   - It is not necessary to go through all of .
@@ -91,17 +94,19 @@ Participation: Whole Class
 - Challenge 4 is for meant to be challenging, this is for students who quickly get through challenges 1-3. </note>
 
 - [ ] Review the common mistakes made in sketches (slide 4)
-  - Remind students the console isn’t perfect in finding bugs. Students should also reference other working code when debugging.
+  >>"The console isn’t perfect in finding bugs. Remember to also reference other working code when debugging.""
 
+![explain](./images/explain.png)
 
-#### Elaborate: Start Visual Beat Machine Project (45 minutes)
->>"You have all been working hard these past 4 weeks learning p5.js and today we starting our final project! Create something you will be excited to share during our art gallery in 3 weeks."
+#### 3. Elaborate: Start Project (45 minutes)
+>>"You have all been working hard these past 4 weeks learning p5.js and today we starting our final project! Create something you will be excited to share during our art showcase."
 
+<br/>
 - [ ] Students begin their final project sketch. (slide 5)
   - Students should have at least 2 keys programmed to draw when pressed. (slide 6)
   - Circulate room and remind students to use the console when debugging.
 
-
+![elaborate](./images/elaborate.png)
 
 </notable>
 
