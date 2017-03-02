@@ -56,6 +56,7 @@ Participation: Independent Online
 <note type="tip">You can show the videos for each challenge or write the code yourself in Scratch.</note>
 
 The four conditionals we will demo are:
+
 1. If the goal touches the hero, then the backdrop changes to level 2 and the goal moves to the opposite end.
 1. If Enemy 2 touches the hero, then the enemy changes color.
 1. If Enemy 3 touches the hero, then it grows.
