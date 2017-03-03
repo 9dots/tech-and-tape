@@ -25,3 +25,4 @@ Students begin applying core coding concepts into an Escape the Maze project. In
 - [Lesson 15: Build-a-Bot](../level-1/lesson-plans/lesson-15/lesson.html)
 - [Lesson 16: Debugging](../level-1/lesson-plans/lesson-16/lesson.html)
 - [Lesson 17: Write Conditionals](../level-1/lesson-plans/lesson-17/lesson.html)
+- [Lesson 18: Where's Rover](../level-1/lesson-plans/lesson-17/lesson.html)
