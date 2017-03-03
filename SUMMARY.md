@@ -65,6 +65,7 @@
     * [Lesson 15: Build-a-Bot](developer/level-1/lesson-plans/lesson-15/lesson.md)
     * [Lesson 16: Debugging](developer/level-1/lesson-plans/lesson-16/lesson.md)
     * [Lesson 17: Write Conditionals](developer/level-1/lesson-plans/lesson-17/lesson.md)
+    * [Lesson 18: Where's Rover](developer/level-1/lesson-plans/lesson-18/lesson.md)
   * [p5](developer/p5/README.md)
     * [visual-beat-machine](developer/p5/visual-beat-machine/README.md)
       * [Lesson 1: Introducing P5.js & Mouse Input](developer/p5/visual-beat-machine/lesson-plans/lesson-1/lesson.md)
@@ -79,5 +80,3 @@
     * [Lesson 3: Arguments - Numbers & Strings](developer/pixelBots/lesson-plans/lesson-3/lesson.md)
     * [Lesson 4: Designing Pixel Emojis](developer/pixelBots/lesson-plans/lesson-4/lesson.md)
     * [Lesson 5: Introducing For Loops](developer/pixelBots/lesson-plans/lesson-5/lesson.md)
->>>>>>> master
->>>>>>> master
