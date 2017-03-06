@@ -9,7 +9,6 @@ In this lesson students identify repeating patterns in a sequence and replace th
 - I can replace a repeating sequence with a forever loop, for-loop, or while loop to increase code efficiency and readability.
 - I can code a loop that makes an enemy patrol my maze.
 
-
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 **Small Group: (20 min)**
 1. **Explore:** Patterns in Cubes (10 min)
@@ -23,15 +22,15 @@ In this lesson students identify repeating patterns in a sequence and replace th
 - [ ] [Lesson 8 Slides][slide-show]
 - [ ] Projector
 
-###### Student Materials: 
+###### Student Materials:
 - [ ] Index cards (1 per student)
 - [ ] Idea Journals
 - [ ] Pencils
 - [ ] Dry erase markers (1/2 class set)
-- [ ] [Code Handouts] [code-handouts]
+- [ ] [Code Handouts][code-handouts]
 - [ ] Student Code Blocks: repeat, 2 moves, turn, 2 waits
 - [ ] Computers
-- [ ] Unific Cubes
+- [ ] Unifix Cubes
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
@@ -65,17 +64,18 @@ In this lesson students identify repeating patterns in a sequence and replace th
 
 ![pattern1](./images/unifix-cubes-pattern1.jpeg)
 
-- [ ] Identify the repeating section of code and break that section off. 
+- [ ] Identify the repeating section of code and break that section off.
 
 <iconp type='question'>What is repeating in this pattern?</iconp>
 <br/>
-- [ ] Have students break apart the pattern into its repeating sections. Verify that they all match by lining them up. 
+- [ ] Have students break apart the pattern into its repeating sections. Verify that they all match by lining them up.
 
 <iconp type='question'>How many times does the section repeat itself?</iconp>  
 <br/>
 - [ ] Build a "loop" with student code blocks
 
 > > "Place one of the repeating sections inside a loop block. Write in the number of times the section repeats."
+
 ![cubes-slides](./images/slides-cubes1.jpeg)
 
 - [ ] Optional: Repeat the process with a second pattern if students need more practice.
