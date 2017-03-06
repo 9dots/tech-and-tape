@@ -9,7 +9,6 @@ In this lesson students identify repeating patterns in a sequence and replace th
 - I can replace a repeating sequence with a forever loop, for-loop, or while loop to increase code efficiency and readability.
 - I can code a loop that makes an enemy patrol my maze.
 
-
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 **Small Group: (20 min)**
 1. **Explore:** Patterns in Cubes (10 min)
@@ -31,7 +30,7 @@ In this lesson students identify repeating patterns in a sequence and replace th
 - [ ] [Code Handouts][code-handouts]
 - [ ] Student Code Blocks: repeat, 2 moves, turn, 2 waits
 - [ ] Computers
-- [ ] Unific Cubes
+- [ ] Unifix Cubes
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 

@@ -70,6 +70,7 @@ Students practice reading code by predicting and stepping through the code of en
 
 > > "Turn to your table partner and share what loops you listed."
 <br/>
+
 - [ ] **Present the Why**
 
 > > "This lesson will allow us to write the code to make our maze look like this."
