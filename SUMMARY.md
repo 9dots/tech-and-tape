@@ -16,6 +16,7 @@
     * [Lesson 11: Summarizing I](precoder/level-1/lesson-plans/lesson-11/lesson.md)
     * [Lesson 12: Summarizing II](precoder/level-1/lesson-plans/lesson-12/lesson.md)
     * [Lesson 13: Decomposition I](precoder/level-1/lesson-plans/lesson-13/lesson.md)
+    * [Lesson 14: Decomposition II](precoder/level-1/lesson-plans/lesson-14/lesson.md)
 * [Coder](coder/README.md)
   * [Level 2](coder/level-2/README.md)
     * [sequencing pixels](coder/level-2/lesson-plans/lesson-1.md)
@@ -80,3 +81,4 @@
     * [Lesson 3: Arguments - Numbers & Strings](developer/pixelBots/lesson-plans/lesson-3/lesson.md)
     * [Lesson 4: Designing Pixel Emojis](developer/pixelBots/lesson-plans/lesson-4/lesson.md)
     * [Lesson 5: Introducing For Loops](developer/pixelBots/lesson-plans/lesson-5/lesson.md)
+    * [Lesson 6: Coding Pixel Emojis](developer/pixelBots/lesson-plans/lesson-6/lesson.md)

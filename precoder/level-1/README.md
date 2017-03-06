@@ -18,3 +18,4 @@
 - [Lesson 11: Summarizing I](../level-1/lesson-plans/lesson-11/lesson.md)
 - [Lesson 12: Summarizing II](../level-1/lesson-plans/lesson-12/lesson.md)
 - [Lesson 13: Decomposition I](..level-1/lesson-plans/lesson-13/lesson.md)
+- [Lesson 14: Decomposition II](..level-1/lesson-plans/lesson-14/lesson.md)

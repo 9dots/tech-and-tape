@@ -22,10 +22,10 @@ Students practice reading code by predicting and stepping through the code of en
 ###### Teacher Materials:
 - [ ] [Lesson 7 Slides][slide-show]
 - [ ] Projector
-- [ ] Unplugged Platform 
-- [ ] Piece of Paper 
+- [ ] Unplugged Platform
+- [ ] Piece of Paper
 
-###### Student Materials: 
+###### Student Materials:
 - [ ] Index cards (1 per student)
 - [ ] Idea Journals
 - [ ] Pencils
@@ -65,15 +65,17 @@ Students practice reading code by predicting and stepping through the code of en
 
 > > "List all the loops you see."
 <br/>
+
 - [ ] [Think Pair Share:][tps] Students share their list of loops.
 
 > > "Turn to your table partner and share what loops you listed."
 <br/>
+
 - [ ] **Present the Why**
 
 > > "This lesson will allow us to write the code to make our maze look like this."
 
-<note type='key' title='Key Points'> 
+<note type='key' title='Key Points'>
 Loops allow us to repeat sequences without having to write out the entire sequence multiple times.
 </note>
 
@@ -104,7 +106,7 @@ The "Wait 1 secs" block is necessary in Scratch to be able to see the Sprite's m
 > > "Summarize how the enemy moved."
 <br/>
 
-- [ ] Repeat this process for Enemies 2 & 3. 
+- [ ] Repeat this process for Enemies 2 & 3.
 
 ###### Slides:
 ![stepping-slides1](./images/slides-stepping1.jpeg)
@@ -112,14 +114,14 @@ The "Wait 1 secs" block is necessary in Scratch to be able to see the Sprite's m
 
 ## Evaluate: Salsa Practice (5 min)
 
-- [ ] Students predict and step through the code from one of the four options. 
+- [ ] Students predict and step through the code from one of the four options.
 <note type='tip'>
 The chili peppers represent the level of difficulty of a card. Four peppers is the most challenging.
 </note>
 
 > > "Choose one of the sets of code to predict and step through on your maze. The chili peppers represent the level of difficulty. Start with one or two chili peppers and then work your way up to four."
 <br/>
-- [ ] Observe student work to evaluate how comfortable students are reading loops. 
+- [ ] Observe student work to evaluate how comfortable students are reading loops.
 
 - [ ] Encourage pairs that finish early to try a more challenging card.
 
@@ -133,6 +135,6 @@ The chili peppers represent the level of difficulty of a card. Four peppers is t
 
 [slide-show]: https://docs.google.com/presentation/d/1xdeJXVRE1wMofw5KSin4iZzqNrtKwqJBOY-RtJPtnec/edit#slide=id.p
 [handout]: https://drive.google.com/file/d/0B2wBzr9vcXjPd1gtZFpYSUJIOWc/view
-[characters]: https://drive.google.com/file/d/0B2wBzr9vcXjPVTFKd3Z3bXhGUkU/view 
+[characters]: https://drive.google.com/file/d/0B2wBzr9vcXjPVTFKd3Z3bXhGUkU/view
 [salsa-cards]: https://drive.google.com/file/d/0B2wBzr9vcXjPYzBsV0tTZ21yTDA/view
 [tps]: http://www.acpsk12.org/pl/coachs-cuts/think-pair-share/
