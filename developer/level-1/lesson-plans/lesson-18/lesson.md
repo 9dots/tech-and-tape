@@ -114,6 +114,6 @@ Participation: Independent Unplugged
 </note>
 </notable>
 
-[slide-show]: https://drive.google.com/open?id=0B2wBzr9vcXjPcTB1bFBxNGhRQzQ
+[slide-show]: https://docs.google.com/presentation/d/12gEP4eKzWl3vAGfh2-v8Z2FWzq86bZ8CBY7UemnCVWI/edit?usp=sharing
 [handout]: https://drive.google.com/file/d/0B2wBzr9vcXjPaFhWVG83TEhaMjg/view?usp=sharing
 [exit]: https://drive.google.com/file/d/0B2wBzr9vcXjPUkFOajdHbHhlQTg/view?usp=sharing
