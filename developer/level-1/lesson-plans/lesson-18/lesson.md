@@ -100,6 +100,7 @@ Participation: Small Group Unplugged
 
 ![handout2](./images/FindtheBug.jpeg)
 <note> ![slides-WheresRover2](./images/slide-wr2.jpeg)
+**If Time:** ![slides-WheresRover4](./images/slide-wr4.jpeg)
 </note>
 
 ## 4. Evaluate: Exit Challenge (5 min)
@@ -114,6 +115,6 @@ Participation: Independent Unplugged
 </note>
 </notable>
 
-[slide-show]: https://drive.google.com/open?id=0B2wBzr9vcXjPcTB1bFBxNGhRQzQ
+[slide-show]: https://docs.google.com/presentation/d/12gEP4eKzWl3vAGfh2-v8Z2FWzq86bZ8CBY7UemnCVWI/edit?usp=sharing
 [handout]: https://drive.google.com/file/d/0B2wBzr9vcXjPaFhWVG83TEhaMjg/view?usp=sharing
 [exit]: https://drive.google.com/file/d/0B2wBzr9vcXjPUkFOajdHbHhlQTg/view?usp=sharing
