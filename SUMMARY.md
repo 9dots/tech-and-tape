@@ -67,6 +67,7 @@
     * [Lesson 16: Debugging](developer/level-1/lesson-plans/lesson-16/lesson.md)
     * [Lesson 17: Write Conditionals](developer/level-1/lesson-plans/lesson-17/lesson.md)
     * [Lesson 18: Where's Rover](developer/level-1/lesson-plans/lesson-18/lesson.md)
+    * [Lesson 19: Debug & Plan](developer/level-1/lesson-plans/lesson-19/lesson.md)
   * [p5](developer/p5/README.md)
     * [visual-beat-machine](developer/p5/visual-beat-machine/README.md)
       * [Lesson 1: Introducing P5.js & Mouse Input](developer/p5/visual-beat-machine/lesson-plans/lesson-1/lesson.md)
