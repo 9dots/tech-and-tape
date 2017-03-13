@@ -29,7 +29,7 @@ Lesson 15 introduces students to patterns in preparation to learn how to loop co
 - [ ] Pencils
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
-- **Pattern** - A repeating sequence.
+- **Pattern** - A sequence that repeats more than once.
 
 </note>
 
