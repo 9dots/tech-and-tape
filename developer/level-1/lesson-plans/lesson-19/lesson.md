@@ -1,4 +1,4 @@
-<header class='header' title='Lesson 19' subtitle='Debug & Plan'/>
+<header class='header' title='Debug & Plan' subtitle='Lesson 19'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -21,10 +21,10 @@ Students continue to build their debugging skills by reading a bug ticket and us
 - [ ] [Slide Show][slide-show]
 - [ ] [Debugging Studio][studio]
 
-###### Student Materials: 
+###### Student Materials:
 - [ ] Computers
 - [ ] Idea Journals
-- [ ] [Planning Handout][handout] 
+- [ ] [Planning Handout][handout]
 - [ ] Pencils
 
 </note>
@@ -70,7 +70,7 @@ Participation: Independent Unplugged
 
 - [ ] **Model** filling out a plan for your game. Think aloud through creating your plan (there is a plan provided in the slides you can follow). There is also a slide with ideas of loops and conditionals we have coded for enemies if students need a reminder.
 
-![GamePlanFront](./images/Game-Plan3.jpeg) 
+![GamePlanFront](./images/Game-Plan3.jpeg)
 
 <note>**Slides:**  ![plan1-slides](./images/slide-plan2.jpeg)</note>
 
@@ -78,7 +78,7 @@ Participation: Independent Unplugged
 
 - [ ] **Create:** Students complete their own game plan, which you will collect and redistribute at each lesson for them to follow as they code their final projects.
 
-## 3. Explore: Debugging Challenges (20 min) 
+## 3. Explore: Debugging Challenges (20 min)
 Participation: Whole Class Online
 
 - [ ] **Set the Challenge:** Students login to Scratch and navigate to the debugging studio in “My Class”. For each challenge read the Bug Ticket together. Coders will follow the 3 steps as they debug the code. Focus discussion on step 2: "Find" and logically identifying where the bug must be in the code. There is a video to help students fix the bug after they have discussed and tried it themselves.
@@ -90,17 +90,17 @@ Participation: Whole Class Online
 <br/>
 
 - [ ]**Challenge 6:**
- 
+
 <iconp type="question"> Compare: What does the coder want their program to do? What does it do instead?</iconp>
 	<iconp type="answer"> “My mouse goes through the walls. It is supposed to move backwards when it bumps into a wall.”</iconp>
 <br/><iconp type="question"> Find: Where is the bug in their code?</iconp>
 	<iconp type="answer"> The hero’s starter code -> the chunk that controls the wall</iconp>
-<br/><iconp type="question"> Fix: How did you fix the bug?</iconp> 
+<br/><iconp type="question"> Fix: How did you fix the bug?</iconp>
 	Solution: “Move 10” needs to be “Move -10”
 
 <note>**Slides:**  ![debugC1-slides](./images/slide-debugC1.jpeg)</note>
 
-- [ ]**Challenge 7:** 
+- [ ]**Challenge 7:**
 
 <iconp type="question"> Compare: What does the coder want their program to do? What does it do instead?</iconp>
 	<iconp type="answer">“I want my enemy to change colors if it touches the hero. But instead my hero is changing color.”</iconp>
@@ -123,18 +123,18 @@ Participation: Whole Class Online
 
 <note>**Slides:**  ![debugC3-slides](./images/slide-debugC3.jpeg)</note>
 
-- [ ]**Challenge 9:** 
+- [ ]**Challenge 9:**
 
 <iconp type="question"> Compare: What does the coder want their program to do? What does it do instead?</iconp>
 	<iconp type="answer">“I want my hero to go back to the start when it touches an enemy. But it only goes back to the start for enemy 1.”</iconp>
-<br/><iconp type="question"> Find: Where is the bug in their code?</iconp> 
+<br/><iconp type="question"> Find: Where is the bug in their code?</iconp>
 	<iconp type="answer">“The hero’s code -> the conditionals </iconp>
 <br/><iconp type="question">Fix: How did you fix the bug? </iconp>
 	Solution: Move the last 4 conditionals out of the first conditional.
 
 <note>**Slides:**  ![debugC4-slides](./images/slide-debugC4.jpeg)</note>
 <pagebreak/>
-- [ ]**Challenge 10:** 
+- [ ]**Challenge 10:**
 
 <iconp type="question"> Compare: What does the coder want their program to do? What does it do instead?</iconp>
 	<iconp type="answer">“I want my bat to go back to its original size when I press the reset key, but it doesn’t work.”</iconp>

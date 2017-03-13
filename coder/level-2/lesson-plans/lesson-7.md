@@ -1,4 +1,4 @@
-{% title title='Pixel bot js', subtitle='Plugged' %}
+{% title title='pixelBot JS', subtitle='Lesson 7' %}
 {% endtitle %}
 
 {% header title='Overview', icon='activity' %}

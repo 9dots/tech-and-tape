@@ -1,4 +1,4 @@
-{% title title='Code.org Maze', subtitle='Plugged' %}
+{% title title='Code.org Maze', subtitle='Lesson 5' %}
 {% endtitle %}
 
 {% header title='Overview', icon='activity' %}

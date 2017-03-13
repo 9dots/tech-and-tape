@@ -1,4 +1,4 @@
-<header class='header' title='Lesson 10' subtitle='Review'/>
+<header class='header' title='Review' subtitle='Lesson 10'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -57,14 +57,14 @@ I can debug a 2-10 block sequence with more than one directional move.
 <iconp ml='1.65em' type='question'>question</iconp>
 <iconp ml='1.65em' type='answer'>answer</iconp>
 - [ ] action item
-</note> 
+</note>
 
 <pagebreak/>
 
 ## Engage: Paper Block Coding (8 min)
 - [ ] **Motivate:** Students code in pairs using paper blocks to complete a challenge. (3 min)
 	- [ ] Distribute paper coding blocks and display the coding challenge on slide 2.
-	- [ ] Direct students to write code with a partner using the paper coding blocks. 
+	- [ ] Direct students to write code with a partner using the paper coding blocks.
 
 - [ ] **Share Out:** Students share out their code. (2 min)
 	- [ ] Invite a student to code his/her answer on your computer.
@@ -79,7 +79,7 @@ I can debug a 2-10 block sequence with more than one directional move.
 
 ## Explain: Debugging Protocol (5 min)
 -  [ ] **Discussion:** Students discuss what they did to debug the code. (2 min)
-	- [ ] As students share their answers click to the matching animation in slide 5. 
+	- [ ] As students share their answers click to the matching animation in slide 5.
 
 <iconp type='question'>What was the first thing we did to solve this challenge?</iconp>
 <iconp type='answer'>We checked if the code worked.</iconp>

@@ -1,12 +1,12 @@
-<header class='header' title='Lesson 6' subtitle='Rover Paint'/>
+<header class='header' title='Rover Paint' subtitle='Lesson 6'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In this lesson students learn to read code with loops by stepping through one block at a time. Using pre-written code, students guide Rover the robot’s movements as it paints a grid. 
+In this lesson students learn to read code with loops by stepping through one block at a time. Using pre-written code, students guide Rover the robot’s movements as it paints a grid.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can step through and act out code that contains a loop.
-- I can predict the effects of code that contains a loop. 
+- I can predict the effects of code that contains a loop.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
@@ -82,7 +82,7 @@ In this lesson students learn to read code with loops by stepping through one bl
 </note>
 
 
-- [ ] **Identify Enemy Loops:** Show students the Escape the Maze video and identify one of the enemy’s movements as a loop. 
+- [ ] **Identify Enemy Loops:** Show students the Escape the Maze video and identify one of the enemy’s movements as a loop.
 
 <iconp type='question'>What other loops do you see in the maze?</iconp>
 <iconp type='answer'>Each enemy is moving in a loop.</iconp>
@@ -92,7 +92,7 @@ In this lesson students learn to read code with loops by stepping through one bl
 
 - [ ] **Demonstrate stepping through a loop: (5 min)**
 	- Each student follows along on [Lesson 6 Handout][lesson-6-handout], filling in with their dry erase marker as they go.
-	- Demonstrate uncovering each line of code one at a time using a sheet of paper (students will use an index card). 
+	- Demonstrate uncovering each line of code one at a time using a sheet of paper (students will use an index card).
 	- Make a tick mark at the end of the sequence each time you make one complete loop. This strategy will help students keep track of how many times they have repeated the sequence.
 
 ![loop-code](./images/explain-read-loops.png)

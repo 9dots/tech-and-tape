@@ -1,4 +1,4 @@
-<header class='header' title='Lesson 12' subtitle='Strategic Enemies'/>
+<header class='header' title='Strategic Enemies' subtitle='Lesson 12'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -24,7 +24,7 @@ Students will apply their knowledge of loops, the writing code protocol, and the
 - [ ] [Scratch Studio][starter-code]
 - [ ] [Scratch Sample Games][games]
 
-###### Student Materials: 
+###### Student Materials:
 - [ ] Computers
 - [ ] [Project Checklist Handouts][handout]
 - [ ] Idea Journals
@@ -75,7 +75,7 @@ Participation: Whole Class Unplugged
 
 <note> ![slides-goal](./images/slides-goal.jpeg) </note>
 
-- [ ] **Empathize:** Invite three students to play three versions of the Escape the Maze game on the projector: v.1 is too difficult to win, v2 is too easy, and v3 is difficult but possible to win. 
+- [ ] **Empathize:** Invite three students to play three versions of the Escape the Maze game on the projector: v.1 is too difficult to win, v2 is too easy, and v3 is difficult but possible to win.
 
 > > “When game developers are designing their game, they need to think about who they are designing it for and what they want their players’ experience to be.  If they make it too hard, the player may get frustrated with a game that can’t be beat and not want to play. If they make it too easy, the player may get bored and not want to play. Let’s look at some examples.”
 
@@ -99,9 +99,9 @@ Participation: Whole Class Unplugged
 ## 3) Explain: Set the Challenge (5 min)
 Participation: Whole Class Unplugged
 
-- [ ] **Ideate:** Show the different enemies we have designed in various lessons. Students can either use the code for an enemy from Lessons 7, 8 & 10 or design their own. 
+- [ ] **Ideate:** Show the different enemies we have designed in various lessons. Students can either use the code for an enemy from Lessons 7, 8 & 10 or design their own.
 
-> > “Turn to the next blank page in your idea journal. Label it “Enemies”. How many enemies are you going to have in your game? What will each enemy do? List them on this page of your journal. You can use one of these enemies from our previous lessons, or write the code for your own.” 
+> > “Turn to the next blank page in your idea journal. Label it “Enemies”. How many enemies are you going to have in your game? What will each enemy do? List them on this page of your journal. You can use one of these enemies from our previous lessons, or write the code for your own.”
 
 <br/>
 
@@ -131,7 +131,7 @@ Participation: Independent, Online
 ## 5) Evaluate: Submit Your Code (10 min)
 Participation: Independent, Online
 
-- [ ] **Exit Ticket:** Model how to properly title, remix/share, and add their projects to the studio for you to view. 
+- [ ] **Exit Ticket:** Model how to properly title, remix/share, and add their projects to the studio for you to view.
 
 **Step 1:** Click “Remix”
 
@@ -139,7 +139,7 @@ Participation: Independent, Online
 
 **Step 3:** Add your first name to title.  Example: Lesson 12 Maayan
 
-**Step 4:** Click “See project page” 
+**Step 4:** Click “See project page”
 
 **Step 5:** Click “Studios”
 
@@ -148,7 +148,7 @@ Participation: Independent, Online
 <br/>
 - [ ] **Evaluate:** Review with students what you are looking for when viewing their code.
 
-> > “Before we wrap up, let’s take a few minutes to look over our work. 
+> > “Before we wrap up, let’s take a few minutes to look over our work.
 - Program has at least four enemies patrolling the maze.
 - Enemy code uses loops to represent repetitive actions.
 - There aren’t extra code blocks that haven’t been used

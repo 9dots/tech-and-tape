@@ -1,10 +1,10 @@
-{% title title='Lesson 2: Getting Started on Scratch', subtitle='Plugged' %}
+{% title title='Getting Started on Scratch', subtitle='Lesson 2' %}
 {% endtitle %}
 
 {% header title='Overview', icon='activity' %}
 {% endheader %}
 
-In this lesson, students will learn to login to Scratch and begin to use the editor, block palette, and stage to sequence a program. 
+In this lesson, students will learn to login to Scratch and begin to use the editor, block palette, and stage to sequence a program.
 
 ## Print PDF
 
@@ -250,12 +250,12 @@ Students explore the maze project and predict how the code performs in the game
 - Who can tell me what is a maze?
 
 Dramatically reveal Escape the maze:
-- Part videogame, part maze 
+- Part videogame, part maze
 - Students are going to learn to code like app developers!
 
 ```
 Suggested script:
-Now that you played around in the coding editor of Scratch, I’m going to let you in on the big surprise. This year, you’re not just becoming coders, you’re going to learn to code like a game developer! You’re going to build your very own video game: Escape the Maze! I think you are ready to see some of the code right now. 
+Now that you played around in the coding editor of Scratch, I’m going to let you in on the big surprise. This year, you’re not just becoming coders, you’re going to learn to code like a game developer! You’re going to build your very own video game: Escape the Maze! I think you are ready to see some of the code right now.
 ```
 2) Step through navigating to the starter maze and give them 2 minutes to play the game.
 

@@ -1,4 +1,4 @@
-<header class='header' title='Lesson 6' subtitle='Debugging'/>
+<header class='header' title='Debugging' subtitle='Lesson 6'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -115,7 +115,7 @@ I can debug a 2-5 block sequence.
 
 <iconp type='question'>What does the code make the zebra do?</iconp>
 
-- *Find* the bug(s). 
+- *Find* the bug(s).
 
 <iconp type='question'>Which line of code starts to move the zebra in the wrong direction?</iconp>
 

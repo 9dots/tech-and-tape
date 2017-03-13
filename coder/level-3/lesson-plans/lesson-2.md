@@ -1,4 +1,4 @@
-<header title='Write Some Code' subtitle='unplugged' bgColor='#C2DACC'/>
+<header title='Write Some Code' subtitle='Lesson 2' bgColor='#C2DACC'/>
 
 <notable>
 

@@ -1,8 +1,8 @@
-<header class='header' title='Lesson 9' subtitle='Bug Catchers'/>
+<header class='header' title='Bug Catchers' subtitle='Lesson 9'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 9 students apply the debugging protocol to increasingly complex sequences similar to the ones seen in lessons 7 and 8. 
+In lesson 9 students apply the debugging protocol to increasingly complex sequences similar to the ones seen in lessons 7 and 8.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 I can debug a 2-10 block sequence with more than one directional move.

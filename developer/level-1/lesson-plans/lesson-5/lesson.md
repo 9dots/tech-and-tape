@@ -1,4 +1,4 @@
-<header class='header' title='Lesson 5' subtitle='In the Loop'/>
+<header class='header' title='In the Loop' subtitle='Lesson 5'/>
 
 <notable>
 
@@ -13,9 +13,9 @@ In this lesson students explore and predict how they can use loops to more effic
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
 1. **Do Now (10 min)**
-1. **Engage:** Sequence Through a Maze (5 min) 
-2. **Explore & Explain:** Introducing Loops (7 min) 
-3. **Elaborate:** Loops in the Real World (5 min) 
+1. **Engage:** Sequence Through a Maze (5 min)
+2. **Explore & Explain:** Introducing Loops (7 min)
+3. **Elaborate:** Loops in the Real World (5 min)
 4. **Extension:** Coding the Enemy (10 min)
 
 **Independent Coding Practice:** **https://studio.code.org/s/course2/stage/3/puzzle/1 **
@@ -26,11 +26,11 @@ In this lesson students explore and predict how they can use loops to more effic
 ###### Teacher Materials:
 - [ ] [Lesson 5 Slides][slide-show]
 - [ ] Projector
-- [ ] Unplugged Foam Maze 
-- [ ] Whiteboard 
+- [ ] Unplugged Foam Maze
+- [ ] Whiteboard
 - [ ] Teacher Scratch Blocks magnetic
 
-###### Student Materials: 
+###### Student Materials:
 - [ ] [Maze Handout][maze-handout] (class set) - Editable version here
 - [ ] Scratch block strips (1 set per group)
 - [ ] Felt (1 per group)
@@ -61,8 +61,8 @@ In this lesson students explore and predict how they can use loops to more effic
 
 ## Do Now (10 min)
 
-- [ ] Explain the new format of our lessons: 
-	- The class will be in 2 groups assigned by the teacher. 
+- [ ] Explain the new format of our lessons:
+	- The class will be in 2 groups assigned by the teacher.
 	- While one group completes a coding lesson with the teacher, the other group practices a coding concept independently.
 	- Halfway through class the groups will switch so that everyone completes both sets of activities.
 
@@ -76,7 +76,7 @@ _For younger students and students not used to moving around the classroom, have
 - [ ] Move students into groups
 
 ## Engage: Sequence Through a Maze (5 min)
-- [ ] **Practice Sequence Debugging:** Instruct students to move their rover around their paper maze to **identify where in the given sequence there is a bug**. Students can use a dry erase marker to tick off each line of code as it is completed. 
+- [ ] **Practice Sequence Debugging:** Instruct students to move their rover around their paper maze to **identify where in the given sequence there is a bug**. Students can use a dry erase marker to tick off each line of code as it is completed.
 ![sequence](./images/sequence.png)
 
 <note type='reminder' title='Reminders'>
@@ -99,16 +99,16 @@ _For younger students and students not used to moving around the classroom, have
 - When you test a sequence, point to each block and act it out on the stage in order, one line at a time.
 </note>
 
-- [ ] **Perform Solution:** Assign students to group roles to act out the code. 
+- [ ] **Perform Solution:** Assign students to group roles to act out the code.
 
 <iconp type='question'> What did the code do before that wasn’t working? </iconp>
 <iconp type='answer'> Answer: At line 11 the hero moved 6 steps instead of 2 so it walked off the board. </iconp>
 
 ## Explore & Explain: Introducing Loops (7 min)
-- [ ] **Assign Group Roles:** Students are working in groups of 4 for this lesson and should pull group roles. Review each role’s responsibilities. 
+- [ ] **Assign Group Roles:** Students are working in groups of 4 for this lesson and should pull group roles. Review each role’s responsibilities.
 - [ ] **Discover Loops:** Working in groups
 	- **Plan:** Students use dry erase marker to draw the path the rover will take around their maze.
-	- **Code:** Students put together a sequence of code on their felt to circumnavigate the grid.  Do not give them enough move and turn blocks. Each group will only have 2 of each type of block. 
+	- **Code:** Students put together a sequence of code on their felt to circumnavigate the grid.  Do not give them enough move and turn blocks. Each group will only have 2 of each type of block.
 	![move6](./images/move6.png)
 	- **Validate:** Run your code from the beginning to test it.
 
@@ -137,9 +137,9 @@ _Younger students may need to be told to write in 90 degrees on turn blocks._
 </note>
 
 ## Elaborate: Loops in the Real World (5 min)
-- [ ] **Teach the Loop Gesture:** Have students move their hand in the loop gesture to remember to read each nested line of code and then return to the start of the loop. 
+- [ ] **Teach the Loop Gesture:** Have students move their hand in the loop gesture to remember to read each nested line of code and then return to the start of the loop.
 - [ ] **Examples of loops in real life:** Have students identify the type of loop you would use for each of the examples below.
- 
+
 <iconp type='question'>The School Week <iconp ml='1em' type='answer'>Repeat Until Summer Break</iconp></iconp>
 <iconp type='question'>The Seasons <iconp ml='1em' type='answer'>Forever</iconp></iconp>
 <iconp type='question'>Washing Dishes <iconp ml='1em' type='answer'>Repeat Until No More Dirty Dishes</iconp></iconp>

@@ -1,8 +1,8 @@
-<header class='header' title='Lesson 5' subtitle='Pixel Bot'/>
+<header class='header' title='Pixel Bot' subtitle='Lesson 5'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Lesson 5 introduces students to writing code on the Pixel Bot platform. As an introduction, students are asked to solve a task in which they naturally explore the platform’s user interface on their own. After allowing a brief period of struggle, the teacher answers student questions and gives a formal tutorial on how to write code on the platform. 
+Lesson 5 introduces students to writing code on the Pixel Bot platform. As an introduction, students are asked to solve a task in which they naturally explore the platform’s user interface on their own. After allowing a brief period of struggle, the teacher answers student questions and gives a formal tutorial on how to write code on the platform.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 
@@ -12,7 +12,7 @@ I can write a 2-5 block sequence of code.
 
 
 1. **Engage: Pixel Bot Predictions (5 min)** Students are introduced to Pixel Bot and make predictions about what it’s code does.
-1. **Explore: Challenge (2 min)** Students are challenged to complete a task on Pixel Bot on their own in order to explore its user interface. 
+1. **Explore: Challenge (2 min)** Students are challenged to complete a task on Pixel Bot on their own in order to explore its user interface.
 1. **Explain: Pixel Bot 101 (5 min)** Student ask questions and receive a tutorial on how to use Pixel Bot.
 1. **Elaborate: Independent Practice (15 min)** Students complete a series of independent tasks on Pixel Bot.
 1. **Evaluate: Exit Ticket (3 min)** Students complete an exit ticket.
@@ -112,7 +112,7 @@ I can write a 2-5 block sequence of code.
 - [ ] After 10 minutes have passed, review 2-3 problems on the board.
 - [ ] If students are comfortable, have 1 or 2 students come to the front and complete one of the challenges for the class on your computer.
 
-## Evaluate: Exit Ticket (3 min) 
+## Evaluate: Exit Ticket (3 min)
 
 - [ ] Have students complete the exit ticket challenge.
 - [ ] Monitor the room to ensure all students are finished.

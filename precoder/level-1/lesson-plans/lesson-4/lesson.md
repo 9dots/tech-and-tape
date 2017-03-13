@@ -1,4 +1,4 @@
-<header class='header' title='Lesson 4' subtitle='Turtle Steps'/>
+<header class='header' title='Turtle Steps' subtitle='Lesson 4'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -105,8 +105,8 @@ I can read a 2-5 block sequence of code.
 
 ![slide-five](./images/slide-five.png)
 
-- [ ] Invite two students to come up to the board to read and act out the code in slide 6. 
-   1. One student will read and check mark the directions in the sequence. 
+- [ ] Invite two students to come up to the board to read and act out the code in slide 6.
+   1. One student will read and check mark the directions in the sequence.
    1. The second student will move the token.
 - [ ] Have the students read and act out the code together.
 
@@ -115,7 +115,7 @@ I can read a 2-5 block sequence of code.
 ## Elaborate: Independent Practice (7 min)
 
 - [ ] Have students complete the independent practice worksheet independently. Monitor the class for students in need of assistance.
-- [ ] Review 2-3 problems from the worksheet with the group by having student volunteers share out their answers. 
+- [ ] Review 2-3 problems from the worksheet with the group by having student volunteers share out their answers.
 
 ## Exit Ticket (3 min)
 

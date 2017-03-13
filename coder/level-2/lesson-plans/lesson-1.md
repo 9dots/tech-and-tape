@@ -1,4 +1,4 @@
-{% title title='Sequencing Pixels', subtitle='Unplugged' %}
+{% title title='Sequencing Pixels', subtitle='Lesson 1' %}
 {% endtitle %}
 
 {% header title='Overview', icon='activity' %}
@@ -17,7 +17,7 @@ In this lesson, students play with the order of commands in unplugged Pixel Bot 
 
 #### Length: 45 minutes
 
-**Demonstrate** how coders shape our world. (10 minutes) Present an array of examples of where we find code in the modern world. Consider autonomous cars, music, online communities. Watch "A Day in the Life of a Software Engineer" (http://tinyurl.com/q966xd5). 
+**Demonstrate** how coders shape our world. (10 minutes) Present an array of examples of where we find code in the modern world. Consider autonomous cars, music, online communities. Watch "A Day in the Life of a Software Engineer" (http://tinyurl.com/q966xd5).
 
 <br>
 
@@ -25,7 +25,7 @@ In this lesson, students play with the order of commands in unplugged Pixel Bot 
 
 <br>
 
-**Demonstrate** how to read a program like a computer. (10 minutes) Draw a Pixel Bot program and grid on the whiteboard (3 or 4 lines of code, 3 x 3 grid). Work with students to step through and enact the program. Show the usefulness of numbering lines of code. Repeat a few times with new programs. 
+**Demonstrate** how to read a program like a computer. (10 minutes) Draw a Pixel Bot program and grid on the whiteboard (3 or 4 lines of code, 3 x 3 grid). Work with students to step through and enact the program. Show the usefulness of numbering lines of code. Repeat a few times with new programs.
 
 <br>
 

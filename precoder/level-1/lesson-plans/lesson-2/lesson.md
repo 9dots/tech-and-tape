@@ -1,8 +1,8 @@
-<header class='header' title='Lesson 2' subtitle='turtleMove Part I'/>
+<header class='header' title='turtleMove Part I' subtitle='Lesson 2'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 2 students begin to develop an understanding of how to use commands to control the actions of a computer. Students are introduced to the idea that commands must be clear and precise in order for a computer to carry them out. 
+In lesson 2 students begin to develop an understanding of how to use commands to control the actions of a computer. Students are introduced to the idea that commands must be clear and precise in order for a computer to carry them out.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can use a set of commands to direct my turtle’s movement.
@@ -22,7 +22,7 @@ In lesson 2 students begin to develop an understanding of how to use commands to
 - [ ] Toothbrush
 - [ ] Tube of Toothpaste
 - [ ] Floor Grid
-- [ ] [Paper Star][paper-star] 
+- [ ] [Paper Star][paper-star]
 
 ###### Student Materials:
 - [ ] [Paper Game Controllers][paper-controllers]
@@ -56,7 +56,7 @@ In lesson 2 students begin to develop an understanding of how to use commands to
 - [ ] Have students volunteer to give you directions on how to brush your teeth. Act out each student’s directions as they share.
 
 
-**Note:** The purpose of this activity is for students to see how important it is to give clear and precise directions. Each direction a student gives should be followed literally to show how directions that are not clear and precise can be misinterpreted. 
+**Note:** The purpose of this activity is for students to see how important it is to give clear and precise directions. Each direction a student gives should be followed literally to show how directions that are not clear and precise can be misinterpreted.
 
 **Example:** If a student says to put toothpaste on the toothbrush, place the tube of toothpaste on the toothbrush.
 
@@ -67,7 +67,7 @@ In lesson 2 students begin to develop an understanding of how to use commands to
 - Giving instructions to a computer is what we call coding.
 </note>
 
-## Explore/Explain: turtleMove (5 min) 
+## Explore/Explain: turtleMove (5 min)
 
 - [ ] Place the star on the floor grid and stand in an adjacent square.
 - [ ] Tell students that you need help navigating to the colored tile.
@@ -76,7 +76,7 @@ In lesson 2 students begin to develop an understanding of how to use commands to
 ![grid-one](./images/grid-one.png)
 
 
-- [ ] Present the same scenario. This time inform students that they cannot use their voice. 
+- [ ] Present the same scenario. This time inform students that they cannot use their voice.
 - [ ] Have volunteers to give you directions to the colored tile.
 - [ ] Ask the class:
 

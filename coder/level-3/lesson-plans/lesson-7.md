@@ -1,4 +1,4 @@
-{% title title='Coding arguments', subtitle='Unplugged', color='#C2DACC' %}
+{% title title='Coding Arguments in JS', subtitle='Lesson 7', color='#C2DACC' %}
 {% endtitle %}
 
 {% header title='Overview', icon='activity' %}

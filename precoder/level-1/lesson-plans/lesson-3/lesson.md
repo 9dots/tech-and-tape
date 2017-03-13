@@ -1,4 +1,4 @@
-<header class='header' title='Lesson 3' subtitle='turtleMove Part II'/>
+<header class='header' title='turtleMove Part II' subtitle='Lesson 3'/>
 
 
 <notable>
@@ -65,11 +65,11 @@ In lesson 3 students continue to develop an understanding of how to use commands
 
 ![grid-two](./images/grid-two.png)
 
-- [ ] Have the class press the button they would use to get you closer to the star. 
+- [ ] Have the class press the button they would use to get you closer to the star.
 - [ ] Have a volunteer share out their selection and ask the class to agree or disagree. Once the class has settled on a button choice act out their selection. Repeat this process until the class has successfully navigated you to the star.
 
 <note type='key' title='Key Points'>
-- It is possible to use more than one command to complete a task. 
+- It is possible to use more than one command to complete a task.
 </note>
 
 
@@ -112,7 +112,7 @@ In lesson 3 students continue to develop an understanding of how to use commands
 ## Elaborate: Independent Practice (7 min)
 
 - [ ] Have students complete the independent practice worksheet. Monitor the class for students in need of assistance.
-- [ ] Review 2-3 problems from the worksheet with the group by having student volunteers share out their answers. 
+- [ ] Review 2-3 problems from the worksheet with the group by having student volunteers share out their answers.
 
 ## Exit Ticket (3 min)
 
@@ -123,5 +123,5 @@ In lesson 3 students continue to develop an understanding of how to use commands
 [slide-show]: https://drive.google.com/open?id=1sEgDN-IjoNcAdUqGP7Vlm5bqLMkpUa1Agt_x6rCLoTU
 [paper-star]: https://drive.google.com/open?id=0B48_2vIyABioelNBOFh0VHhWaEE
 [game-controllers]: https://drive.google.com/open?id=0B48_2vIyABioRVJkODVORy1FNEk
-[ind-practice]: https://drive.google.com/open?id=0B48_2vIyABioRlNJQjhjMlJSUU0 
+[ind-practice]: https://drive.google.com/open?id=0B48_2vIyABioRlNJQjhjMlJSUU0
 [exit-ticket]: https://drive.google.com/open?id=0B48_2vIyABioU0FPUVlXaXBQcU0
