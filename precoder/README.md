@@ -2,7 +2,7 @@
 
 ![preCoder](../images/coding-2.jpg)
 
-The preCoder series serves as an introduction to reading, writing, and debugging code for pre-readers. Beginning coders develop a foundational level of understanding of fundamental coding concepts through unplugged activities, games, and the [Pixel Bot][pixel-bot] platform.
+The preCoder series serves as an introduction to reading, writing, and debugging code for pre-readers. Beginning coders develop a foundational level of understanding of fundamental coding concepts through unplugged activities, games, and the [pixelBot][pixel-bot] platform.
 
 ## Curriculum
 

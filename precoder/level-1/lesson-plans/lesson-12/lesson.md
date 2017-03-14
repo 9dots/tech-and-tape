@@ -1,4 +1,4 @@
-<header class='header' title='Lesson 12' subtitle='Summarizing II'/>
+<header class='header' title='Summarizing II' subtitle='Lesson 12'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -10,11 +10,11 @@ Lesson 12 builds on lesson 11’s introduction to summarizing. Students learn th
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. **Engage: Story Time (5 min)**
-1. **Explore: Step and Paint Summaries (3 min)**
-1. **Explain: Chunk Summaries (8 min)**
-1. **Elaborate: Chunking (10 min)**
-1. **Evaluate: Exit Ticket (4 min)**
+1. Engage: Story Time (5 min)
+1. Explore: Step and Paint Summaries (3 min)
+1. Explain: Chunk Summaries (8 min)
+1. Elaborate: Chunking (10 min)
+1. Evaluate: Exit Ticket (4 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>

@@ -1,4 +1,4 @@
-<header class='header' title='Lesson 8' subtitle='Code the Enemy (Write Loops)'/>
+<header class='header' title='Code the Enemy (Write Loops)' subtitle='Lesson 8 (Accelerated)'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -23,7 +23,7 @@ In this lesson students identify repeating patterns in a sequence and replace th
 - [ ] [Lesson 8 Slides][slide-show]
 - [ ] Projector
 
-###### Student Materials: 
+###### Student Materials:
 - [ ] Index cards (1 per student)
 - [ ] Idea Journals
 - [ ] Pencils
@@ -65,11 +65,11 @@ In this lesson students identify repeating patterns in a sequence and replace th
 
 ![pattern1](./images/unifix-cubes-pattern1.jpeg)
 
-- [ ] Identify the repeating section of code and break that section off. 
+- [ ] Identify the repeating section of code and break that section off.
 
 <iconp type='question'>What is repeating in this pattern?</iconp>
 <br/>
-- [ ] Have students break apart the pattern into its repeating sections. Verify that they all match by lining them up. 
+- [ ] Have students break apart the pattern into its repeating sections. Verify that they all match by lining them up.
 
 <iconp type='question'>How many times does the section repeat itself?</iconp>  
 <br/>

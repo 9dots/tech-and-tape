@@ -1,4 +1,4 @@
-<header class='header' title='Lesson 13' subtitle='Boolean'/>
+<header class='header' title='Boolean' subtitle='Lesson 13'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -22,7 +22,7 @@ Students are introduced to “boolean” and practice identifying true/false sta
 - [ ] [Slide Show][slide-show]
 - [ ] [Answer Key][answer-key]
 
-###### Student Materials: 
+###### Student Materials:
 - [ ] Computers
 - [ ] [Exit Challenges][exit-challenge]
 - [ ] [Boolean Cards][boolean-cards]
@@ -65,7 +65,7 @@ Participation: Whole Class Unplugged
 <note>![slides-kidscode2](./images/slides-kidscode2.png)
 </note>
 
-- [ ] **Motivate** students by connecting today’s lesson to their Escape the Maze game. 
+- [ ] **Motivate** students by connecting today’s lesson to their Escape the Maze game.
 
 > > “Last week when we played the three versions of our Escape the Maze game, what happened when the hero touched an enemy? The hero was sent back to the start! In order to write this code, we first need to learn about boolean code. When you are working independently on the computers you can work on finishing your enemies in Scratch. When you are working in our small group we will be learning about boolean, the foundation to programming enemies that react when the hero touches them.”
 
@@ -75,14 +75,14 @@ Participation: Whole Class Unplugged
 
 <pagebreak/>
 ## 2. Explore: True/False (5 min)
-Participation: Small Group Unplugged 
+Participation: Small Group Unplugged
 
-- [ ] **True/False:** Students hold up True or False to respond to questions. 
+- [ ] **True/False:** Students hold up True or False to respond to questions.
 
-<note type="tip">Have students hold their card up against their collarbone. 
+<note type="tip">Have students hold their card up against their collarbone.
 ![slides-tf1](./images/slides-tf1.png)
 ![slides-tf2](./images/slides-tf2.png)
-</note> 
+</note>
 
 > > “Answer each statement by holding up ‘True’ or ‘False’ on your card.”
 
@@ -114,7 +114,7 @@ Participation: Small Group Unplugged
 
 <pagebreak/>
 ## 3. Explain: Define (5 min)
-Participation: Small Group Unplugged 
+Participation: Small Group Unplugged
 
 - [ ] **Define** boolean - students write the definition in their idea journals.
 
@@ -128,7 +128,7 @@ Participation: Small Group Unplugged
 
 <note>![slides-define2](./images/slides-define2.png)</note>
 
-- [ ] **Popcorn:** Students hold up Boolean or Not Boolean cards to respond to questions. Pop around the room to different students asking them to explain if each statement is a boolean statement or not. It is important to have them say the word “boolean” to cement the term. 
+- [ ] **Popcorn:** Students hold up Boolean or Not Boolean cards to respond to questions. Pop around the room to different students asking them to explain if each statement is a boolean statement or not. It is important to have them say the word “boolean” to cement the term.
 
 <iconp type="question"> Is this a boolean statement or not? If you’re not sure, try to answer true/false first.</iconp>
 
@@ -153,9 +153,9 @@ Participation: Small Group Unplugged
 <note>![slides-define4](./images/slides-define5.png)</note>
 
 ## 4. Elaborate: Boolean Code (5 min)    
-Participation: Small Group, Partners, Unplugged 
+Participation: Small Group, Partners, Unplugged
 
-- [ ] **Contrasting Cases:** Give students a series of Scratch blocks and have them work in partners to identify which are examples of Boolean statements. 
+- [ ] **Contrasting Cases:** Give students a series of Scratch blocks and have them work in partners to identify which are examples of Boolean statements.
 
 > > “In your box you have a series of code blocks. Sort your blocks into two piles: those that are boolean blocks and those that are not. Use your cards to label each group. If you’re having trouble, try answering the statements with true/false.”
 
@@ -166,7 +166,7 @@ Participation: Small Group, Partners, Unplugged
 <iconp type="answer">The ends of boolean blocks have points like triangles.</iconp>
 
 ## 5. Evaluate: Exit Challenge (5 min)
-Participation: Small Group, Independent, Unplugged 
+Participation: Small Group, Independent, Unplugged
 
 - [ ] **Exit Challenge:** Students answer the [exit challenge][exit-challenge] on paper using pencil independently and turn it in.
 

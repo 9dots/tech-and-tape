@@ -1,4 +1,4 @@
-<header class='header' title='Lesson 4' subtitle='Turtle Steps'/>
+<header class='header' title='Turtle Steps' subtitle='Lesson 4'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -11,24 +11,25 @@ I can read a 2-5 block sequence of code.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. **Engage: Intro to Sequences (5 min)** Students see examples of sequences in different contexts and are introduced to the definition of a sequence.
-1. **Explore: Stepping (2 min)** Students are challenged to determine the position of an object after following a sequence of directions.
-1. **Explain: Stepping Demonstration (8 min)** Students learn how to step through code using a token.
-1. **Elaborate: Independent Practice (10 min)** Students complete an independent practice worksheet.
-1. **Evaluate: Exit Ticket (3 min)** Students complete an exit ticket.
+1. Engage: Intro to Sequences (5 min)
+1. Explore: Stepping (2 min)
+1. Explain: Stepping Demonstration (8 min)
+1. Elaborate: Independent Practice (10 min)
+1. Evaluate: Exit Ticket (3 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
+- [ ] Computer
 - [ ] Projector
-- [ ] [Slideshow][slide-show]
+- [ ] [Lesson 4 Slides][slides]
 - [ ] [Board Token][token]
 
 ###### Student Materials:
 - [ ] Dry Erase Markers
 - [ ] [Stepping Tokens][token]
 - [ ] [Independent Practice Worksheet][ind-practice]
-- [ ] [Exit Ticket][exit-ticket]
+- [ ] [Exit Ticket][assess]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
@@ -105,8 +106,8 @@ I can read a 2-5 block sequence of code.
 
 ![slide-five](./images/slide-five.png)
 
-- [ ] Invite two students to come up to the board to read and act out the code in slide 6. 
-   1. One student will read and check mark the directions in the sequence. 
+- [ ] Invite two students to come up to the board to read and act out the code in slide 6.
+   1. One student will read and check mark the directions in the sequence.
    1. The second student will move the token.
 - [ ] Have the students read and act out the code together.
 
@@ -115,7 +116,7 @@ I can read a 2-5 block sequence of code.
 ## Elaborate: Independent Practice (7 min)
 
 - [ ] Have students complete the independent practice worksheet independently. Monitor the class for students in need of assistance.
-- [ ] Review 2-3 problems from the worksheet with the group by having student volunteers share out their answers. 
+- [ ] Review 2-3 problems from the worksheet with the group by having student volunteers share out their answers.
 
 ## Exit Ticket (3 min)
 
@@ -123,7 +124,7 @@ I can read a 2-5 block sequence of code.
 
 </notable>
 
-[slide-show]: https://drive.google.com/open?id=1bK9-uPRxR7YiNm53pGFELiFsjBXf4OoWYIXw8oo5WE0
+[slides]: https://drive.google.com/open?id=1bK9-uPRxR7YiNm53pGFELiFsjBXf4OoWYIXw8oo5WE0
 [token]: https://drive.google.com/open?id=0B48_2vIyABioVjJucTBqNE1ELUE
 [ind-practice]: https://drive.google.com/open?id=0B48_2vIyABioN2RPX0dqZVhzbjg
-[exit-ticket]: https://drive.google.com/open?id=0B48_2vIyABioTHlfWFJKY3d2MHc
+[assess]: https://drive.google.com/open?id=0B48_2vIyABioTHlfWFJKY3d2MHc

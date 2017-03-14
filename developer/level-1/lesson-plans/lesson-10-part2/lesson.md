@@ -1,4 +1,4 @@
-<header class='header' title='Lesson 10 Part2' subtitle='Enemies Everywhere'/>
+<header class='header' title='Enemies Everywhere' subtitle='Lesson 10 Part 2'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -20,7 +20,7 @@ This lesson assumes you are completing it in the same period as the ICC review. 
 - [ ] Projector
 - [ ] Unplugged Maze
 
-###### Student Materials: 
+###### Student Materials:
 - [ ] Scratch Studio
 - [ ] Idea Journals
 
@@ -82,7 +82,7 @@ Participation: Whole Class, Unplugged
 
 <iconp type='question'>What loop could we use to represent the pattern and shorten our code?</iconp>
 <iconp type='answer'>Nest two move blocks in a repeat 4 loop. Remind students that in Scratch we use a negative number to move backwards.</iconp>
-![codesnip2](./images/codesnip2.jpeg) 
+![codesnip2](./images/codesnip2.jpeg)
 
 <iconp type='question'>**Extension Question:** How would we change our code if we wanted the enemy to continue to patrol the maze until game play ends?</iconp>
 <iconp type='answer'>Change the repeat loop to a forever loop.</iconp>
@@ -98,7 +98,7 @@ Participation: Whole Class on Computers
 
 - [ ] **Demonstrate:** Add the enemy code in Scratch. (10 min)
 
-> > ”We just wrote the code to control one of the enemies. So now let’s put the code into our game!” 
+> > ”We just wrote the code to control one of the enemies. So now let’s put the code into our game!”
 
 <note type="key" title="key point">When writing code we follow the process of plan, code, validate.</note>
 
@@ -106,27 +106,27 @@ Participation: Whole Class on Computers
 
 **Step 1:** Click “See Inside” to view the editor.
 
-**Step 2:** Select the Sprite we will write the code for (Enemy 1). 
+**Step 2:** Select the Sprite we will write the code for (Enemy 1).
 
 **Step 3:** Copy the code from the board into the editor and click the green flag to test the code.
-<iconp type='question'>Why does it look like nothing happens?</iconp> 
+<iconp type='question'>Why does it look like nothing happens?</iconp>
 <iconp type='answer'>Because we need to use “wait” blocks to see the movement, otherwise the computer is performing the movement so quickly we cannot see it.</iconp>
-![codesnip3](./images/codesnip3.jpeg) 
+![codesnip3](./images/codesnip3.jpeg)
 
-**Step 4:** Add the wait blocks and click the green flag to test the code. 
+**Step 4:** Add the wait blocks and click the green flag to test the code.
 <iconp type='question'>It look like it barely moves. How can we fix this?</iconp>
 <iconp type='answer'>Adjust the code to make the enemy travel an equivalent distance in Scratch to the unplugged maze by changing the arguments in the move block to 200 and -200. Change this in the magnetic blocks on the board as well.</iconp>
-![codesnip4](./images/codesnip4.jpeg) 
+![codesnip4](./images/codesnip4.jpeg)
 
 **Step 5:** Click the green flag to test the code again.
 
 
-- [ ] **Making:** (20 min) Walk students through the steps to navigate to and remix the starter code to produce their own version. 
+- [ ] **Making:** (20 min) Walk students through the steps to navigate to and remix the starter code to produce their own version.
 
 > > “Now it is your turn. Let’s login to your Scratch account and put the code into your own version of the maze.”
 
 <note type="tip">
-Students have not been on Scratch in a while so they will need you to guide them through explicit directions to navigate to their project. One way to do this is: 
+Students have not been on Scratch in a while so they will need you to guide them through explicit directions to navigate to their project. One way to do this is:
 
 - Students place their hands on their heads
 - Demonstrate 3 steps

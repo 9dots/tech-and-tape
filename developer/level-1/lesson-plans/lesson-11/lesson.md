@@ -1,4 +1,4 @@
-<header class='header' title='Lesson 11' subtitle='Enemies Everywhere Continued'/>
+<header class='header' title='Enemies Everywhere Continued' subtitle='Lesson 11'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -22,7 +22,7 @@ In Lesson 10 students wrote the code in the Scratch editor to make an enemy patr
 - [ ] Projector
 - [ ] [Scratch Example of Finished Code][exemplar]
 
-###### Student Materials: 
+###### Student Materials:
 - [ ] Computers
 - [ ] [Lesson 8 Handouts][handout]
 - [ ] Idea Journals
@@ -58,7 +58,7 @@ In Lesson 10 students wrote the code in the Scratch editor to make an enemy patr
 
 - [ ] Introduce platforms for kids to create projects.
 * Scratch
-* Code.org 
+* Code.org
 * [Code an artist][code-an-artist]
 
 > > “If you code a project on your own, we would like to feature your project/app at the start of our class.”
@@ -68,7 +68,7 @@ In Lesson 10 students wrote the code in the Scratch editor to make an enemy patr
 
 ## 2. Elaborate: Enemies on Patrol (30 min)
 
-- [ ] Vocabulary Review: On the ICC students had difficulty identifying the loop block. Use this as an opportunity to review what the loop structure looks like in Scratch. (4 min) 
+- [ ] Vocabulary Review: On the ICC students had difficulty identifying the loop block. Use this as an opportunity to review what the loop structure looks like in Scratch. (4 min)
 
 <iconp type='question'>Which block is the loop block?</iconp>
 <iconp type='question'>Which of these blocks of code are loop blocks?</iconp>
@@ -78,7 +78,7 @@ In Lesson 10 students wrote the code in the Scratch editor to make an enemy patr
 
 - [ ] **Remind** students of code they wrote in lesson 10. (1 min)  
 
-> > “In lesson 10 we planned, coded, and validated the loop that made our Escape the Maze game a little more exciting by making the enemy patrol the maze.” 
+> > “In lesson 10 we planned, coded, and validated the loop that made our Escape the Maze game a little more exciting by making the enemy patrol the maze.”
 
 ![slides-elaborate](./images/slides-elaborate.jpeg)
 
@@ -88,7 +88,7 @@ In Lesson 10 students wrote the code in the Scratch editor to make an enemy patr
 
 **Step 1:** Click “See Inside” to view the editor.
 
-**Step 2:** Select the Sprite we will write the code for (Enemy 1). 
+**Step 2:** Select the Sprite we will write the code for (Enemy 1).
 
 ![slides-demo1](./images/slides-teacher1.jpeg)
 
@@ -98,7 +98,7 @@ In Lesson 10 students wrote the code in the Scratch editor to make an enemy patr
 <iconp type='answer'>Have students tell you how to replace the code with a loop that contains the repeating pattern and click the green flag to test the code.</iconp>
 
 **Step 5:** <iconp type='question'>What if we want the enemy to patrol until the end of game play?</iconp>
-<iconp type='answer'>Replace the repeat loop with a forever loop.</iconp> 
+<iconp type='answer'>Replace the repeat loop with a forever loop.</iconp>
 
 <note type="tip">If you lose an enemy off the Stage click the “r” key to reset the positions of all of the enemies.</note>
 
@@ -129,7 +129,7 @@ In Lesson 10 students wrote the code in the Scratch editor to make an enemy patr
 ![slides-submit2](./images/slides-submit2.jpeg)
 ![slides-submit3](./images/slides-submit3.jpeg)
 
-- [ ] **Exit Ticket:** Model how to properly title, remix/share, and add their projects to the studio for you to view. 
+- [ ] **Exit Ticket:** Model how to properly title, remix/share, and add their projects to the studio for you to view.
 
 **Step 1:** Click “Remix”
 
@@ -137,7 +137,7 @@ In Lesson 10 students wrote the code in the Scratch editor to make an enemy patr
 
 **Step 3:** Add your first name to title.  Example: Lesson 11 Starter Maayan
 
-**Step 4:** Click “See project page” 
+**Step 4:** Click “See project page”
 
 **Step 5:** Click “Studios”
 

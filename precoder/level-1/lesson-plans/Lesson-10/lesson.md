@@ -1,4 +1,4 @@
-<header class='header' title='Lesson 10' subtitle='Review'/>
+<header class='header' title='Review' subtitle='Lesson 10'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -10,17 +10,10 @@ I can debug a 2-10 block sequence with more than one directional move.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. **Engage: Paper Block Coding (5 min)**
-	1. **Motivate:** Students code in pairs using paper blocks to complete a challenge. (3 min)
-	1. **Share Out:** Student pairs share out their code. (2 min)
-1. **Explore: Paper Block Debugging (3 min)**
-	1. **Partner Exploration:** Pairs attempt to debug paper block code. (3 min)
-1. **Explain: Debugging Protocol (5 min)**
-	1. **Discussion:** Students discuss what they did to debug the code. (2 min)
-	1. Review the debugging protocol. (3 min)
-1. **Elaborate: Independent Practice (17 min)**
-	1. **Independent Practice:** Students work on a pixelBot playlist. (12 min)
-	1. **Review** practice problems with the class.(5 min)
+1. Engage: Paper Block Coding (5 min)
+1. Explore: Paper Block Debugging (3 min)
+1. Explain: Debugging Protocol (5 min)
+1. Elaborate: Independent Practice (17 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -57,14 +50,14 @@ I can debug a 2-10 block sequence with more than one directional move.
 <iconp ml='1.65em' type='question'>question</iconp>
 <iconp ml='1.65em' type='answer'>answer</iconp>
 - [ ] action item
-</note> 
+</note>
 
 <pagebreak/>
 
 ## Engage: Paper Block Coding (8 min)
 - [ ] **Motivate:** Students code in pairs using paper blocks to complete a challenge. (3 min)
 	- [ ] Distribute paper coding blocks and display the coding challenge on slide 2.
-	- [ ] Direct students to write code with a partner using the paper coding blocks. 
+	- [ ] Direct students to write code with a partner using the paper coding blocks.
 
 - [ ] **Share Out:** Students share out their code. (2 min)
 	- [ ] Invite a student to code his/her answer on your computer.
@@ -79,7 +72,7 @@ I can debug a 2-10 block sequence with more than one directional move.
 
 ## Explain: Debugging Protocol (5 min)
 -  [ ] **Discussion:** Students discuss what they did to debug the code. (2 min)
-	- [ ] As students share their answers click to the matching animation in slide 5. 
+	- [ ] As students share their answers click to the matching animation in slide 5.
 
 <iconp type='question'>What was the first thing we did to solve this challenge?</iconp>
 <iconp type='answer'>We checked if the code worked.</iconp>

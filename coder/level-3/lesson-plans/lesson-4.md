@@ -1,4 +1,4 @@
-<header title='pixelBots Online' subtitle='plugged' bgColor='#C2DACC'/>
+<header title='pixelBots Online' subtitle='Lesson 4' bgColor='#C2DACC'/>
 
 <notable>
 

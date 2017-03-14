@@ -1,4 +1,4 @@
-<header class='header' title='Lesson 1' subtitle='Mystery Robot'/>
+<header class='header' title='Mystery Robot' subtitle='Lesson 1'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -10,15 +10,15 @@ In lesson 1 students are introduced to the concept of productive failure. Studen
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. **Engage: The Most Magnificent Thing (7 min)**
-	1. **Introduce** students to the concept of productive failure by reading *The Most Magnificent Thing*.
-1. **Explore: Mystery Robot (10 min)** Students use a series of clues to determine the identity of a mystery robot.
-1. **Explain/Elaborate: Mystery Robot Part II (10 min)** Students determine the identity of a mystery robot asking a series of questions.
-1. **Evaluate: Debrief (3 min)**
-	1. **Discuss:** Students make connections between the activities and productive failure by participating in a discussion.
+1. Engage: The Most Magnificent Thing (7 min)
+1. Explore: Mystery Robot (10 min)
+1. Explain/Elaborate: Mystery Robot Part II (10 min)
+1. Evaluate: Debrief (3 min)
+
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
+- [ ] Computer
 - [ ] Projector
 - [ ] [Lesson 1 Slides][slide-show]
 - [ ] [Robot Cards][robot-cards]

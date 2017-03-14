@@ -1,4 +1,4 @@
-<header class='header' title='Lesson 3' subtitle='turtleMove Part II'/>
+<header class='header' title='turtleMove Part II' subtitle='Lesson 3'/>
 
 
 <notable>
@@ -11,23 +11,25 @@ In lesson 3 students continue to develop an understanding of how to use commands
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. **Engage: Warm Up (3 min)** The class reviews the 4 directional commands they will use to direct the turtle’s movement.
-1. **Explore: Turtle Chase Video Game (10 min)** Students use paper video game controllers to direct the movements of classmates on a grid. One team tries to catch a member of another team.
-1. **Explain: Multiple Commands (7 min)** Students see the teacher model and explain how to determine the direction and number of times a command should be chosen to solve a problem.
-1. **Elaborate: Independent Practice & Review (7 min)** Students complete an independent practice worksheet in which they choose commands to direct their turtle’s movement.
-1. **Evaluate: Exit Ticket (3 min)** Students complete an exit ticket as a check for understanding.
+1. Engage: Warm Up (3 min)
+1. Explore: Turtle Chase Video Game (10 min)
+1. Explain: Multiple Commands (7 min)
+1. Elaborate: Independent Practice & Review (7 min)
+1. Evaluate: Exit Ticket (3 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
+- [ ] Computer
 - [ ] Projector
-- [ ] [Slideshow][slide-show]
+- [ ] [Lesson 3 Slides][slides]
 - [ ] Floor Grid
 - [ ] [Paper Star][paper-star]
 
 ###### Student Materials:
+
 - [ ] [Paper Game Controller][game-controllers]
-- [ ] [Independent Practice Worksheet][ind-practice]
+- [ ] [Practice Worksheet][ind-practice]
 - [ ] [Exit Ticket][exit-ticket]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
@@ -65,11 +67,11 @@ In lesson 3 students continue to develop an understanding of how to use commands
 
 ![grid-two](./images/grid-two.png)
 
-- [ ] Have the class press the button they would use to get you closer to the star. 
+- [ ] Have the class press the button they would use to get you closer to the star.
 - [ ] Have a volunteer share out their selection and ask the class to agree or disagree. Once the class has settled on a button choice act out their selection. Repeat this process until the class has successfully navigated you to the star.
 
 <note type='key' title='Key Points'>
-- It is possible to use more than one command to complete a task. 
+- It is possible to use more than one command to complete a task.
 </note>
 
 
@@ -112,7 +114,7 @@ In lesson 3 students continue to develop an understanding of how to use commands
 ## Elaborate: Independent Practice (7 min)
 
 - [ ] Have students complete the independent practice worksheet. Monitor the class for students in need of assistance.
-- [ ] Review 2-3 problems from the worksheet with the group by having student volunteers share out their answers. 
+- [ ] Review 2-3 problems from the worksheet with the group by having student volunteers share out their answers.
 
 ## Exit Ticket (3 min)
 
@@ -120,8 +122,8 @@ In lesson 3 students continue to develop an understanding of how to use commands
 
 </notable>
 
-[slide-show]: https://drive.google.com/open?id=1sEgDN-IjoNcAdUqGP7Vlm5bqLMkpUa1Agt_x6rCLoTU
+[slides]: https://drive.google.com/open?id=1sEgDN-IjoNcAdUqGP7Vlm5bqLMkpUa1Agt_x6rCLoTU
 [paper-star]: https://drive.google.com/open?id=0B48_2vIyABioelNBOFh0VHhWaEE
 [game-controllers]: https://drive.google.com/open?id=0B48_2vIyABioRVJkODVORy1FNEk
-[ind-practice]: https://drive.google.com/open?id=0B48_2vIyABioRlNJQjhjMlJSUU0 
+[ind-practice]: https://drive.google.com/open?id=0B48_2vIyABioRlNJQjhjMlJSUU0
 [exit-ticket]: https://drive.google.com/open?id=0B48_2vIyABioU0FPUVlXaXBQcU0

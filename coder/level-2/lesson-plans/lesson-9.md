@@ -1,4 +1,4 @@
-{% title title='Space Ranger and Magic Words', subtitle='Plugged' %}
+{% title title='Space Ranger and Magic Words', subtitle='Lesson 9' %}
 {% endtitle %}
 
 {% header title='Overview', icon='activity' %}

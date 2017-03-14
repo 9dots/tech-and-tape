@@ -1,4 +1,4 @@
-<header class='header' title='Lesson 8' subtitle='Pixel Artists'/>
+<header class='header' title='Pixel Artists' subtitle='Lesson 8'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -11,21 +11,11 @@ I can write a 2-10 block sequence with more than one directional move.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. **Engage: Pixel Art (2 min)**
-	1. **Demonstrate** how to create pixel art using the Pixel Bot platform. (2 min)
-1. **Explore: Coding with Multiple Directional Moves (6 min)**
-	1. **Present** the group with a pixel art challenge. (1 min)
-	1. **Discuss** the commands that would be necessary to solve the pixel art challenge as a class. (2 min)
-	1. **Independent Exploration:** Have students attempt to code the solution. (3 min)
-1. **Explain:  How to Code with Multiple Directional Moves (7 min)**
-	1. **Share Out:** Students share the approaches they took to complete the challenge. (2 min)
-	1. **Model** how to complete the pixel art challenge. (1 min)
-	1. **Guided Practice:** The class solves a problem together. (4 min)
-1. **Elaborate: Independent Coding (10 min)**
-	1. **Independent Coding:** Students work on the independent practice playlist.
-1. **Evaluate: Exit Ticket & Debrief (5 min)**
-	1. **Exit Ticket:** Students attempt to code a square to show mastery of the day’s objective. (3 min)
-	1. **Debrief** the exit ticket challenge by discussing possible solutions.
+1. Engage: Pixel Art (2 min)
+1. Explore: Coding with Multiple Directional Moves (6 min)
+1. Explain:  How to Code with Multiple Directional Moves (7 min)
+1. Elaborate: Independent Coding (10 min)
+1. Evaluate: Exit Ticket & Debrief (5 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>

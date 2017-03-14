@@ -1,4 +1,4 @@
-<header class='header' title='Lesson 13' subtitle='Decomposition I'/>
+<header class='header' title='Decomposition I' subtitle='Lesson 13'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -9,10 +9,10 @@ Lesson 13 is an introduction to the concept of decomposition. The lesson begins 
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. **Engage: Intro to Decomposition (8 min)**
-1. **Explore: Decomposing T's (2 min)**
-1. **Explain: Decomposing Letters (8 min)**
-1. **Elaborate: Independent Practice (12 min)**
+1. Engage: Intro to Decomposition (8 min)
+1. Explore: Decomposing T's (2 min)
+1. Explain: Decomposing Letters (8 min)
+1. Elaborate: Independent Practice (12 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>

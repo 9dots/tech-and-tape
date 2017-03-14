@@ -1,4 +1,4 @@
-{% title title='Write Some Code', subtitle='Unplugged' %}
+{% title title='Write Some Code', subtitle='Lesson 2' %}
 {% endtitle %}
 
 {% header title='Overview', icon='activity' %}

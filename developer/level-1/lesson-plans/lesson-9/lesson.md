@@ -1,13 +1,13 @@
-<header class='header' title='Lesson 9' subtitle='Independent Coding Challenge'/>
+<header class='header' title='Independent Coding Challenge' subtitle='Lesson 9'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-We want to establish a coding learning culture where students identify as coders. That means they enjoy challenging themselves, they enjoy learning new things, and they like to address weaknesses in their understanding. Students complete an Independent Coding Challenge to see their progress in the learning objectives covered in lessons 1-8. 
+We want to establish a coding learning culture where students identify as coders. That means they enjoy challenging themselves, they enjoy learning new things, and they like to address weaknesses in their understanding. Students complete an Independent Coding Challenge to see their progress in the learning objectives covered in lessons 1-8.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
-- I can use the editor, block palette, and stage in Scratch to code my program 
+- I can use the editor, block palette, and stage in Scratch to code my program
 - I can code a sequence of actions in the order I want them performed.
-- I can use the debugging process to debug my code. 
+- I can use the debugging process to debug my code.
 - I can step through and act out code that contains a loop.
 - I can predict the effects of code that contains a loop.
 - I can recognize and identify a repeating pattern.
@@ -25,7 +25,7 @@ We want to establish a coding learning culture where students identify as coders
 - [ ] [Lesson 9 Slides][slide-show]
 - [ ] Projector
 
-###### Student Materials: 
+###### Student Materials:
 - [ ] Pencil
 - [ ] [Independent Coding Challenge][icc]
 - [ ] Index Cards (class set)
@@ -55,7 +55,7 @@ We want to establish a coding learning culture where students identify as coders
 
 ## 1. Set the Challenge (4 min)
 
-- [ ] What are we doing today? 
+- [ ] What are we doing today?
 
 > > “You are coders! Coders love to challenge themselves. So today we are going to do a series of Coding Challenges.”
 
@@ -88,7 +88,7 @@ We want to establish a coding learning culture where students identify as coders
 
 - [ ] When the ICC is completed, have students complete the Student Survey.
 
-- [ ] If a student is stuck you can: 
+- [ ] If a student is stuck you can:
     - Read the question out loud.
     - Ask guiding questions without giving away an answer:
     - Do you remember when we painted with Rover?
@@ -116,5 +116,5 @@ We want to establish a coding learning culture where students identify as coders
 
 </notable>
 
-[icc]: https://docs.google.com/document/d/1Yf3NHLkcZu8F6c9p7GSH7QXo0dGf6nhD9HzYe7cweHE/edit?usp=sharing 
+[icc]: https://docs.google.com/document/d/1Yf3NHLkcZu8F6c9p7GSH7QXo0dGf6nhD9HzYe7cweHE/edit?usp=sharing
 [slide-show]: https://docs.google.com/presentation/d/1ax85reMF15nwSKkqzXcIT0DgWmPmchZaS9igx2uQwDE/edit?usp=sharing

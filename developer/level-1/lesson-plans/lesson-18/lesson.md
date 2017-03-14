@@ -1,8 +1,8 @@
-<header class='header' title='Lesson 18' subtitle='Where is Rover'/>
+<header class='header' title='Where is Rover?' subtitle='Lesson 18'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In small groups students build their argumentation skills to debate where Rover lands while they practice reading conditionals. Independently, students continue to practice writing conditionals and loops in their Escape the Maze projects. 
+In small groups students build their argumentation skills to debate where Rover lands while they practice reading conditionals. Independently, students continue to practice writing conditionals and loops in their Escape the Maze projects.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can write an if-then statement to execute a sequence if a test is true.
@@ -16,7 +16,7 @@ Small Groups
 1. Elaborate: Where’s Rover (13 minutes)
 1. Evaluate: Exit Challenge (5 minutes)
 
-Independent Work 
+Independent Work
 1. Finish Conditionals in Project (20 minutes)
 
 <note>
@@ -27,10 +27,10 @@ Independent Work
 - [ ] Rover (large)
 - [ ] Foam Tiles (with numbers written in permanent marker)
 
-###### Student Materials: 
+###### Student Materials:
 - [ ] Computers
 - [ ] Idea Journals
-- [ ] [Where's Rover Handout][handout] 
+- [ ] [Where's Rover Handout][handout]
 - [ ] Index Cards
 - [ ] Rovers
 - [ ] Dry Erase Markers
@@ -67,7 +67,7 @@ Participation: Whole Class Unplugged
 
 > > “If you code a project on your own, we would like to feature your project/app at the start of our class. Code something in Scratch or Code.org or any coding platform and show it to your getCoding teacher.”
 
-- [ ] **Motivate** students by introducing today’s lesson. 
+- [ ] **Motivate** students by introducing today’s lesson.
 
 > > “In our small group we will continue to work towards mastering conditionals. While you work independently on the computers, continue to add conditionals to your Escape the Maze project.”
 
@@ -76,21 +76,21 @@ Participation: Whole Class Unplugged
 ## 2. Engage: Dance Dance (2 min)
 Participation: Small Group Unplugged
 
-- [ ] **Review** the steps of reading conditionals by calling a volunteer up to the front to perform the dance code on the board. 
+- [ ] **Review** the steps of reading conditionals by calling a volunteer up to the front to perform the dance code on the board.
 
 <note>**Slide:** ![slides-dance](./images/slide-dance.jpeg) </note>
 
-## 3. Elaborate: Where's Rover (13 min) 
+## 3. Elaborate: Where's Rover (13 min)
 Participation: Small Group Unplugged
 
-- [ ] **Argumentation:** Students get the Where's Rover handout. They individually practice reading the code as they move Rover around their grid to determine where he lands. Give students a minute to try the problem on their own and then have students argue their answer by stepping through the code and moving Rover on the large foam tiles. The discussion should be student led. Provide sentence starters for students to respond to answers they believe are not correct: 
+- [ ] **Argumentation:** Students get the Where's Rover handout. They individually practice reading the code as they move Rover around their grid to determine where he lands. Give students a minute to try the problem on their own and then have students argue their answer by stepping through the code and moving Rover on the large foam tiles. The discussion should be student led. Provide sentence starters for students to respond to answers they believe are not correct:
 - “I disagree with your answer because…”
 - “Can you show me how you got…”
-- “What line of code shows that…” 
+- “What line of code shows that…”
 
 ![handout1](./images/WheresRover.jpeg)
 
-<note type="tip"> Not every group will complete all 5. Number 5 is challenging because there is a loop with conditionals nested inside. This means students will need to evaluate the Boolean statement each time they run through the loop. 
+<note type="tip"> Not every group will complete all 5. Number 5 is challenging because there is a loop with conditionals nested inside. This means students will need to evaluate the Boolean statement each time they run through the loop.
 <br/>
 **Slides:**
 ![slides-WheresRover](./images/slide-wr1.jpeg)

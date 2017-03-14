@@ -1,4 +1,4 @@
-<header class='header' title='Lesson 7' subtitle='Directional Moves'/>
+<header class='header' title='Directional Moves' subtitle='Lesson 7'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -11,22 +11,11 @@ I can read a 2-10 block sequence with directional moves.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. **Engage: Introduction to Directional Moves (3 min)**
-	1. **Introduce** students to a sequence with directional moves. (1 min)
-	1. **Turn and Talk:** Students make predictions about the turtle’s location. (1 min)
-	1. **Share Out:** Volunteers share their predictions with the class. (1 min)
-1. **Explore: Stepping  with Directional Moves (5 min)**
-	1. **Independent Exploration:** Students attempt to step through the sequence from the Engage activity. (3 min)
-	1. **Discuss** what the code did as a class. (2 min)
-1. **Explain: Stepping with Directional Moves (7 min)**
-	1. **Model** using the push, check, move protocol to step through sequence from the Engage activity. (2 min)
-	1. **Guided Practice:** Students step through two sequences by following along with the teacher. (5 min)
-1. **Elaborate: Letter Stepping (10 min)**
-	1. **Independent Practice:** Students step through sequences independently. (8 min)
-	1. **Review** 2-3 problems using the stepping protocol. (2 min)
-	1. **Extension:** Students identify sequences with matching objectives.
-1. **Evaluate: Exit Ticket (5 min)**
-	1. **Assess** for mastery by having students complete the multiple choice exit ticket. (5 min)
+1. Engage: Introduction to Directional Moves (3 min)
+1. Explore: Stepping  with Directional Moves (5 min)
+1. Explain: Stepping with Directional Moves (7 min)
+1. Elaborate: Letter Stepping (10 min)
+1. Evaluate: Exit Ticket (5 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>

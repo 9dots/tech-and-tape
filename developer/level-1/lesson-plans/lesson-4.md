@@ -1,10 +1,10 @@
-{% title title='Lesson 4: Dance Off', subtitle='Online' %}
+{% title title='Dance Off', subtitle='Lesson 4' %}
 {% endtitle %}
 
 {% header title='Overview', icon='activity' %}
 {% endheader %}
 
-In this lesson, students learn how to plan, code, and validate their work by creating a dance off with their sprites on Scratch. 
+In this lesson, students learn how to plan, code, and validate their work by creating a dance off with their sprites on Scratch.
 
 ## Print PDF
 
@@ -20,7 +20,7 @@ In this lesson, students learn how to plan, code, and validate their work by cre
 {% endoverviewSection %}
 
 Do Now (5 min) - logging in
-- ** Code Along (15 min):** If You Give a Mouse a Cookie 
+- ** Code Along (15 min):** If You Give a Mouse a Cookie
   * Plan - read “If you give a mouse a cookie” instructions
   * Code - code along to the story
   * Debug - add wait blocks to debug
@@ -28,7 +28,7 @@ Do Now (5 min) - logging in
   *Plan - write out directions to your dance
   *Code - code your dance
   *Debug - add wait blocks to debug
-- ** EXTENSION (15 min):** Coding Challenges 
+- ** EXTENSION (15 min):** Coding Challenges
 
 {% overviewSection title='Vocab', icon='vocab' %}
 {% endoverviewSection %}
@@ -67,7 +67,7 @@ Do Now (5 min) - logging in
 * If necessary, review the computer usage expectations.
 ,,,
 
-1) Students log-in to their Scratch accounts. 
+1) Students log-in to their Scratch accounts.
 
 {% endtable %}
 
@@ -77,13 +77,13 @@ Do Now (5 min) - logging in
 {% length '15 minutes' %}
 {% endlength %}
 
-Students code along with the teacher for 15 minutes. Stop the activity at 15 minutes to ensure time for inidividual coding with the Dance Off activity. 
+Students code along with the teacher for 15 minutes. Stop the activity at 15 minutes to ensure time for inidividual coding with the Dance Off activity.
 
 **Prep:**
 - Computers
 - Plan Chart
 - "If You Give a Mouse a Cookie" book or audiobook
-Use [this](https://scratch.mit.edu/projects/121824209/) Scratch Project for student code along. 
+Use [this](https://scratch.mit.edu/projects/121824209/) Scratch Project for student code along.
 
 {% table %}
 
@@ -106,7 +106,7 @@ Mouse Will:
 
 **Code Along (10 min)**
 
-* Setup 
+* Setup
   * Navigate to “My Classes”, “Exploring Scratch” studio, and open project “If You Give a Mouse a Cookie”
   * Click the green flag to show that the project doesn’t do anything yet… we need to code it!
   * Click “See Inside”
@@ -114,7 +114,7 @@ Mouse Will:
   * Re-title your work
 
 * Coding
-  * The events block indicates when the sequence should begin: 
+  * The events block indicates when the sequence should begin:
   ![Scratch Block](lesson-4/img/When Clicked.png "Scratch Block")
 
   * Code the first 2 steps of the plan:
@@ -126,7 +126,7 @@ Mouse Will:
 
   * Continue to code and pause to check after every 1-2 lines you add. Check off the plan as you go through it. Every time you re-run it you will need to move the mouse back to its starting point.
 
-3) Check student work. 
+3) Check student work.
 
 ,,,
 
@@ -136,7 +136,7 @@ Mouse Will:
   * Steps 1 & 2 are “... it’s going to want a glass of milk.”
   * Steps 2 & 3 are “... it’s going to ask for a straw.”
   * Steps 3 & 4 are "...it's going to ask for a napkin."
-  * Steps 5 & 6 are "...it's going to ask for a straw." 
+  * Steps 5 & 6 are "...it's going to ask for a straw."
   Continue until you feel students understand the sequence.
 
 3) Students turn to their computers and follow the steps in the code along, giving thumbs up when ready for a next step.
@@ -146,7 +146,7 @@ Mouse Will:
   * Choose the “say for 2 sec” block
   * Move the mouse back to its starting point before re-running the code
 
-Finished program: 
+Finished program:
   ![Scratch Block](lesson-4/img/give a mouse 3.png "Scratch Block")
 
 {% endtable %}
@@ -157,7 +157,7 @@ Finished program:
 {% length '25 minutes' %}
 {% endlength %}
 
-Students code along witht the teacher until they are ready to plan, code, and validate their dance off code. 
+Students code along witht the teacher until they are ready to plan, code, and validate their dance off code.
 
 **Prep:**
 - Idea Journals
@@ -169,7 +169,7 @@ Students code along witht the teacher until they are ready to plan, code, and va
 1) **Plan 3 step dance (5 min)**
 
 * Introduce activity: “We are going to choreograph a dance for our Sprite.”
-* Pick 5 dance moves for our sprite to execute (prioritize using the highlighted blocks): 
+* Pick 5 dance moves for our sprite to execute (prioritize using the highlighted blocks):
   * Say
   * Move
   * Turn
@@ -180,7 +180,7 @@ Students code along witht the teacher until they are ready to plan, code, and va
 * Write out the 5 dance moves in order on your planning chart
 
 2) Code Along (10 min)
-* Setup 
+* Setup
   * Navigate to “My Classes”, “Exploring Scratch” studio, and open project “Dance Off”
   * Click the green flag to show that the project doesn’t do anything yet… we need to code it!
   * Click “See Inside”
@@ -189,7 +189,7 @@ Students code along witht the teacher until they are ready to plan, code, and va
 
 **Code**
 
-* We will begin when the green flagged is clicked: 
+* We will begin when the green flagged is clicked:
 ![Scratch Block](lesson-4/img/When Clicked.png "Scratch Block")
 
 * Drag coding blocks to represent the 3 actions and test code by pressing the green flag
@@ -203,7 +203,7 @@ Students code along witht the teacher until they are ready to plan, code, and va
 
 3) Students plan and code dances for Khalid (10 min)
 * (2 min) In idea journals have students write out their 5 step dances using the given blocks
-* (8 min) Students delete the code we have and create their own 
+* (8 min) Students delete the code we have and create their own
 
 4) Share dances (5 min)
 * Click “Share”
@@ -240,14 +240,14 @@ Students code along witht the teacher until they are ready to plan, code, and va
 {% length '15 minutes' %}
 {% endlength %}
 
-If you have an 60 minute block for class, try this extension activity. 
+If you have an 60 minute block for class, try this extension activity.
 
 **Prep:**
 - Computers
 
 {% table %}
 
-1) Students can continue to improve upon their dances 
+1) Students can continue to improve upon their dances
 
 2) Or students navigate back to the “Explore Scratch” studio and attempt to solve the 3 challenge projects
 

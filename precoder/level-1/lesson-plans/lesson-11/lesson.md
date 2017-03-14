@@ -1,4 +1,4 @@
-<header class='header' title='Lesson 11' subtitle='Summarizing I'/>
+<header class='header' title='Summarizing I' subtitle='Lesson 11'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -8,10 +8,10 @@ In lesson 11 students are introduced to summaries. Students practice summarizing
 - I can summarize my code.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-1. **Engage: Story Time (5 min)**
-1. **Explore: Pixel Bot Summary (2 min)**
-1. **Explain: Summaries (8 min)**
-1. **Elaborate: Step and Paint Summaries (15 min)**
+1. Engage: Story Time (5 min)
+1. Explore: Pixel Bot Summary (2 min)
+1. Explain: Summaries (8 min)
+1. Elaborate: Step and Paint Summaries (15 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
