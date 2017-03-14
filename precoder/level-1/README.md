@@ -20,4 +20,4 @@
 - [Lesson 13: Decomposition I](../level-1/lesson-plans/lesson-13/lesson.md)
 - [Lesson 14: Decomposition II](../level-1/lesson-plans/lesson-14/lesson.md)
 - [Lesson 15: Identifying Patterns](../level-1/lesson-plans/lesson-15/lesson.md)
-- [Lesson 16: Repeating Patterns](..level-1/lesson-plans/lesson-16/lesson.md)
+- [Lesson 16: Repeating Patterns](../level-1/lesson-plans/lesson-16/lesson.md)
