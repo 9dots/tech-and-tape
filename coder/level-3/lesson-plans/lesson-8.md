@@ -1,4 +1,4 @@
-{% title title='Practicing Arguments', subtitle='Lesson 8', color='#C2DACC' %}
+{% title title='Practicing Arguments', subtitle='Lesson 8', color='#FFA5AB' %}
 {% endtitle %}
 
 {% header title='Overview', icon='activity' %}

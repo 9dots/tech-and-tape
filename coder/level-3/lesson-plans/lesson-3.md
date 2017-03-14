@@ -1,4 +1,4 @@
-<header title='Write.Read.Repeat.' subtitle='Lesson 3' bgColor='#C2DACC'/>
+<header title='Write.Read.Repeat.' subtitle='Lesson 3' bgColor='#FFA5AB'/>
 
 <notable>
 
