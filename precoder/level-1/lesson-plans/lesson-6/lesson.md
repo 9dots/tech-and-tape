@@ -10,28 +10,16 @@ I can debug a 2-5 block sequence.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. **Engage: What is a bug? (5 min)**
-	1. **Read** The First Bug. (3 min)
-	2. **Define** bug and debugging. (1 min)
-	3. **Explain** the importance of debugging. (1 min)
-1. **Explore: Unearth Debugging Protocol (6 min)**
-	1. **Introduce** students to the first debugging challenge. (1 min)
-	2. **Independent Exploration:** Students try to determine if the code is valid using their computers. (2 min)
-	3. **Discuss** what the code did as a class. (1 min)
-	4. **Turn and Talk:** Students discuss in pairs what they did to try to fix the code. (1 min)
-	5. **Share Out:** Volunteers share what they discussed with their partner. (1 min)
-1. **Explain: Debugging Protocol (8 min)**
-	1. **Model** the debugging protocol. (3 min)
-	2. **Code Along:** Perform a code along with the class. (5 min)
-1. **Elaborate: Independent Practice (11 min)**
-	1. **Independent Practice:** Students work on the independent practice debugging playlist. (8 min)
-	2. **Review** 2-3 problems using the debugging protocol. (3 min)
+1. Engage: What is a bug? (5 min)
+1. Explore: Unearth Debugging Protocol (6 min)
+1. Explain: Debugging Protocol (8 min)
+1. Elaborate: Independent Practice (11 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Projector
-- [ ] [Slideshow][slide-show]
+- [ ] [Lesson 6 Slides][slides]
 
 ###### Student Materials:
 - [ ] Computers
@@ -143,6 +131,6 @@ I can debug a 2-5 block sequence.
 
 </notable>
 
-[slide-show]: https://docs.google.com/presentation/d/1wrmh9mI0GCt2xP7HzF8BW4FHuOdEOKr-L3STjKc-WC8/edit
+[slides]: https://docs.google.com/presentation/d/1wrmh9mI0GCt2xP7HzF8BW4FHuOdEOKr-L3STjKc-WC8/edit
 [playlist]: http://artbot-26016.firebaseapp.com/XG3Y5
 [challenge]: https://artbot-26016.firebaseapp.com/JO527

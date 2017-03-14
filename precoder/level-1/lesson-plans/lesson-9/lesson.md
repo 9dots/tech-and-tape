@@ -9,21 +9,11 @@ I can debug a 2-10 block sequence with more than one directional move.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. **Engage: Debugging Analogy (3 min)**
-	1. **Analogy:** Introduce the broken car and debugging scenarios. (1 min)
-	1. **Discuss** how fixing a broken car is analogous to the debugging process. (2 min)
-1. **Explore: Bug Catching (6 min)**
-	1. **Review** the debugging protocol with the class. (4 min)
-	1. **Independent Exploration:** Students attempt to find and repair bugs in a set of programs. (2 min)
-1. **Explain: Debug the Bot (8 min)**
-	1. **Share Out:** Students share the bug they found in the code and how they tried to fix it. (2 min)
-	1. **Model** using the debugging protocol to fix the program. (2 min)
-	1. **Code Along:** Perform a code along with the class. (4 min)
-1. **Elaborate: Independent Coding (10 min)**
-	1. **Independent Coding:** Students practice using the debugging protocol on the lesson 9 playlist. (7 min)
-	1. **Review** 2-3 problems using the debugging protocol. (3 min)
-1. **Evaluate: Exit Ticket (3 min)**
-	1. **Assess:** Students complete the exit ticket to show mastery of the objective.
+1. Engage: Debugging Analogy (3 min)
+1. Explore: Bug Catching (6 min)
+1. Explain: Debug the Bot (8 min)
+1. Elaborate: Independent Coding (10 min)
+1. Evaluate: Exit Ticket (3 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>

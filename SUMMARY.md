@@ -49,7 +49,7 @@
     * [Lesson 13: Coding Pixel Emojis Continued](coder/level-3/lesson-plans/lesson-13/lesson.md)
 * [Developer](developer/README.md)
   * [Level 1](developer/level-1/README.md)
-    * [Lesson 1: I am a coder](developer/level-1/lesson-plans/lesson-1.md)
+    * [Lesson 1: I am a Coder](developer/level-1/lesson-plans/lesson-1.md)
     * [Lesson 2: Getting Started on Scratch](developer/level-1/lesson-plans/lesson-2.md)
     * [Lesson 3: Maze Scavenger Hunt](developer/level-1/lesson-plans/lesson-3.md)
     * [Lesson 4: Dance Off](developer/level-1/lesson-plans/lesson-4.md)

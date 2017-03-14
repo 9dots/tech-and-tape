@@ -6,7 +6,7 @@ Students begin applying core coding concepts into an Escape the Maze project. In
 
 ## Lessons
 
-- [Lesson 1: I am a coder](../level-1/lesson-plans/lesson-1.html)
+- [Lesson 1: I am a Coder](../level-1/lesson-plans/lesson-1.html)
 - [Lesson 2: Getting Started on Scratch](../level-1/lesson-plans/lesson-2.html)
 - [Lesson 3: Maze Scavenger Hunt](../level-1/lesson-plans/lesson-3.html)
 - [Lesson 4: Dance Off](../level-1/lesson-plans/lesson-4.html)

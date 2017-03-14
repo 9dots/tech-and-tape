@@ -9,16 +9,16 @@ In lesson 2 students begin to develop an understanding of how to use commands to
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. **Engage: Warm Up (5 min)** The class attempts to give the teacher directions on how to brush his/her teeth as an introduction to giving concrete directions to a computer. Coding is defined at the end of the activity.
-1. **Explore/Explain: turtleMove (5 min)** Students use a variety of strategies to guide their teacher to a specific spot on the floor grid. Their experience giving directions is then used to develop an understanding of how to use the direction cards to navigate a person on the floor grid.
-1. **Elaborate: Turtle Go (15 min)** Students use paper video game controllers to direct the movements of classmates on the grid. In round 1 the class must navigate to a designated spot on the grid. In round 2 the class navigates two students on the grid in an attempt to have one catch the other.
-1. **Evaluate: Discussion (5 min)** Students engage in a discussion about using commands.
+1. Engage: Warm Up (5 min)
+1. Explore/Explain: turtleMove (5 min)
+1. Elaborate: Turtle Go (15 min)
+1. Evaluate: Discussion (5 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Projector
-- [ ] [Slideshow][slide-show]
+- [ ] [Lesson 2 Slides][slides]
 - [ ] Toothbrush
 - [ ] Tube of Toothpaste
 - [ ] Floor Grid
@@ -114,7 +114,7 @@ Debrief the activity with a discussion.
 
 </notable>
 
-[slide-show]: https://drive.google.com/open?id=1Ff8QsgmBG1q5Pa-Kq14IPe-3HArs8f7EAW73lxKFVBk
+[slides]: https://drive.google.com/open?id=1Ff8QsgmBG1q5Pa-Kq14IPe-3HArs8f7EAW73lxKFVBk
 [paper-star]: https://drive.google.com/open?id=0B48_2vIyABioelNBOFh0VHhWaEE
 [paper-controllers]: https://drive.google.com/open?id=0B48_2vIyABioRVJkODVORy1FNEk
 [direction-cards]: https://drive.google.com/open?id=0B48_2vIyABioRm5NbkN4VGxZU2s

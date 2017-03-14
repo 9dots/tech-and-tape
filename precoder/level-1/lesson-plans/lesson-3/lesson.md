@@ -11,23 +11,25 @@ In lesson 3 students continue to develop an understanding of how to use commands
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. **Engage: Warm Up (3 min)** The class reviews the 4 directional commands they will use to direct the turtle’s movement.
-1. **Explore: Turtle Chase Video Game (10 min)** Students use paper video game controllers to direct the movements of classmates on a grid. One team tries to catch a member of another team.
-1. **Explain: Multiple Commands (7 min)** Students see the teacher model and explain how to determine the direction and number of times a command should be chosen to solve a problem.
-1. **Elaborate: Independent Practice & Review (7 min)** Students complete an independent practice worksheet in which they choose commands to direct their turtle’s movement.
-1. **Evaluate: Exit Ticket (3 min)** Students complete an exit ticket as a check for understanding.
+1. Engage: Warm Up (3 min)
+1. Explore: Turtle Chase Video Game (10 min)
+1. Explain: Multiple Commands (7 min)
+1. Elaborate: Independent Practice & Review (7 min)
+1. Evaluate: Exit Ticket (3 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
+- [ ] Computer
 - [ ] Projector
-- [ ] [Slideshow][slide-show]
+- [ ] [Lesson 3 Slides][slides]
 - [ ] Floor Grid
 - [ ] [Paper Star][paper-star]
 
 ###### Student Materials:
+
 - [ ] [Paper Game Controller][game-controllers]
-- [ ] [Independent Practice Worksheet][ind-practice]
+- [ ] [Practice Worksheet][ind-practice]
 - [ ] [Exit Ticket][exit-ticket]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
@@ -120,7 +122,7 @@ In lesson 3 students continue to develop an understanding of how to use commands
 
 </notable>
 
-[slide-show]: https://drive.google.com/open?id=1sEgDN-IjoNcAdUqGP7Vlm5bqLMkpUa1Agt_x6rCLoTU
+[slides]: https://drive.google.com/open?id=1sEgDN-IjoNcAdUqGP7Vlm5bqLMkpUa1Agt_x6rCLoTU
 [paper-star]: https://drive.google.com/open?id=0B48_2vIyABioelNBOFh0VHhWaEE
 [game-controllers]: https://drive.google.com/open?id=0B48_2vIyABioRVJkODVORy1FNEk
 [ind-practice]: https://drive.google.com/open?id=0B48_2vIyABioRlNJQjhjMlJSUU0

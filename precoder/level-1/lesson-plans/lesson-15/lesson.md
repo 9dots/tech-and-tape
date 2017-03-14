@@ -11,10 +11,10 @@ Lesson 15 introduces students to patterns in preparation to learn how to loop co
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. **Engage: Pat-terns (2 min)**
-1. **Explore: What are Patterns? (5 min)**
-1. **Explain: Identify the Pattern (10 min)**
-1. **Elaborate: Independent Practice (13 min)**
+1. Engage: Pat-terns (2 min)
+1. Explore: What are Patterns? (5 min)
+1. Explain: Identify the Pattern (10 min)
+1. Elaborate: Independent Practice (13 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>

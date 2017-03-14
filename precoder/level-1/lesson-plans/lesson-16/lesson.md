@@ -10,11 +10,11 @@ In lesson 16  students learn to identify the number of times a sequence repeats 
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. **Engage: Patterns Review (6 min)**
-1. **Explore: Decomposing Patterns (4 min)**
-1. **Explain: Repeating Patterns (8 min)**
-1. **Elaborate: Independent Practice (12 min)**
-1. **Extension: Writing Patterns**
+1. Engage: Patterns Review (6 min)
+1. Explore: Decomposing Patterns (4 min)
+1. Explain: Repeating Patterns (8 min)
+1. Elaborate: Independent Practice (12 min)
+1. Extension: Writing Patterns
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>

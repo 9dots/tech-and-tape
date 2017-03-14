@@ -9,9 +9,9 @@ In lesson 13 students learned how to decompose grid images into their simpler el
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. **Engage: Decomposition Review (5 min)**
-1. **Explain: Decompose to Code (10 min)**
-1. **Elaborate: Independent Practice (15 min)**
+1. Engage: Decomposition Review (5 min)
+1. Explain: Decompose to Code (10 min)
+1. Elaborate: Independent Practice (15 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
