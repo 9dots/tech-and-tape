@@ -52,7 +52,7 @@ I can write a 2-10 block sequence with more than one directional move.
 
 <pagebreak/>
 
-## Engage: Pixel Artist (2 min)
+## 1. Engage: Pixel Artist (2 min)
 
 - [ ] **Demonstrate** how to create pixel art on the Pixel Bot platform by playing the Pokemon Demo video in the slideshow.
 
@@ -67,7 +67,7 @@ I can write a 2-10 block sequence with more than one directional move.
 	<iconp type='answer'>Up arrows (blue arrows), down arrows (green arrows), left arrows (red arrows), right arrows (yellow arrows), and the paintbrush.</iconp>
 
 
-## Explore: Coding with Multiple Directional Moves (5 min)
+## 2. Explore: Coding with Multiple Directional Moves (5 min)
 
 - [ ] **Introduce** students to the first pixel art challenge. (1 min)
 
@@ -82,7 +82,7 @@ I can write a 2-10 block sequence with more than one directional move.
 	- **Inform** students that this is their opportunity to come up with a solution on their own and you will not be answering any questions during the 3 minute period.
 	- **Observe** the students’ computer screens in order to find solutions you may want to highlight during the next share out.
 
-## Explain: How to Code with Multiple Directional Moves (8 min)
+## 3. Explain: How to Code with Multiple Directional Moves (8 min)
 
 - [ ] **Share Out:** Students share the approaches they took to complete the challenge. (1 min)
 	- Ask the class if anyone would like to share their solution.
@@ -126,11 +126,11 @@ I can write a 2-10 block sequence with more than one directional move.
 <iconp type='question'>Did the code do what we expected it to do?
 </iconp>
 
-## Elaborate: Independent Coding (10 min)
+## 4. Elaborate: Independent Coding (10 min)
 - [ ] **Independent Coding:** Have students work on the independent practice playlist and monitor the class for students in need of additional assistance. (7 min)
 - [ ] **Review** 2-3 problems using the plan, code, validate protocol. (3 min)
 
-## Evaluate: Exit Ticket and Debrief (5 min)
+## 5. Evaluate: Exit Ticket and Debrief (5 min)
 - [ ] **Exit Ticket:** Students attempt to code a square to show mastery of the day’s objective. (3 min)
 - [ ] **Debrief** the exit ticket challenge by discussing possible solutions.
 

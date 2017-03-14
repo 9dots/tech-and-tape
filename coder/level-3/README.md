@@ -1,6 +1,6 @@
 # Coder Level 3
 
-![coder level 3](../../images/coder-level-2.jpg)
+![coder level 3](../../images/coder.jpg)
 
 Students are introduced to core coding concepts: sequences, calling functions, passing arguments, creating loops, and using conditionals. All of the work in this unit is written in fully typed JavaScript. This course includes lesson plans: unplugged and online, worksheets, and a custom-designed coding environment.
 

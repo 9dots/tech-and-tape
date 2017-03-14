@@ -52,7 +52,7 @@ I can read a 2-10 block sequence with directional moves.
 
 <pagebreak/>
 
-## Engage: Introduction to Directional Moves (2 min)
+## 1. Engage: Introduction to Directional Moves (2 min)
 
 - [ ] **Introduce** students to a sequence with directional moves. (1 min)
 <iconp type='question'>What stands out in this sequence?</iconp>
@@ -63,7 +63,7 @@ I can read a 2-10 block sequence with directional moves.
 
 ![engage](./images/engage.png)
 
-## Explore: Stepping with Directional Moves (8 min)
+## 2. Explore: Stepping with Directional Moves (8 min)
 
 - [ ] **Independent Exploration:** Students attempt to step through the sequence from the Engage activity. (3 min)
 	- Pass out a practice worksheet, token and pencil to each student.
@@ -75,7 +75,7 @@ I can read a 2-10 block sequence with directional moves.
 <iconp type='question'>Where did the turtle stop?</iconp>
 
 
-## Explain: Stepping with Directional Moves (7 min)
+## 3. Explain: Stepping with Directional Moves (7 min)
 - [ ] **Model** using the push, check, move protocol to step through the sequence from the Engage activity. (2 min)
 	1. *Push* the line of code.
 > > “First I push the line of code that I’m on.”
@@ -87,7 +87,7 @@ I can read a 2-10 block sequence with directional moves.
 
 ![explain](./images/explain.png)
 
-## Elaborate: Letter Stepping (10 min)
+## 4. Elaborate: Letter Stepping (10 min)
 
 - [ ] **Independent Practice:** Students step through sequences independently using the practice worksheet and token. (8 min)
 
@@ -105,7 +105,7 @@ Worksheet Directions
 
 - [ ] **Extension:** Students identify sequences with matching objectives. (if time allows)
 
-## Evaluate: Exit Ticket (5 min)
+## 5. Evaluate: Exit Ticket (5 min)
 - [ ] **Assess** for mastery by having students complete the exit ticket. (5 min)
 
 Exit Ticket Directions

@@ -53,7 +53,7 @@ I can read a 2-5 block sequence of code.
 
 <pagebreak/>
 
-## Engage: Intro to Sequences (5 min)
+## 1. Engage: Intro to Sequences (5 min)
 
 - [ ] Present the sequence in slide 2 to the class and ask:
 
@@ -90,13 +90,13 @@ I can read a 2-5 block sequence of code.
 
 -  [ ] Explain that each sequence contains a set of directions and they are numbered to show in the order they’re supposed to be followed.
 
-## Explore: Stepping (2 min)
+## 2. Explore: Stepping (2 min)
 
 - [ ] Give students a stepping board, a marker, and a token.
 - [ ] Have students place their token at the start block.
 - [ ] Direct students to try and determine which letter the token would stop on if it followed the sequence on the right hand side of the board.
 
-## Explain: Stepping (8 min)
+## 3. Explain: Stepping (8 min)
 
 - [ ] Demonstrate how to step through the sequence using the token cutout on the board.
    1. Move the token one step at a time
@@ -113,12 +113,12 @@ I can read a 2-5 block sequence of code.
 
 ![slide-six](./images/slide-six.png)
 
-## Elaborate: Independent Practice (7 min)
+## 4. Elaborate: Independent Practice (7 min)
 
 - [ ] Have students complete the independent practice worksheet independently. Monitor the class for students in need of assistance.
 - [ ] Review 2-3 problems from the worksheet with the group by having student volunteers share out their answers.
 
-## Exit Ticket (3 min)
+## 5. Evaluate: Exit Ticket (3 min)
 
 - [ ] Have students complete the exit ticket to check for understanding.
 

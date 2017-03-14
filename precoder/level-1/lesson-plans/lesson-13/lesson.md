@@ -49,7 +49,7 @@ Lesson 13 is an introduction to the concept of decomposition. The lesson begins 
 
 <pagebreak/>
 
-## Engage: Intro to Decomposition (8 min)
+## 1. Engage: Intro to Decomposition (8 min)
 - [ ] **Introduce** the word decompose and have students practice pronouncing it. Slides 2-8
 >> “Today we are going to learn a new word that is really important in coding. The word is decompose. Repeat after me, de-com-pose”
 
@@ -71,7 +71,7 @@ Lesson 13 is an introduction to the concept of decomposition. The lesson begins 
 - [ ] **Demonstrate** the decomposition hand signal while saying the word decompose.
 - [ ] **Practice:** Have students practice using the hand signal and while saying the word.
 
-## Explore: Decomposing T's (2 min)
+## 2. Explore: Decomposing T's (2 min)
 - [ ] **Demonstrate** how the omnifix cubes stick together and build the letter T.
 - [ ] **Build:** Have students build the letter T using the omnifix cubes.
 - [ ] **Decompose:** Have students decompose the letter T into two pieces.
@@ -79,7 +79,7 @@ Lesson 13 is an introduction to the concept of decomposition. The lesson begins 
 <iconp type='question'>How did you decompose the letter T?
 </iconp>
 
-## Explain: Decomposing Letters (8 min)
+## 3. Explain: Decomposing Letters (8 min)
 -  [ ] **Explain** that there are many different ways to decompose an object. Slide 13
 >>“You may have decomposed the letter T into two or more pieces and that is ok.  There are many ways to decompose an object, some are more useful than others depending on what you are trying to do. When we decompose an object in this activity we are going to try to decompose it into lines and dots. A line is two or more blocks joined together and a dot is one block by itself.”
 
@@ -108,7 +108,7 @@ Lesson 13 is an introduction to the concept of decomposition. The lesson begins 
 	1. Break the letter apart to make more lines than dots.
 
 
-## Elaborate: Independent Practice (12 min)
+## 4. Elaborate: Independent Practice (12 min)
 - [ ] **Challenge** the class to try to decompose the letters C and Y on their own.
 - [ ] **Review** how to decompose the letters C and Y.
 - [ ] **Independent Coding:** Students code independently using the [Decomposing Playlist I][playlist].

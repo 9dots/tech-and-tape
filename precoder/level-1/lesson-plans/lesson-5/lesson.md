@@ -52,7 +52,7 @@ I can write a 2-5 block sequence of code.
 
 <pagebreak/>
 
-## Engage: Pixel Bot Predictions (5 min)
+## 1. Engage: Pixel Bot Predictions (5 min)
 - [ ] Show students the code on slide 2 and ask the question below.
 
 ![slide-two](./images/slide-two.png)
@@ -66,7 +66,7 @@ I can write a 2-5 block sequence of code.
 - [ ] Run the code and emphasize the connection between each individual coding block and the character’s movement.
 - [ ] Tell students that they will be writing their very own code.
 
-## Explore: Challenge (2 min)
+## 2. Explore: Challenge (2 min)
 - [ ] Show slide 3. Tell students that they will be given 2 minutes to try to complete the challenge independently. Add that during this time you will not be answering any questions so that they can try on their own.
 
 ![slide-three](./images/slide-three.png)
@@ -74,7 +74,7 @@ I can write a 2-5 block sequence of code.
 - [ ] Reassure students that it is ok if they don’t figure it out as long as they try their hardest during the 2 minutes.
 - [ ] Have students try to complete the challenge by getting the character to move to marked square and paint it black.
 
-## Explain: Pixel Bot 101 (5 min)
+## 3. Explain: Pixel Bot 101 (5 min)
 - [ ]Ask the class the questions below.
 
 
@@ -106,13 +106,13 @@ I can write a 2-5 block sequence of code.
    - [ ] Solve the problem one step a time making sure to stop and allow students to copy what you do on their computers.
    - [ ] As you solve the problem, highlight all of the parts of the Pixel Bot interface that you described in the previous demonstration.
 
-## Elaborate: Independent Practice (15 min)
+## 4. Elaborate: Independent Practice (15 min)
 - [ ] Have students complete the series of independent practice problems on Pixel Bot.
 - [ ] Monitor the class for students that are in need of additional assistance.
 - [ ] After 10 minutes have passed, review 2-3 problems on the board.
 - [ ] If students are comfortable, have 1 or 2 students come to the front and complete one of the challenges for the class on your computer.
 
-## Evaluate: Exit Ticket (3 min)
+## 5. Evaluate: Exit Ticket (3 min)
 
 - [ ] Have students complete the exit ticket challenge.
 - [ ] Monitor the room to ensure all students are finished.

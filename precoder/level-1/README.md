@@ -1,6 +1,6 @@
 # preCoder Level 1
 
-![preCoder level 1](../../images/coder-level-2.jpg)
+![preCoder level 1](../../images/precoder-two.jpg)
 
 
 ## Lessons
