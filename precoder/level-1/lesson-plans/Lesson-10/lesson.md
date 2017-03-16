@@ -54,7 +54,7 @@ I can debug a 2-10 block sequence with more than one directional move.
 
 <pagebreak/>
 
-## Engage: Paper Block Coding (8 min)
+## 1. Engage: Paper Block Coding (8 min)
 - [ ] **Motivate:** Students code in pairs using paper blocks to complete a challenge. (3 min)
 	- [ ] Distribute paper coding blocks and display the coding challenge on slide 2.
 	- [ ] Direct students to write code with a partner using the paper coding blocks.
@@ -63,14 +63,14 @@ I can debug a 2-10 block sequence with more than one directional move.
 	- [ ] Invite a student to code his/her answer on your computer.
 	- [ ] Run the code and have the class assist in debugging by sharing suggestions if necessary.
 
-## Explore: Paper Block Debugging (3 min)
+## 2. Explore: Paper Block Debugging (3 min)
 - [ ] **Partner Exploration:** Pairs attempt to debug paper block code. (3 min)
 	- [ ] Display slide 3 and have students arrange their paper blocks to match the sequence on the board.
 	- [ ] Display slide 4 and have each student step through the code using the token.
 	- [ ] **Turn and Talk:** Do we need to debug this code? Why?
 	- [ ] Have partner pairs attempt to find the bug in the code by stepping through the sequence. After each step have students ask “Is this what I want the bot to do?”.
 
-## Explain: Debugging Protocol (5 min)
+## 3. Explain: Debugging Protocol (5 min)
 -  [ ] **Discussion:** Students discuss what they did to debug the code. (2 min)
 	- [ ] As students share their answers click to the matching animation in slide 5.
 
@@ -88,7 +88,7 @@ I can debug a 2-10 block sequence with more than one directional move.
 2. *Find:* “Next, we step through the code one line at a time to find where the bug is. After we step through a line we asked “Is this what we want the bot to do?”
 3. *Fix:* “Once we find where the bug is we make changes to fix the code and we run the code to see if it works. If it does work we fixed the problem. If it doesn’t work we need to try to find and fix the problem again.”
 
-## Elaborate: Independent Practice (17 min)
+## 4. Elaborate: Independent Practice (17 min)
 - [ ] **Independent Practice:** Students work on a pixelBot playlist. (12 min)
 - [ ] **Review** practice problems 1, 4, and 7 with the class. (5 min)
 

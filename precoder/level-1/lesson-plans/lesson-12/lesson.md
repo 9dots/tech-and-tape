@@ -51,7 +51,7 @@ Lesson 12 builds on lesson 11’s introduction to summarizing. Students learn th
 
 <pagebreak/>
 
-## Engage: Story Time (5 min)
+## 1. Engage: Story Time (5 min)
 - [ ] **Read** *The Lion and the Mouse* to the class and have students summarize each chunk of the story.
 
 - [ ] Read the story by clicking the animations one line at a time until you arrive at the end of a chunk.
@@ -63,7 +63,7 @@ Lesson 12 builds on lesson 11’s introduction to summarizing. Students learn th
 
 -  [ ] **Explain** that chunks of code can be summarized just like parts of a story.
 
-## Explore: Step and Paint Summaries (3 min)
+## 2. Explore: Step and Paint Summaries (3 min)
 - [ ] **Independent Exploration:** Students step through code and draw images produced by chunks of code. (2 min)
 - [ ] Direct students to step through a chunk of code and color the main grid left.
 
@@ -71,7 +71,7 @@ Lesson 12 builds on lesson 11’s introduction to summarizing. Students learn th
 	<iconp type='question'>What did the sequence direct the bot to paint?</iconp>
 	<iconp type='answer'>The sequence made the bot paint a happy face.</iconp>
 
-## Explain: Chunk Summaries (8 min)
+## 3. Explain: Chunk Summaries (8 min)
 - [ ] **Model** how to step through and summarize chunks of code. (2 min)
 - [ ] Project slide 3 on a whiteboard and step through lines 1-7 using the token. Color squares on the grid using a dry erase marker.
 - [ ] On the grid to the right of the sequence, color only the squares that were colored according to the chunk containing lines 1-7.
@@ -106,11 +106,11 @@ Lesson 12 builds on lesson 11’s introduction to summarizing. Students learn th
 ![explain](./images/explain.png)
 
 
-## Elaborate: Chunking (10 min)
+## 4. Elaborate: Chunking (10 min)
 - [ ] **Independent Practice:** Have students complete the independent practice worksheet. (8 min)
 - [ ] **Review** problems 1 and 2 from the worksheet with the class. (2 min)
 
-## Evaluate: Exit Ticket (4 min)
+## 5. Evaluate: Exit Ticket (4 min)
 - [ ] **Assess:** Students complete an exit ticket to show mastery of the day’s objective.
 
 </notable>

@@ -49,7 +49,7 @@ I can debug a 2-10 block sequence with more than one directional move.
 
 <pagebreak/>
 
-## Engage: Debugging Analogies (3 min)
+## 1. Engage: Debugging Analogies (3 min)
 - [ ] **Analogy:** Introduce the broken car and debugging scenarios. (1 min)
 
 “I’m going to share two quick stories with you. Your job is to try to find out how they are similar.”
@@ -66,7 +66,7 @@ I can debug a 2-10 block sequence with more than one directional move.
 
 ![slide](./images/slide-two.png)
 
-## Explore: Bug Catchers (6 min)
+## 2. Explore: Bug Catchers (6 min)
 
 - [ ] **Review** the debugging protocol with the class using problem number one in the Pixel Bot playlist. (4 min)
 
@@ -102,7 +102,7 @@ I can debug a 2-10 block sequence with more than one directional move.
 
 - Have students attempt to use the debugging protocol to fix the second problem in the Pixel Bot playlist.
 
-## Explain: Debug the Bot (8 min)
+## 3. Explain: Debug the Bot (8 min)
 
 -  [ ] **Share Out:** Students share the bug they found in the code and how they tried to fix it. (2 min)
 
@@ -153,7 +153,7 @@ I can debug a 2-10 block sequence with more than one directional move.
 
 ![problem](./images/L10.03 Explain.png)
 
-## Elaborate: Independent Coding (8 min)
+## 4. Elaborate: Independent Coding (8 min)
 
 - [ ] **Independent Coding:** Have students practice using the debugging protocol on the lesson 9 playlist and monitor the class for students in need of additional assistance. (7 min)
 
@@ -163,7 +163,7 @@ I can debug a 2-10 block sequence with more than one directional move.
 2. *Find* the bug(s).
 3. *Fix* the code.
 
-## Evaluate: Exit Ticket (3 min)
+## 5. Evaluate: Exit Ticket (3 min)
 
 - [ ] **Assess:** Have students complete the exit ticket problem in the playlist. (2 min)
 

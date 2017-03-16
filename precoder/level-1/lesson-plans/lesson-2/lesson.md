@@ -51,7 +51,7 @@ In lesson 2 students begin to develop an understanding of how to use commands to
 <pagebreak/>
 
 
-## Engage: Warm Up (7 min)
+## 1. Engage: Warm Up (7 min)
 
 - [ ] Have students volunteer to give you directions on how to brush your teeth. Act out each student’s directions as they share.
 
@@ -67,7 +67,7 @@ In lesson 2 students begin to develop an understanding of how to use commands to
 - Giving instructions to a computer is what we call coding.
 </note>
 
-## Explore/Explain: turtleMove (5 min)
+## 2. Explore/Explain: turtleMove (5 min)
 
 - [ ] Place the star on the floor grid and stand in an adjacent square.
 - [ ] Tell students that you need help navigating to the colored tile.
@@ -86,7 +86,7 @@ In lesson 2 students begin to develop an understanding of how to use commands to
 - [ ] Pass out direction cards and ask students how they would use them to give you directions.
 - [ ] Move the star to different adjacent squares and have the class practice giving you directions with the directions card.
 
-## Elaborate: Turtle Go (15 min)
+## 3. Elaborate: Turtle Go (15 min)
 
 Pass out 1 game controller cutout to each student and project the large game controller from the slideshow.
 <br/>
@@ -101,7 +101,7 @@ Pass out 1 game controller cutout to each student and project the large game con
 - [ ] Once the group agrees on a button have a volunteer press the button on the large controller and move to an adjacent square in response to the button that was selected.
 - [ ] Repeat this process until you reach the star.
 
-## Evaluate: Discussion (5 min)
+## 4. Evaluate: Discussion (5 min)
 
 Debrief the activity with a discussion.
 

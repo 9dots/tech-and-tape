@@ -47,7 +47,7 @@ In lesson 11 students are introduced to summaries. Students practice summarizing
 
 <pagebreak/>
 
-## Engage: Story Time (5 min)
+## 1. Engage: Story Time (5 min)
 - [ ] **Read** The Tortoise and the Hare and have students summarize the story verbally. (4 min)
 
 ![tortoise](./images/slide-images.png)
@@ -61,14 +61,14 @@ In lesson 11 students are introduced to summaries. Students practice summarizing
 - [ ] **Explain** the importance of learning to summarize code.
 	>> "Learning to summarize code is important because it allows us to identify what our code does."
 
-## Explore: Pixel Bot Summary (2 min)
+## 2. Explore: Pixel Bot Summary (2 min)
 - [ ] **Independent Exploration:** Students observe pre-written code in action. (1 min)
 	- [ ] Have students click run on the Explore challenge and observe what the Pixel Bot draws.
 - [ ] **Turn and Talk:** Students summarize the result of the code with a partner. (1 min)
 	- [ ] Have students turn to a partner and summarize the result of the code by using the sentence stem below.
 	>> "The sequence makes the bot paint a letter E."
 
-## Explain: Summaries (8 min)
+## 3. Explain: Summaries (8 min)
 - [ ] **Model** stepping and summarizing a sequence of code. (4 min)
 	 - [ ] Project slide 6 on the whiteboard and place the token on the start square.
 	 - [ ] Use the check and move protocol to step through the code. As you step, color squares with a dry erase marker according to the code.
@@ -83,7 +83,7 @@ In lesson 11 students are introduced to summaries. Students practice summarizing
 
 -  [ ] **Review** the solution to the problem by stepping through the rest of the sequence and sharing your summary.
 
-## Elaborate: Step and Paint Summaries (15 min)
+## 4. Elaborate: Step and Paint Summaries (15 min)
 - [ ] **Independent Practice:** Students practice stepping through code to produce pixel images using the lesson 11 worksheet. (10 min)
 - [ ] **Share Out:** Students share their summaries of the code’s output verbally with the class. (5 min)
 

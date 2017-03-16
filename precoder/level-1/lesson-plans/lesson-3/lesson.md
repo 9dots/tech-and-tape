@@ -55,7 +55,7 @@ In lesson 3 students continue to develop an understanding of how to use commands
 <pagebreak/>
 
 
-## Engage: Warm Up (3 min)
+## 1. Engage: Warm Up (3 min)
 
 - [ ] Pass out a set of paper game controllers.
 - [ ] Place a star on the floor grid and stand in an adjacent square. Ask the class to hold the button they would press to navigate you to the star on the grid.
@@ -75,7 +75,7 @@ In lesson 3 students continue to develop an understanding of how to use commands
 </note>
 
 
-## Explore: Turtle Chase Video Game (10 min)
+## 2. Explore: Turtle Chase Video Game (10 min)
 
 ###### How to Play
 **Goal:** The turtle must try to catch the hare by moving into the same square as the hare.
@@ -91,7 +91,7 @@ In lesson 3 students continue to develop an understanding of how to use commands
 - [ ] Explain the goal and rules of the game.
 - [ ] Have students play the game.
 
-## Explain: Multiple Commands (7 min.)
+## 3. Explain: Multiple Commands (7 min.)
 
 - [ ] Project the slide of problem 1 on the independent practice worksheet.
 
@@ -111,12 +111,12 @@ In lesson 3 students continue to develop an understanding of how to use commands
 
 ![slide-four](./images/slide-four.png)
 
-## Elaborate: Independent Practice (7 min)
+## 4. Elaborate: Independent Practice (7 min)
 
 - [ ] Have students complete the independent practice worksheet. Monitor the class for students in need of assistance.
 - [ ] Review 2-3 problems from the worksheet with the group by having student volunteers share out their answers.
 
-## Exit Ticket (3 min)
+## 5. Exit Ticket (3 min)
 
 - [ ] Have students complete the exit ticket to check for understanding.
 

@@ -49,11 +49,11 @@ Lesson 15 introduces students to patterns in preparation to learn how to loop co
 
 <pagebreak/>
 
-## Engage: Pat-terns (2 min)
+## 1. Engage: Pat-terns (2 min)
 - [ ] **Introduce** the word pattern and have students practice pronouncing it.
 >> "Today we are learning about patterns. Repeat after me, pat-terns."
 
-## Explore: What are Patterns? (5 min)
+## 2. Explore: What are Patterns? (5 min)
 - [ ] **Present** examples of patterns.
 >> “Each of the following pictures is an example of a pattern. See if you can find what they all have in common.”
 
@@ -67,7 +67,7 @@ Lesson 15 introduces students to patterns in preparation to learn how to loop co
 
 - [ ] **Share Out:** Pairs share out their definition of the word pattern.
 
-## Explain: Identify the Pattern (10 min)
+## 3. Explain: Identify the Pattern (10 min)
 - [ ] **Define** pattern.
 >> “In each of the examples you just saw something was repeating. A pattern is a repeating sequence.”
 
@@ -92,7 +92,7 @@ Lesson 15 introduces students to patterns in preparation to learn how to loop co
 <iconp type='question'>What colors should come next to complete the pattern?</iconp>
 <iconp type='question'>Where does the repeating sequence begin and where does it end?</iconp>
 
-## Elaborate: Independent Practice (13 min)
+## 4. Elaborate: Independent Practice (13 min)
 - [ ] **Explain** how to complete the patterns worksheet with problem number 1.
 >> “In each of the problems on the worksheet we are going to (1) complete the pattern and (2) circle the repeating sequence. Problem number 1 shows the pattern blue, red, blue, red.”
 

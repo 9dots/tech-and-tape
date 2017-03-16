@@ -1,4 +1,4 @@
-<header title='Sequencing Pixels JS' subtitle='Lesson 1' bgColor='#C2DACC'/>
+<header title='Sequencing Pixels JS' subtitle='Lesson 1' bgColor='#FFA5AB'/>
 
 <notable>
 

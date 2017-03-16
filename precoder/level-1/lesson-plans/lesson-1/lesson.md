@@ -45,7 +45,7 @@ In lesson 1 students are introduced to the concept of productive failure. Studen
 </note>
 
 <pagebreak/>
-## Engage: The Most Magnificent Thing (7 min)
+## 1. Engage: The Most Magnificent Thing (7 min)
 - [ ] Read *The Most Magnificent Thing* to the class. Pause and ask the questions below as you read.
 
 
@@ -66,7 +66,7 @@ In lesson 1 students are introduced to the concept of productive failure. Studen
 
 <pagebreak/>
 
-## Explore: Mystery Robot (10 min)
+## 2. Explore: Mystery Robot (10 min)
 
 <note type='key' title='Key Points'>
 - Clues help us solve problems by eliminating possibilities.
@@ -83,7 +83,7 @@ In lesson 1 students are introduced to the concept of productive failure. Studen
 ![robots](./images/robot-board.png)
 
 
-## Explain/Elaborate: Mystery Robot II (10 min)
+## 3. Explain/Elaborate: Mystery Robot II (10 min)
 
 <note type='key' title='Key Points'>
 - Each question helps us learn something.
@@ -97,7 +97,7 @@ In lesson 1 students are introduced to the concept of productive failure. Studen
 - [ ] Have students eliminate robots that do not fit the information gained.
 - [ ] Continue answering students questions until the class identifies the mystery robot.
 
-## Evaluate: Discussion (3 min)
+## 4. Evaluate: Discussion (3 min)
 
 <note type='key' title='Key Points'>
 - Each guess made and question asked got the group closer to figuring out the mystery robot.

@@ -47,7 +47,7 @@ In lesson 13 students learned how to decompose grid images into their simpler el
 
 <pagebreak/>
 
-## Engage: Decomposition Review (5 min)
+## 1. Engage: Decomposition Review (5 min)
 - [ ] **Review** how to pronounce the word decompose. Slides 2-7
 
 - [ ] **Review** the decomposition hand gesture and have the class practice using it.
@@ -72,7 +72,7 @@ In lesson 13 students learned how to decompose grid images into their simpler el
 
 ![smiley](./images/smiley-face.png)
 
-## Explain: Decompose to Code (10 min)
+## 2. Explain: Decompose to Code (10 min)
 - [ ] **Model** decomposing letters with the letter L. Slides 14-17
 >>"It is easier to code the letter L if we decompose it into lines and dots. Just like we did last week, we'll look for as many lines as possible. In the letter L we have two lines."
 
@@ -87,7 +87,7 @@ In lesson 13 students learned how to decompose grid images into their simpler el
   - [ ] **Repeat** the same process for decomposition 2 in playlist problem 2.
   - [ ] **Group Coding:** Combine the code to complete the letter T in problem 3. Code for decomposition 1 should be written below comment 1 and code for decomposition 2 should be written below comment 2.
 
-## Elaborate: Independent Practice (15 min)
+## 3. Elaborate: Independent Practice (15 min)
 - [ ] **Independent Practice:** Students code the letters T, H, C, and Y on the Decomposition II Playlist.
 - [ ] **Monitor** the room for students in need of additional assistance.
 - [ ] **Review** how to code the letter H.

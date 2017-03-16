@@ -49,7 +49,7 @@ In lesson 16  students learn to identify the number of times a sequence repeats 
 
 <pagebreak/>
 
-## Engage: Patterns Review (6 min)
+## 1. Engage: Patterns Review (6 min)
 - [ ] **Review** the word pattern by having students repeat the word while doing the pattern hand signal.
 
 - [ ] **Turn and Talk:** Show students examples of patterns and have them discuss what a pattern is with a partner.
@@ -69,13 +69,13 @@ In lesson 16  students learn to identify the number of times a sequence repeats 
 <iconp type='question'>Where does the pattern begin?</iconp>
 <iconp type='question'>Where does the pattern end?</iconp>
 
-## Explore: Decomposing Patterns (4 min)
+## 2. Explore: Decomposing Patterns (4 min)
 - [ ] **Demonstrate** how to build a pattern using omnifix cubes and have students copy the pattern you create.
 
 - [ ] **Decompose:** Have students break apart the omnifix cube pattern into its repeating sequences.
 >> “Now that we have our pattern built let’s decompose it to show the parts that repeat. Look for where the pattern starts. Then look for where the pattern ends. Once you get to the end, break off the piece containing the pattern.”
 
-## Explain: Repeating Patterns (8 min)
+## 3. Explain: Repeating Patterns (8 min)
 - [ ] **Model** decomposing patterns and counting the number of times the sequence repeats.
 >> “To decompose this pattern I first want to try to identify the repeating sequence. The pattern goes blue, yellow, blue, yellow, blue, yellow. The part that repeats includes one blue block and one yellow block. Now I can break my pattern apart into sequences that have one blue block connected to one yellow block.”
 
@@ -95,7 +95,7 @@ The sequence that repeats is yellow, blue, blue.</iconp>
 
 <iconp type='question'>How many pieces are we left with?</iconp>
 
-## Elaborate: Independent Practice (12 min)
+## 4. Elaborate: Independent Practice (12 min)
 - [ ] **Explain** how to complete side one of the patterns worksheet.
 >> “Let’s practice finding the number of times a pattern repeats. To complete the first side of the worksheet we are going to circle each time a sequence repeats in the pattern. Then we will count the number of circles we made and write that number above the pattern.”
 
@@ -113,7 +113,7 @@ The sequence that repeats is yellow, blue, blue.</iconp>
 <iconp type='question'>What did we learn to do today?</iconp>
 <iconp type='answer'>Today we learned how to identify the number of times a pattern repeats.</iconp>
 
-## Extension: Writing Patterns
+## 5. Extension: Writing Patterns
 - [ ] **Explain** how to complete side two of the patterns worksheet.
 >> “On side two of the worksheet we are doing the opposite of what we did on side one. This time we are given a sequence and the number of times it should repeat. We then use both of those things to make a pattern.”
 

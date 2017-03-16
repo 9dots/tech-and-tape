@@ -48,7 +48,7 @@ I can debug a 2-5 block sequence.
 
 <pagebreak/>
 
-## Engage: What is a Bug? (5 min)
+## 1. Engage: What is a Bug? (5 min)
 
 - [ ] **Read** the story of the first bug. (3 min)
 
@@ -68,7 +68,7 @@ I can debug a 2-5 block sequence.
 	- Becoming a good coder means becoming good at debugging.
 	- The most important part of debugging is not giving up like the computer scientists in the story.
 
-## Explore: Unearth Debugging Protocol (6 min)
+## 2. Explore: Unearth Debugging Protocol (6 min)
 
 - [ ] **Introduce** students to the [first debugging challenge][challenge]. (1 min)
 	- The code is supposed to make the zebra move up 4 spaces and paint a square.
@@ -88,7 +88,7 @@ I can debug a 2-5 block sequence.
 
 - [ ] **Share Out:** Have volunteers share what they discuss with their partner. (1 min)
 
-## Explain: Debugging Protocol (8 min)
+## 3. Explain: Debugging Protocol (8 min)
 - [ ] **Model:** Using the same problem from the Explore activity, model the debugging protocol. (3 min)
 	1. *Compare* the code’s objective to what it actually does.
 > > “The code is supposed to make the zebra go up 4 spaces and paint the square. Right now it goes up 3 spaces and paints a square. It doesn’t go far enough.”
@@ -121,7 +121,7 @@ I can debug a 2-5 block sequence.
 
 ![challenge](./images/challenge-two.png)
 
-## Elaborate: Pixel Bot Practice (11 min)
+## 4. Elaborate: Pixel Bot Practice (11 min)
 - [ ] **Independent Practice:** Have students work on the independent practice [debugging playlist][playlist] and monitor the class for students in need of additional assistance. (8 min)
 - [ ] **Review** 2-3 problems using the debugging protocol. (3 min)
 	1. **Compare** the code’s objective to what it actually does.
