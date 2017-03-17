@@ -10,8 +10,7 @@ Students are introduced to using numbers and strings as arguments and practice p
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 ###### Length: 60 minutes
-1. **Engage:** Zebra Challenge (5 minutes)
-1. **Explore:** pixelBots - zebra, panda, chameleon (10 minutes)
+1. **Engage/Explore:** Zebra & Friends (15 minutes)
 1. **Explain:** Arguments - numbers & strings (5 minutes)
 1. **Elaborate:**  pixelBots playlist (25 minutes)
 1. **Evaluate:** Exit Challenge (15 minutes)
@@ -27,12 +26,11 @@ Students are introduced to using numbers and strings as arguments and practice p
 
 
 ###### Student Materials:
-- [ ] pixelBots Zebra Challenge
 - [ ] Computer
-- [ ] [pixelBots explore playlist][playlist] (pixelBots code link: VR6W3)
-- [ ] [pixelBots Spicy playlist][spicy] (pixelBots code link: V7BRR)
-- [ ] [pixelBots Extra Hot playlist][extrahot] (pixelBots code link: V3MQ5)
-- [ ] [pixelBots Exit Challenge][exit] (code link: J4R5K)
+- [ ] [pixelBots Week 3 | Warm-up][warm-up] (code link: VPZZ7)
+- [ ] [pixelBots Spicy playlist][spicy] (code link: XL9LD)
+- [ ] [pixelBots Extra Hot playlist][extrahot] (code link: VYGND)
+- [ ] [pixelBots Exit Challenge][exit] (code link: J4N34)
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 - **Argument:** specific value supplied to a function call
@@ -41,26 +39,24 @@ Students are introduced to using numbers and strings as arguments and practice p
 </note>
 
 <pagebreak/>
-#### Engage: Zebra Challenge (5 min)
-- [ ] **Set the Challenge:** Students complete Zebra pixelBots offline Challenge (slide 3)
-  - On paper students independently solve a pixelBots challenge with Zebra to demonstrate mastery of previous lesson.
->>“Last weekend we practiced coding our zebra pixelBot. Complete this challenge independently to show yourself how much you can do.”
 
-#### Explore: pixelBots - zebra, panda, chameleon (10 min)
-- [ ] **Independent Exploration:** pixelBots playlist 1-6 (code link: VR6W3) (slide 5)
+#### 1. Engage/Explore: Zebra & Friends (15 min)
+
+>>"In our last two lessons, we practiced coding zebra pixelBot. Today we will meet zebra's friends!"
+
+- [ ] **Independent Exploration:** pixelBots playlist [Week 3 | Warm-up][warm-up] (code link: VPZZ7) (slide 3)
   - Students respond to writing prompt in coding journal:
-  - What do you notice is different about challenges 3 - 6? (slide 6)
+  - What do you notice is different about challenges 3 - 6? (slide 4)
 
 <note type="tip" title="Tip">
 If students are stuck on the chameleon, give them a hint that colors need quotes.</note>
 
-- [ ] **Discuss** student observations from pixelBots
-  - Whole class discussion.
+- [ ] **Discuss** student observations from pixelBots as a whole class
   - Ask for 2-3 volunteers to share what they noticed about the different challenges.
 <note type="tip" title="Tip">Students should start to notice that they can add arguments, but don’t tell them this, let them explore.</note>
 
 
-####  Explain: Arguments - numbers & strings (5 min)
+####  2. Explain: Arguments - numbers & strings (5 min)
 - [ ] **Define** argument (slide 8)
   - Students write definition of Argument in coding journals.
   - Connect student discussion to the new vocabulary word:  
@@ -88,21 +84,18 @@ If students are stuck on the chameleon, give them a hint that colors need quotes
 - [Finished Toucan code][finishedtoucan] (pixelBots code link: JWR54)
 </note>
 
-- [ ] **Model** saving your code by clicking on the save icon in the bottom right.  
-  - Remind students that they should save their work and write their code links in their coding journals.
 
-#### Elaborate: pixelBots playlist (25 min)
-- [ ] **Independent Practice:** students do pixelBots playlist (slide 12)
-  - Students get to choose:
-    - [Spicy][spicy] - Code Link: V7BRR
-    - [Extra Hot!][extrahot] - Code Link: V3MQ5
-  - As you circulate, ask students questions that require them to use the words “argument” and “string”.
+#### 3. Elaborate: pixelBots playlist (25 min)
+- [ ] **Independent Practice:** students do pixelBots playlist and choose the level of difficulty. (slide 12)
+  - [Spicy][spicy] - Code Link: XL9LD
+  - [Extra Hot!][extrahot] - Code Link: VYGND
+  - Circulate and ask students questions that require them to use the words “argument” and “string”.
 
 <note type="tip" title="Tip">
 It’s ok if students don’t complete the entire playlist. Students can continue to work after they’ve completed the Exit Challenge.</note>
 <pagebreak/>
-#### Evaluate: Exit Challenge (15 min)
-- [ ] **Exit Challenge:** Students complete the online [pixelBots challenge][exit] (code link: J4R5K) independently. (slide 14)
+#### 4. Evaluate: Exit Challenge (15 min)
+- [ ] **Exit Challenge:** Students complete the online [pixelBots challenge][exit] (code link: J4N34) independently. (slide 14)
   - Remind students to start their code with a comment of their first and last name.
   - Students can continue to work on the pixelBots playlists if they complete challenge.
 
@@ -111,7 +104,7 @@ It’s ok if students don’t complete the entire playlist. Students can continu
 [toucan]: https://www.pixelbots.io/V3G5X
 [finishedtoucan]: https://www.pixelbots.io/JWR54
 [slides]: https://docs.google.com/presentation/d/1aaJeDTNqSzZcUq4Kqt1EY7aEehVk7-Stt4JAvQOeQvY/edit?usp=sharing
-[playlist]: https://www.pixelbots.io/VR6W3
-[spicy]: https://www.pixelbots.io/V7BRR
-[extrahot]: https://www.pixelbots.io/V3MQ5
-[exit]: https://www.pixelbots.io/J4R5K
+[warm-up]: https://www.pixelbots.io/VPZZ7
+[spicy]: https://www.pixelbots.io/XL9LD
+[extrahot]: https://www.pixelbots.io/VYGND
+[exit]: https://www.pixelbots.io/J4N34

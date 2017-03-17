@@ -86,3 +86,4 @@
     * [Lesson 4: Designing Pixel Emojis](developer/pixelBots/lesson-plans/lesson-4/lesson.md)
     * [Lesson 5: Introducing For Loops](developer/pixelBots/lesson-plans/lesson-5/lesson.md)
     * [Lesson 6: Coding Pixel Emojis](developer/pixelBots/lesson-plans/lesson-6/lesson.md)
+    * [Lesson 7: Showcase Pixel Emojis](developer/pixelBots/lesson-plans/lesson-7/lesson.md)
