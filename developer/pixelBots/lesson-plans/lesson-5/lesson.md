@@ -1,4 +1,4 @@
-<header title='Introducing For Loops' subtitle='Lesson 5'/>
+<header title='For Loops' subtitle='Lesson 5'/>
 
 <notable>
 
@@ -42,7 +42,7 @@ Two Group Lesson (groups switch 30 minutes into lesson):
 ###### Student materials
 - [ ] Computer
 - [ ] Pencils
-- [ ] [Lesson 5 Playlist][loops] (code: V516R)
+- [ ] [Lesson 5 | For Loops][loops] Playlist (code: V516R)
 - [ ] Student's Emoji Prototype Code
 
 
@@ -58,43 +58,43 @@ Two Group Lesson (groups switch 30 minutes into lesson):
 >>"Today you will code your pixel emojis! Before we start, let’s take a quick look at everyone’s emoji prototype."
 
 <br/>
-- [ ] **Share out:** Students open their Pixel Emoji Projects on pixelBots.io (slide 1)
-  - Students turn computers out to face class.
+- [ ] **Share out:** Students open their Pixel Emoji Projects on pixelBots.io and turn their computers to face the class. (slide 1)
   - Call on students to share what their emoji is using 1 or 2 words.
 
 <note type="tip" title="Tip">
 Keep this quick and snappy to build excitement. Every student should be able to share.
 </note>
 
-- [ ] Review two groups (slide 2-4)
+- [ ] **Review** two groups and split class. (slide 2-4)
   >>“It’s great to see everyone’s project! Today will be another two group lesson. During Independent Coding Time you will begin coding your emoji on pixelBots. In our Group Instruction we will learn about for loops.”
 
 <note type="reminder" title="Reminder">Some students have incomplete prototypes,  that’s okay, they will have time during ICT to finish.</note>
 
-- [ ] Break into two groups.
+
 
 #### 2. Independent Coding Time: Pixel Emojis (30 minutes)
 
-- [ ] Students finish prototype.
-- [ ] Students decompose emoji and write a comment for each feature.
-  - Example:
-    - // pi eye - blue
-    - // division eye - green
-    - // mouth - black
-
+- [ ] **Project:** Students continue working on emoji project.
+  1. Finish pixel emoji prototype
+  1. Decompose emoji and write a comment for each feature.
+    - Example:
+      - // pi eye - blue
+      - // division eye - green
+      - // mouth - black
+  1. Code one feature at a time.
 <note type="reminder" title="Reminder">
 - Remind students how to decompose their emoji. Each decomposed part should be a single color.
 - Remind students to code the simple features first.
     </note>
 
-- [ ] Students code one feature at a time.
+
 
 
 <pagebreak/>
 #### 3. Group Instruction: For Loops
 #### i. Explore: Introduction (15 minutes)
 
-- [ ] **Explore:** Students do Lesson 5 playlist on pixelBots (code: V516R) (slide 6)
+- [ ] **Explore:** Students do [Lesson 5 | For Loops][loops] playlist on pixelBots (code: JD3E8) (slide 6)
   - Challenge 1 and 2 are the same, but 2 is done for them using a for loop.
     - Put slide 7 up after students have completed 1 & 2.
     - Ask students to respond to the question in their coding journals.
@@ -142,7 +142,7 @@ Main take away for students on For Loops:
   1. They know what code is being repeated.
 </note>
 
-- [ ] **Explain** how we will use for loops in our pixel emoji projects.
+- [ ] **Explain** how students will use for loops in the pixel emoji projects.
   >> "For your projects, you will write your for loop the same way as this example code, but change what code is repeated and how many times it repeats."
 
 <note type="reminder" title="Reminder">
@@ -150,14 +150,13 @@ This is an introductory lesson on for loops. By the end of this lesson students 
 
 #### iii. Elaborate: Writing (10 minutes)
 
-- [ ] **Independent Practice:** Students practice using for loops on Lesson 5 playlist if they did not finish earlier. (slide 12)
+- [ ] **Independent Practice:** Students practice using for loops on [Lesson 5 | For Loops][loops] playlist if they did not finish earlier. (slide 12)
 - [ ] **Project:** Students code one feature at a time of their emoji.
-  - Students decide if and when to use for loops.
-  - After students are working, put slide 13 up so they have example code of a for loop.
+  - After students begin working, put slide 13 up so they have example code of a for loop.
 
 
 
 
 </notable>
-[loops]: https://www.pixelbots.io/V516R
+[loops]: https://www.pixelbots.io/JD3E8
 [slideshow]: https://docs.google.com/presentation/d/1ClzDzGM1ShCJpNNZcM-FleByDO7g058BWbKO77rcsfo/edit?usp=sharing

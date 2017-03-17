@@ -38,7 +38,8 @@ Students evaluate progress on project, create a todo list, and continue coding t
 - [ ] Computer
 - [ ] Pencils
 - [ ] Coding Journal
-- [ ] Student's Emoji pixelBots code
+- [ ] [Lesson 6 | Debug!][debug] playlist (code: V7YMY)
+- [ ] Student pixelBots account with pixel emoji project
 
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
@@ -47,8 +48,8 @@ Students evaluate progress on project, create a todo list, and continue coding t
 </note>
 
 <br/>
-#### 1. Engage: Vocabulary (13 minutes)
-- [ ] **Independent Practice:** Students do Debugging Challenges on pixelbots.io. code link: X959J (slide 2)
+#### 1. Engage: Vocabulary (12 minutes)
+- [ ] **Independent Practice:** Students do [Lesson 6 | Debug!][debug] on pixelbots.io. (code: V7YMY) (slide 2)
   >> “To be great coders, we have to be good at debugging, so let’s take some time now to practice finding and fixing bugs. “
 
 <pagebreak/>
@@ -65,7 +66,7 @@ Students evaluate progress on project, create a todo list, and continue coding t
   <iconp type='question'>“How do we know this is a for loop?”</iconp>
 
 
-#### 2. Explore: Todo List (2 minutes)
+#### 2. Explore: Todo List (3 minutes)
 - [ ] **Contrasting Cases:** Compare example and nonexample of todo lists. (slide 4)
   <iconp type='question'>Which of these two todo lists is more useful?</iconp>
   <iconp type='answer'>The one on the right</iconp>
@@ -106,5 +107,7 @@ Students evaluate progress on project, create a todo list, and continue coding t
 
 
 
+
 </notable>
-[slides]:https://docs.google.com/presentation/d/1_L2ecqIcdIPM8CFSdT9OTsepZAr27Xi-ig4uJ_uo3OU/edit?usp=sharing
+[debug]: https://www.pixelbots.io/V7YMY
+[slideshow]: https://docs.google.com/presentation/d/1_L2ecqIcdIPM8CFSdT9OTsepZAr27Xi-ig4uJ_uo3OU/edit?usp=sharing

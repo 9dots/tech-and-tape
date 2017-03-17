@@ -70,6 +70,7 @@
     * [Lesson 17: Write Conditionals](developer/level-1/lesson-plans/lesson-17/lesson.md)
     * [Lesson 18: Where is Rover?](developer/level-1/lesson-plans/lesson-18/lesson.md)
     * [Lesson 19: Debug & Plan](developer/level-1/lesson-plans/lesson-19/lesson.md)
+    * [Lesson 20: I Have a Challenge for You](developer/level-1/lesson-plans/lesson-20/lesson.md)
   * [p5](developer/p5/README.md)
     * [visual-beat-machine](developer/p5/visual-beat-machine/README.md)
       * [Lesson 1: Introducing P5.js & Mouse Input](developer/p5/visual-beat-machine/lesson-plans/lesson-1/lesson.md)
@@ -85,3 +86,4 @@
     * [Lesson 4: Designing Pixel Emojis](developer/pixelBots/lesson-plans/lesson-4/lesson.md)
     * [Lesson 5: Introducing For Loops](developer/pixelBots/lesson-plans/lesson-5/lesson.md)
     * [Lesson 6: Coding Pixel Emojis](developer/pixelBots/lesson-plans/lesson-6/lesson.md)
+    * [Lesson 7: Showcase Pixel Emojis](developer/pixelBots/lesson-plans/lesson-7/lesson.md)
