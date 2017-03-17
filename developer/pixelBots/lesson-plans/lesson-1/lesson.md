@@ -11,26 +11,30 @@ Students program pixelBots to paint, focusing on sequencing in an unplugged less
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-#### Length: 45 minutes
+#### Length: 55 minutes
 
-1. Engage: Welcome to coding (10 minutes)
-1. Explore: Predict pixelBot JS (10 minutes)
-1. Explain: Sequence (10 minutes)
-1. Evaluate: Read pixelBot sequence (15 minutes)
+1. Engage: Welcome to Coding (10 minutes)
+1. Explore: Predict pixelBot (10 minutes)
+1. Explain: Sequence (15 minutes)
+1. Evaluate: Read Code (20 minutes)
 
 <note>
 
 <iconp src='/icons/materials.png'>### Materials</iconp>
 
 #### Teacher Materials
+- Computer
+- Projector
+- [Lesson 1 Slides][slides]
 - Whiteboard
-- [Magnetic pixelBot][zebra]
-- [Example pixelBots problems][examples]
+- Small & large pixelBots
+- Magnetic Large pixelBot
+
 
 #### Student Materials
 -  [Lesson 1 | Warm-up Worksheet][warm-up]
--  Worksheet 1: [Page 1][worksheet1-1] & [Page 2][worksheet1-2]
--  [Small pixelBot cutout][zebra]
+-  Lesson 1 | Worksheet: [Page 1][worksheet1-1] & [Page 2][worksheet1-2]
+-  Small pixelBot
 -  Scratch paper grids
 -  Pencils
 -  Whiteboard
@@ -42,94 +46,81 @@ Students program pixelBots to paint, focusing on sequencing in an unplugged less
 
 </note>
 <pagebreak/>
-#### Engage: Welcome to coding (10 minutes)
+#### 1. Engage: Welcome to Coding (10 minutes)
 
-Introduce students to the world of coding and get them excited about its endless possibilities.
-
-- [ ] Lead a discussion about coding and what it means to be a coder.
-  - Chart student responses on the board.
-
-  >>"Starting with this class you are now coders. "
-
+- [ ] **Discuss** coding and what it means to be a coder. Introduce students to the world of coding and get them excited about its endless possibilities. (slides 2-3)
+  - Watch video: [A day in the life of a software engineer][video].
+  - Use inspector on Chrome to show code of websites.
+      - View > Developer > Developer Tools
   <iconp type='question'>What do you think it means to be a coder?</iconp>
   <iconp type='question'>Where is code used in our world?</iconp>
-  <iconp type='answer'>autonomous cars, streetlights, music, etc.</iconp>
+  <iconp type='answer'>computers, games, autonomous cars, streetlights, etc.</iconp>
 
-- [ ] Watch video: [A day in the life of a software engineer][video].
-
-<note type="tip" title="Tip">
-After video, if time allows, use inspector on Chrome to show code of websites.
-- View > Developer > Developer Tools
-</note>
+ >>"Starting with this class you are now coders. "
 
 
-#### Explore: Predict pixel bot JS (10 minutes)
 
-"Before we can write code, we need to learn how to read code"
+#### 2. Explore: Predict pixelBot(10 minutes)
 
-- [ ] Distribute [Lesson 1 | Warm-up Worksheet][warm-up] and [small pixelBots cutout][zebra]
-  - Tell students pixelBots starts on the star.
-  - Students individually predict the outcome of sequences.
-- [ ] **Turn and talk:** Students turn in pairs and discuss outcome of sequence.
+- **Explore:** Students individually predict the outcome of sequences. (slides 4-5)
+  - Distribute [Lesson 1 | Warm-up Worksheet][warm-up] and [small pixelBots cutout][zebra]
+  >>"Before we can write code, we need to learn how to read code. Predict the outcome of the sequence of code."
 
-- [ ] Discuss elements as a whole class, students define elements on worksheet.
-<iconp type='question'>What do the elements at the top of the worksheet mean?</iconp>
+- [ ] **Turn and talk:** Students turn in pairs and discuss their predictions.
+
+- [ ] **Discuss & Define** code elements. Student write definitions of each code element in their coding journals. (slide 6)
+  <iconp type='question'>What do the elements at the top of the worksheet mean?</iconp>
   <iconp type='answer'>up() - move up one square</iconp>
   <iconp type='answer'>down() - move down one square</iconp>
   <iconp type='answer'>right() - move to the right one square</iconp>
   <iconp type='answer'>left() - move to the left one square</iconp>
   <iconp type='answer'>paint() - paint the square that the pixel bot is on top of</iconp>
+  >>"These coding elements tell the zebra to do an action. Coders also call these function calls."
 
+- [ ] **Discuss:** Compare the two sequences of code. (slide 7)
+  <iconp type='question'>Which function calls/coding elements do each program use?</iconp>
+  <iconp type='answer'>paint(), up(), right()</iconp>
+  <iconp type='question'>What is the difference between the two sequences of code?</iconp>
+  <iconp type='answer'>The order of the function calls/coding elements.</iconp>
+  <iconp type='question'>Does the order of the function calls matter?</iconp>
+  <iconp type='answer'>Yes!</iconp>
+>>"When a computer executes code, it runs it in the order that it is written. This is called sequence."
 
-- [ ] Students complete worksheet individually.
-<pagebreak/>
-- [ ] After they are finished, discuss the answers.
-  <iconp type='question'>What is the difference between the two problems?</iconp>
-  <iconp type='question'>Does the order of the elements matter?</iconp>
+#### 3. Explain: Sequences (15 minutes)
 
+- [ ] **Model** how to read code by stepping and acting through two [example programs][examples]. (slides 8-9)
+  1. Ask yourself out loud, "What is the first line of code?"
+  1. Number the corresponding line.
+  1. Read line of code.
+  1. Move magnetic pixel bot.
+  1. Continue reading and stepping one line at a time (number, read, move).
 
+  >>"These coding elements are part of JavaScript. And these elements are all function calls because they have an open and closed parenthesis."
 
-
-#### Explain: Sequences (10 minutes)
-
->>"When a computer executes code, it runs it in the order that it is written. This is called sequence. These programming elements are part of JavaScript. These particular programming elements are all function calls and that we know they are function calls because they have an open and closed parenthesis after the name."
-
-- [ ] **Model** how to read code by stepping and acting through two [example programs][examples].
-
-<note>
-**Prep Before Lesson**
-- Draw a blank 4x4 grid on the whiteboard.
-- Write the [Example Pixelbots problems][examples] on the whiteboard
-- Draw star to indicate the starting square.
-</note>
-
-1. Ask "What is the first line of code?"
-1. Number the corresponding line.
-1. Move magnetic pixel bot.
-1. Continue reading and stepping one line at a time (ask, number, move).
-
-- [ ] **Guided Practice:** Read and step through remaining example pixelBots sequences together as a class.
+- [ ] **Guided Practice:** Read and step through remaining example pixelBots sequences together as a class. (slides 10-13)
   1. Ask for a volunteer
   1. Student goes to board
+    1. Numbers next line of code
     1. Reads next line out loud
-    1. Numbers line
     1. Moves magnetic pixel bot
   1. Repeat until challenge is complete
 
-<note type="tip" title="Tip">
-If there is time, design more problems on the fly, making them interesting and complex enough.
-</note>
 
 
-#### Evaluate: Read pixel bot icons (15 minutes)
+#### 4. Evaluate: Read Code (20 minutes)
 
-- [ ] Distribute Worksheet 1: [Page 1][worksheet1-1] & [Page 2][worksheet1-2]
-- [ ] Students read the code and paint the correct squares on the worksheet.
-- [ ] Review answers together as a class.
+- [ ] **Independent Practice:** Students read the code and paint the correct squares on the worksheet.
+  - Distribute Worksheet 1: [Page 1][worksheet1-1] & [Page 2][worksheet1-2]
+
+- [ ] **Review** answers together as a class. (slide 14, click through slide for all 5 problems)
+  - Call one student to come to board and paint the squares.
+  - If students disagree, step through code.
+  - Repeat till all problems are reviewed.
 
 
 
 </notable>
+[slides]: https://docs.google.com/presentation/d/1AxnXgymp9W3WUrzoMwoxiQgptNwZ05WovB6mPlVQHXg/edit?usp=sharing
 [examples]: https://docs.google.com/document/d/1pGYzK-w0euwkLx8v_Ko-WICLXUPVuSpq4pA1s1eSuwI/edit?usp=sharing
 [video]: http://tinyurl.com/q966xd5
 [zebra]: ../../worksheets/zebrabot.pdf
