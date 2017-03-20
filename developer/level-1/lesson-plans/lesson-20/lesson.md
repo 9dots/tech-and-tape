@@ -115,7 +115,7 @@ Participation: Partners, unplugged
 	- “What line of code…”
 
 **Solution:**
-![secret-answers](./images/secret-answers.jpeg)
+![secret-answers](./images/secret-answers2.jpeg)
 
 <note type="tip">It’s ok if they do not finish the challenge in class. Have them take it with and complete it throughout the week. 
 <br/>
@@ -129,6 +129,6 @@ You may need to remind students how to determine if a number is even or odd.
 
 [slide-show]: https://docs.google.com/presentation/d/1uH8It9FzN_5pCnyS5y0HeGN8lIVjiX9nRlDUsWvF1Mo/edit#slide=id.g1d1d70c4b2_0_11
 [socrative]: https://b.socrative.com/teacher/#import-quiz/27188219
-[secret]: https://drive.google.com/file/d/0B2wBzr9vcXjPRkMwVnpfWE5Fc1U/view?usp=sharing
+[secret]: https://drive.google.com/file/d/0B2wBzr9vcXjPbG9pc3ZhRE1fWGM/view?usp=sharing
 [rover]: https://docs.google.com/document/d/11BepTZnwHYCglzDXS88IdRC2exZBVqrUj1pQlbOtCzU/edit?usp=sharing
 [socrative2]: https://b.socrative.com/teacher/#import-quiz/27546630
