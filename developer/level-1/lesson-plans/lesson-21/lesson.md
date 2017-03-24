@@ -57,7 +57,7 @@ Participation: Whole class, unplugged
 
 - [ ] **Bugs:** introduce the bug erasers.
 
-“For your final challenge today, instead of using a bean like we did last week, I have these bug erasers for you. Use them to complete your challenge and then they are yours to keep and remind yourself of all the challenging bugs you will take on as coders."
+> > “For your final challenge today, instead of using a bean like we did last week, I have these bug erasers for you. Use them to complete your challenge and then they are yours to keep and remind yourself of all the challenging bugs you will take on as coders."
 
 ![bug-placement](./images/bug-placement.jpeg)
 
