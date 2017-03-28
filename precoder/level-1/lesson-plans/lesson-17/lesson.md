@@ -63,6 +63,8 @@ In lesson 17 students learn to identify patterns and the number of times they re
 
 - [ ] **Share Out:** Students share the number of times the sequence repeats.
 
+![engage](./images/engage.png)
+
 ## Explore: pixelBot Patterns (4 min)
 - [ ] **Challenge** the class to identify a pattern in the pixelBot video.
 
@@ -77,6 +79,8 @@ In lesson 17 students learn to identify patterns and the number of times they re
 - [ ] **Show** students the sequence of code that directed the bot’s movement in the video.
 - [ ] **Challenge** the class to identify a pattern in the sequence of code.
 
+![explore](./images/explore.png)
+
 <iconp type='question'>What pattern do you see in the code?</iconp>
 
 ## Explain: Patterns in Code (10 min)
@@ -89,6 +93,8 @@ In lesson 17 students learn to identify patterns and the number of times they re
 - [ ] **Show** the pixelBot video.
 
 - [ ] **Discuss** the patterns that students saw in the video.
+
+![explain](./images/explain.png)
 
 <iconp type='question'>What pattern did you see in the video?</iconp>
 <iconp type='question'>Was there a pattern in the way the bot moved?</iconp>
@@ -111,6 +117,8 @@ In lesson 17 students learn to identify patterns and the number of times they re
 
 - [ ] **Guided Practice:** The class works together to find the number of times the sequence repeats in the code.
 >> “Let’s put a box around the first sequence that shows right and left and then do the same for all of the following right-down sequences.”
+
+![explaining](./images/explain-two.png)
 
 <iconp type='question'>How many times does this sequence repeat?</iconp>
 

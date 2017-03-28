@@ -72,12 +72,16 @@ In lesson 16  students learn to identify the number of times a sequence repeats 
 ## 2. Explore: Decomposing Patterns (4 min)
 - [ ] **Demonstrate** how to build a pattern using omnifix cubes and have students copy the pattern you create.
 
+![decomposing](./images/decompose-one.png)
+
 - [ ] **Decompose:** Have students break apart the omnifix cube pattern into its repeating sequences.
 >> “Now that we have our pattern built let’s decompose it to show the parts that repeat. Look for where the pattern starts. Then look for where the pattern ends. Once you get to the end, break off the piece containing the pattern.”
 
 ## 3. Explain: Repeating Patterns (8 min)
 - [ ] **Model** decomposing patterns and counting the number of times the sequence repeats.
 >> “To decompose this pattern I first want to try to identify the repeating sequence. The pattern goes blue, yellow, blue, yellow, blue, yellow. The part that repeats includes one blue block and one yellow block. Now I can break my pattern apart into sequences that have one blue block connected to one yellow block.”
+
+![decompose](./images/decomposing.png)
 
 >> “To see how many times it repeats I simply count the number of pieces I’m left with. This sequence repeats 3 times in the pattern because there are 3 pieces left.”
 
@@ -92,6 +96,8 @@ The sequence that repeats is yellow, blue, blue.</iconp>
 
 - [ ] **Guided Practice:** Have the class practice identifying the number of times the sequence repeats.
 >> “To find the number of times the sequence repeats, let’s count the number of pieces we are left with.”
+
+![decompose-two](./images/decomposing-two.png)
 
 <iconp type='question'>How many pieces are we left with?</iconp>
 
