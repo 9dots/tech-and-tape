@@ -57,6 +57,8 @@ Lesson 15 introduces students to patterns in preparation to learn how to loop co
 - [ ] **Present** examples of patterns.
 >> “Each of the following pictures is an example of a pattern. See if you can find what they all have in common.”
 
+![patterns](./images/patterns.png)
+
 - [ ] **Turn and Talk:** Pairs discuss the commonalities among the examples.
 <iconp type='question'>What do all of the examples have in common?</iconp>
 
@@ -73,21 +75,31 @@ Lesson 15 introduces students to patterns in preparation to learn how to loop co
 
 - [ ] **Demonstrate** the pattern hand signal.
 
+![hand](./images/hand-gesture.png)
+
 - [ ] **Practice:** Have students practice repeating the hand signal while saying the word.
 
 - [ ] **Model** completing a color pattern by saying the colors out loud rhythmically.
 >> “I have to complete the pattern by coloring in the final two circles. To find out which colors they should be I will look for a pattern. The colors are red, blue, red, blue, red, blue. So the next two circles are red and blue.”
 
+![nineteen](./images/slide-19.png)
+
 - [ ] **Guided Practice:** The class works together to complete a set of patterns.
 >> “Let’s say the colors we see in order out loud. yellow, purple, yellow. purple, yellow, purple.”
+
+![twenty](./images/slide-20.png)
 
 <iconp type='question'>What colors should the next two circles be?</iconp>
 
 - [ ] **Model** completing the pattern and identifying the repeating sequence.
 >> “In order to find the repeating sequence of the pattern, I want to look for the beginning and ending of a sequence. This example shows red, red, blue, red, red, blue. So the repeating sequence begins at red and ends with blue. To show this I will box the three circles starting at red and end with the blue one.”
 
+![twenty-one](./images/slide-21.png)
+
 - [ ] **Guided Practice:** completing the pattern and identifying the repeating sequence.
 >> “Let’s try one together. Say the colors with me. Red, yellow, blue, red, yellow, blue. “
+
+![twenty-two](./images/slide-22.png)
 
 <iconp type='question'>What colors should come next to complete the pattern?</iconp>
 <iconp type='question'>Where does the repeating sequence begin and where does it end?</iconp>
