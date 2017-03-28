@@ -2,7 +2,7 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Lesson 15 introduces students to patterns in preparation to learn how to loop code. Through exploration students develops their own definition of a pattern and learn to identify the repeating sequence in a pattern.
+Lesson 15 introduces students to patterns in preparation to learn how to loop code. Through exploration students develop their own definition of a pattern and learn to identify the repeating sequence within a pattern.
 
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
