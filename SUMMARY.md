@@ -73,6 +73,7 @@
     * [Lesson 19: Debug & Plan](developer/level-1/lesson-plans/lesson-19/lesson.md)
     * [Lesson 20: I Have a Challenge for You](developer/level-1/lesson-plans/lesson-20/lesson.md)
     * [Lesson 21: Independent Coding Challenge](developer/level-1/lesson-plans/lesson-21/lesson.md)
+    * [Lesson 22: Projects & Bug Tickets](developer/level-1/lesson-plans/lesson-22/lesson.md)
   * [p5](developer/p5/README.md)
     * [visual-beat-machine](developer/p5/visual-beat-machine/README.md)
       * [Lesson 1: Introducing P5.js & Mouse Input](developer/p5/visual-beat-machine/lesson-plans/lesson-1/lesson.md)
