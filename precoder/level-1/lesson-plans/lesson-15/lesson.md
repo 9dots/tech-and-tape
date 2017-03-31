@@ -7,7 +7,7 @@ Lesson 15 introduces students to patterns in preparation to learn how to loop co
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can complete a pattern.
-- I can identify the repeating sequence in a pattern.
+- I can identify the core of a pattern.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
@@ -92,7 +92,7 @@ Lesson 15 introduces students to patterns in preparation to learn how to loop co
 <iconp type='question'>What colors should the next two circles be?</iconp>
 
 - [ ] **Model** completing the pattern and identifying the repeating sequence.
->> “In order to find the repeating sequence of the pattern, I want to look for the beginning and ending of a sequence. This example shows red, red, blue, red, red, blue. So the repeating sequence begins at red and ends with blue. To show this I will box the three circles starting at red and end with the blue one.”
+>> “In order to find the repeating sequence of the pattern, I want to look for the beginning and ending of the sequence. We can call the repeating sequence in the pattern the core. This example shows red, red, blue, red, red, blue. So the core begins at red and ends with blue. To show this I will box the three circles starting at red and end with the blue one.”
 
 ![twenty-one](./images/slide-21.png)
 
@@ -102,18 +102,18 @@ Lesson 15 introduces students to patterns in preparation to learn how to loop co
 ![twenty-two](./images/slide-22.png)
 
 <iconp type='question'>What colors should come next to complete the pattern?</iconp>
-<iconp type='question'>Where does the repeating sequence begin and where does it end?</iconp>
+<iconp type='question'>Where does the core of the pattern begin and where does it end?</iconp>
 
 ## 4. Elaborate: Independent Practice (13 min)
 - [ ] **Explain** how to complete the patterns worksheet with problem number 1.
->> “In each of the problems on the worksheet we are going to (1) complete the pattern and (2) circle the repeating sequence. Problem number 1 shows the pattern blue, red, blue, red.”
+>> “In each of the problems on the worksheet we are going to (1) complete the pattern and (2) circle the core. Problem number 1 shows the pattern blue, red, blue, red.”
 
 <iconp type='question'>What colors should the next two circles be?</iconp>
 
 - [ ] **Demonstrate** how to complete the patterns worksheet.
->> “Since the next two colors should be blue and red, I will color them in with my color pencils and circle the repeating sequence.”
+>> “Since the next two colors should be blue and red, I will color them in with my color pencils and circle the core.”
 
-<iconp type='question'>Where does the repeating sequence begin and where does it end?</iconp>
+<iconp type='question'>Where does the core begin and where does it end?</iconp>
 
 - [ ] **Independent Practice:** Students complete the patterns worksheet.
 - [ ] **Monitor** the room for students in need of additional assistance.
@@ -121,7 +121,7 @@ Lesson 15 introduces students to patterns in preparation to learn how to loop co
 - [ ] **Debrief** the lesson.
 
 <iconp type='question'>What two things did we learn to do today?</iconp>
-<iconp type='answer'>Today we learned how to (1) complete a pattern and (2) identify its repeating sequence.</iconp>
+<iconp type='answer'>Today we learned how to (1) complete a pattern and (2) identify its core.</iconp>
 
 </notable>
 
