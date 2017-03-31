@@ -29,3 +29,4 @@ Students begin applying core coding concepts into an Escape the Maze project. In
 - [Lesson 19: Debug & Plan](../level-1/lesson-plans/lesson-19/lesson.html)
 - [Lesson 20: I Have a Challenge for You](../level-1/lesson-plans/lesson-20/lesson.html)
 - [Lesson 21: Independent Coding Challenge](../level-1/lesson-plans/lesson-21/lesson.html)
+- [Lesson 22: Project & Bug Tickets](../level-1/lesson-plans/lesson-22/lesson.html)
