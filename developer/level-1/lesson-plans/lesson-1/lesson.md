@@ -1,8 +1,8 @@
-<header class='header' title='I am a Coder' subtitle='Lesson 01'/>
+<header class='header' title='I am a Coder' subtitle='Lesson 1'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Students will repeatedly encounter failure in a positive way through an interactive problem-solving game. They should begin to view failure as a step towards succeeding. Check out the pre and post lesson resources to help reinforce the theme of this lesson that failure is a part of the process of learning and building. It is important you make this a very low stakes environment where students get used to hearing the word “fail” and connect it to progress. 
+Students will repeatedly encounter failure in a positive way through an interactive problem-solving game. They should begin to view failure as a step towards succeeding. Check out the pre and post lesson resources to help reinforce the theme of this lesson that failure is a part of the process of learning and building. It is important you make this a very low stakes environment where students get used to hearing the word “fail” and connect it to progress.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can describe the importance of knowing how to code.
@@ -24,7 +24,7 @@ Students will repeatedly encounter failure in a positive way through an interact
 - [ ] [Magnetic Characters][Tcharacters]
 - [ ] [Solution][solution]
 - [ ] [Pre and Post Lesson Resources][pre-post]
- 
+
 ###### Student Materials:
 - [ ] Name Tents
 - [ ] Markers
@@ -38,8 +38,7 @@ Students will repeatedly encounter failure in a positive way through an interact
 </note>
 
 ## Room Design
-
-![room](./images/desk-setup_online.png)
+![room](./images/online.png)
 
 <note>
 
@@ -49,18 +48,18 @@ Students will repeatedly encounter failure in a positive way through an interact
 ###### Symbols Key
 <iconp ml='1.65em' type='question'>question</iconp>
 <iconp ml='1.65em' type='answer'>answer</iconp>
-- [ ] action item 
+- [ ] action item
 </note>
 
 <pagebreak/>
-## 1. Engage: What is Code (5 min) 
+## 1. Engage: What is Code (5 min)
 Participation: Whole Class, Unplugged
 
 - [ ] **Introductions:** students write their name on one side of their name tent and on the other side they draw or write “When I grow up I want to be a(n) _______________.”
 
 <note type="tip"> This activity can be skipped if the instructor already knows their students.</note>
 
-- [ ] **Attention Getting Signal:** Teach students your attention getting signal and practice. 
+- [ ] **Attention Getting Signal:** Teach students your attention getting signal and practice.
 
 <note type="tip"> This activity can be skipped if the instructor already knows their students.</note>
 
@@ -71,10 +70,10 @@ Participation: Whole Class, Unplugged
 
 > > “Code is everywhere. Everywhere we look computer programs are running code to run our world.”
 
-## 2. Explore: River Crossing (25 min) 
+## 2. Explore: River Crossing (25 min)
 Participation: Whole Class ->  Small Group, Unplugged
 
-- [ ] **Challenge** students to tackle the problems today with a productive failure mindset. 
+- [ ] **Challenge** students to tackle the problems today with a productive failure mindset.
 
 > >  “Today we’re going to become coders as we tackle a difficult challenge.
 			- Our code will not be carried out by a computer today, but it is going to mimic the process of writing code for a computer.
