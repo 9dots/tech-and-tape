@@ -1,4 +1,4 @@
-<header class='header' title='If You Give a Mouse a Cookie' subtitle='Lesson 02'/>
+<header class='header' title='If You Give a Mouse a Cookie' subtitle='Lesson 2'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -9,7 +9,7 @@ Students get comfortable using the Scratch editor and writing a sequence in code
 - I can use the editor, block palette, and stage in Scratch to code my program.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-1. Engage:  If You Give a Mouse a Cookie (5 min) 
+1. Engage:  If You Give a Mouse a Cookie (5 min)
 1. Explore & Explain: Code Along (30 min)
 
 
@@ -49,7 +49,7 @@ Students get comfortable using the Scratch editor and writing a sequence in code
 
 <note>**Slides:** ![slides-read](./lesson-2/images/slides-engage.jpeg)</note>
 
-- [ ] **Plan:** Explain that we are going to practice coding a sequence by coding the sequence of the book. Show the step by step plan. 
+- [ ] **Plan:** Explain that we are going to practice coding a sequence by coding the sequence of the book. Show the step by step plan.
 
 <iconp type="question">Ask students to identify connection between a step and what happened in the story.</iconp>
 <note>![slides-plan](./lesson-2/images/slides-plan.jpeg)</note>
@@ -63,7 +63,7 @@ Participation: Whole Class, Unplugged
 
 <note>![slides-expectations](./lesson-2/images/slides-expectations.jpeg)</note>
 
-- [ ] **Code:** Display the “Plan” and your Scratch editor in parallel as you walk students through the process of coding the sequence one line at a time. 
+- [ ] **Code:** Display the “Plan” and your Scratch editor in parallel as you walk students through the process of coding the sequence one line at a time.
 
 <iconp type="question">What do you think the next block will be?</iconp>
 <iconp type="question">Where will I find that block?</iconp>
@@ -73,16 +73,16 @@ Participation: Whole Class, Unplugged
 
 - [ ] **Validate:** Pause after adding each line of code to “Validate” your code by running it on the stage.
 
-- [ ] **Challenge** students to continue coding on their own, continuing beyond the plan to follow the sequence of the story. Encourage students to explore other blocks that improve the story if they’ve completed the sequence. Every time you add a line of a code, run it on the stage to validate it does what you expect it to do. 
+- [ ] **Challenge** students to continue coding on their own, continuing beyond the plan to follow the sequence of the story. Encourage students to explore other blocks that improve the story if they’ve completed the sequence. Every time you add a line of a code, run it on the stage to validate it does what you expect it to do.
 
 <note type="tip">The events block indicates when the sequence should begin.</note>
 
-- [ ] **Closing:** Congratulate coders on their first program! Remind students to signout of Scratch. 
+- [ ] **Closing:** Congratulate coders on their first program! Remind students to signout of Scratch.
 
 ❗Anticipating Student Misconceptions:
-- Coding in the wrong sprite - Students should be coding in the sprite where the action is occuring. 
+- Coding in the wrong sprite - Students should be coding in the sprite where the action is occuring.
 - Taking a “say” block instead of “say for 2 sec” - without the time, Scratch will perform the action so quickly that it won’t be seen on the stage.
-- Deleting the starter code - Students should not change or delete the first two blocks as they ensure that whenever the green flag is pressed the mouse returns to its original position. 
+- Deleting the starter code - Students should not change or delete the first two blocks as they ensure that whenever the green flag is pressed the mouse returns to its original position.
 
 <note>![slides-signout](./lesson-2/images/slides-signout.jpeg)
 ![slides-close](./lesson-2/images/slides-close.jpeg)</note>
