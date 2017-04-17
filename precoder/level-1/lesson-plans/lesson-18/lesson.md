@@ -21,11 +21,11 @@ In lesson 18 students learn to write loops on the pixelBot platform. Students us
 - [ ] Computer
 - [ ] Projector
 - [ ] [Lesson 18 Slides][slides]
-- [ ] [Playlist: Intro to Loops][playlist]
+- [ ] Playlist: Intro to Loops
 
 ###### Student Materials:
 - [ ] Computers
-- [ ] [Playlist: Writing Loops][pixelbot]
+- [ ] Playlist: Writing Loops
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 - **Loop** - The action of doing something over and over again.
