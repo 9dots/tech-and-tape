@@ -1,4 +1,4 @@
-<header class='header' title='I am a Coder' subtitle='Lesson 01'/>
+<header class='header' title='I am a Coder' subtitle='Lesson 1'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -24,7 +24,7 @@ Students work in groups to tackle a challenging problem-solving game. They begin
 - [ ] [Magnetic Code Blocks][Tcode-blocks]
 - [ ] [Magnetic Characters][Tcharacters]
 - [ ] [Pre and Post Lesson Resources][pre-post]
- 
+
 ###### Student Materials:
 - [ ] Name Tents & Markers
 - [ ] Sticky Notes, 2 Colors
@@ -37,7 +37,7 @@ Students work in groups to tackle a challenging problem-solving game. They begin
 
 ## Room Design
 
-![room](./images/desk-setup_online.png)
+![room](./lesson-1/images/online.png)
 
 <note>
 
@@ -57,11 +57,11 @@ Students work in groups to tackle a challenging problem-solving game. They begin
 <note type="tip"> Skip this if the instructor already knows their students.
  <br/> **Slides:** ![slides-intro1](./lesson-1/images/slides-intro1.jpeg)</note>
 
-- [ ] **Attention Getting Signal:** Teach students your attention getting signal and practice. 
+- [ ] **Attention Getting Signal:** Teach students your attention getting signal and practice.
 
-<note>![slides-intro2](./lesson-1/images/slides-intro2.jpeg)</note> 
+<note>![slides-intro2](./lesson-1/images/slides-intro2.jpeg)</note>
 
-## 2. Engage: What is Code (5 min) 
+## 2. Engage: What is Code (5 min)
 Participation: Whole Class, Unplugged
 
 - [ ] **Define** code and present each of the examples on “Code is Everywhere”. Code is what creates the website or computer programs we use. Being a coder is about producing, not just consuming.
@@ -75,16 +75,16 @@ Participation: Whole Class, Unplugged
 ![slides-code3](./lesson-1/images/slides-code3.jpeg)</note>
 <pagebreak/>
 
-## 3. Explore: River Crossing (25 min) 
+## 3. Explore: River Crossing (25 min)
 Participation: Whole Class ->  Small Group, Unplugged
 
-- [ ] **Challenge** students to tackle the problems today with a productive failure mindset. 
+- [ ] **Challenge** students to tackle the problems today with a productive failure mindset.
 > >  “Today we’re going to become coders as we tackle a difficult challenge. Today we will act as both the coder and the computer. We are not going to get it right the first time. When coders make an error it is called a bug. Debugging is at the heart of the practice of coding. So today it is ok when your solution is wrong. We will keep coding and debugging until we have a solution that works."
 
 
 <br/>
 
-- [ ] **Reveal the Mission** 
+- [ ] **Reveal the Mission**
 > > "A farmer needs to cross a river with a chicken, a fox, and a bag of grain. However, his boat can only hold him and one other object. If left together, the fox will eat the chicken and the chicken will eat the grain. You need to get the farmer across the river without losing any of them.""
 
 **Checks for Understanding:**
