@@ -22,3 +22,4 @@
 - [Lesson 15: Identifying Patterns](../level-1/lesson-plans/lesson-15/lesson.md)
 - [Lesson 16: Repeating Patterns](../level-1/lesson-plans/lesson-16/lesson.md)
 - [Lesson 17: Patterns in Code](../level-1/lesson-plans/lesson-17/lesson.md)
+- [Lesson 18: Writing Loops](../level-1/lesson-plans/lesson-18/lesson,md)
