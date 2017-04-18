@@ -73,6 +73,7 @@
       * [Lesson 4: Functions](developer/p5/visual-beat-machine/lesson-plans/lesson-4/lesson.md)
       * [Lesson 5: Visual Beat Machine Project Sketch](developer/p5/visual-beat-machine/lesson-plans/lesson-5/lesson.md)
       * [Lesson 6: Sounds](developer/p5/visual-beat-machine/lesson-plans/lesson-6/lesson.md)
+      * [Lesson 7: Final Project](developer/p5/visual-beat-machine/lesson-plans/lesson-7/lesson.md)
   * [pixelBots](developer/pixelBots/README.MD)
     * [Lesson 1: pixelBots Unplugged](developer/pixelBots/lesson-plans/lesson-1/lesson.md)
     * [Lesson 2: pixelBots Online](developer/pixelBots/lesson-plans/lesson-2/lesson.md)

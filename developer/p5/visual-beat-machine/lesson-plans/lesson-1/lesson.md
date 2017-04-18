@@ -5,20 +5,15 @@
 <iconp src='/icons/activity.png'>### Overview</iconp>
 Students discover how code is used to create art. Students learn the basics of P5.js and code their first shapes. At the end of the session, students learn how to make their sketch interactive with the mouse input variable.
 
-###### Target Audience: 6th - 8th grade
-
-
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
-
 - Students will be able to create shapes of different colors and sizes in P5.js.
-- Students will be able to login, save work, and title work using naming conventions in P5.js.
 - Students will be able to use mouseX and mouseY as arguments to make code interactive in P5.js.
 
 
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-###### Length: 65 minutes
+###### Length: 60 minutes
 1. Explore: You can code art! (5 mins)
 2. Explain: Open Processing (20 mins)
 3. Engage: P5.js shapes and colors (30 mins)
@@ -61,7 +56,8 @@ Students discover how code is used to create art. Students learn the basics of P
 
   >> “In this class we are going to learn to create art with code!”
 
-<note type="tip" title="Examples of interactive art rooms">
+<note>
+Examples of interactive art rooms
 - [Yayoi Kusama's Infinity Mirrored Room][infinity] at The Broad
 - [Random International’s Rain Room][rain] at LACMA
 </note>
