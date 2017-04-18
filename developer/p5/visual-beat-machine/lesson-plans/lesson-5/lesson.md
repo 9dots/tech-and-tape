@@ -43,33 +43,26 @@ Participation: Whole Class
 #### 1. Engage/Explore: Find the bugs! (10 minutes)
 >> “Today we’ll take a look at common bugs found in our P5.js sketches.”
 
-- [ ] **Independent Exploration:** students go to https://tinyurl.com/devydebug and find the bugs in each challenge. (slide 2)
-  - Students write observations and what bugs they found: line number and what they fixed
-  - After 2 minutes, show the slide of the console. (slide 3)
-  - Narrate after a few students have read the slide and starting using the console.
-    1. “ ___________ is using a special tool to locate the bugs.”
-    1. “ ____________ is using the console.”
-    1. “I see _________ reading the board.”
-  - Remind students to press the programmed keys to have the console check the code within the if-then conditionals
+- [ ] **Independent Exploration:** students go to https://tinyurl.com/devydebug and find the bugs in each challenge.
+  - Students write observations and what bugs they found: line number and what they fixed.
+  - Remind students to press the programmed keys to have the console check the code within the if-then conditionals.
 
 <note type="tip" title="Tip">
-- Do NOT say anything after you put up the slide about the console (slide 2). Let the students discover it on their own then narrate.
-- **Important:** After pressing play, students need to click on canvas for function keyPressed() to work!
-</note>
+After pressing play, students need to click on canvas for function keyPressed() to work.
 
-![engage](./images/engage.png)
+**Slides:**
+![engage](./images/engage.png)</note>
 
 #### 2. Explain: Console (5 minutes)
-- [ ] **Discuss** student observations from debugging challenge
-  <iconp type='question'>What did you start using to help find debug the code?</iconp>
-  <iconp type='answer'>The console!</iconp>
+- [ ] **Discuss** student observations from debugging challenge.
+  <iconp type='question'>What did you use to help find the bugs in the code?</iconp>
+  <iconp type='answer'>The console.</iconp>
   <iconp type='question'>What information does the console give you?</iconp>
   <iconp type='answer'>The line number of the possible bug.</iconp>
   <iconp type='answer'>The type of error or a possible solution, ex: missing ) after  argument list.</iconp>
 <br/>
 
-- [ ] **Review** the solutions to the debugging challenges. https://tinyurl.com/devydebug
-  - It is not necessary to go through all of .
+- [ ] **Review** the solutions of debugging challenges 1-3 on openprocessing.org over the projector. https://tinyurl.com/devydebug
   - **Challenge 1**
     1. Line 10 - ‘w’ in windowwidth needs to be capitalized, correction: windowWidth
     1. Line 11 - backgrund is spelled incorrectly, correction: background
@@ -91,22 +84,26 @@ Participation: Whole Class
 
 <note type="tip" title="Tip">
 - Note: An error in conditionals will not show up immediately, for challenge 1 line 90,  the ‘a’ key needs to be pressed since the error in the code is in the function call randomPokeball.
-- Challenge 4 is for meant to be challenging, this is for students who quickly get through challenges 1-3. </note>
+- Challenge 4 is for meant to be challenging, this is for students who quickly get through challenges 1-3.
 
-- [ ] Review the common mistakes made in sketches (slide 4)
-  >>"The console isn’t perfect in finding bugs. Remember to also reference other working code when debugging.""
+**Slides:**
+![slides](./images/explain.png) </note>
 
-![explain](./images/explain.png)
+- [ ] **Review** the common mistakes made in sketches: spelling, capitalization, missing/extra parentheses or curly braces.
+  >>"The console isn’t perfect in finding bugs. Remember to also reference other working code when debugging."
+
 
 #### 3. Elaborate: Start Project (45 minutes)
->>"You have all been working hard these past 4 weeks learning p5.js and today we starting our final project! Create something you will be excited to share during our art showcase."
 
+- [ ] **Project:** Students begin their final project sketch. Students should have at least 2 keys programmed to draw when pressed.
+  >>"You have all been working hard these past 4 weeks learning p5.js. Today we start our final project! Create something you will be excited to share during our art showcase."
+
+<note>
+**Slides:**
+![slides](./images/elaborate.png)
 <br/>
-- [ ] Students begin their final project sketch. (slide 5)
-  - Students should have at least 2 keys programmed to draw when pressed. (slide 6)
-  - Circulate room and remind students to use the console when debugging.
-
-![elaborate](./images/elaborate.png)
+**Tip:** If students need more help on relative vs absolute coordinate points, see extra slides.
+![slides](./images/extraslides.png)</note>
 
 </notable>
 
