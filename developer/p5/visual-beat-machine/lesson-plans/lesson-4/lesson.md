@@ -12,7 +12,7 @@ Students are introduced to functions and variables and practice using them to dr
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 ###### Total Length: 60 minutes
-Two Group Lesson (groups switch 30 minutes into lesson):
+Two Group Lesson (groups switch half way into lesson):
 1. **Independent Coding Time** (30 minutes)
   1. Practice using if-then conditionals in P5.js
 1. **Group Instruction** (30 minutes)
@@ -36,26 +36,29 @@ Two Group Lesson (groups switch 30 minutes into lesson):
 - [ ] [Functions! Functions! Functions!][explore] (sketch: 405427)
 - [ ] [functions starter][starterfunctions] (sketch: 405693)
 - [ ] [P5.js reference sheet][sheet]
-- [ ] [Grid Paper][gridpaper]
 - [ ] pencil
 - [ ] coding journal
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
-- Variables: named storage for data
-- Functions: a reusable chunk of code that performs a task
+- **Variables:** named storage for data
+- **Functions:** a reusable chunk of code that performs a task
 
 
 
 </note>
 <pagebreak/>
+
+
 #### Independent Coding Time (30 minutes)
 - [ ] Students practice using keyPressed() and if-then conditionals in P5.js sketches
   - Students use [Week 4 Independent Coding Time][starter] (sketch: 404889)
 
+**Slides:** ![slides](./images/ict.png)
+
 <note type="tip" title="Tip">
 1. Explain two groups to whole class.
-1. Assign who will be in Independent Coding Time group.
-1. Give instructions to Independent Coding Time group. Split into groups.
+1. Give instructions for Independent Coding Time to whole class (when the groups switch the students will already know what they should do).
+1. Assign who will be in Independent Coding Time group. Split into groups.
 1. Lead 30 minute lesson with 1st group, then switch.</note>
 
 - [ ] Introduce students to the new x & y coordinates in the lower right corner.
@@ -64,35 +67,37 @@ Two Group Lesson (groups switch 30 minutes into lesson):
 ### Group Instruction
 
 #### Engage/Explore: Functions! Functions! Functions! P5.js Sketch (10 minutes)
-- [ ] **Independent Exploration:** Students interact with [Functions! Functions! Functions! P5.js Sketch][explore] (sketch: 405427)
-  - Students respond to writing prompt in coding journal:
+- [ ] **Independent Exploration:** Students interact with [Functions! Functions! Functions! P5.js Sketch][explore] (sketch: 405427) and respond to the writing prompt on the slide in their coding journal:
     - What happens when you press w or e?
     - What happens when you press a, s, or d?
 
-<note type="tip" title="Tip">
-- **Important:** After pressing play, students need to click on canvas for function keyPressed() to work!
+<note>**Slides:**
+![slides](./images/discuss.png)</note>
+
+- [ ] **Discuss** student observations from sketch. Students should notice:
+  - Pressing w and e do the same thing, they draw a yellow circle. But they are coded differently.
+  - Pressing a, s, or d will draw more than one shape.
+
+<note type="key" title="Important">
+After pressing play, students need to click on canvas for function keyPressed() to work!
 </note>
 
-- [ ] Discuss student observations from sketch
-  - Students should notice that pressing w and e do the same thing, they draw a yellow circle. But they are coded differently.
-  - Students should notice that pressing a, s, or d will draw more than one shape.
 
 #### Explain: Functions & Variables (7 minutes)
 - [ ] **Define** Functions
+  - Students write definition of functions in coding journals.
   - Connect student discussion to the new vocabulary word:
-    >> “We can draw more than one shape at a time. A function is a reusable chuck of code that performs a task.”
-    >> "When I press 'd' the 9 dots logo is drawn. We are drawing 9 with one line of code."
-
-- [ ] Students write definition of functions in coding journals.
+    >
+    - “We can draw more than one shape at a time. A function is a reusable chuck of code that performs a task.”
+    - "When I press 'd' the 9 dots logo is drawn. We are drawing 9 circles with one line of code."
 
 - [ ] **Define** Variables
-  >>"We use variables to store random x & y coordinates."
+  - Students write definition of variables in coding journals.
+  >>"We can use variables to store random x & y coordinates."
 
-- [ ] Students write definition of variables in coding journals.
 
 - [ ] **Model** writing a sketch that draws two circles when 'a' key is pressed using [function starter sketch][starterfunctions] (sketch: 405693)
-  - Call on students to say what you should write next
-  - Narrate each line of code you write
+  - Call on students give you the next line of code.
   - Show how add 50 to x and y changes where the 2nd ellipse is drawn relative to the first one.
   - ex: ellipse(x+50,y+50,90,90)
 
@@ -100,6 +105,7 @@ Two Group Lesson (groups switch 30 minutes into lesson):
 <note type='key' title='key'>
 - Spend a maximum of 4 minutes modeling.
 - var x = random(width) stores a random x coordinate in a storage box called x
+- var y = random(height) stores a random y coordinate in a storage box called y
 </note>
 
 #### Elaborate: Practice writing functions (13 minutes)

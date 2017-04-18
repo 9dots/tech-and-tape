@@ -17,8 +17,8 @@ Students evaluate progress on project, create a todo list, and continue coding t
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 ###### Total Length: 60 minutes
 1. **Engage:** Vocabulary (13 minutes)
-1. **Explore:** Todo List (2 minutes)
-1. **Explain:** Todo List (5 minutes)
+1. **Explore:** Todo List (3 minutes)
+1. **Explain:** Todo List (4 minutes)
 1. **Elaborate:** Code Features (40 minutes)
 
 
@@ -46,12 +46,14 @@ Students evaluate progress on project, create a todo list, and continue coding t
 - **For-Loop:** Specifies the number of times to repeat a sequence of instructions.
 
 </note>
-
 <br/>
-#### 1. Engage: Vocabulary (12 minutes)
-- [ ] **Independent Practice:** Students do [Lesson 6 | Debug!][debug] on pixelbots.io. (code: V7YMY) (slide 2)
-  >> “To be great coders, we have to be good at debugging, so let’s take some time now to practice finding and fixing bugs. “
+<br/>
+#### 1. Engage: Debug & Vocab (13 minutes)
+- [ ] **Independent Practice:** Students do [Lesson 6 | Debug!][debug] on pixelbots.io. (code: V7YMY)
+  >>“To be great coders, we have to be good at debugging, so let’s take some time now to practice finding and fixing bugs.“
 
+<note>
+**Slides:** ![slides](./images/debug.png)</note>
 <pagebreak/>
 
 - [ ] **Connecting Prior Knowledge:** Connect past vocabulary words with 1st challenge on Debugging playlist. Call students up to the board to circle the part of the program that matches the given vocabulary word in the program. You should hear from every student during this activity.
@@ -65,45 +67,57 @@ Students evaluate progress on project, create a todo list, and continue coding t
   <iconp type='question'>“Circle 2 For Loops.”</iconp>
   <iconp type='question'>“How do we know this is a for loop?”</iconp>
 
+<note type="reminder" title="Reminder">
+Click through to see each vocabulary word on slide.
+
+**Slides:**
+![slides](./images/vocab.png)</note>
 
 #### 2. Explore: Todo List (3 minutes)
-- [ ] **Contrasting Cases:** Compare example and nonexample of todo lists. (slide 4)
+- [ ] **Contrasting Cases:** Compare example and nonexample of todo lists.
   <iconp type='question'>Which of these two todo lists is more useful?</iconp>
-  <iconp type='answer'>The one on the right</iconp>
+  <iconp type='answer'>The one on the right.</iconp>
   <iconp type='question'>What makes a todo list useful?</iconp>
-  <iconp type='answer'>Each feature is listed on a separate line</iconp>
-  <iconp type='answer'>Each item is specific</iconp>
-  <iconp type='answer'>Each item is a single color</iconp>
+  <iconp type='answer'>Each feature is listed on a separate line.</iconp>
+  <iconp type='answer'>Each item is specific.</iconp>
+  <iconp type='answer'>Each item is a single color.</iconp>
   <iconp type='answer'>There are check boxes so I can check off a feature when I am done.</iconp>
-  <iconp type='answer'>Todo list is dated</iconp>
-  <iconp type='answer'>Says the name of the project the todo list is for</iconp>
+  <iconp type='answer'>Todo list is dated.</iconp>
+  <iconp type='answer'>Says the name of the project the todo list is for.</iconp>
 
+<note>
+![slides](./images/explore.png)</note>
 <pagebreak/>
-#### 3. Explain: Todo List (5 minutes)
+
+#### 3. Explain: Todo List (4 minutes)
 - [ ] **Model:** Create a todo list for math eyed emoji.
-  - Assess progress on project (slide 5)
+  - Assess progress on project by looking at code.
       >> “So far I have coded the pi and division eye. I still need to code the face, mouth, and outline.”
-  - Create todo list (slide 6)
+  - Create todo list (click through to show each feature on slide.)
       >> "I am going to list the features I still need to code. I want to code the mouth and outline today, and if I have time I will code the face.”
 
+<note>
+**Slides:**
+![slides](./images/model.png)</note>
 
 - [ ] **Planning:** Students assess progress on their pixel emoji and create a todo list in their coding journal.
   - Remind students that they have today and next week to complete their Pixel Emoji for the showcase.
 
+<note>
+![slides](./images/planning.png)</note>
+
 #### 4. Elaborate: Code Features (40 minutes)
 
 - [ ] **Project:** Students code one feature of their pixel emoji at a time. Instructor circulates room to check students progress on final project.
-  - Create a list of students who are not halfway done with their project. These students should continue working on project during lunch to ensure they have enough time to finish project before showcase.
+  - Create a list of students who are not halfway done with their project. These students should continue working on project out side of class to ensure they have enough time to finish their project before the showcase.
   - Narrate students who are using todo list and loops.
     >> Suggested Narration:
       * "____ is referencing his/her todo list."
       * "____ checked off a completed feature on his/her todo list."
       * "____ is using loops."
 
-
-
-
-
+<note>
+![slides](./images/elaborate.png)</note>
 
 
 
