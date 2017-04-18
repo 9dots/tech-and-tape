@@ -6,18 +6,18 @@ Students are introduced to core coding concepts: sequences, calling functions, p
 
 ### Lessons
 
-- [sequencing pixels](../level-2/lesson-plans/lesson-1.html)
-- [write some code](../level-2/lesson-plans/lesson-2.html)
-- [write read repeat](../level-2/lesson-plans/lesson-3.html)
-- [pixel bot online](../level-2/lesson-plans/lesson-4.html)
-- [code.org maze](../level-2/lesson-plans/lesson-5.html)
-- [dance dance js](../level-2/lesson-plans/lesson-6.html)
-- [pixel bot js](../level-2/lesson-plans/lesson-7.html)
-- [winter is coming - gather food](../level-2/lesson-plans/lesson-8.html)
-- [space ranger and magic words](../level-2/lesson-plans/lesson-9.html)
-- [coding arguments](../level-2/lesson-plans/lesson-10.html)
-- [coding with arguments in pixelbots](../level-2/lesson-plans/lesson-11/lesson.html)
-- [coding with arguments in code.org](../level-2/lesson-plans/lesson-12/lesson.html)
+- [Lesson 1: Sequencing Pixels](../level-2/lesson-plans/lesson-1.html)
+- [Lesson 2: Write Some Code](../level-2/lesson-plans/lesson-2.html)
+- [Lesson 3: Write Read Repeat](../level-2/lesson-plans/lesson-3.html)
+- [Lesson 4: pixelBots Online](../level-2/lesson-plans/lesson-4.html)
+- [Lesson 5: Code.org Maze](../level-2/lesson-plans/lesson-5.html)
+- [Lesson 6: Dance Dance JS](../level-2/lesson-plans/lesson-6.html)
+- [Lesson 7: pixelBots JS](../level-2/lesson-plans/lesson-7.html)
+- [Lesson 8: Winter is Coming](../level-2/lesson-plans/lesson-8.html)
+- [Lesson 9: Space Ranger and Magic Words](../level-2/lesson-plans/lesson-9.html)
+- [Lesson 10: Coding Arguments](../level-2/lesson-plans/lesson-10.html)
+- [Lesson 11: Coding with Arguments in pixelBots](../level-2/lesson-plans/lesson-11/lesson.html)
+- [Lesson 12: Coding with Arguments in Code.org](../level-2/lesson-plans/lesson-12/lesson.html)
 
 ### Download lesson plans
 

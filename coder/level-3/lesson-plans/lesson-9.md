@@ -1,4 +1,4 @@
-{% title title='Fire Ice and Squirrels', subtitle='Plugged', color='#C2DACC' %}
+{% title title='Fire, Ice and Squirrels', subtitle='Lesson 9', color='#FFA5AB' %}
 {% endtitle %}
 
 {% header title='Overview', icon='activity' %}

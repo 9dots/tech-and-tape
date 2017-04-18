@@ -1,4 +1,4 @@
-<header title='coding with arguments in pixelbots' subtitle='plugged'/>
+<header title='Coding with Arguments in pixelBots' subtitle='Lesson 11'/>
 
 <notable>
 

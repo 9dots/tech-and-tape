@@ -1,29 +1,19 @@
-<header class='header' title='Lesson 9' subtitle='Bug Catchers'/>
+<header class='header' title='Bug Catchers' subtitle='Lesson 9'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 9 students apply the debugging protocol to increasingly complex sequences similar to the ones seen in lessons 7 and 8. 
+In lesson 9 students apply the debugging protocol to increasingly complex sequences similar to the ones seen in lessons 7 and 8.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 I can debug a 2-10 block sequence with more than one directional move.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. **Engage: Debugging Analogy (3 min)**
-	1. **Analogy:** Introduce the broken car and debugging scenarios. (1 min)
-	1. **Discuss** how fixing a broken car is analogous to the debugging process. (2 min)
-1. **Explore: Bug Catching (6 min)**
-	1. **Review** the debugging protocol with the class. (4 min)
-	1. **Independent Exploration:** Students attempt to find and repair bugs in a set of programs. (2 min)
-1. **Explain: Debug the Bot (8 min)**
-	1. **Share Out:** Students share the bug they found in the code and how they tried to fix it. (2 min)
-	1. **Model** using the debugging protocol to fix the program. (2 min)
-	1. **Code Along:** Perform a code along with the class. (4 min)
-1. **Elaborate: Independent Coding (10 min)**
-	1. **Independent Coding:** Students practice using the debugging protocol on the lesson 9 playlist. (7 min)
-	1. **Review** 2-3 problems using the debugging protocol. (3 min)
-1. **Evaluate: Exit Ticket (3 min)**
-	1. **Assess:** Students complete the exit ticket to show mastery of the objective.
+1. Engage: Debugging Analogy (3 min)
+1. Explore: Bug Catching (6 min)
+1. Explain: Debug the Bot (8 min)
+1. Elaborate: Independent Coding (10 min)
+1. Evaluate: Exit Ticket (3 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -59,7 +49,7 @@ I can debug a 2-10 block sequence with more than one directional move.
 
 <pagebreak/>
 
-## Engage: Debugging Analogies (3 min)
+## 1. Engage: Debugging Analogies (3 min)
 - [ ] **Analogy:** Introduce the broken car and debugging scenarios. (1 min)
 
 “I’m going to share two quick stories with you. Your job is to try to find out how they are similar.”
@@ -76,7 +66,7 @@ I can debug a 2-10 block sequence with more than one directional move.
 
 ![slide](./images/slide-two.png)
 
-## Explore: Bug Catchers (6 min)
+## 2. Explore: Bug Catchers (6 min)
 
 - [ ] **Review** the debugging protocol with the class using problem number one in the Pixel Bot playlist. (4 min)
 
@@ -112,7 +102,7 @@ I can debug a 2-10 block sequence with more than one directional move.
 
 - Have students attempt to use the debugging protocol to fix the second problem in the Pixel Bot playlist.
 
-## Explain: Debug the Bot (8 min)
+## 3. Explain: Debug the Bot (8 min)
 
 -  [ ] **Share Out:** Students share the bug they found in the code and how they tried to fix it. (2 min)
 
@@ -163,7 +153,7 @@ I can debug a 2-10 block sequence with more than one directional move.
 
 ![problem](./images/L10.03 Explain.png)
 
-## Elaborate: Independent Coding (8 min)
+## 4. Elaborate: Independent Coding (8 min)
 
 - [ ] **Independent Coding:** Have students practice using the debugging protocol on the lesson 9 playlist and monitor the class for students in need of additional assistance. (7 min)
 
@@ -173,7 +163,7 @@ I can debug a 2-10 block sequence with more than one directional move.
 2. *Find* the bug(s).
 3. *Fix* the code.
 
-## Evaluate: Exit Ticket (3 min)
+## 5. Evaluate: Exit Ticket (3 min)
 
 - [ ] **Assess:** Have students complete the exit ticket problem in the playlist. (2 min)
 

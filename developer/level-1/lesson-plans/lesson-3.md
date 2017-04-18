@@ -1,10 +1,10 @@
-{% title title='Lesson 3: Maze Scavenger Hunt', subtitle='Unplugged' %}
+{% title title='Maze Scavenger Hunt', subtitle='Lesson 3' %}
 {% endtitle %}
 
 {% header title='Overview', icon='activity' %}
 {% endheader %}
 
-In this lesson, students learn the importance of giving clear and explicit directions. They practice sequencing code, writing code, and navigating their robot on a paper grid. 
+In this lesson, students learn the importance of giving clear and explicit directions. They practice sequencing code, writing code, and navigating their robot on a paper grid.
 
 ## Print PDF
 
@@ -37,8 +37,8 @@ In this lesson, students learn the importance of giving clear and explicit direc
 - Bread
 - Paper plate
 - [Warm up handout](https://drive.google.com/file/d/0B48_2vIyABioX21FSXE2TGdZV28/view)
-- [Paper maze worksheet](https://drive.google.com/file/d/0B48_2vIyABiodlhwdFRiRDJXckU/view) 
-- [Scavenger hunt maze worksheet](https://drive.google.com/file/d/0B48_2vIyABioQmxOeEpnb3F4TVE/view) 
+- [Paper maze worksheet](https://drive.google.com/file/d/0B48_2vIyABiodlhwdFRiRDJXckU/view)
+- [Scavenger hunt maze worksheet](https://drive.google.com/file/d/0B48_2vIyABioQmxOeEpnb3F4TVE/view)
 - [Role cards](https://drive.google.com/file/d/0B48_2vIyABioWFJZS1Y3bTZ6T1k/view)
 - [Rover cutouts](https://drive.google.com/file/d/0B48_2vIyABioX3I1cjkxUW9JckE/view)
 - Brown paper bag
@@ -75,9 +75,9 @@ Individual
 {% table %}
 
 1)  Have students respond to the prompt  below in 5 minutes.
- 
+
   * Using the materials on the front table, write a set of step-by-step instructions for your teacher to make a peanut butter and jelly sandwich.
- 
+
 2)  Ask for volunteers to share out their instructions in a step-by-step manner.  Follow each step as the student reads it. If a student says to put the peanut butter on the bread, put the jar of peanut butter on top of the bag of bread. The point is to show the importance of giving clear and precise instructions. Allow at least two different students to share.
 
 
@@ -85,7 +85,7 @@ Individual
 - Giving clear and precise instructions is important.
 - Humans can often interpret the meaning and intentions behind a set instructions in ways computers can’t.
 ```
-Example: A person can say “you open door” to another person and that person would be able to determine that they are being instructed to open a door. 
+Example: A person can say “you open door” to another person and that person would be able to determine that they are being instructed to open a door.
 ```
 - In this class we will be writing clear and precise instructions that a computer can follow.
 ,,,
@@ -115,7 +115,7 @@ Whole Group and Individual
 
 {% table %}
 
-1) Introduce the class to Rover the robot. 
+1) Introduce the class to Rover the robot.
 Just like other computers, Rover can only follow clear and precise instructions in the form of code
 Code is a set of instructions designed to be carried out by a computer.
 Rover the robot can only follow three instructions.
@@ -170,26 +170,26 @@ Explain who will play each of the roles during the activity.
 
 7) **Complete the Challenge:**
 
-Have students place their Rover cutout at the starting square of their paper maze. 
+Have students place their Rover cutout at the starting square of their paper maze.
 Explain that the first step in completing this challenge is planning the path the Rover will take to get to the yellow spot.
-Show that there are many paths that can be taken by displaying three different choices in the slides. 
+Show that there are many paths that can be taken by displaying three different choices in the slides.
 
 8) Have the class vote on the path they will take and have them trace the path on their paper grid like in the picture below:
 ![Navigate the Maze2](lesson-3/img/navigate-img2.JPG "Navigate the Maze2")
 
-9) Ask the class what the first instruction should be. 
+9) Ask the class what the first instruction should be.
 ```
 Highlight that this is a an example of the class playing the role of the driver.
 ```
 
-10) Once the class has settled on an instruction, have the writer place a code block on the board and have the stepper move Rover in response to the instruction. 
+10) Once the class has settled on an instruction, have the writer place a code block on the board and have the stepper move Rover in response to the instruction.
 11) Instruct students to write the instruction into the first blank code block on their worksheet and to move their Rover cutout on their paper maze. Continue this process each time an instruction is chosen by the class.
 
 - Inform the class that you will be cold calling students for instructions after a volunteer shares the second instruction for Rover.
 
 12) After the volunteer shares the second instruction for Rover, have the writer place the second code block on the board and have the stepper move Rover in response to the instruction.
 
-13) Cold call different students for the rest of the sequence. 
+13) Cold call different students for the rest of the sequence.
 
 14) When the sequence is complete, have the stepper place Rover back at the starting square. Have the class read the code in unison and have the stepper move Rover as each block of code is read to check if the code is correct.  
 ```
@@ -203,12 +203,12 @@ Describe the process the class just used to plan, write, and check the code.
 2. Code: Explain that the class coded the path one step at a time.
 3. Validate: Explain that the word validate means to check if something is correct or does what it is intended to do. In this process the class validated the code by reading the code starting at the beginning to see if it did what it was intended to do (get Rover to the yellow spot).
 
-16) **Maze 2** 
+16) **Maze 2**
 
 Change the position of Rover and the yellow spot on the grid to match maze two. Explain that in this challenge students will work independently to get Rover to the yellow spot by writing their own code using the paper maze and Rover cutout.
 
 - Display the plan, code, validate process on the board and remind students that they should use this process to complete the challenge.
-- Inform students that they will have 5 minutes to complete the challenge and that you will call on volunteers to share their code. 
+- Inform students that they will have 5 minutes to complete the challenge and that you will call on volunteers to share their code.
 
 17) Allow students to begin planning and writing their code.
 
@@ -293,7 +293,7 @@ Introduce the class to the scavenger hunt challenge.
 - **Computer:** checks another group’s code for by walking through their code from the beginning and presents his/her team’s code by reading it out loud as the stepper acts out Rover’s movements.
 
 - Emphasize that this is not a competition.
-- Project the scavenger hunt maze on the board and explain that each group will have 1 minute to trace the path they will try to code to collect prizes on the platform. 
+- Project the scavenger hunt maze on the board and explain that each group will have 1 minute to trace the path they will try to code to collect prizes on the platform.
 
 4) Start the 1 minute timer and allow teams to plan and trace their path on the scavenger hunt paper maze.
 - After 1 minute has passed check in with each group to ensure that they have a path traced out.
@@ -304,7 +304,7 @@ Introduce the class to the scavenger hunt challenge.
 6) After 3 minutes have passed, have groups put down their materials and call on groups to present their code.
 ,,,
 
-1) Students move into groups of 
+1) Students move into groups of
 
 2) Students receive the role they will play in the group from a group mate.
 
@@ -353,7 +353,7 @@ Groups of 4
 
 3) Students listen to instructions.
 
-4) Groups plan and code their routes. 
+4) Groups plan and code their routes.
 
 5) Groups present their code.
 
@@ -382,6 +382,6 @@ Individual
 Collect exit tickets.
 ,,,
 
-1) Students complete the exit ticket independently. 
+1) Students complete the exit ticket independently.
 
 {% endtable %}

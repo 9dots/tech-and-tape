@@ -1,4 +1,4 @@
-<header title='Lesson 13: Coding Pixel Emojis Continued' subtitle='plugged'/>
+<header title='Coding Pixel Emojis Continued' subtitle='Lesson 13'/>
 
 <notable>
 

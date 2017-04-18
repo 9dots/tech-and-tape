@@ -1,23 +1,24 @@
 # Coder Level 3
 
-![coder level 3](../../images/coder-level-2.jpg)
+![coder level 3](../../images/coder.jpg)
 
 Students are introduced to core coding concepts: sequences, calling functions, passing arguments, creating loops, and using conditionals. All of the work in this unit is written in fully typed JavaScript. This course includes lesson plans: unplugged and online, worksheets, and a custom-designed coding environment.
 
 ### Lessons
 
-- [sequencing pixels JS](../level-3/lesson-plans/lesson-1.html)
-- [write some code](../level-3/lesson-plans/lesson-2.html)
-- [write read repeat](../level-3/lesson-plans/lesson-3.html)
-- [pixel bot online](../level-3/lesson-plans/lesson-4.html)
-- [winter is coming - gather food](../level-3/lesson-plans/lesson-5.html)
-- [space ranger and magic words](../level-3/lesson-plans/lesson-6.html)
-- [coding arguments in JS](../level-3/lesson-plans/lesson-7.html)
-- [practicing arguments](../level-3/lesson-plans/lesson-8.html)
-- [fire ice and squirrels](../level-3/lesson-plans/lesson-9.html)
-- [pixelbot colors](../level-3/lesson-plans/lesson-10.html)
-- [designing pixel emojis](../level-3/lesson-plans/lesson-11/lesson.html)
-- [coding pixel emojis](../level-3/lesson-plans/lesson-12/lesson.html)
+- [Lesson 1: Sequencing Pixels JS](../level-3/lesson-plans/lesson-1.html)
+- [Lesson 2: Write Some Code](../level-3/lesson-plans/lesson-2.html)
+- [Lesson 3: Write Read Repeat](../level-3/lesson-plans/lesson-3.html)
+- [Lesson 4: pixelBot Online](../level-3/lesson-plans/lesson-4.html)
+- [Lesson 5: Calling Functions](../level-3/lesson-plans/lesson-5.html)
+- [Lesson 6: Space Ranger and Magic Words](../level-3/lesson-plans/lesson-6.html)
+- [Lesson 7: Coding Arguments in JS](../level-3/lesson-plans/lesson-7.html)
+- [Lesson 8: Practicing Arguments](../level-3/lesson-plans/lesson-8.html)
+- [Lesson 9: Fire, Ice and Squirrels](../level-3/lesson-plans/lesson-9.html)
+- [Lesson 10: pixelBot Colors](../level-3/lesson-plans/lesson-10.html)
+- [Lesson 11: Designing Pixel Emojis](../level-3/lesson-plans/lesson-11/lesson.html)
+- [Lesson 12: Coding Pixel Emojis](../level-3/lesson-plans/lesson-12/lesson.html)
+- [Lesson 13: Coding Pixel Emojis Continued](../level-3/lesson-plans/lesson-13/lesson.html)
 
 ### Download lesson plans
 

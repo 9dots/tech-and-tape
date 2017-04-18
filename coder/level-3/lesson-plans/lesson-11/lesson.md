@@ -1,4 +1,4 @@
-<header title='Lesson 11: Designing Pixel Emojis' subtitle='unplugged' bgColor='#C2DACC'/>
+<header title='Designing Pixel Emojis' subtitle='Lesson 11' bgColor='#FFA5AB'/>
 
 <notable>
 

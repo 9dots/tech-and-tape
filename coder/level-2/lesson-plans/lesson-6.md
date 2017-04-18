@@ -1,4 +1,4 @@
-{% title title='Dance Dance JS', subtitle='Unplugged' %}
+{% title title='Dance Dance JS', subtitle='Lesson 6' %}
 {% endtitle %}
 
 {% header title='Overview', icon='activity' %}

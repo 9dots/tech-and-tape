@@ -1,4 +1,4 @@
-<header class='header' title='Lesson 14' subtitle='Read Conditionals 1'/>
+<header class='header' title='Read Conditionals 1' subtitle='Lesson 14'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -21,7 +21,7 @@ Students are introduced to conditionals (if then), practice reading conditional 
 - [ ] Projector
 - [ ] [Slide Show][slide-show]
 
-###### Student Materials: 
+###### Student Materials:
 - [ ] Computers
 - [ ] [Exit Challenges][exit-challenge]
 - [ ] [True/False cards][boolean-cards]
@@ -65,7 +65,7 @@ Participation: Whole Class Unplugged
 
 <br/>
 
-- [ ] **Motivate** students by connecting today’s lesson to their Escape the Maze game. 
+- [ ] **Motivate** students by connecting today’s lesson to their Escape the Maze game.
 
 > > “In Lesson 12, what happened when the hero touched an enemy? The hero was sent back to the start! This is caused by conditional statements. Today we will be learning about conditionals, the foundation to programming enemies that react when the hero touches them.”
 
@@ -116,7 +116,7 @@ Participation: Small Group Unplugged
 <note>![slides-Define1](./images/slides-Define1.png)
 </note>
 
-- [ ] **Check for understanding** - 
+- [ ] **Check for understanding** -
 
 <iconp type="question"> Which of these blocks are examples of conditionals? </iconp>
 <iconp type="answer">The if-then block</iconp>
@@ -135,7 +135,7 @@ Participation: Small Group Unplugged
 ## 4. Elaborate: Conditionals in Scratch (10 min)
 Participation: Small Group Unplugged
 
-- [ ] **Translation** - In pairs students rewrite the Scratch conditionals on the handout in an if-then statement. Do one example together. It’s ok if students don’t complete all of them. 
+- [ ] **Translation** - In pairs students rewrite the Scratch conditionals on the handout in an if-then statement. Do one example together. It’s ok if students don’t complete all of them.
 
 > > “With your table partner, translate the conditional statements the Scratch code to English. Let’s do the first one together.”
 
@@ -146,7 +146,7 @@ Participation: Small Group Unplugged
 
 - [ ] **Popcorn** - Pop around the room asking students to read their translation of each conditional and then identify the boolean statement.
 
-**Extension Questions for Advanced Groups:** 
+**Extension Questions for Advanced Groups:**
 <iconp type="question">Which of these conditionals would change you to the next level if you touch the goal? </iconp>
 <iconp type="question">Which of these conditionals sends you back to the start if you touch an enemy?</iconp>
 

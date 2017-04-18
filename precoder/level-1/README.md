@@ -1,6 +1,6 @@
 # preCoder Level 1
 
-![preCoder level 1](../../images/coder-level-2.jpg)
+![preCoder level 1](../../images/precoder-two.jpg)
 
 
 ## Lessons
@@ -17,4 +17,9 @@
 - [Lesson 10: Review](../level-1/lesson-plans/lesson-10/lesson.md)
 - [Lesson 11: Summarizing I](../level-1/lesson-plans/lesson-11/lesson.md)
 - [Lesson 12: Summarizing II](../level-1/lesson-plans/lesson-12/lesson.md)
-- [Lesson 13: Decomposition I](..level-1/lesson-plans/lesson-13/lesson.md)
+- [Lesson 13: Decomposition I](../level-1/lesson-plans/lesson-13/lesson.md)
+- [Lesson 14: Decomposition II](../level-1/lesson-plans/lesson-14/lesson.md)
+- [Lesson 15: Identifying Patterns](../level-1/lesson-plans/lesson-15/lesson.md)
+- [Lesson 16: Repeating Patterns](../level-1/lesson-plans/lesson-16/lesson.md)
+- [Lesson 17: Patterns in Code](../level-1/lesson-plans/lesson-17/lesson.md)
+- [Lesson 18: Writing Loops](../level-1/lesson-plans/lesson-18/lesson,md)

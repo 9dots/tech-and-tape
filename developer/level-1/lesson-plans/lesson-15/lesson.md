@@ -1,4 +1,4 @@
-<header class='header' title='Lesson 15' subtitle='Build-a-Bot'/>
+<header class='header' title='Build-a-Bot' subtitle='Lesson 15'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -20,7 +20,7 @@ Students practice reading code with conditionals by checking the boolean stateme
 - [ ] Projector
 - [ ] [Slide Show][slide-show]
 
-###### Student Materials: 
+###### Student Materials:
 - [ ] [Lesson 15 Handout][handout1]
 - [ ] [Bots Code Handout][handout2]
 - [ ] [Bots Picture Handout][handout3]
@@ -82,7 +82,7 @@ Participation: Whole Class Unplugged
 ## 2. Explore: Build-a-Bot (15 min)
 Participation: Independent Unplugged
 
-- [ ] **Connect Prior Knowledge:** 
+- [ ] **Connect Prior Knowledge:**
 
 <iconp type="question"> The code on the side of your paper are your instructions for building your robot. What are we going to use our index cards for?</iconp>
 <iconp type="answer">Uncover each line of code one at a time as we read.</iconp>
@@ -92,7 +92,7 @@ Participation: Independent Unplugged
 ![slides-BB2](./images/BB2.jpeg)
 ![slides-BB3](./images/BB3.jpeg)
 </note>
-- [ ] **Model** the steps to reading conditionals as you complete your own bot on the board. When you read each Boolean statement read it “... is true”. 
+- [ ] **Model** the steps to reading conditionals as you complete your own bot on the board. When you read each Boolean statement read it “... is true”.
 
 Steps for reading code with conditionals:
 1. **Draw a box** around the conditional statement.

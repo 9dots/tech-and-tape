@@ -1,12 +1,12 @@
 # Developer Level 1
 
-![developer level 1](../../images/coder-level-2.jpg)
+![developer level 1](../../images/developer-two.jpg)
 
 Students begin applying core coding concepts into an Escape the Maze project. In this level, students are introduced to the Scratch block-based language and the offline maze grid. These platforms help student experience and understand new coding concepts such as sequencing, creating loops, and using conditionals.
 
 ## Lessons
 
-- [Lesson 1: I am a coder](../level-1/lesson-plans/lesson-1.html)
+- [Lesson 1: I am a Coder](../level-1/lesson-plans/lesson-1.html)
 - [Lesson 2: Getting Started on Scratch](../level-1/lesson-plans/lesson-2.html)
 - [Lesson 3: Maze Scavenger Hunt](../level-1/lesson-plans/lesson-3.html)
 - [Lesson 4: Dance Off](../level-1/lesson-plans/lesson-4.html)
@@ -25,3 +25,9 @@ Students begin applying core coding concepts into an Escape the Maze project. In
 - [Lesson 15: Build-a-Bot](../level-1/lesson-plans/lesson-15/lesson.html)
 - [Lesson 16: Debugging](../level-1/lesson-plans/lesson-16/lesson.html)
 - [Lesson 17: Write Conditionals](../level-1/lesson-plans/lesson-17/lesson.html)
+- [Lesson 18: Where's Rover](../level-1/lesson-plans/lesson-18/lesson.html)
+- [Lesson 19: Debug & Plan](../level-1/lesson-plans/lesson-19/lesson.html)
+- [Lesson 20: I Have a Challenge for You](../level-1/lesson-plans/lesson-20/lesson.html)
+- [Lesson 21: Independent Coding Challenge](../level-1/lesson-plans/lesson-21/lesson.html)
+- [Lesson 22: Project & Bug Tickets](../level-1/lesson-plans/lesson-22/lesson.html)
+- [Lesson 23: Project & User Experience](../level-1/lesson-plans/lesson-23/lesson.html)

@@ -1,13 +1,13 @@
-<header class='header' title='Lesson 10 Part1' subtitle='ICC Review'/>
+<header class='header' title='ICC Review' subtitle='Lesson 10 Part 1'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-We want to establish a coding learning culture where students enjoy challenging themselves, enjoy learning new things, and like to address weaknesses in their understanding. Students review their Independent Coding Challenges from Lesson 9 and acknowledge their progress as coders while addressing bugs in their code. 
+We want to establish a coding learning culture where students enjoy challenging themselves, enjoy learning new things, and like to address weaknesses in their understanding. Students review their Independent Coding Challenges from Lesson 9 and acknowledge their progress as coders while addressing bugs in their code.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
-- I can use the editor, block palette, and stage in Scratch to code my program 
+- I can use the editor, block palette, and stage in Scratch to code my program
 - I can code a sequence of actions in the order I want them performed.
-- I can use the debugging process to debug my code. 
+- I can use the debugging process to debug my code.
 - I can step through and act out code that contains a loop.
 - I can predict the effects of code that contains a loop.
 - I can recognize and identify a repeating pattern.
@@ -23,7 +23,7 @@ We want to establish a coding learning culture where students enjoy challenging 
 - [ ] Projector
 - [ ] ICC results
 
-###### Student Materials: 
+###### Student Materials:
 - [ ] Pencil
 - [ ] ICC completed
 
@@ -51,7 +51,7 @@ Participation: Whole Class, Unplugged
 
 - [ ] **Motivate**
 
-> > “In lesson 9 you complete an Independent Coding Challenge because you are coders and coders love to challenge themselves. We want you to see how much you have learned so today we’re going to look at how we did on our challenges. Just a few months ago you had probably never coded before!” 
+> > “In lesson 9 you complete an Independent Coding Challenge because you are coders and coders love to challenge themselves. We want you to see how much you have learned so today we’re going to look at how we did on our challenges. Just a few months ago you had probably never coded before!”
 <br/>
 ![slides-motivate1](./images/slides-motivate1.jpeg)
 

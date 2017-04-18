@@ -1,4 +1,4 @@
-{% title title='Pixel Bots Online', subtitle='Plugged' %}
+{% title title='pixelBots Online', subtitle='Lesson 4' %}
 {% endtitle %}
 
 {% header title='Overview', icon='activity' %}

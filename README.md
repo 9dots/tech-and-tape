@@ -1,6 +1,6 @@
 # Welcome to getCoding
 
-![coding image](images/getcoding_2.jpg)
+![coding image](images/developer.jpg)
 
 Coding is so much more than a language. It's a tool for creating video games, music, and art. A tool for changing the world.
 <br spacing="1"></br>

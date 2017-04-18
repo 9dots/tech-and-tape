@@ -1,4 +1,4 @@
-{% title title='Gather Food - Winter is Coming', subtitle='plugged' %}
+{% title title='Winter is Coming', subtitle='Lesson 8' %}
 {% endtitle %}
 
 {% header title='Overview', icon='activity' %}

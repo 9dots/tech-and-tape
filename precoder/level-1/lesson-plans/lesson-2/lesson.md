@@ -1,28 +1,28 @@
-<header class='header' title='Lesson 2' subtitle='turtleMove Part I'/>
+<header class='header' title='turtleMove Part I' subtitle='Lesson 2'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 2 students begin to develop an understanding of how to use commands to control the actions of a computer. Students are introduced to the idea that commands must be clear and precise in order for a computer to carry them out. 
+In lesson 2 students begin to develop an understanding of how to use commands to control the actions of a computer. Students are introduced to the idea that commands must be clear and precise in order for a computer to carry them out.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can use a set of commands to direct my turtle’s movement.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. **Engage: Warm Up (5 min)** The class attempts to give the teacher directions on how to brush his/her teeth as an introduction to giving concrete directions to a computer. Coding is defined at the end of the activity.
-1. **Explore/Explain: turtleMove (5 min)** Students use a variety of strategies to guide their teacher to a specific spot on the floor grid. Their experience giving directions is then used to develop an understanding of how to use the direction cards to navigate a person on the floor grid.
-1. **Elaborate: Turtle Go (15 min)** Students use paper video game controllers to direct the movements of classmates on the grid. In round 1 the class must navigate to a designated spot on the grid. In round 2 the class navigates two students on the grid in an attempt to have one catch the other.
-1. **Evaluate: Discussion (5 min)** Students engage in a discussion about using commands.
+1. Engage: Warm Up (5 min)
+1. Explore/Explain: turtleMove (5 min)
+1. Elaborate: Turtle Go (15 min)
+1. Evaluate: Discussion (5 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Projector
-- [ ] [Slideshow][slide-show]
+- [ ] [Lesson 2 Slides][slides]
 - [ ] Toothbrush
 - [ ] Tube of Toothpaste
 - [ ] Floor Grid
-- [ ] [Paper Star][paper-star] 
+- [ ] [Paper Star][paper-star]
 
 ###### Student Materials:
 - [ ] [Paper Game Controllers][paper-controllers]
@@ -51,12 +51,12 @@ In lesson 2 students begin to develop an understanding of how to use commands to
 <pagebreak/>
 
 
-## Engage: Warm Up (7 min)
+## 1. Engage: Warm Up (7 min)
 
 - [ ] Have students volunteer to give you directions on how to brush your teeth. Act out each student’s directions as they share.
 
 
-**Note:** The purpose of this activity is for students to see how important it is to give clear and precise directions. Each direction a student gives should be followed literally to show how directions that are not clear and precise can be misinterpreted. 
+**Note:** The purpose of this activity is for students to see how important it is to give clear and precise directions. Each direction a student gives should be followed literally to show how directions that are not clear and precise can be misinterpreted.
 
 **Example:** If a student says to put toothpaste on the toothbrush, place the tube of toothpaste on the toothbrush.
 
@@ -67,7 +67,7 @@ In lesson 2 students begin to develop an understanding of how to use commands to
 - Giving instructions to a computer is what we call coding.
 </note>
 
-## Explore/Explain: turtleMove (5 min) 
+## 2. Explore/Explain: turtleMove (5 min)
 
 - [ ] Place the star on the floor grid and stand in an adjacent square.
 - [ ] Tell students that you need help navigating to the colored tile.
@@ -76,7 +76,7 @@ In lesson 2 students begin to develop an understanding of how to use commands to
 ![grid-one](./images/grid-one.png)
 
 
-- [ ] Present the same scenario. This time inform students that they cannot use their voice. 
+- [ ] Present the same scenario. This time inform students that they cannot use their voice.
 - [ ] Have volunteers to give you directions to the colored tile.
 - [ ] Ask the class:
 
@@ -86,7 +86,7 @@ In lesson 2 students begin to develop an understanding of how to use commands to
 - [ ] Pass out direction cards and ask students how they would use them to give you directions.
 - [ ] Move the star to different adjacent squares and have the class practice giving you directions with the directions card.
 
-## Elaborate: Turtle Go (15 min)
+## 3. Elaborate: Turtle Go (15 min)
 
 Pass out 1 game controller cutout to each student and project the large game controller from the slideshow.
 <br/>
@@ -101,7 +101,7 @@ Pass out 1 game controller cutout to each student and project the large game con
 - [ ] Once the group agrees on a button have a volunteer press the button on the large controller and move to an adjacent square in response to the button that was selected.
 - [ ] Repeat this process until you reach the star.
 
-## Evaluate: Discussion (5 min)
+## 4. Evaluate: Discussion (5 min)
 
 Debrief the activity with a discussion.
 
@@ -114,7 +114,7 @@ Debrief the activity with a discussion.
 
 </notable>
 
-[slide-show]: https://drive.google.com/open?id=1Ff8QsgmBG1q5Pa-Kq14IPe-3HArs8f7EAW73lxKFVBk
+[slides]: https://drive.google.com/open?id=1Ff8QsgmBG1q5Pa-Kq14IPe-3HArs8f7EAW73lxKFVBk
 [paper-star]: https://drive.google.com/open?id=0B48_2vIyABioelNBOFh0VHhWaEE
 [paper-controllers]: https://drive.google.com/open?id=0B48_2vIyABioRVJkODVORy1FNEk
 [direction-cards]: https://drive.google.com/open?id=0B48_2vIyABioRm5NbkN4VGxZU2s

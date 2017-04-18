@@ -1,8 +1,8 @@
-<header class='header' title='Lesson 16' subtitle='Debugging'/>
+<header class='header' title='Debugging' subtitle='Lesson 16'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Students are introduced to the debugging protocol and practice applying it to a series of debugging challenges in Scratch. Then they continue to practice writing conditionals by coding along in Scratch to create conditionals that cause their game to progress to the next level and that cause their enemies and hero to react to each other. 
+Students are introduced to the debugging protocol and practice applying it to a series of debugging challenges in Scratch. Then they continue to practice writing conditionals by coding along in Scratch to create conditionals that cause their game to progress to the next level and that cause their enemies and hero to react to each other.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can write an if-then statement to execute a sequence if a test is true.
@@ -22,7 +22,7 @@ Students are introduced to the debugging protocol and practice applying it to a 
 - [ ] [Scratch Studio][studio]
 - [ ] [Socrative Challenge][socrative] SOC-26868660
 
-###### Student Materials: 
+###### Student Materials:
 - [ ] Dry erase markers
 - [ ] Computers
 
@@ -53,7 +53,7 @@ Students will be on computers for the entire lesson. Your room setup should allo
 Participation: Independent Online
 
 
-- [ ] **Debugging** Students login to Scratch and navigate to the debugging studio in “My Class”. For each challenge show students a gif of what the coder wanted the enemy to do. Coders will follow the 3 steps as they debug the code. Discuss solutions as a whole class before continuing to the next challenge. 
+- [ ] **Debugging** Students login to Scratch and navigate to the debugging studio in “My Class”. For each challenge show students a gif of what the coder wanted the enemy to do. Coders will follow the 3 steps as they debug the code. Discuss solutions as a whole class before continuing to the next challenge.
 
 <note type="tip"> You can either show students the video solutions in the slides or demo the solution yourself in Scratch.</note>
 
@@ -63,7 +63,7 @@ Participation: Independent Online
 
 <br/>
 
-- [ ] **Challenge 1** 
+- [ ] **Challenge 1**
 
 <iconp type="question"> What does the coder want their program to do? What does it do instead?</iconp>
 <iconp type="answer"> It moves forward and then moves backwards very slowly.</iconp>
@@ -74,7 +74,7 @@ Participation: Independent Online
 ![Challenge1-5](./images/Challenge1-5.jpeg)
 <br/>
 
-- [ ] **Challenge 2** 
+- [ ] **Challenge 2**
 
 <iconp type="question"> What does the coder want their program to do? What does it do instead?</iconp>
 <iconp type="answer"> Instead of growing and shrinking, the enemy only grows.</iconp>
@@ -85,7 +85,7 @@ Participation: Independent Online
 ![Challenge1-2](./images/Challenge1-2.jpeg)
 <br/>
 
-- [ ] **Challenge 3** 
+- [ ] **Challenge 3**
 
 <iconp type="question"> What does the coder want their program to do? What does it do instead?</iconp>
 <iconp type="answer"> Instead of showing and hiding, it looks like the enemy doesn't do anything.</iconp>
@@ -96,7 +96,7 @@ Participation: Independent Online
 ![Challenge1-3](./images/Challenge1-3.jpeg)
 <br/>
 
-- [ ] **Challenge 4** 
+- [ ] **Challenge 4**
 
 <iconp type="question"> What does the coder want their program to do? What does it do instead?</iconp>
 <iconp type="answer"> Instead of changing color repeatedly, it changes color ten times and stops.</iconp>
@@ -107,14 +107,14 @@ Participation: Independent Online
 ![Challenge1-4](./images/Challenge1-4.jpeg)
 <br/>
 
-- [ ] **Challenge 5** 
+- [ ] **Challenge 5**
 
 <iconp type="question"> What does the coder want their program to do? What does it do instead?</iconp>
 <iconp type="answer"> Instead of zigzagging, it glides between 2 points.</iconp>
 <iconp type="question"> Ask students to find & fix the bug in their Scratch editor. </iconp>
 
 	Solution: Add more glide blocks and adjust the arguments.
-	
+
 ![Challenge1-1](./images/Challenge1-1.jpeg)
 
 - [ ] **Explain:** the debugging protocol.
@@ -136,7 +136,7 @@ Participation: Whole Class Unplugged
 
 ![Real-World](./images/RealWorld.jpeg)
 
-## 3. Elaborate: Code Along (15 min) 
+## 3. Elaborate: Code Along (15 min)
 Participation: Whole Class Online
 
 
@@ -144,7 +144,7 @@ Participation: Whole Class Online
 
 <note type="tip">You can either show the code along videos in the slides or demo the code yourself in Scratch.</note>
 
-The three conditionals we will demo are: 
+The three conditionals we will demo are:
 1. If my hero touches Enemy 1, then the hero goes back to the start.
 1. If my hero touches any enemy, then the hero goes back to the start.
 
@@ -166,4 +166,3 @@ Participation: Independent Online
 [slide-show]: https://drive.google.com/file/d/0B2wBzr9vcXjPUU1HbnlqY0xhLWc/view?usp=sharing
 [studio]: https://scratch.mit.edu/studios/3755751/
 [socrative]: http://www.socrative.com
- 
