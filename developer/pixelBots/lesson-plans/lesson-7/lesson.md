@@ -38,21 +38,25 @@ Students finish coding pixel emoji project and share their emoji and program wit
 - [ ] Student pixelBots account with pixel emoji project
 
 
-<iconp src='/icons/vocab.png'>### Vocabulary</iconp>
+
 
 
 </note>
-
-<br/>
-#### 1. Elaborate:Finish Coding Project (40 minutes)
+<pagebreak/>
+#### 1. Elaborate: Finish Coding Project (40 minutes)
 - [ ] **Planning:** Students log in onto pixelBots and assess progress on their pixel emoji and create a todo list in their coding journal. (slide 2-3)
   - Remind students that today is the last day to complete their Pixel Emoji.
 
+<note>
+**Slides:**
+![slides 2-3](./images/planning.png)</note>
+
 - [ ] **Project:** Students code one feature of their pixel emoji at a time and then check it off their todo list. (slide 4)
   - Remind students of for loop code. (slide 5)
-
+<note>![slides 4-5](./images/project.png)</note>
 #### 2. Showcase: Share Emojis with class (20 minutes)
 - [ ] Students open their final emoji project on their computer. (slide 6)
+<note>![slides 6](./images/showcase.png)</note>
 - [ ] Students walk around the classroom and view each other's emojis and program.
 
 
