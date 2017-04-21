@@ -31,3 +31,4 @@ Students begin applying core coding concepts into an Escape the Maze project. In
 - [Lesson 21: Independent Coding Challenge](../level-1/lesson-plans/lesson-21/lesson.html)
 - [Lesson 22: Project & Bug Tickets](../level-1/lesson-plans/lesson-22/lesson.html)
 - [Lesson 23: Project & User Experience](../level-1/lesson-plans/lesson-23/lesson.html)
+- [Lesson 24: Arcade](../level-1/lesson-plans/lesson-24/lesson.html)
