@@ -76,6 +76,7 @@
     * [Lesson 21: Independent Coding Challenge](developer/level-1/lesson-plans/lesson-21/lesson.md)
     * [Lesson 22: Projects & Bug Tickets](developer/level-1/lesson-plans/lesson-22/lesson.md)
     * [Lesson 23: Projects & User Experience](developer/level-1/lesson-plans/lesson-23/lesson.md)
+    * [Lesson 24: Arcade](developer/level-1/lesson-plans/lesson-24/lesson.md)
   * [Minecraft](developer/minecraft/README.md)
     * [Beginner](developer/minecraft/beginner/README.md)
       * [Lesson 1: Turtles & Minecraft](developer/minecraft/beginner/lesson-plans/lesson-1/lesson.md)
