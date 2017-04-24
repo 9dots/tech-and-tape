@@ -21,6 +21,7 @@
     * [Lesson 16: Repeating Patterns](precoder/level-1/lesson-plans/lesson-16/lesson.md)
     * [Lesson 17: Patterns in Code](precoder/level-1/lesson-plans/lesson-17/lesson.md)
     * [Lesson 18: Writing Loops](precoder/level-1/lesson-plans/lesson-18/lesson.md)
+    * [Lesson 19: Reading Loops](precoder/level-1/lesson-plans/lesson-19/lesson.md)
 * [Coder](coder/README.md)
   * [Level 2](coder/level-2/README.md)
     * [Lesson 1: Sequencing Pixels](coder/level-2/lesson-plans/lesson-1.md)
