@@ -24,6 +24,7 @@ Students share their final projects and give each other feedback on user experie
 - [ ] Idea Journals
 - [ ] Computers
 - [ ] [Survey Link][survey]
+- [ ] [Feedback Sheet][handout]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 - **User Experience** - How a person feels when using a program or product.
@@ -108,3 +109,4 @@ Use the timer slide that is right for your class length: 10 minute groups or 15 
 
 [slide-show]: https://docs.google.com/presentation/d/1NI9Jst2IYmRjq8FABORGLZBQwcLKkk7WBTRY9j6Ylgw/edit?usp=sharing
 [survey]: http://tinyurl.com/getcoding7
+[handout]: https://drive.google.com/file/d/0B2wBzr9vcXjPeFNYMm5kdkotR2c/view?usp=sharing
