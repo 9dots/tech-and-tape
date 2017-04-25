@@ -28,7 +28,7 @@ In lesson 18 students learn to write loops on the pixelBot platform. Students us
 - [ ] [Playlist: Writing Loops][writing]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
-- **Loop** - The action of doing something over and over again.
+- **Loop** - A sequence of actions that is repeated.
 
 </note>
 
