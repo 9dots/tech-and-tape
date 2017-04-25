@@ -105,7 +105,7 @@ In lesson 19 students learn to read loops by stepping through sequences of code 
 - [ ] **Show** the arrow graphic that summarizes how the code was read.
 
 - [ ] **Define** the word loop.
->> “A loop is a sequence of actions that repeated.”
+>> “A loop is a sequence of actions that is repeated.”
 
 - [ ] **Show** the GIFs in the slides and explain that they are examples of loops.
 
