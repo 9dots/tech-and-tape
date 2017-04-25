@@ -1,6 +1,6 @@
 {
   "name": "get-coding-curricula",
-  "version": "0.1.112",
+  "version": "0.1.113",
   "description": "get coding curricula",
   "main": "index.js",
   "scripts": {
