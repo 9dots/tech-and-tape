@@ -28,7 +28,7 @@ In lesson 18 students learn to write loops on the pixelBot platform. Students us
 - [ ] [Playlist: Writing Loops][writing]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
-- **Loop** - The action of doing something over and over again.
+- **Loop** - A sequence of actions that is repeated.
 
 </note>
 
@@ -61,13 +61,13 @@ In lesson 18 students learn to write loops on the pixelBot platform. Students us
 
 - [ ] **Challenge** the class to try to think of a different way to tell the jumping robot to jump.
 
-<iconp type='question'>What other word would the robot need to understand to shorten this code?</iconp>
+<iconp type='question'>What is another way we can make the robot jump 50 times without having to say jump 50 times?</iconp>
 
-- [ ] **Explain** that instead of writing the jump direction 50 times it is possible to simply tell the jumping robot to follow the direction jump 50 times.
+- [ ] **Explain** that instead of writing the jump direction 50 times it is possible to simply tell the jumping robot to repeat the jump command 50 times.
 
 ![engage-two](./images/engage-two.png)
 
-- [ ] **Show** that the sequence of code with 50 jump commands is the same as the sequence of code that specifies that the jump command should be followed 50 times.
+- [ ] **Show** that the sequence of code with 50 jump commands is the same as the sequence of code that tells the robot to repeat the jump command 50 times.
 
 ## Explore: Find the Pattern (5 min)
 - [ ] **Explain** that code can be repeated just like in the jumping robot example.
@@ -77,7 +77,7 @@ In lesson 18 students learn to write loops on the pixelBot platform. Students us
 
 ![explore-one](./images/explore-one.png)
 
-- [ ] **Explain** that the code can be shorted by telling the computer to repeat the direction that we see repeating in the sequence.
+- [ ] **Explain** that the code can be shortened by telling the computer to repeat the direction that we see repeating in the sequence.
 
 - [ ] **Challenge** the class to identify the direction that is being repeated in the code.
 
@@ -117,7 +117,7 @@ In lesson 18 students learn to write loops on the pixelBot platform. Students us
 >> “The sequence of code that I wrote repeats the directions right and paint 3 times.”
 
 - *Repeat* the core of the pattern.
->>“Instead of writing right and paint three times I can tell the computer to repeat those two directions 3 times. To repeat the two directions I am selecting them and clicking the loop button. The loop button tells the computer to repeat the code. Then I type the number 3 to show that the directions inside of the loop block repeat 3 times.  Finally I delete the rest of the code that is no longer needed.”
+>>“Instead of writing right and paint three times I can tell the computer to repeat those two directions 3 times. To repeat the two directions, I am selecting them and clicking the loop button. The loop button tells the computer to repeat the code. Then I type the number 3 to show that the directions inside of the loop block repeat 3 times.  Finally I delete the rest of the code that is no longer needed.”
 
 - [ ] **Guided Practice:** Have the class work together to solve pixelBot challenge number four.
 
