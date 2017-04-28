@@ -36,7 +36,7 @@ Students learn the interface of MinecraftEdu and write programs in Lua to move a
 
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
-- **Function call** - A programming element that tells the computer to do something. In the beginning, most function calls will cause the computer to perform an action.
+- **Function call** - A programming element that tells the computer to perform a task.
 
 </note>
 <pagebreak/>
