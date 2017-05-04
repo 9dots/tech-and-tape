@@ -31,7 +31,7 @@ Students work in groups to tackle a challenging problem-solving game. They begin
 - [ ] [River Crossing Handouts][handout]
 - [ ] [Code Blocks][code-blocks]
 - [ ] Felt Strip
-- [ ] [Characters][characters]
+- [ ] [Character Handout][characters]
 
 </note>
 
