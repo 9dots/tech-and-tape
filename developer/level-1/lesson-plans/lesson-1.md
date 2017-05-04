@@ -152,7 +152,7 @@ Participation: Whole Class
 
 </notable>
 
-[slide-show]: https://drive.google.com/open?id=1x93rJjY6hmRabIbfh6HnhEUf8Jmwz6GwwUGeETPOmdc
+[slide-show]: https://docs.google.com/presentation/d/15ayO8DbbLpKE8sAk4XguSR4K9KH7c23RGo9G3mGNbN8/edit?usp=sharing
 [Tcode-blocks]: https://drive.google.com/file/d/0B2wBzr9vcXjPVFJSdmpISXlaU2c/view?usp=sharing
 [Tcharacters]: https://drive.google.com/file/d/0B2wBzr9vcXjPRDdsaHhzMVpKT3M/view?usp=sharing
 [solution]: https://drive.google.com/file/d/0B2wBzr9vcXjPaXZMS1ZDaUVJanM/view?usp=sharing
