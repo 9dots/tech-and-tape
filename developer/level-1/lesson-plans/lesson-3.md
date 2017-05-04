@@ -27,8 +27,9 @@ Students are introduced to the importance of writing clear instructions. Student
 - [ ] [Challenges Handouts][handout]
 - [ ] Pencils
 - [ ] [Exit Challenges][exit]
-- [ ] [Rovers][rovers]
 - [ ] [Optional Extension Handout][extension]
+- [ ] [Rover Tokens][cutouts]
+
 
 </note>
 
@@ -48,7 +49,7 @@ Students are introduced to the importance of writing clear instructions. Student
 </note>
 
 <pagebreak/>
-## 1. Engage/Explore: Peanut Butter Jelly (5 min) 
+## 1. Engage/Explore: Peanut Butter Jelly (5 min)
 
 - [ ] **Challenge:** Place the peanut butter, jelly, knife, plate, and bread on the front table.
 
@@ -59,7 +60,7 @@ Students are introduced to the importance of writing clear instructions. Student
 > > “Humans can interpret the meaning and intention behind a direction in a way computers cannot. You would have known that “put the peanut butter on the bread” meant that first you needed to get a knife and open the jar and put peanut butter on the knife, etc. But a computer cannot infer all of that. It only knows to follow the specific instructions we write. These instructions are code. Today we are going to code a sequence of instructions that are clear and precise for a computer to follow.”
 
 <note type="tip">
-Nut allergies are common. Sunflower butter is a safe alternative to peanut butter. 
+Nut allergies are common. Sunflower butter is a safe alternative to peanut butter.
 **Slides:** ![slide-pbj](./lesson-3/images/slides-pbj.jpeg)
 </note>
 
@@ -84,7 +85,7 @@ Nut allergies are common. Sunflower butter is a safe alternative to peanut butte
 ![slide-rover6](./lesson-3/images/slides-rover6.jpeg)
 </note>
 
-- [ ] **Challenge:** Help Rover navigate to the goal on handout 1 and on the foam tiles by following the three steps to write code: 1) plan 2) code 3) validate. 
+- [ ] **Challenge:** Help Rover navigate to the goal on handout 1 and on the foam tiles by following the three steps to write code: 1) plan 2) code 3) validate.
 
 > > “Now that you’ve been introduced to Rover, we are going to use him to complete our first challenge today. We need to write the code that will get Rover to the yellow goal. Find your Rover and place him on Start on your worksheet.”
 
@@ -105,7 +106,7 @@ Nut allergies are common. Sunflower butter is a safe alternative to peanut butte
 
 <br/>
 
-- [ ] **Validate:** After we write each line of code we will validate (check) that Rover is on its path and that our Bot is correctly following the code. 
+- [ ] **Validate:** After we write each line of code we will validate (check) that Rover is on its path and that our Bot is correctly following the code.
 
 > > “Validate means to check that our code and Rover are doing what we want them to do. Everyone will help us validate each line of code as we go.”
 
@@ -144,13 +145,13 @@ Nut allergies are common. Sunflower butter is a safe alternative to peanut butte
 ## 4. Evaluate: Exit Challenge (5 min)
 - [ ] **Challenge:** Students complete the exit challenge independently. When they are done, collect their work and note students who still need more help reading and writing a sequence.
 
-> > “I have a challenge for you. Complete this challenge independently. On your paper there are two grids. Examine each grid along with the code. Choose the missing block that would get Rover to the goal. Circle the block that you think goes in the blank space in his code.” 
+> > “I have a challenge for you. Complete this challenge independently. On your paper there are two grids. Examine each grid along with the code. Choose the missing block that would get Rover to the goal. Circle the block that you think goes in the blank space in his code.”
 
 <note> ![slide-ec](./lesson-3/images/slides-ec.jpeg)</note>
 
 ## 5. Optional Extension: Scavenger Hunt (20 min)
 
-- [ ] **Challenge:** Students will work in pairs to write the code to navigate Rover through a grid to reach each goal. 
+- [ ] **Challenge:** Students will work in pairs to write the code to navigate Rover through a grid to reach each goal.
 
 > > “Let’s make it more challenging! Acting as Coders & Bots, your goal is to navigate Rover through the maze to reach as many of the goals as you can. You probably won’t have time to make it to all of the goals. That’s ok. But for each goal you reach there is a prize waiting.”
 
@@ -180,9 +181,9 @@ Nut allergies are common. Sunflower butter is a safe alternative to peanut butte
 </notable>
 
 [slide-show]: https://docs.google.com/presentation/d/1cR3e-XiSHqI6O8H01ng_IoglktZefa-hRPKNsuhlyW8/edit?usp=sharing
+[targets]: https://drive.google.com/file/d/0B48_2vIyABioeEVTZWx1XzRMUFU/view?usp=sharing
 [code]: https://drive.google.com/file/d/0B48_2vIyABioU0FyTTNsR29WNUE/view?usp=sharing
 [handout]: https://drive.google.com/file/d/0B48_2vIyABiodlhwdFRiRDJXckU/view?usp=sharing
-[rovers]: https://drive.google.com/file/d/0B48_2vIyABioX3I1cjkxUW9JckE/view?usp=sharing
-[targets]: https://drive.google.com/file/d/0B48_2vIyABioeEVTZWx1XzRMUFU/view?usp=sharing
 [exit]: https://drive.google.com/file/d/0B48_2vIyABioZk5fTGZGQkNIX0U/view?usp=sharing
 [extension]: https://drive.google.com/file/d/0B48_2vIyABioQmxOeEpnb3F4TVE/view?usp=sharing
+[cutouts]: https://drive.google.com/file/d/0B48_2vIyABioX3I1cjkxUW9JckE/view?usp=sharing
