@@ -1,258 +1,135 @@
-{% title title='Dance Off', subtitle='Lesson 4' %}
-{% endtitle %}
+<header class='header' title='Escape the Maze' subtitle='Lesson 04'/>
 
-{% header title='Overview', icon='activity' %}
-{% endheader %}
+<notable>
+<iconp src='/icons/activity.png'>### Overview</iconp>
+Students are introduced to the Escape the Maze project they will be working on throughout the year. They will brainstorm how to improve on the starter version of the game and learn to read the starter code through code along videos while getting more familiar with Scratch.
 
-In this lesson, students learn how to plan, code, and validate their work by creating a dance off with their sprites on Scratch.
-
-## Print PDF
-
-[Print this lesson](../lessonPDFs/Lesson 4: Dance Off.pdf)
-
-{% overviewSection title='Objectives', icon='objectives' %}
-{% endoverviewSection %}
-
-- I can code a sequence of actions in the order I want them performed.
+<iconp src='/icons/objectives.png'>### Objectives</iconp>
+- I can read the project starter code in Scratch.
 - I can use the editor, block palette, and stage in Scratch to code my program.
 
-{% overviewSection title='Agenda', icon='agenda' %}
-{% endoverviewSection %}
+<iconp src='/icons/agenda.png'>### Agenda</iconp>
+1. Engage/Explore: Escape the Maze (5 min)
+1. Explain: Code Along (20 min)
+1. Elaborate: Brainstorm (5 min)
+1. Evaluate: Socrative (15 min)
 
-Do Now (5 min) - logging in
-- ** Code Along (15 min):** If You Give a Mouse a Cookie
-  * Plan - read “If you give a mouse a cookie” instructions
-  * Code - code along to the story
-  * Debug - add wait blocks to debug
-- ** Code Along (25 min):** Dance Off
-  *Plan - write out directions to your dance
-  *Code - code your dance
-  *Debug - add wait blocks to debug
-- ** EXTENSION (15 min):** Coding Challenges
 
-{% overviewSection title='Vocab', icon='vocab' %}
-{% endoverviewSection %}
+<note>
+<iconp src='/icons/materials.png'>### Materials</iconp>
+###### Teacher Materials:
+- [ ] Projector
+- [ ] [Slide Show][slide-show]
+- [ ] [Socrative Quiz][socrative]
+- [ ] [Socrative Tutorial][tutorial]
 
-- **Editor:** A program designed for editing computer code by coders.
+###### Student Materials:
+- [ ] Idea Journals
+- [ ] Pencils
+- [ ] Computers
 
-{% overviewSection title='Materials', icon='materials' %}
-{% endoverviewSection %}
+</note>
 
-- Projector
-- Idea Journals
-- Computers (class set)
-- Pencils (class set)
+## Room Design
 
-## Ideal Desk Setup
+![room](./lesson-1/images/online.png)
 
-![Classroom Setup](lesson-2/img/desk-setup.png "Classroom Setup")
+<note>
 
-## Resources
-**[Powerpoint:Lesson 4](https://docs.google.com/a/9-dots.org/presentation/d/10qL9cBqm8bmxiTEU4tv7slTdAZhIzNm41yWqUu6KHUk/edit?usp=sharing)**
+<iconp src='/icons/vocab.png'>### Vocabulary</iconp>
+- **Editor** - A program designed for editing computer code by coders.
+- **Starter Code** - Code you build on to improve a program.
 
-{% header title='Do Now', icon='objectives' %}
-{% endheader %}
+###### Symbols Key
+<iconp ml='1.65em' type='question'>question</iconp>
+<iconp ml='1.65em' type='answer'>answer</iconp>
+</note>
 
-{% length '5 minutes' %}
-{% endlength %}
+<pagebreak/>
+## 1. Engage/Explore: Escape the Maze (5 min)
+Participation: Whole Class, Online
 
-**Prep:**
-- Computers
-- Idea Journals
-- Pencils
+- [ ] **Challenge:** Dramatically 💥 💃  reveal the project students will be working on this year - Escape the Maze. Call a student up to play the game.
 
-{% table %}
+<iconp type="question"> Who here has done a maze before? </iconp>
+<iconp type="question"> Who can tell me what a maze is? </iconp>
+<iconp type="answer"> A path you need to navigate to get to a goal, has a start and end, sometimes there are dead ends or obstacles </iconp>
 
-1) Circulate room to assist students in logging-in to their Scratch accounts
-* If necessary, review the computer usage expectations.
-,,,
+> > “There is so much powerful stuff that you can build as a coder: apps, websites, robots. Well this year as you develop your skills as coders, you are going to be working on coding your own video game. The game we will be working on is called Escape the Maze. Let’s open it in Scratch and take a look. I need a volunteer to come up and play the game.”
 
-1) Students log-in to their Scratch accounts.
+<iconp type="question"> What is happening in the game? </iconp>
+<iconp type="answer"> They are moving the ball through the maze. </iconp>
+<iconp type="question"> What happens if the mouse touches the blue? </iconp>
+<iconp type="answer"> The ball bounces backwards</iconp>
+<iconp type="question"> What does the blue represent?</iconp>
+<iconp type="answer"> The walls of the maze.</iconp>
+<iconp type="question"> What is the mouse?</iconp>
+<iconp type="answer"> The end, finish, goal</iconp>
+<iconp type="question"> What happens when the mouse gets to the cheese? </iconp>
+<iconp type="answer"> It says "You Win!"</iconp>
 
-{% endtable %}
+<note>**Slides:** 
+![slides-challenge](./lesson-4/images/slides-challenge.jpeg)
+![slides-play](./lesson-4/images/slides-play.jpeg)
+</note>
 
-{% header title='Code Along: If You Give a Mouse a Cookie', icon='objectives' %}
-{% endheader %}
+<pagebreak/>
+## 2. Explain: Code Along (20 min)
+Participation: Whole Class, Online
 
-{% length '15 minutes' %}
-{% endlength %}
+- [ ] **Code Along:** Play the code along video to navigate students to the maze in Scratch. Pause the video to allow students to answer the questions in the video.
 
-Students code along with the teacher for 15 minutes. Stop the activity at 15 minutes to ensure time for inidividual coding with the Dance Off activity.
+> > “Let’s login to Scratch and look at the code that makes this game work.”
 
-**Prep:**
-- Computers
-- Plan Chart
-- "If You Give a Mouse a Cookie" book or audiobook
-Use [this](https://scratch.mit.edu/projects/121824209/) Scratch Project for student code along.
+<note>
+![slides-code](./lesson-4/images/slides-code.jpeg)
+🎥 **Code Along**
+- Login to Scratch & Navigate to project
+- Play Escape the Maze
+- Break starter code, unearth what it does
+</note>
 
-{% table %}
+## 3. Elaborate: Brainstorm (5 min)
+Participation: Whole Class, Unplugged
 
-1) Read “If You Give a Mouse a Cookie” to students (3 min)
+- [ ] **Brainstorm:** The game students played is just the bare bones. Help students brainstorm ideas to improve Escape the Maze that they can code as they build their coder skills.
 
-2) Show the step by step plan (2 min)
-  *Ask students to identify connection between a step and what happened in the story.
+<iconp type="question"> The game you just saw is just the starter version. As a coder, it will be your job to improve the game and make it your own. What features could we add to Escape the Maze to make it more fun to play? </iconp>
+<iconp type="answer"> Record students’ responses on the board as they share and encourage them to write the ideas they like in their idea journals. </iconp>
 
-Mouse Will:
-1. Ask for a glass of milk
-2. Go to Milk
-3. Ask for a straw
-4. Go to straw
-5. Ask for a napkin
-6. Go to napkin
-7. Look in the mirror
-8. Go to mirror
-9. Ask for a pair of scissors
-10. Go to scissors
+Continue to prompt students with questions: 
+<iconp type="question"> What could make the enemies more challenging? </iconp>
+<iconp type="question"> What should happen when you get to the end of the maze? </iconp>
+<iconp type="question"> What should happen if the mouse runs into one of the enemies? </iconp>
+<iconp type="question"> Think about the games you enjoy playing. What features make them challenging? </iconp>
 
-**Code Along (10 min)**
+<note>
+![slides-brainstorm](./lesson-4/images/slides-brainstorm.jpeg)
+</note>
 
-* Setup
-  * Navigate to “My Classes”, “Exploring Scratch” studio, and open project “If You Give a Mouse a Cookie”
-  * Click the green flag to show that the project doesn’t do anything yet… we need to code it!
-  * Click “See Inside”
-  * Click “Remix”
-  * Re-title your work
+## 4. Evaluate: Socrative (15 min)
+Participation: Partners, Online
 
-* Coding
-  * The events block indicates when the sequence should begin:
-  ![Scratch Block](lesson-4/img/When Clicked.png "Scratch Block")
+- [ ] **Pair Programming:** Run the Socrative quiz. Play the video to introduce students to Socrative. Students work in pairs to explore the starter code in Scratch. You will need to give students the Room Name.
 
-  * Code the first 2 steps of the plan:
-  ![Scratch Block](lesson-4/img/if you give a mouse 1.png "Scratch Block")
+> > “Now it’s your turn to explore the starter code in Escape the Maze. Let’s follow along with the video to answer some challenges using a new website called Socrative.”
 
-  * Pause to run the program and check it is making sense
-  * What do you think the next two blocks will be?
-  ![Scratch Block](lesson-4/img/if you give a mouse 2.png "Scratch Block")
+<note>
+![slides-code](./lesson-4/images/slides-code.jpeg)
+🎥 **Code Along**
+- How to use Socrative
+- Navigate to Socrative
+![slides-socrative](./lesson-4/images/slides-socrative.jpeg)
+</note>
 
-  * Continue to code and pause to check after every 1-2 lines you add. Check off the plan as you go through it. Every time you re-run it you will need to move the mouse back to its starting point.
+- [ ] **Closing:** If there is time you can review students’ answers as a class on Socrative. Make sure students log out of their accounts. 
 
-3) Check student work.
+<note>
+![slides-close](./lesson-4/images/slides-close.jpeg)
+</note>
 
-,,,
+</notable>
 
-1) Students sit facing teacher, computers closed.
-
-2) Students identify that:
-  * Steps 1 & 2 are “... it’s going to want a glass of milk.”
-  * Steps 2 & 3 are “... it’s going to ask for a straw.”
-  * Steps 3 & 4 are "...it's going to ask for a napkin."
-  * Steps 5 & 6 are "...it's going to ask for a straw."
-  Continue until you feel students understand the sequence.
-
-3) Students turn to their computers and follow the steps in the code along, giving thumbs up when ready for a next step.
-
-* Remind students to:
-  * Code the correct sprite
-  * Choose the “say for 2 sec” block
-  * Move the mouse back to its starting point before re-running the code
-
-Finished program:
-  ![Scratch Block](lesson-4/img/give a mouse 3.png "Scratch Block")
-
-{% endtable %}
-
-{% header title='Code Along: Choreograph a Dance!', icon='objectives' %}
-{% endheader %}
-
-{% length '25 minutes' %}
-{% endlength %}
-
-Students code along witht the teacher until they are ready to plan, code, and validate their dance off code.
-
-**Prep:**
-- Idea Journals
-- Computers
-- Pencils
-
-{% table %}
-
-1) **Plan 3 step dance (5 min)**
-
-* Introduce activity: “We are going to choreograph a dance for our Sprite.”
-* Pick 5 dance moves for our sprite to execute (prioritize using the highlighted blocks):
-  * Say
-  * Move
-  * Turn
-  * Think
-  * Change size
-  * Change color
-  * Next costume
-* Write out the 5 dance moves in order on your planning chart
-
-2) Code Along (10 min)
-* Setup
-  * Navigate to “My Classes”, “Exploring Scratch” studio, and open project “Dance Off”
-  * Click the green flag to show that the project doesn’t do anything yet… we need to code it!
-  * Click “See Inside”
-  * Click “Remix”
-  * Re-title your work
-
-**Code**
-
-* We will begin when the green flagged is clicked:
-![Scratch Block](lesson-4/img/When Clicked.png "Scratch Block")
-
-* Drag coding blocks to represent the 3 actions and test code by pressing the green flag
-
-**Adjust**
-
-* Play with what happens when you change numbers in each block. After each adjustment run the code gain to see how it affected the dance.
-
-**Repeat**
-* Copy and paste the blocks using the stamp tool so that it repeats the actions multiple times.
-
-3) Students plan and code dances for Khalid (10 min)
-* (2 min) In idea journals have students write out their 5 step dances using the given blocks
-* (8 min) Students delete the code we have and create their own
-
-4) Share dances (5 min)
-* Click “Share”
-* Click “Studios” under your project
-* Click the check mark next to “Dance Off”
-
-5) Go over norms for viewing peer’s work
-* Constructive Feedback: “It would be cool if…”
-* Positive Speak: Tell someone what you like about their program before giving any constructive feedback
-* No negative comments
-
-6) Students view their peer’s work
-* Click “Dance Off” to view everyone’s dances
-
-,,,
-
-1) Students volunteer 5 dance moves from the list to choreograph their dance.
-
-2) Students follow along on their computers as they code the dance for the first sprite.
-
-3) Students plan in their idea journals their dance.
-
-4) Students put their projects into the shared studio
-
-5) Students read norms and share additional norms they would like their peers to adhere to.
-
-6) Students browse each other’s projects in the studio.
-
-{% endtable %}
-
-{% header title='Extension Activity', icon='objectives' %}
-{% endheader %}
-
-{% length '15 minutes' %}
-{% endlength %}
-
-If you have an 60 minute block for class, try this extension activity.
-
-**Prep:**
-- Computers
-
-{% table %}
-
-1) Students can continue to improve upon their dances
-
-2) Or students navigate back to the “Explore Scratch” studio and attempt to solve the 3 challenge projects
-
-,,,
-
-1) Lab time
-
-{% endtable %}
+[slide-show]: https://docs.google.com/presentation/d/1cR3e-XiSHqI6O8H01ng_IoglktZefa-hRPKNsuhlyW8/edit?usp=sharing
+[socrative]: https://b.socrative.com/teacher/#import-quiz/28414624
+[tutorial]: https://www.youtube.com/watch?v=upY8uG3NFfY
