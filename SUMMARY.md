@@ -81,6 +81,7 @@
   * [Minecraft](developer/minecraft/README.md)
     * [Beginner](developer/minecraft/beginner/README.md)
       * [Lesson 1: Turtles & Minecraft](developer/minecraft/beginner/lesson-plans/lesson-1/lesson.md)
+      * [Lesson 2: Functions](developer/minecraft/beginner/lesson-plans/lesson-2/lesson.md)
     * [Intermediate](developer/minecraft/intermediate/README.md)
       * [Lesson 1: Review Turtles & Minecraft](developer/minecraft/intermediate/lesson-plans/lesson-1/lesson.md)
   * [p5](developer/p5/README.md)
