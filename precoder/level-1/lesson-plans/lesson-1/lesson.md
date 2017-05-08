@@ -55,7 +55,7 @@ In lesson 1 students are introduced to the concept of productive failure through
 <iconp type='question'>Page 22: Why did the girl give up?</iconp>
 <iconp type='answer'>The girl gave up because she tried to build her invention many times and she thinks she can’t do it.</iconp>
 
-<note>![slides-engage](./images/engage-img.png)</note>
+<note>![slides-engage](./images/engage.png)</note>
 
 <iconp type='question'>Page 26: What did the girl notice about each one of the inventions?</iconp>
 <iconp type='answer'>The girl noticed that some of the inventions she thought were no good had parts that she liked.</iconp>
@@ -70,7 +70,7 @@ In lesson 1 students are introduced to the concept of productive failure through
 - [ ] **Explain** how the story relates to coding.
 >> “When we begin coding we will make mistakes and that is ok because we can always learn from our mistakes. Even the best coders in the world make mistakes. Just like the girl in the story you may want to give up when you make a mistake, but the important thing to remember is that we can always learn from our mistakes as long as we do not give up and continue to try.”
 
-<note>![slides-engage](./images/engage2-img.png)</note>
+<note>![slides-engage](./images/engage-two.png)</note>
 
 ## Explore: Mystery Robot (5 min)
 - [ ] **Introduce** the Mystery Robot game.
