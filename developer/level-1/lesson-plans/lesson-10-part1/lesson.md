@@ -29,7 +29,8 @@ We want to establish a coding learning culture where students enjoy challenging 
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
-None
+See all vocabulary from previous lessons.
+
 </note>
 
 <pagebreak/>
@@ -49,7 +50,7 @@ None
 ## 1. Independent Coding Challenges (10 min)
 Participation: Whole Class, Unplugged
 
-- [ ] **Motivate**
+- [ ] **Motivate:** Frame the purpose of reviewing our Coding Challenges together.
 
 > > “In lesson 9 you complete an Independent Coding Challenge because you are coders and coders love to challenge themselves. We want you to see how much you have learned so today we’re going to look at how we did on our challenges. Just a few months ago you had probably never coded before!”
 <br/>
