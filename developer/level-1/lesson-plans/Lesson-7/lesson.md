@@ -1,8 +1,8 @@
-<header class='header' title='Read Loops 2' subtitle='Lesson 7'/>
+<header class='header' title='Enemies on Patrol' subtitle='Lesson 7'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Students practice reading code by predicting and stepping through the code of enemies 1-3 in the maze game. Enemies have repeating behavior so students will have to be comfortable reading code that has loops.
+Students practice reading code by predicting, stepping through, and summarizing the code of enemies 1-3 in the maze game. Enemies have repeating behavior so students will have to be comfortable reading code that has loops.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can step through and act out code that contains a loop.
@@ -10,43 +10,37 @@ Students practice reading code by predicting and stepping through the code of en
 - I can summarize what a section of code does on the stage.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-**Small Group: (20 min)**
-1. **Engage:** Enemies (5 min)
-1. **Elaborate:** Stepping Through Loops (10 min)
-1. **Evaluate:** Salsa Practice (5 min)  
-
-**Independent Coding Practice: (20 min)** [Code.org Course 2 Stage 8: Bee Loops](https://studio.code.org/s/course2/stage/8/puzzle/1)
+1. Engage: Enemies (5 min)
+1. Explore: Predict (5 min)
+1. Explain: Step & Summarize (10 min)
+1. Elaborate/Evaluate: Salsa Cards (10 min)
+1. Extension: Independent Coding (15-35 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] [Lesson 7 Slides][slide-show]
 - [ ] Projector
-- [ ] Unplugged Platform
-- [ ] Piece of Paper
+- [ ] Foam Tiles
 
 ###### Student Materials:
-- [ ] Index cards (1 per student)
+- [ ] Index cards 
 - [ ] Idea Journals
 - [ ] Pencils
-- [ ] Dry erase markers (1/2 class set)
-- [ ] [Handout: Maze (1/2 class set)][handout]
-- [ ] [Enemies Character (1/2 class set)][characters]
+- [ ] [Handout: Maze][handout]
+- [ ] [Enemies Character][characters]
 - [ ] [Salsa Cards][salsa-cards]
 - [ ] Computers
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
 - **Loop:** A sequence of instructions that is continually repeated until a certain condition is reached.
-- **For-Loop:** A type of loop that specifies the number of times to repeat the nested sequence of instructions.
 
 </note>
 
 <pagebreak/>
 
 ## Room Design
-
-![room](./images/desk-setup_split-classroom.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
@@ -56,80 +50,65 @@ Students practice reading code by predicting and stepping through the code of en
 - [ ] action item
 </note>
 
-## Engage: Enemies (5 min)
-- [ ] Students setup their journals to make a list.
+## 1. Engage: Enemies (5 min) 
 
-> > "On the next blank page of your idea journal, setup a page that looks like what you see on the board."
+- [ ] **Write Pair Share:** Students write a list of loops they see in the GIF of our Escape the Maze. They then share their lists with their partners before sharing out to the class.
+
+<iconp type="question">On a blank page in your idea journal, can you describe the movement that is looping for each of the enemies in this GIF of our Escape the Maze game?</iconp>
+<iconp type="answer">Red - spinning forever</iconp>
+<iconp type="answer">Green - grows & shrinks forever</iconp>
+<iconp type="answer">Yellow - moves left, moves right, forever</iconp>
+<iconp type="answer">Orange - moves in a square forever</iconp>
+<iconp type="answer">Blue - moves up, moves down, forever</iconp>
+<iconp type="answer">Black - moves left, spins, moves right, spins forever</iconp>
+
+
+## 2. Explore: Predict (5 min)
+
+- [ ] **Predict:** Students predict what code with a loop will do before stepping through it.
+ 
+<iconp type="question">Here is the code for one of the enemies we just saw. What do you predict this code will do? What movement do you think the enemy will do when it runs this code?</iconp>
+<iconp type="answer">Answers will vary</iconp>
+
+## 3. Explain: Step & Summarize (10 min)
+
+- [ ] **Step:** Have a student step through the code using the strategy from lesson 6, uncovering each line with an index card and making a tally mark at the end of the sequence while a Bot acts as the enemy on the foam tiles.
+
+> > "I need one student to be the Coder and read the sequence one line at a time. Don’t forget to use an index card and tally marks. A second student will be the Bot and act it out on the foam tiles."
+
 <br/>
-- [ ] **Unearth loops in the maze:** Students write a list of movements that may be coded as a loop in their idea journals.
+- [ ] **Summary:** Students summarize verbally or in their journals how the code performed.
 
-> > "List all the loops you see."
-<br/>
+<iconp type="question">What did the code do? What movement did the enemy do when we ran this code?</iconp>
+<iconp type="answer">Enemy moves forwards and backwards 3 times, waiting for 1 second between each movement.</iconp>
 
-- [ ] [Think Pair Share:][tps] Students share their list of loops.
+- [ ] **Coders & Bots:** Students try the next two code examples on their paper, using their enemy character to act out the code. Then check both examples as a class.
 
-> > "Turn to your table partner and share what loops you listed."
-<br/>
+> > “Now it’s your turn! Acting as Coders & Bots, predict and step through the enemy code in the next two examples. We will check our work together after.”
 
-- [ ] **Present the Why**
-
-> > "This lesson will allow us to write the code to make our maze look like this."
-
-<note type='key' title='Key Points'>
-Loops allow us to repeat sequences without having to write out the entire sequence multiple times.
-</note>
+<iconp type="question">Raise your hand if you are the Coder. What is your job as Coder?</iconp>
+<iconp type="answer">Check that each pair has one Coder. They will be reading the code, using the index card, and making tallies.</iconp>
+<iconp type="question">Raise your hand if you are the Bot. What is your job as Bot?</iconp>
+<iconp type="answer">Check that each pair has one Bot. They will be moving the enemy and validating the code.</iconp>
 
 
-###### Slides:
-![donow-slides](./images/slides-do-now.jpeg)
+## 4. Elaborate/Evaluate: Salsa Practice (10 min)
 
-## Elaborate: Support Stepping Through Loops: (10 min)
+- [ ] **Coders & Bots:** Students work in pairs to predict, step, and summarize the code of an enemy from one of the four options: mild, medium, spicy, and wow that’s hotttt. Then check all examples as a class. Observe student work to evaluate how comfortable students are working with loops. Encourage pairs that finish early to try a more challenging card.
 
-- [ ] Show students the code for Enemy 1.
+> > “Let’s make it more challenging. Acting as Coders & Bots, choose one of the four salsa cards to predict, step through, and summarize how the enemy moves in the code. The number of chilli peppers shows you how challenging the code is.”
 
-> > "Let's look at this code for one of the enemies in the maze."
-
-<iconp type='question'>What do you predict this code will do?</iconp>
-<iconp type='answer'>Answers will vary</iconp>
-
-<note type='tip'>
-The "Wait 1 secs" block is necessary in Scratch to be able to see the Sprite's movement. When acting out the code, students can pause for one second every time they see this block.
-</note>
-
-- [ ] Step through the code using the strategy from lesson 6:
-
-> > "On your paper follow along as we step through this code. Move your index card to uncover each line one at a time. Make a  mark at the end of the sequence each time you complete a loop."
-<br/>
-
-- [ ] For grades proficient in writing: Students write a sentence summary on their paper of each enemy’s movements.
-
-> > "Summarize how the enemy moved."
-<br/>
-
-- [ ] Repeat this process for Enemies 2 & 3.
-
-###### Slides:
-![stepping-slides1](./images/slides-stepping1.jpeg)
-![stepping-slides2](./images/slides-stepping2.jpeg)
-
-## Evaluate: Salsa Practice (5 min)
-
-- [ ] Students predict and step through the code from one of the four options.
-<note type='tip'>
-The chili peppers represent the level of difficulty of a card. Four peppers is the most challenging.
-</note>
-
-> > "Choose one of the sets of code to predict and step through on your maze. The chili peppers represent the level of difficulty. Start with one or two chili peppers and then work your way up to four."
-<br/>
-- [ ] Observe student work to evaluate how comfortable students are reading loops.
-
-- [ ] Encourage pairs that finish early to try a more challenging card.
+<iconp type="question">Raise your hand if you are the Coder. What is your job as Coder?</iconp>
+<iconp type="answer">Check that each pair has one Coder. They will be reading the code, using the index card, and making tallies.</iconp>
+<iconp type="question">Raise your hand if you are the Bot. What is your job as Bot?</iconp>
+<iconp type="answer">Check that each pair has one Bot. They will be moving the enemy and validating the code.</iconp>
 
 ![salsacards](./images/salsacards.jpeg)
 
-###### Slides:
-![salsa-slides](./images/slides-salsa1.jpeg)
-![salsa-slides](./images/slides-salsa2.jpeg)
+## 5. Extension: Code.org (20-35 min.)
+
+- [ ] **Independent Coding:** Students move at their own pace through the Code.org studios. Play the video to review using Code.org if students need a reminder. If you’d like to give students a more targeted lesson about loops you can direct them to complete Course 2 Stage 8: Bee Loops.
+
 </notable>
 
 

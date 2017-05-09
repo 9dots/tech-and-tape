@@ -11,11 +11,10 @@ In this lesson students identify repeating patterns in a sequence and replace th
 
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-**Small Group: (20 min)**
-1. **Explore:** Patterns in Cubes (10 min)
-1. **Explain:** Patterns in Loops (10 min)  
-
-**Independent Coding Practice: (20 min)** [Continue on Code.org](https://studio.code.org/s/course2/stage/8/puzzle/1)
+1. Engage & Explore: Patterns (10 min)
+1. Explain: Translating Patterns to Loops (10 min)
+1. Elaborate/Evaluate: Socrative (10 min)
+1. Extension: Code.org (15-30 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -24,14 +23,12 @@ In this lesson students identify repeating patterns in a sequence and replace th
 - [ ] Projector
 
 ###### Student Materials:
-- [ ] Index cards (1 per student)
 - [ ] Idea Journals
 - [ ] Pencils
-- [ ] Dry erase markers (1/2 class set)
-- [ ] [Code Handouts] [code-handouts]
+- [ ] [Code Handouts][code-handouts]
 - [ ] Student Code Blocks: repeat, 2 moves, turn, 2 waits
 - [ ] Computers
-- [ ] Unific Cubes
+- [ ] Unifix Cubes
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
@@ -39,11 +36,7 @@ In this lesson students identify repeating patterns in a sequence and replace th
 
 </note>
 
-<pagebreak/>
-
 ## Room Design
-
-![room](./images/desk-setup_split-classroom.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
@@ -53,96 +46,88 @@ In this lesson students identify repeating patterns in a sequence and replace th
 - [ ] action item
 </note>
 <pagebreak/>
-## 1. Explore: Patterns in Cubes (10 min)
 
-- [ ] Handout containers of unifix cubes so each student has enough to build their own pattern.
+## 1. Engage/Explore: Patterns (10 min)
 
-> > "Today we are going to practice finding patterns because loops are really just patterns."
+- [ ] **Build:** Students use unifix cubes to build the pattern they see on the slide. 
 
-- [ ] Students build the pattern shown on the board.
-
-> > "Build this pattern using the cubes at your table."
+> > “Build this pattern using the cubes at your table.”
 
 ![pattern1](./images/unifix-cubes-pattern1.jpeg)
 
-- [ ] Identify the repeating section of code and break that section off.
+- [ ] **Pattern Recognition:** Students identify the pattern in the cubes.
 
-<iconp type='question'>What is repeating in this pattern?</iconp>
+<iconp type="question">What is repeating in this pattern?</iconp>
+<iconp type="answer">Black, green, green</iconp>
+<iconp type="question">Does the order matter when describing the pattern?</iconp>
+<iconp type="answer">Yes! If a student said “green, black, green” then when you assemble the pieces you won’t get the same design</iconp>
+<iconp type="question">How many times does the section repeat itself?</iconp>
+<iconp type="answer">4</iconp>
+
 <br/>
-- [ ] Have students break apart the pattern into its repeating sections. Verify that they all match by lining them up.
+- [ ] **Build:** Students use the code blocks to build a loop that describes the pattern.
 
-<iconp type='question'>How many times does the section repeat itself?</iconp>  
+<iconp type="question">How could you represent the pattern using fewer cubes and code blocks?</iconp>
+<iconp type="answer">Put one of the pattern pieces inside a loop. </iconp>
+<iconp type="question">What number do I write as the argument in the repeat loop? How do you know?</iconp>
+<iconp type="answer">4 because the pattern repeated 4 times</iconp>
+<iconp type="question">Why do I put just one piece of the pattern inside the loop?</iconp>
+<iconp type="answer">Because only that section is repeating 4 times. If you put the whole thing in the loop you’d get a much longer sequence.</iconp>
+
 <br/>
-- [ ] Build a "loop" with student code blocks
 
-> > "Place one of the repeating sections inside a loop block. Write in the number of times the section repeats."
+- [ ] **Build:** Students use unifix cubes to build the pattern they see on the slide. 
 
-![cubes-slides](./images/slides-cubes1.jpeg)
-
-- [ ] Repeat the process with the second pattern. This pattern has a piece that is not in the repeating pattern.
-
-> > "Sometimes not everything is part of the pattern."
-
+> > “Sometimes not everything is part of the pattern. Build this pattern using the cubes at your table.”
 ![pattern2](./images/unifix-cubes-pattern2.jpeg)
 
-![cubes-slides2](./images/slides-cubes2.jpeg)
+- [ ] **Pattern Recognition:** Students identify the pattern in the cubes. The end of this design is not part of the pattern.
 
-## 2. Explain: Patterns in Loops (10 min)
+<iconp type="question">What is repeating in this pattern?</iconp>
+<iconp type="answer">Black, green, green</iconp>
+<iconp type="question">How many times does the section repeat itself?</iconp>
+<iconp type="answer">4</iconp>
+<iconp type="question">Are these last 2 black cubes part of the repeating pattern?</iconp>
+<iconp type="answer">No</iconp>
+<iconp type="question">What can we do with this extra piece that is 2 black cubes?</iconp>
+<iconp type="answer">Place it outside the loop.</iconp>
 
-- [ ] Handout the code worksheet.
+<br/>
+
+## 2. Explain: Translating Patterns to Loops (10 min)
+
+- [ ] **Transfer of Knowledge:** Students will follow the same process to identify the pattern in a sequence and rewrite it as a loop.
 
 > > “Now we’re going to do the same process to translate a sequence of code to a loop.”
 
-<br/>
+<iconp type="question">What is repeating in this pattern? Circle the pattern each time it repeats.</iconp>
+<iconp type="answer">See slides </iconp>
+                                     
+<iconp type="question">How many times does the section of code repeat itself?</iconp>
+<iconp type="answer">3 times		4 times		3 times</iconp>
 
-- [ ] Explain the "why" of this lesson & show the slide of enemies moving.
+<iconp type="question">How would you rewrite this as a loop? Use the code blocks at your table to build your loop.</iconp>
+<iconp type="answer">![solutions](./images/solution.jpeg)</iconp>
 
-> > “This lesson will help us write the code that will make our enemies patrol our maze.”
+- [ ] **Summarize:** students summarize the process they just followed in 3 steps to write code using a loop.
+                                     
+<iconp type="question">Describe the process we did to write a sequence of code using a loop in 3 steps? </iconp>
+<iconp type="answer">
+1. Identify the repeating pattern and how many times it repeats.
+2. Place the repeating section of code within the loop’s mouth.
+3. Place the number of times the pattern repeats as the loop’s argument.</iconp>
 
-<br/>
-![slides-why](./images/slides-why.jpeg)
+## 3. Elaborate/Evaluate: Socrative (10 min)
 
-- [ ] Identify the repeating section of code.
+- [ ] **Socrative:** Run the Socrative quiz. Students work independently to continue to practice identifying the patterns in a sequence and rewrite them as a loop. You will need to give students the Room Name.
 
-<iconp type='question'> What is repeating in this pattern? Circle the section of code each time it repeats.</iconp>
-<iconp type='answer'>See slides</iconp>
-<br/>
-<iconp type='question'>How many times does the section of code repeat itself?</iconp>
-<iconp type='answer'>See slides</iconp>
+> > “Coders, I have a challenge for you! Let’s login to Socrative and answer the questions independently about what we practiced today. When you are finished you can continue to work through the studios in Code.org.”
 
-<note type='key' title='To Write a Loop:'>
-1. Identify the repeating element of a pattern and how many times it repeats.
-1. Place the repeating section of code within the loop’s mouth.
-1. Place the number of times the pattern repeats as the loop’s argument.
-</note>
+## 4. Extension: Code.org (15-30 min)
 
-- [ ] Build a loop in pairs
+- [ ] **Independent Coding:** Students move at their own pace through the Code.org studios. If you’d like to give students a more targeted lesson about loops you can direct them to continue working on Code.org Course 2 Stage 8: Bee Loops
 
-> > "At your table use your code blocks to build the repeating section of code and place it inside the loop. The argument is the number of repeating sections you have.”
 
-<br/>
-
-- [ ] Show the slides of the loops executing in Scratch.
-
-> > "This is what the enemy looks like when we run our code in Scratch."
-<br/>
-
-- [ ] Repeat the process with enemies 2 & 3, but note that not all of the sequence is part of the repeating pattern.
-
-> > "Remember that part of the sequence may not be part of the pattern. Only the repeating pattern belongs inside a loop."
-
-<br/>
-- [ ] Challenge students to create their own sequence and translate it to a loop.
-
-> > "Turn over your handout to the other side. Coders love challenges. Here is a challenge for you: write your own sequence that contains a pattern. Then translate it to a loop. You can use the examples we did together and the code blocks at your table to help you out."
-
-<br/>
-- [ ] If time ask volunteers to share their sequences and have their teammates try to translate them to loops.
-
-![slides1](./images/slides-loops1.jpeg)
-![slides2](./images/slides-loops2.jpeg)
-![slides3](./images/slides-loops3.jpeg)
-![slides4](./images/slides-loops4.jpeg)
 </notable>
 
 [slide-show]: https://docs.google.com/presentation/d/1qY2UHzrIAYHKvO47l1gtxVDtr68lObRKzMVWHIrS888/edit?usp=sharing
