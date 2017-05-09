@@ -2,7 +2,7 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In this lesson students learn to read code with loops by stepping through one block at a time. Using pre-written code, students guide Rover the robot’s movements as it paints a grid.
+Students learn to read code with loops by stepping through one block at a time. Using pre-written code, students guide Rover the robot’s movements as it paints a grid. 
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can step through and act out code that contains a loop.
@@ -10,19 +10,19 @@ In this lesson students learn to read code with loops by stepping through one bl
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. **Engage:** Unearthing Loops in GIFs (7 min)
-2. **Explore/Explain:** Teacher demonstrates how to step through code with loops and students practice using the pre-written code. (15 min)
-
-
-**Independent Coding Practice:** **https://studio.code.org/s/course2/stage/6/puzzle/1**
+1. Engage: Why Loops (5 min)
+1. Explore: Loops in GIFS (5 min)
+1. Explain: Rover Paint (5 min)
+1. Elaborate/Evaluate: Practice (10 min)
+1. Extension: Code.org (20-35 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 
 ###### Teacher Materials:
 - [ ] Projector
-- [ ] Unplugged Platform
-- [ ] Blank Piece of Paper
+- [ ] Foam Tiles
+- [ ] Construction Paper
 - [ ] [Large Rover][large-rover]
 
 ###### Student Materials:
@@ -30,7 +30,7 @@ In this lesson students learn to read code with loops by stepping through one bl
 - [ ] Idea Journals
 - [ ] Index Cards
 - [ ] [Rover Cutouts][rover-cutouts]
-- [ ] Dry-Erase Markers
+- [ ] Pencils
 - [ ] Computers
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
@@ -43,8 +43,6 @@ In this lesson students learn to read code with loops by stepping through one bl
 
 ## Room Design
 
-![room](./images/desk-setup_split-classroom.png)
-
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
 
@@ -54,66 +52,82 @@ In this lesson students learn to read code with loops by stepping through one bl
 </note>
 
 
-## Engage: Unearthing Loops (7 min)
+## 1. Engage: Why Loops? (5 min)
 
-- [ ] **Review the concept of loops.** Display the slide of Rover moving 14 steps in one direction.
-	- [ ] Step through the code required to get Rover to the finish line.
-	- [ ] The sequence can be shortened to only 3 blocks by using a loop.
-	- [ ] “Move 1 Step” can be looped 14 times to produce the same result.
-	- [ ] Step through the looped code.
+- [ ] **Engaging Prior Knowledge:** Students connect loops from previous lesson to simplify a long sequence of code.
 
-![engage slides](./images/engage-slide-8.png)
+> > “Let’s read Rover’s code together.”
 
-<note type='key' title='Key Points'>
-- Actions that happen more than once can be coded as a loop.
-- Loops allow us to repeat sequences without having to write out the entire sequence multiple times.
-</note>
+<iconp type="question">Is there another way to write this code? </iconp>
+<iconp type="answer"> Hint to last week’s lesson to get students to suggest using a repeat loop.</iconp>
+<iconp type="question">Do both set of instructions get Rover to the goal?  </iconp>
+<iconp type="answer">Yes </iconp>
+<iconp type="question">Then what is the benefit of using a loop to write this code?  </iconp>
+<iconp type="answer">A loop requires less lines of code. </iconp>
 
 
-- [ ] **GIFs as Loops:** Show students the series of GIFs and explain that they are examples of loops. Show what the code might look like if it were written in Scratch.
+## 2. Explore: Loops in GIFs (5 min)
 
-#### Slides
+- [ ] **Making Connections:** Students see how loops apply to something they are familiar with: GIFs (an image format that repeats an animation).
 
-![gifs](./images/engage-gifs.png)
+> > “Let’s look at some GIFs and see how loops are actually creating the animation we see.”
 
-<note type='key' title='Key Points'>
-- The video plays to the end and starts all over again from the beginning. The video keeps repeating forever.
-- Actions that happen more than once can be coded as a loop.
-</note>
+<iconp type="question">What might the code look like for this GIF?</iconp>
+<iconp type="answer">See code suggestions on slides. Students should nest the action they are seeing inside a loop block.</iconp>
 
+<br/>
+- [ ] **Enemy Loops:** Show students the Escape the Maze GIF and identify one of the enemy’s movements as a loop. 
 
-- [ ] **Identify Enemy Loops:** Show students the Escape the Maze video and identify one of the enemy’s movements as a loop.
-
-<iconp type='question'>What other loops do you see in the maze?</iconp>
-<iconp type='answer'>Each enemy is moving in a loop.</iconp>
+<iconp type="question">In this animation of our Escape the Maze project, what do you notice about the enemies?</iconp>
+<iconp type="answer">Each enemy is moving in a loop. The actions they are doing repeat. This is because the code they are reading has a loop in it. </iconp>
 
 
-## Explain: Reading Loops with Stepping (15 min)
+## 3. Explain: Rover Paints (5 min.)
 
-- [ ] **Demonstrate stepping through a loop: (5 min)**
-	- Each student follows along on [Lesson 6 Handout][lesson-6-handout], filling in with their dry erase marker as they go.
-	- Demonstrate uncovering each line of code one at a time using a sheet of paper (students will use an index card).
-	- Make a tick mark at the end of the sequence each time you make one complete loop. This strategy will help students keep track of how many times they have repeated the sequence.
+- [ ] **Model** the steps to read a chunk of code that contains a loop. Have students follow along on their handout. Uncover each line of code one at a time using an index card. Make a tally at the end of the sequence to keep track of how many times you’ve repeated the sequence.
+
+> > “Before we can write the code to make our enemies move like that, we need to know how to read the code. We are going to use Rover to practice reading loops. Today Rover understands a new instruction - Paint. When Rover sees a Paint block, he will color in the square he is on.”
+
+> > “Use your index card to uncover each line of code one block at a time.”
+Narrate what you’re doing at each step.
+> > “Make a tally mark at the bottom of the loop.”
+
+<iconp type="question">How many times have I done this sequence? </iconp>
+<iconp type="answer">Read the tally marks </iconp>
+<iconp type="question">How many times do I need to repeat the sequence? </iconp>
+<iconp type="answer">4. </iconp>
+<iconp type="question">Am I done? </iconp>
+<iconp type="answer">yes/no.</iconp>
+
 
 ![loop-code](./images/explain-read-loops.png)
 
-- [ ] **Students practice (5 min)** stepping through a loop in **Painting 1** on their handout following the steps we used in the practice.
-	- Have one stepper and computer act out the code on the unplugged platform to check their work.
+
+## 4. Elaborate/Evaluate: Practice (10 min.)
+
+- [ ] **Independent Practice:** Students step through the remaining chunks of code on their paper using the steps you modeled. 
+
+- [ ] **Coder & Bot:** Have one coder and bot read and act out the code on the unplugged platform to check their work on each practice problem.
+
+> > "I need one student to be the Coder and read the sequence one line at a time. A second student will be the Bot and act it out on the foam tiles."
 
 ![painting-one](./images/painting-one.png)
 
-
-- [ ] **Students practice (5 min)** stepping through loops with **Painting 2** on their handout.
-	- Have one stepper and computer act out the code on the unplugged platform to check their work.
-
 ![painting-two](./images/painting-two.png)
 
-## Extension
-
-- [ ] **Students Attempt the Challenge** (10 min)
-	- Have one stepper and computer act out the code on the unplugged platform to check their work.
-
 ![extension](./images/extension-challenge.png)
+
+- [ ] **Evaluate:** Choose one problem that you do not go over as a class to collect for your exit challenge.
+       
+## 5. Extension: Code.org (20-35 min.)
+
+- [ ] **Independent Coding:** Students move at their own pace through the Code.org studios. Play the video to introduce students to using Code.org if you did not start with Lesson 00: Digital Literacy.
+
+<note>🎥
+- Logging into Code.org from the special website
+- Navigating through the studio
+- Dark green means completed, yellow means incomplete, light green means completed, but could be improved on
+ </note>         
 
 </notable>
 

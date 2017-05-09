@@ -38,7 +38,7 @@ In lesson 2 students begin to develop an understanding of how to use commands to
 
 ## Room Design
 
-![room](./images/layout-rug-grid.png)
+![room](./images/layout-grid.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
