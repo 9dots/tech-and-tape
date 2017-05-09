@@ -2,7 +2,7 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In Lesson 10 students wrote the code in the Scratch editor to make an enemy patrol the maze in a line. In this lesson students will continue to practice writing enemy code using loops in Scratch.
+Students will begin their Game Plan to plan how each enemy will move in their Escape the Maze project. They will then write the code in the Scratch editor to make each enemy move using loops.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can use the editor, block palette, and stage in Scratch to code my program.
@@ -10,8 +10,11 @@ In Lesson 10 students wrote the code in the Scratch editor to make an enemy patr
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 1. Engage: Kids Code (5 min)
-1. Elaborate: Enemies on Patrol (30 min)
-1. Evaluate: Submit Your Code (10 min)
+1. Explore: Game Plan (5 min)
+1. Explain: Code Along (10 min)
+1. Elaborate: Enemies on Patrol (20 min)
+1. Evaluate: Take Pride (5 min)
+
 
 
 <note>
@@ -25,6 +28,7 @@ In Lesson 10 students wrote the code in the Scratch editor to make an enemy patr
 ###### Student Materials:
 - [ ] Computers
 - [ ] [Lesson 8 Handouts][handout]
+- [ ] [Game Plan][plan]
 - [ ] Idea Journals
 - [ ] Dry Erase Markers (class set)
 
@@ -39,8 +43,6 @@ In Lesson 10 students wrote the code in the Scratch editor to make an enemy patr
 
 ## Room Design
 
-![room](./images/desk-setup_online.png)
-
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
 
@@ -51,100 +53,62 @@ In Lesson 10 students wrote the code in the Scratch editor to make an enemy patr
 
 ## 1. Kids Code (5 min)
 
-- [ ] **Engage:** Showcase young student programmer and show [video][video].
+- [ ] Showcase young student programmer and encourage them to share projects they work on independently.
 
-> > "Kids all around are coding and creating. You’re never too young to start! Here is an example of a young coder.”
+“Kids all around are coding and creating. You’re never too young to start! Here is an example of a young coder. If you code a project on your own, we would like to feature your project/app at the start of our class. You can access Scratch or Code.org at home too.”
 
-
-- [ ] Introduce platforms for kids to create projects.
-* Scratch
-* Code.org
-* [Code an artist][code-an-artist]
-
-> > “If you code a project on your own, we would like to feature your project/app at the start of our class.”
-
-![slides-engage1](./images/slides-engage1.jpeg)
-![slides-engage2](./images/slides-engage2.jpeg)
-
-## 2. Elaborate: Enemies on Patrol (30 min)
-
-- [ ] Vocabulary Review: On the ICC students had difficulty identifying the loop block. Use this as an opportunity to review what the loop structure looks like in Scratch. (4 min)
+- [ ] Vocabulary Review: If students had difficulty identifying the loop block, use this as an opportunity to review what the loop structure looks like in Scratch.
 
 <iconp type='question'>Which block is the loop block?</iconp>
 <iconp type='question'>Which of these blocks of code are loop blocks?</iconp>
 <iconp type='question'>Which section of code contains a loop block?</iconp>
-
 ![slides-vocab](./images/slides-vocabulary.jpeg)
 
-- [ ] **Remind** students of code they wrote in lesson 10. (1 min)  
+## 2. Explore: Game Plan (5 min)
 
-> > “In lesson 10 we planned, coded, and validated the loop that made our Escape the Maze game a little more exciting by making the enemy patrol the maze.”
+- [ ] **Plan:** Students plan how each enemy will move in their game.
 
-![slides-elaborate](./images/slides-elaborate.jpeg)
+> > “Game designers do not just start coding without first creating a design or plan for their game. Let’s take a few minutes to put together a plan for your version of Escape the Maze. On the Game Plan there is space for us to plan how each Sprite is going to move or act in the game. For today we are only going to look at the Enemies and we are only going to look at the left column of Forever loops. Last lesson we wrote the code to make Enemy 1 move back and forth forever. So I will write that in my plan. Now I want to plan how each of the other enemies will move. Here are some ideas of code we’ve already written: 
+> > - Spin
+> > - Move in a square
+> > - Grow and Shrink
+> > - Move in a rectangle
+> > - Flap wings while moving back and forth
+> > - Move back and forth and spin on each end
 
-- [ ] **Demonstrate:** Show students how to navigate to the Scratch studio and enter the code from their first enemy in Scratch. (5 min) View the steps here.
+> > Take a minute to write your plan for each enemy before we start to code.”   
+
+## 3. Explain: Code Along (10 min)
+
+- [ ] **Code Along:** Play the video to show students how to navigate to the Scratch studio and continue to code from their Game Plan. View the steps here.
 
 > > “This is the code you wrote in lesson 8 to make the enemies patrol your maze. Today we are going to put our code into Scratch.”
 
-**Step 1:** Click “See Inside” to view the editor.
+## 4. Elaborate: Enemies on Patrol (30 min)
 
-**Step 2:** Select the Sprite we will write the code for (Enemy 1).
+- [ ] **Making:** Students get on Scratch and write the code for the enemies they planned in their Game Plan.
 
-![slides-demo1](./images/slides-teacher1.jpeg)
+> > “Now it is your turn. Continue to code the loops you planned in your Game Plan.”
 
-**Step 3:** Enter the code written as a sequence and click the green flag to test the code.
+<br/>
 
-**Step 4:** <iconp type='question'>Didn’t we write this in a better way?</iconp>
-<iconp type='answer'>Have students tell you how to replace the code with a loop that contains the repeating pattern and click the green flag to test the code.</iconp>
+- [ ] **Extension:** students who finish coding all 5 enemies can add more enemies or add more code blocks such as Sound and Looks blocks. Students can reflect on the following questions to guide their planning.
 
-**Step 5:** <iconp type='question'>What if we want the enemy to patrol until the end of game play?</iconp>
-<iconp type='answer'>Replace the repeat loop with a forever loop.</iconp>
+<iconp type="question">What enemies have I played against in other games and what did they do?</iconp>
+<iconp type="question">What makes an enemy fun? How will my enemy move? </iconp>
+<iconp type="question">How difficult will my enemy be?</iconp>
 
-<note type="tip">If you lose an enemy off the Stage click the “r” key to reset the positions of all of the enemies.</note>
 
-![slides-demo2](./images/slides-teacher2.jpeg)
+## 5. Evaluate: Take Pride (10 min)
 
-- [ ] **Making:** Students get on Scratch and add the code for all of the enemies they coded in Lesson 8. (20 min)
+- [ ] **Rubric:** Share with students what you are looking for when viewing their code and remind them to produce work they can take pride in.
 
-> > “Now it is your turn. Let’s login to your Scratch account and put the code into your own maze. Start with Enemy 1.”
-
-<note type="tip"> Some of the enemies may need debugging after the code is written in Scratch by adding wait blocks or adjusting the number of steps. Pause the class to remind them of this process from lesson 10.</note>
-
-![slides-YouCodeIt1](./images/slides-YCI1.jpeg)
-![slides-YouCodeIt2](./images/slides-YCI2.jpeg)
-![slides-YouCodeIt3](./images/slides-YCI3.jpeg)
-![slides-YouCodeIt4](./images/slides-YCI4.jpeg)
-
-## 3. Submit Your Code (10 min)
-
-- [ ] **Evaluate:** Share with students what you are looking for when viewing their code.
-
-> > “Before we wrap up, let’s take a few minutes to look over our work. Did you:
-- use the correct repeating pattern in the loop?
-- use a loop to shorten your code?
+> > “Before we wrap up, let’s take a few minutes to look over our work. You want to take pride in the code you produce. Did you:
+- use a loop to shorten your code and make it continue throughout the game?
 - delete any extra code blocks that haven’t been used?
-- use an even block so your program initiates when the green flag is clicked?”
+- use an event block so your program initiates when the green flag is clicked?”
 
-![slides-submit1](./images/slides-submit1.jpeg)
-![slides-submit2](./images/slides-submit2.jpeg)
-![slides-submit3](./images/slides-submit3.jpeg)
-
-- [ ] **Exit Ticket:** Model how to properly title, remix/share, and add their projects to the studio for you to view.
-
-**Step 1:** Click “Remix”
-
-**Step 2:** Click the title and delete remix
-
-**Step 3:** Add your first name to title.  Example: Lesson 11 Starter Maayan
-
-**Step 4:** Click “See project page”
-
-**Step 5:** Click “Studios”
-
-**Step 6:** Click check mark next to Lesson 11
-
-
-<note type="tip"> After the lesson the teacher should view student progress in the studio and target individuals who need assistance in further programming. It is ok if students did not code all 6 enemies, but they should have the code for at least one enemy they wrote on their own. You can view an example of what the finished code might look like [here][exemplar].</note>
+- [ ] **Evaluate:** After the lesson the teacher should view student progress in the studio and target individuals who need assistance in further programming. It is ok if students did not code all 6 enemies, but they should have the code for at least one enemy they wrote on their own. You can view an example of what the finished code might look like here.
 
 </notable>
 
@@ -154,3 +118,4 @@ In Lesson 10 students wrote the code in the Scratch editor to make an enemy patr
 [handout]: https://drive.google.com/file/d/0B2wBzr9vcXjPbmZZRHVNVTcwM2M/view?usp=drive_web
 [code-an-artist]: https://studio.code.org/gallery/art
 [video]: https://drive.google.com/open?id=0B2wBzr9vcXjPSTJCWmdDdDFFbXc
+[plan]: https://drive.google.com/file/d/0B2wBzr9vcXjPN3hPQmItMndvQ1k/view
