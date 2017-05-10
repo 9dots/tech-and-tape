@@ -39,8 +39,6 @@ Students will begin their Game Plan to plan how each enemy will move in their Es
 - **Editor:** A program designed for editing computer code by coders.
 </note>
 
-<pagebreak/>
-
 ## Room Design
 
 <note borderLeft='2px solid green' mt='2em'>
@@ -68,14 +66,16 @@ Students will begin their Game Plan to plan how each enemy will move in their Es
 
 - [ ] **Plan:** Students plan how each enemy will move in their game.
 
-> > “Game designers do not just start coding without first creating a design or plan for their game. Let’s take a few minutes to put together a plan for your version of Escape the Maze. On the Game Plan there is space for us to plan how each Sprite is going to move or act in the game. For today we are only going to look at the Enemies and we are only going to look at the left column of Forever loops. Last lesson we wrote the code to make Enemy 1 move back and forth forever. So I will write that in my plan. Now I want to plan how each of the other enemies will move. Here are some ideas of code we’ve already written: 
+> > “Game designers do not just start coding without first creating a design or plan for their game. Let’s take a few minutes to put together a plan for your version of Escape the Maze. On the Game Plan there is space for us to plan how each Sprite is going to move or act in the game. For today we are only going to look at the Enemies and we are only going to look at the left column of Forever loops. Last lesson we wrote the code to make Enemy 1 move back and forth forever. So I will write that in my plan. 
+![game plan](./images/plan.jpeg)
+
+> > Now I want to plan how each of the other enemies will move. Here are some ideas of code we’ve already written: 
 > > - Spin
 > > - Move in a square
 > > - Grow and Shrink
 > > - Move in a rectangle
 > > - Flap wings while moving back and forth
 > > - Move back and forth and spin on each end
-
 > > Take a minute to write your plan for each enemy before we start to code.”   
 
 ## 3. Explain: Code Along (10 min)
