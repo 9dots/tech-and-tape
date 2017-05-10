@@ -2,7 +2,7 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Students will apply their knowledge of loops, the writing code protocol, and the Scratch editor to code the enemy movement of their choice. In this lesson we will begin to talk about user experience in the context of designing enemies that increase the level of difficulty of the Escape the Maze game without making the game so difficult that they do not want to play.
+In this lesson we will begin to talk about user experience in the context of designing enemies that increase the level of difficulty of the Escape the Maze game without making the game so difficult that they do not want to play. They will apply their knowledge of writing loops to improve on their enemies' code.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can use the editor, block palette, and stage in Scratch to code my program.
