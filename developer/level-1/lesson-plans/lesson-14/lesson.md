@@ -12,8 +12,9 @@ Students are introduced to conditionals (if then), practice reading conditional 
 1. Engage: Kids Code (5 min)
 1. Explore: If Then (5 min)
 1. Explain: Define (5 min)
-1. Elaborate: Conditionals in Scratch (5 min)
+1. Elaborate: Reading Conditionals (10 min)
 1. Evaluate: Exit Challenge (5 min)
+1. Extension: Independent Coding (15-30 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -33,7 +34,6 @@ Students are introduced to conditionals (if then), practice reading conditional 
 </note>
 
 ## Room Design
-![room](./images/desk-setup_split-classroom_notiles.png)
 <note>
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
@@ -47,32 +47,17 @@ Students are introduced to conditionals (if then), practice reading conditional 
 ## 1. Kids Code (5 min)
 Participation: Whole Class Unplugged
 
-- [ ] **Showcase** a young student programmer by sharing a project from a fellow coder. Play the game and show the code behind it.
+- [ ] **Showcase** young student programmer and students to be the next programmer we feature.
 
-> > “Kids all around are coding and creating.”
-
-<br/>
-
-<note>![slides-KC0](./images/slides-KC0.png)
-</note>
-
-- [ ] **Challenge** students to be the next programmer we feature.
-
-> > “If you code a project on your own, we would like to feature your project/app at the start of our class. Code something in Scratch or Code.org or any coding platform and show it to your getCoding teacher.”
-
-<note>![slides-KC1](./images/slides-KC1.png)
-</note>
+> > “Kids all around are coding and creating. You’re never too young to start! If you code a project on your own, we would like to feature your project/app at the start of our class. Code something in Scratch or Code.org or any coding platform and show it to your getCoding teacher.”
 
 <br/>
 
-- [ ] **Motivate** students by connecting today’s lesson to their Escape the Maze game.
+- [ ] **Motivate** students by connecting today’s lesson to their Escape the Maze game. 
 
-> > “In Lesson 12, what happened when the hero touched an enemy? The hero was sent back to the start! This is caused by conditional statements. Today we will be learning about conditionals, the foundation to programming enemies that react when the hero touches them.”
+> > “In Lesson 12 when we played the three versions of our Escape the Maze game, what happened when the hero touched an enemy? The hero was sent back to the start! This is caused by conditional statements. Today we will be learning about conditionals, the foundation to programming enemies that react when the hero touches them.”
 
 <br/>
-
-<note>![slides-KC3](./images/slides-KC3.png)
-</note>
 
 - [ ] **Connecting Prior Knowledge:** Review question #3 from Lesson 13 Exit Challenge.
 
@@ -85,7 +70,7 @@ Participation: Whole Class Unplugged
 <pagebreak/>
 
 ## 2. Explore: If Then (5 min)
-Participation: Small Group Unplugged
+Participation: Whole Class, Unplugged
 
 - [ ] **Real World Connections:** Students fill in the if/then prompts. Note that there are no right/wrong answers to these.
 
@@ -101,20 +86,18 @@ Participation: Small Group Unplugged
 - [ ] **Classification:** Ask students to identify what all of the statements had in common.
 
 <iconp type="question">These are called conditional statements. What do conditionals all have in common? </iconp>
-<iconp type="answer">They all start with “If __________, then ___________.</iconp>
+<iconp type="answer">They all are “If __________, then ___________" statements.</iconp>
 
 <iconp type="question">What do you notice about all of the “If” statements? Think about our lesson last week. </iconp>
 <iconp type="answer">They are all Boolean statements. </iconp>
 
 
-## 3. Explain: Define (2 min)
-Participation: Small Group Unplugged
+## 3. Explain: Define (5 min)
+Participation: Whole Class, Unplugged
 
 - [ ] **Define** conditionals - students write it in their idea journals
-> > “On a blank page in your idea journal let’s write the definition of conditional. Conditional - Asks a true/false (boolean) statement, and runs a chunk of code if the answer is true.”
 
-<note>![slides-Define1](./images/slides-Define1.png)
-</note>
+> > “On a blank page in your idea journal let’s write the definition of conditional. Conditional - Asks a true/false (boolean) statement, and runs a chunk of code if the answer is true.”
 
 - [ ] **Check for understanding** -
 
@@ -132,28 +115,23 @@ Participation: Small Group Unplugged
 - Students may think a boolean is a conditional, but a boolean is just a part of a conditional.
 - Students may think 4+5 is a boolean because of the color and numbers, but a boolean block has points on the ends and can be answered with True or False.
 
-## 4. Elaborate: Conditionals in Scratch (10 min)
-Participation: Small Group Unplugged
+## 4. Elaborate: Reading Conditionals (10 min)
+Participation: Whole Class, Unplugged
 
-- [ ] **Translation** - In pairs students rewrite the Scratch conditionals on the handout in an if-then statement. Do one example together. It’s ok if students don’t complete all of them.
+- [ ] **Model** how to use the steps to read conditional statements to read the first few examples on the handout together: 
+1. Read the If statement. 
+1. ✔ if the Boolean is true, read and execute what is inside the conditional
+1. ✘ if the Boolean is false, skip what is inside the conditional
 
-> > “With your table partner, translate the conditional statements the Scratch code to English. Let’s do the first one together.”
+- [ ] **Independent Practice:** Students continue to follow the read conditionals steps to finish the examples on the handout. Review the answers together as a class when students are done. 
 
-<note type="tip">Younger grades that are not as proficient in writing can do this as a Pair-Share activity where they say their statement to their partner and then share out to the class.
-
-![slides-Elaborate1](./images/slides-Elaborate1.png)
-</note>
-
-- [ ] **Popcorn** - Pop around the room asking students to read their translation of each conditional and then identify the boolean statement.
+> > “Your turn. Keep following our 3 steps to finish the examples on your paper.”
 
 **Extension Questions for Advanced Groups:**
 <iconp type="question">Which of these conditionals would change you to the next level if you touch the goal? </iconp>
 <iconp type="question">Which of these conditionals sends you back to the start if you touch an enemy?</iconp>
 
-<note>![slides-Elaborate2](./images/slides-Elaborate2.png)
-</note>
-
-## 5. Exit Challenge (3 min)
+## 5. Evaluate: Exit Challenge (5 min)
 Participation: Small Group, Independent, Unplugged
 
 - [ ] **Exit Challenge:** Students answer the [Exit Challenge][exit-challenge] on paper using pencil independently and turn it in.
@@ -162,6 +140,11 @@ Participation: Small Group, Independent, Unplugged
 
 <note>![slides-Exit](./images/slides-Exit.png)
 </note>
+
+## 6. Extension: Independent Coding(15-30 min)
+
+- [ ] **Independent Coding:** Students move at their own pace through the Code.org studios. If you’d like to give students a more targeted lesson about loops you can direct them to continue working on Code.org Course 2 Lesson 13: Bee Conditionals
+
 
 </notable>
 [handouts]: https://docs.google.com/document/d/1GNLjhQ46PKIzcA7039MJXRfX9eE_XnBmLQ6NE7YgK_s/edit?usp=sharing
