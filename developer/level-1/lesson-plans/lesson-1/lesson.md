@@ -122,7 +122,7 @@ Participation: Whole Class
 
 - [ ] **Closing:** Collect stickies on the board. Group together similar ideas and read outloud. Students can give a thumbs up to ideas with which they agree. Acknowledge the work students have accomplished.
 
-> > “You have such great ideas! This is going to help guide us this year as we become coders in how we are going to treat ourselves and eachother when we encounter bugs in our code. The lesson is that you have to fail before you succeed. Thank you so much for sharing your time and ideas with us today.”
+> > “You have such great ideas! This is going to help guide us this year as we become coders in how we are going to treat ourselves and each other when we encounter bugs in our code. The lesson is that you have to fail before you succeed. Thank you so much for sharing your time and ideas with us today.”
 
 </notable>
 
