@@ -13,7 +13,7 @@ In this lesson students identify repeating patterns in a sequence and replace th
 1. Engage & Explore: Patterns (10 min)
 1. Explain: Translating Patterns to Loops (10 min)
 1. Elaborate/Evaluate: Socrative (10 min)
-1. Extension: Code.org (15-30 min)
+1. Extension: Independent Coding (15-30 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -109,7 +109,7 @@ In this lesson students identify repeating patterns in a sequence and replace th
 
 > > “Coders, I have a challenge for you! Let’s login to Socrative and answer the questions independently about what we practiced today. When you are finished you can continue to work through the studios in Code.org.”
 
-## 4. Extension: Code.org (15-30 min.)
+## 4. Extension: Independent Coding(15-30 min)
 
 - [ ] **Independent Coding:** Students move at their own pace through the Code.org studios. If you’d like to give students a more targeted lesson about loops you can direct them to continue working on Code.org Course 2 Stage 8: Bee Loops
 
