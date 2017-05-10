@@ -27,6 +27,7 @@ Students will apply their knowledge of loops, the writing code protocol, and the
 ###### Student Materials:
 - [ ] Computers
 - [ ] [Project Checklist Handouts][handout]
+- [ ] [Game Plans][plan]
 - [ ] Idea Journals
 - [ ] Dry Erase Markers
 
@@ -38,9 +39,6 @@ Students will apply their knowledge of loops, the writing code protocol, and the
 </note>
 
 ## Room Design
-
-![room](./images/desk-setup_online.png)
-
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
@@ -91,7 +89,7 @@ Participation: Whole Class Unplugged
 
 - [ ] **Define:** Process the findings from your empathy work in order to form a user point of view that you will address with your design.
 
-<iconp type='question'>What should we keep in mind while deciding which enemies to put in your projects today?</iconp>
+<iconp type='question'> ? What should we keep in mind while looking at the enemies you are coding in your game?</iconp>
 <iconp type='answer'>Speed, size, placement (how difficult it is to pass them), When there are too many and the game is impossible to beat.</iconp>
 
 <note>![slides-define](./images/slides-define.jpeg)</note>
@@ -99,15 +97,12 @@ Participation: Whole Class Unplugged
 ## 3) Explain: Set the Challenge (5 min)
 Participation: Whole Class Unplugged
 
-- [ ] **Ideate:** Show the different enemies we have designed in various lessons. Students can either use the code for an enemy from Lessons 7, 8 & 10 or design their own.
+- [ ] **Ideate:** Students look back at their game plan to reexamine the plan for their enemies and incorporate the elements of user experience that we explored as a class. 
 
-> > “Turn to the next blank page in your idea journal. Label it “Enemies”. How many enemies are you going to have in your game? What will each enemy do? List them on this page of your journal. You can use one of these enemies from our previous lessons, or write the code for your own.”
+> > “Look back at your Game Plan from our last lesson. How many enemies are you going to have in your game? Is there anything you want to change about each enemy that will improve the user experience? Make those notes now.” 
 
-<br/>
+![Game Plan](./images/plan.jpeg)
 
-<note>![slides-ideate1](./images/slides-ideate1.jpeg)
-![slides-ideate2](./images/slides-ideate2.jpeg)
-</note>
 
 - [ ] **Set the Challenge:** Show them the rubric for the finished product (see #5).
 
@@ -123,29 +118,17 @@ Participation: Whole Class Unplugged
 ## 4) Elaborate: Prototype (20 min)
 Participation: Independent, Online
 
-- [ ] **Prototype:** Students work out of Lesson 12 studio to create their projects. Remind students to use their list of enemies. You will need to show students to use the “show” block to show the enemies they will use. Demonstrate that this can be done by double clicking the block.
+- [ ] **Prototype:** Play the video to show how to return to their projects from last lesson. Students then will continue to modify their enemies in their projects to reflect the new notes about user experience.
 
-<note type="tip">Students  can reset their enemies’ positions with the “r” key. Tell them don't delete the code that does this. Younger students may need you to step through the process of getting to the project and even model designing your game from your own list of enemies you ideate.
-![slides-reset](./images/slides-reset.jpeg)</note>
+> > “Follow along to login to Scratch and navigate to your Escape the Maze project. You will have the rest of class to modify your enemies’ code to improve the user experience. Remember an enemy should be challenging, but not impossible to get around.”
+
+<note type="tip">As you walk around the room, remind students to use their game plans
+<br/> 🎥 Logging In and navigating to project
+</note>
 
 ## 5) Evaluate: Submit Your Code (10 min)
 Participation: Independent, Online
 
-- [ ] **Exit Ticket:** Model how to properly title, remix/share, and add their projects to the studio for you to view.
-
-**Step 1:** Click “Remix”
-
-**Step 2:** Click the title and delete remix
-
-**Step 3:** Add your first name to title.  Example: Lesson 12 Maayan
-
-**Step 4:** Click “See project page”
-
-**Step 5:** Click “Studios”
-
-**Step 6:** Click check mark next to “Lesson 12”
-
-<br/>
 - [ ] **Evaluate:** Review with students what you are looking for when viewing their code.
 
 > > “Before we wrap up, let’s take a few minutes to look over our work.
@@ -153,7 +136,7 @@ Participation: Independent, Online
 - Enemy code uses loops to represent repetitive actions.
 - There aren’t extra code blocks that haven’t been used
 - Program initiates when green flag is clicked
-- Enemy movement and placement is strategic, improving the user experience by making the game more challenging but not impossible.”
+- Enemies improve the user experience by making the game more challenging but not impossible.”
 
 <note>**Teacher’s Note:** After the lesson the teacher should view student progress in the studio and target individuals who need assistance in further programming. It is ok if students did not code all 6 enemies, but they should have the code for at least one enemy they wrote on their own.</note>
 
@@ -164,3 +147,5 @@ Participation: Independent, Online
 [games]: https://scratch.mit.edu/studios/3714046/
 [handout]: https://docs.google.com/document/d/1zRRcYYC3x9WjOi9JlQ2XyDq4CGB8bBCkixxZyBd-EiY/edit?usp=sharing
 [video]: https://drive.google.com/file/d/0B2wBzr9vcXjPdEppeUN2aV9KbFk/view
+[plan]: https://drive.google.com/file/d/0B2wBzr9vcXjPN3hPQmItMndvQ1k/view
+
