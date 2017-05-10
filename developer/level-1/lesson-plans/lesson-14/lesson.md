@@ -1,48 +1,52 @@
-<header class='header' title='Read Conditionals 1' subtitle='Lesson 14'/>
+<header class='header' title='Boolean' subtitle='Lesson 14'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Students are introduced to conditionals (if then), practice reading conditional statements in Scratch, and identify how boolean statements are related to conditionals.
+Students are introduced to “boolean” and practice identifying true/false statements.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can identify Boolean as true/false statements.
-- I can read an if-then statement to execute a sequence if a test is true.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 1. Engage: Kids Code (5 min)
-1. Explore: If Then (5 min)
+1. Explore: True/False (10 min)
 1. Explain: Define (5 min)
-1. Elaborate: Reading Conditionals (10 min)
+1. Elaborate: Boolean Code (10 min)
 1. Evaluate: Exit Challenge (5 min)
-1. Extension: Independent Coding (15-30 min)
+1. Extension: Independent Coding (10-25 min)
+
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Projector
 - [ ] [Slide Show][slide-show]
+- [ ] [Answer Key][answer-key]
 
 ###### Student Materials:
 - [ ] Computers
 - [ ] [Exit Challenges][exit-challenge]
-- [ ] [True/False cards][boolean-cards]
+- [ ] [Boolean Cards][boolean-cards]
 - [ ] Idea Journals
 - [ ] Pencils
-- [ ] Dry erase markers
-- [ ] [Lesson 14 Handouts][handouts]
+- [ ] Code Blocks
+
 
 </note>
 
 ## Room Design
-<note>
 
+<note>
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
 - **Boolean:** A statement that can be "true" or "false".
-- **Conditional** Asks a boolean statement, and runs a chunk of code if the answer is true.
 
+###### Symbols Key
+
+<iconp ml='1.65em' type='question'>question</iconp>
+<iconp ml='1.65em' type='answer'>answer</iconp>
+- [ ] action item
 </note>
-<pagebreak/>
 
 ## 1. Kids Code (5 min)
 Participation: Whole Class Unplugged
@@ -52,102 +56,116 @@ Participation: Whole Class Unplugged
 > > “Kids all around are coding and creating. You’re never too young to start! If you code a project on your own, we would like to feature your project/app at the start of our class. Code something in Scratch or Code.org or any coding platform and show it to your getCoding teacher.”
 
 <br/>
+- [ ] **Motivate** students by connecting today’s lesson to their Escape the Maze game.
 
-- [ ] **Motivate** students by connecting today’s lesson to their Escape the Maze game. 
+> > “Last week when we played the three versions of our Escape the Maze game, what happened when the hero touched an enemy? The hero was sent back to the start! In order to write this code, we first need to learn about boolean code. When you are working independently on the computers you can work on finishing your enemies in Scratch. When you are working in our small group we will be learning about boolean, the foundation to programming enemies that react when the hero touches them.”
 
-> > “In Lesson 12 when we played the three versions of our Escape the Maze game, what happened when the hero touched an enemy? The hero was sent back to the start! This is caused by conditional statements. Today we will be learning about conditionals, the foundation to programming enemies that react when the hero touches them.”
-
-<br/>
-
-- [ ] **Connecting Prior Knowledge:** Review question #3 from Lesson 13 Exit Challenge.
-
-<iconp type="question"> A lot of coders made this error on their exit challenge last week. When coders get a problem wrong they debug! What was the error here?</iconp>
-
-<iconp type="answer">7 + 3 is not a boolean, it is not a true/false statement and does not have pointed ends</iconp>
-<note>![slides-KC2](./images/slides-KC2.png)
+<note>![slides-kidscode3](./images/slides-kidscode3.png)
+![slides-kidscode4](./images/slides-kidscode4.png)
 </note>
 
 <pagebreak/>
+## 2. Explore: True/False (5 min)
+Participation: Small Group Unplugged
 
-## 2. Explore: If Then (5 min)
-Participation: Whole Class, Unplugged
+- [ ] **True/False:** Students hold up True or False to respond to questions.
 
-- [ ] **Real World Connections:** Students fill in the if/then prompts. Note that there are no right/wrong answers to these.
-
-- If it is raining, then _____________.
-- If it is Saturday, then ____________.
-- If the light is green, then ______________.
-- If the enemy is touching the hero, then _________________.
-- If the hero is touching the goal, then ___________________.
-
-<note>![slides-IfThen](./images/slides-IfThen.png)
+<note type="tip">Have students hold their card up against their collarbone.
+![slides-tf1](./images/slides-tf1.png)
+![slides-tf2](./images/slides-tf2.png)
 </note>
 
-- [ ] **Classification:** Ask students to identify what all of the statements had in common.
+> > “Answer each statement by holding up ‘True’ or ‘False’ on your card.”
 
-<iconp type="question">These are called conditional statements. What do conditionals all have in common? </iconp>
-<iconp type="answer">They all are “If __________, then ___________" statements.</iconp>
+- You have a dog.
+- All bugs stink
+- You are the youngest in your family.
+- Your favorite color is blue.
+- 4 + 5 = 8
+- You like to draw.
+- The sun is green.
+- Kittens grow up to be cats
+- Italy is a candy.
 
-<iconp type="question">What do you notice about all of the “If” statements? Think about our lesson last week. </iconp>
-<iconp type="answer">They are all Boolean statements. </iconp>
+- [ ] **Contrasting Cases:** Students come up with their own definition of boolean by looking at the two lists of statements.
 
+<iconp type="question">Here is a list that I am calling "Boolean" and here is a list that I am calling "Not Boolean". What do you think Boolean means?</iconp>
+<iconp type="answer">Don't give students the answer! Ask them to defend their answers using examples from both lists. You can also hint for them to think about the previous activity with the T/F cards. They should be able to identify that all the Boolean statements can be answered with True or False, but Not Boolean cannot.</iconp>
 
+|Boolean Statements|Not Boolean Statements|
+|----------------------|------------------------|
+| 4 + 5 = 8         | Say hello.             |
+| You are the youngest in your family.| Spin in a circle and touch your toes. |
+| 10 is greater than 2 | Draw a circle.         |
+| Italy is a candy.    | Repeat 5 times.        |
+| I have a dog.        | Wait for 1 second.     |
+
+<note>
+![slides-tf4](./images/slides-tf4.png) </note>
+
+<pagebreak/>
 ## 3. Explain: Define (5 min)
-Participation: Whole Class, Unplugged
+Participation: Small Group Unplugged
 
-- [ ] **Define** conditionals - students write it in their idea journals
+- [ ] **Define** boolean - students write the definition in their idea journals.
 
-> > “On a blank page in your idea journal let’s write the definition of conditional. Conditional - Asks a true/false (boolean) statement, and runs a chunk of code if the answer is true.”
+> > “On a blank page in your idea journal let’s write the definition of Boolean. Boolean - A statement that can either be "true" or "false".”
 
-- [ ] **Check for understanding** -
+<note>![slides-define1](./images/slides-define1.png)</note>
 
-<iconp type="question"> Which of these blocks are examples of conditionals? </iconp>
-<iconp type="answer">The if-then block</iconp>
+- [ ] **Contrasting Cases:** Review the contrasting cases from above.
 
-<iconp type="question"> Which of these blocks are examples of boolean? </iconp>
-<iconp type="answer"> 4 is less than 5 </iconp>
+> > “You answered each of the statements on the left with “True” or “False”. It doesn’t make sense to answer the non-boolean statements with true/false. If I say “Draw a circle”, you would respond by drawing a circle. If you responded “false”, I would be very confused.”
 
-<note>![slides-Define2](./images/slides-Define2.png)
-</note>
+<note>![slides-define2](./images/slides-define2.png)</note>
+<br/>
+- [ ] **Popcorn:** Students hold up Boolean or Not Boolean cards to respond to questions. Pop around the room to different students asking them to explain if each statement is a boolean statement or not. It is important to have them say the word “boolean” to cement the term.
 
-**Possible Misconceptions:**
-- Students may think a loop is a conditional because of the shape, however a conditional does not repeat on its own.
-- Students may think a boolean is a conditional, but a boolean is just a part of a conditional.
-- Students may think 4+5 is a boolean because of the color and numbers, but a boolean block has points on the ends and can be answered with True or False.
+<iconp type="question"> Is this a boolean statement or not? If you’re not sure, try to answer true/false first.</iconp>
 
-## 4. Elaborate: Reading Conditionals (10 min)
-Participation: Whole Class, Unplugged
+| Statement | Answer |
+|------------------------------|----------|
+| What did you eat for breakfast? |	Not Boolean |
+| I own a pet.| Boolean |
+| I am wearing a purple shirt. |	Boolean |
+| Move 10 Steps |	Not Boolean |
+| 8 + 4 = 12	|	 	Boolean |
+| 9 is greater than 15. 	|	Boolean |
+| Run in a circle. 	|		Not Boolean |
+| 5 x 3 = 		|		Not Boolean |
 
-- [ ] **Model** how to use the steps to read conditional statements to read the first few examples on the handout together: 
-1. Read the If statement. 
-1. ✔ if the Boolean is true, read and execute what is inside the conditional
-1. ✘ if the Boolean is false, skip what is inside the conditional
+- [ ] **Check for Understanding:**
 
-- [ ] **Independent Practice:** Students continue to follow the read conditionals steps to finish the examples on the handout. Review the answers together as a class when students are done. 
+<iconp type="question">Patty is taking a Boolean test. How do we know? </iconp>
+<iconp type="answer">All the questions can be answered with “True” or “False”. </iconp>
 
-> > “Your turn. Keep following our 3 steps to finish the examples on your paper.”
+<note>![slides-define4](./images/slides-define5.png)</note>
 
-**Extension Questions for Advanced Groups:**
-<iconp type="question">Which of these conditionals would change you to the next level if you touch the goal? </iconp>
-<iconp type="question">Which of these conditionals sends you back to the start if you touch an enemy?</iconp>
+## 4. Elaborate: Boolean Code (5 min)    
+Participation: Small Group, Partners, Unplugged
+
+- [ ] **Contrasting Cases:** Give students a series of Scratch blocks and have them work in partners to identify which are examples of Boolean statements.
+
+> > “In your box you have a series of code blocks. Sort your blocks into two piles: those that are boolean blocks and those that are not. Use your cards to label each group. If you’re having trouble, try answering the statements with true/false.”
+
+<iconp type="question"> What do you notice about the shape of boolean blocks? </iconp>
+<iconp type="answer">The ends of boolean blocks have points like triangles.</iconp>
 
 ## 5. Evaluate: Exit Challenge (5 min)
 Participation: Small Group, Independent, Unplugged
 
-- [ ] **Exit Challenge:** Students answer the [Exit Challenge][exit-challenge] on paper using pencil independently and turn it in.
+- [ ] **Exit Challenge:** Students answer the [exit challenge][exit-challenge] on paper using pencil independently and turn it in.
 
-> > “Try these three challenges independently to test your new knowledge of conditionals!”
+> > “Try these three challenges independently to test your new knowledge of booleans!”
 
-<note>![slides-Exit](./images/slides-Exit.png)
-</note>
+## 6. Extension: Independent Coding (10-25 min)
 
-## 6. Extension: Independent Coding(15-30 min)
-
-- [ ] **Independent Coding:** Students move at their own pace through the Code.org studios. If you’d like to give students a more targeted lesson about loops you can direct them to continue working on Code.org Course 2 Lesson 13: Bee Conditionals
+- [ ] **Independent Coding:** Students login and continue to move at their own pace through the Code.org studios.
 
 
 </notable>
-[handouts]: https://docs.google.com/document/d/1GNLjhQ46PKIzcA7039MJXRfX9eE_XnBmLQ6NE7YgK_s/edit?usp=sharing
-[exit-challenge]: https://docs.google.com/document/d/1W62TkE9xkMoGnFAeSZI7Uk-FSAP9WaWX5RVsS4w-4wM/edit?usp=sharing
+
+[slide-show]: https://docs.google.com/presentation/d/1e1pb_i3jLzJHgTZ3zRVfOR3S3PrjVpg7rE7Z4WmrWYQ/edit?usp=sharing
+[answer-key]: https://docs.google.com/document/d/1VCO5Z0fPzbgoiQgkzvngx9JP_BMw0xfmHmjADoLOyaY/edit?usp=sharing
+[exit-challenge]: https://docs.google.com/document/d/1Ep32lyMTvf5f5oCggVSgyIqNUWsAeefzj6zFtGm04J4/edit
 [boolean-cards]: https://docs.google.com/document/d/1ENgpq-WdFCHz869IwJ9gVTF9bnf_TYze7dyVgDiy6uE/edit
-[slide-show]: https://docs.google.com/presentation/d/1O5q0HkabIMtdP2OXq1G49SF_l6rh687KUs2Opn4u08Q/edit?usp=sharing

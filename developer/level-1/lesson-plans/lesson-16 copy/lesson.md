@@ -1,54 +1,67 @@
-<header class='header' title='Debugging Loops' subtitle='Lesson 13'/>
+<header class='header' title='Debugging' subtitle='Lesson 16'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Students are introduced to the debugging protocol and practice applying it to a series of debugging challenges in Scratch.
+Students are introduced to the debugging protocol and practice applying it to a series of debugging challenges in Scratch. Then they continue to practice writing conditionals by coding along in Scratch to create conditionals that cause their game to progress to the next level and that cause their enemies and hero to react to each other.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
+- I can write an if-then statement to execute a sequence if a test is true.
 - When my code fails, I use the debugging protocol to debug my code.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-1. Engage/Explore/Explain: Debugging (30 min)
-1. Evaluate: Socrative (15 min)
-
-
+1. Engage/Explore/Explain: Debugging (20 min)
+1. Elaborate: Real World Conditionals (5 min)
+1. Elaborate: Code Along Challenges (15 min)
+1. Evaluate: Exit Challenge (5 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Projector
-- [ ] [Socrative Test][soc]
 - [ ] [Slide Show][slide-show]
+- [ ] [Scratch Studio][studio]
+- [ ] [Socrative Challenge][socrative] SOC-26868660
 
 ###### Student Materials:
-- [ ] Pencils
+- [ ] Dry erase markers
 - [ ] Computers
-
 
 </note>
 
 ## Room Design
+Students will be on computers for the entire lesson. Your room setup should allow students to easily see the board and you to easily walk around the room and view their screens.
 
 <note>
+
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
-- **Debug** - Finding and fixing errors in code.
-- **Conditional** - Asks a true/false (boolean) statement, and runs a chunk of code if the answer is true.
+- **Debug:** Finding and fixing errors in code.
+- **Conditional** Asks a boolean statement, and runs a chunk of code if the answer is true.
+
+</note>
 
 ###### Symbols Key
 
 <iconp ml='1.65em' type='question'>question</iconp>
 <iconp ml='1.65em' type='answer'>answer</iconp>
 - [ ] action item
-</note>
+
 
 <pagebreak/>
-## 1. Engage/Explore/Explain: Debugging (20 min)
-Participation: Independent, Online
 
-- [ ] **Debugging:** Students login to Scratch and navigate to the debugging studio in “My Class”. For each challenge show students a gif of what the coder wanted the enemy to do. Coders will follow the 3 steps as they debug the code. Discuss solutions as a whole class before continuing to the next challenge. You can either show them the video solution or write the solution yourself in Scratch.
+## 1. Engage/Explore/Explain: Debugging (20 min)
+Participation: Independent Online
+
+
+- [ ] **Debugging** Students login to Scratch and navigate to the debugging studio in “My Class”. For each challenge show students a gif of what the coder wanted the enemy to do. Coders will follow the 3 steps as they debug the code. Discuss solutions as a whole class before continuing to the next challenge.
+
+<note type="tip"> You can either show students the video solutions in the slides or demo the solution yourself in Scratch.</note>
 
 > > “Often when we are writing code it does not work the way we wanted it to. When this happens we need to debug. I have prepared 5 challenges for you to debug today. Let’s login to Scratch and follow the 3 steps to debug these: Compare, Find, Fix.”
+
+![slides-debugging](./images/Debugging.jpeg)
+
+<br/>
 
 - [ ] **Challenge 1**
 
@@ -113,8 +126,36 @@ Participation: Independent, Online
 
 <note>![slides-debugging2](./images/Debugging2.jpeg)</note>
 
-## 2. Evaluate: Socrative (15 min)
+## 2. Elaborate: Real World Conditionals (5 min)
+Participation: Whole Class Unplugged
+
+
+- [ ] **Making Connections:** Students complete if-then statements as the teacher writes them as a conditional in Scratch blocks on the board.
+
+> > “Let’s switch gears and look at the conditionals we were reading last week. This week we are going to write our own. Let’s start with some simple ones. Finish the conditional statement and then write it in the Scratch block.”
+
+![Real-World](./images/RealWorld.jpeg)
+
+## 3. Elaborate: Code Along (15 min)
+Participation: Whole Class Online
+
+
+- [ ] **Code Along:** Students navigate to the Lesson 16 studio and work in the “code along” project with the teacher.
+
+<note type="tip">You can either show the code along videos in the slides or demo the code yourself in Scratch.</note>
+
+The three conditionals we will demo are:
+1. If my hero touches Enemy 1, then the hero goes back to the start.
+1. If my hero touches any enemy, then the hero goes back to the start.
+
+You can view the finished product here: https://scratch.mit.edu/projects/143255918/#editor .
+
+![CodeAlong](./images/CodeAlong.jpeg)
+![CodeAlong](./images/CodeAlong2.jpeg)
+
+## 4. Evaluate: Exit Challenge (5 min)
 Participation: Independent Online
+
 
 - [ ] **Exit Challenge:** Students navigate to Socrative and answer the questions on SOC-26868660
 
@@ -122,5 +163,6 @@ Participation: Independent Online
 
 </notable>
 
-[slide-show]: https://docs.google.com/presentation/d/1e1pb_i3jLzJHgTZ3zRVfOR3S3PrjVpg7rE7Z4WmrWYQ/edit?usp=sharing
-[soc]: https://b.socrative.com/teacher/#import-quiz/26868660
+[slide-show]: https://drive.google.com/file/d/0B2wBzr9vcXjPUU1HbnlqY0xhLWc/view?usp=sharing
+[studio]: https://scratch.mit.edu/studios/3755751/
+[socrative]: http://www.socrative.com

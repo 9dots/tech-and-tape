@@ -17,9 +17,8 @@ Students complete a series of challenges to review the coding skills they’ve b
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 1. Engage: I Have a Challenge For You (2 min)
-1. Elaborate: Socrative (15 min)
-1. Elaborate: Rover (15 min)
-1. Elaborate: Secret Word (13 min)
+1. Elaborate: Socrative (20 min)
+1. Elaborate: Rover (23 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -34,10 +33,7 @@ Students complete a series of challenges to review the coding skills they’ve b
 ###### Student Materials:
 - [ ] Computers
 - [ ] Pencils
-- [ ] Tokens
 - [ ] Rovers
-- [ ] Dry Erase Markers
-- [ ] [Secret Words Handout][secret]
 - [ ] [Rover Handout][rover]
 
 </note>
@@ -75,7 +71,7 @@ Participation: Whole class, unplugged
 
 > > “You have learned so much as coders since September! Today, working in partners, you get a chance to apply all of your coding skills to tackle a series of challenges."
 
-## 2. Elaborate: Socrative (15 min) 
+## 2. Elaborate: Socrative (20 min) 
 Participation: Partners, online
 
 - [ ] **Challenge:** Students login to Socrative to complete a series of challenges similar to the ones they will complete independently on the ICC next week. It is important that students understand this is not a test and there is no final score. They should instead focus on activating all of their new coding super powers to tackle the challenges. Run this “Teacher Paced” so that you can display and discuss the classes’ answers after each question. Allow students to work in pairs on this challenge and encourage academic discourse: 
@@ -86,7 +82,7 @@ Participation: Partners, online
 <note type="tip">Budget 1 minute per question. There is a timer gif in the slides: ![slides-socrative1](./images/slides-socrative1.jpeg) ![slides-socrative2](./images/slides-socrative2.jpeg)</note>
 
 <pagebreak/>
-## 3. Elaborate: Rover (15 min) 
+## 3. Elaborate: Rover (23 min) 
 Participation: Partners, unplugged
 
 - [ ] **Challenge:** Students move Rover around their grids to practice reading and debugging code with loops and conditionals. Give students time to work in partners and then share whole group. Use the foam tiles to have students act out code. Encourage academic discourse: 
@@ -105,30 +101,9 @@ Participation: Partners, unplugged
 ![slides-rover4](./images/slides-rover4.jpeg)
 ![slides-rover5](./images/slides-rover5.jpeg)</note>
 
-<pagebreak/>
-## 4. Elaborate: Secret Word (13 min) 
-Participation: Partners, unplugged
-
-- [ ] **Challenge:** Complete the first row together as a class on the board. Students read and step through the code on the handout to reveal a secret word. In this activity they are practicing using all of the tools we have used to read code: index cards, tally marks, ✘ and ✔. Allow students to work in pairs on this challenge and encourage academic discourse: 
-	- “I disagree because…”
-	- “Show me how you got…”
-	- “What line of code…”
-
-**Solution:**
-![secret-answers](./images/secret-answers2.jpeg)
-
-<note type="tip">It’s ok if they do not finish the challenge in class. Have them take it with and complete it throughout the week. 
-<br/>
-You may need to remind students how to determine if a number is even or odd.
-<br/>
-**Slide:**
-![slides-secret](./images/slides-secret.jpeg)
-</note>
-
 </notable>
 
 [slide-show]: https://docs.google.com/presentation/d/1uH8It9FzN_5pCnyS5y0HeGN8lIVjiX9nRlDUsWvF1Mo/edit#slide=id.g1d1d70c4b2_0_11
 [socrative]: https://b.socrative.com/teacher/#import-quiz/27188219
-[secret]: https://drive.google.com/file/d/0B2wBzr9vcXjPbG9pc3ZhRE1fWGM/view?usp=sharing
 [rover]: https://docs.google.com/document/d/11BepTZnwHYCglzDXS88IdRC2exZBVqrUj1pQlbOtCzU/edit?usp=sharing
 [socrative2]: https://b.socrative.com/teacher/#import-quiz/27546630

@@ -1,4 +1,4 @@
-<header class='header' title='Debug & Plan' subtitle='Lesson 19'/>
+<header class='header' title='Debugging Conditionals' subtitle='Lesson 19'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -30,7 +30,6 @@ Students continue to build their debugging skills by reading a bug ticket and us
 </note>
 
 ## Room Design
-Students will be on computers for the entire lesson. Your room setup should allow students to easily see the board and you to easily walk around the room and view their screens.
 <note>
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
@@ -45,40 +44,15 @@ Students will be on computers for the entire lesson. Your room setup should allo
 <iconp ml='1.65em' type='answer'>answer</iconp>
 - [ ] action item
 
-
-## Engage: Kids Code (5 min)
+<pagebreak/>
+## 1. Engage: Kids Code (5 min)
 Participation: Whole Class Unplugged
 
-- [ ] **Showcase** Yamato’s Project from Selma Avenue Elementary.
+- [ ] **Showcase** a project from your class.  If you do not have a student project to showcase you can show Yamato’s project from Selma Avenue Elementary. Challenge students to be the next programmer we feature.
 
-- [ ] **Challenge** students to be the next programmer we feature.
+> > “If you code a project on your own, we would like to feature your project/app at the start of our class. Code something in Scratch or Code.org or any coding platform and show it to your getCoding teacher.”
 
-> > “We would like to feature your project at the start of our class. Code something and show it to your getCoding teacher.”
-
-<note>**Slides:** ![kidscode-slides](./images/slide-kc.jpeg)</note>
-
-## 2. Explore: Plan (10 min)
-Participation: Independent Unplugged
-
-- [ ] **Project Requirements** Read the project requirements from the handout together.
-
-> > “Game designers do not just start coding without first creating a design or plan for their game. Let’s take a few minutes to put together a plan for your final project. First, let's read the requirements for your project.”
-
-<note>**Slides:**  ![plan1-slides](./images/slide-plan1.jpeg)</note>
-
-<pagebreak/>
-
-- [ ] **Model** filling out a plan for your game. Think aloud through creating your plan (there is a plan provided in the slides you can follow). There is also a slide with ideas of loops and conditionals we have coded for enemies if students need a reminder.
-
-![GamePlanFront](./images/Game-Plan3.jpeg)
-
-<note>**Slides:**  ![plan1-slides](./images/slide-plan2.jpeg)</note>
-
-<br/>
-
-- [ ] **Create:** Students complete their own game plan, which you will collect and redistribute at each lesson for them to follow as they code their final projects.
-
-## 3. Explore: Debugging Challenges (20 min)
+##  2. Explore: Debugging Challenges (30 min)
 Participation: Whole Class Online
 
 - [ ] **Set the Challenge:** Students login to Scratch and navigate to the debugging studio in “My Class”. For each challenge read the Bug Ticket together. Coders will follow the 3 steps as they debug the code. Focus discussion on step 2: "Find" and logically identifying where the bug must be in the code. There is a video to help students fix the bug after they have discussed and tried it themselves.
@@ -146,13 +120,11 @@ Participation: Whole Class Online
 <note>**Slides:**  ![debugC5-slides](./images/slide-debugC5.jpeg)</note>
 
 
-## 4. Elaborate: Projects (10-25 min)
-Participation: Independent Online
+## 4. Elaborate: Independent Coding (10-25 min) 
 
-- [ ] **Create:** students use their game plan from the start of class to work on their final projects.
+- [ ] **Independent Coding:** Students move at their own pace through the Code.org studios or they can continue to work on their project on Scratch. 
 
-> > “Now let’s return to the plan you created at the start of the lesson. Use your plan to code the loops and conditionals for each of your Sprites. You have the rest of the lesson to work on your project.”
-<note>**Slides:**  ![project-slides](./images/slide-project.jpeg)</note>
+
 </notable>
 
 [slide-show]: https://drive.google.com/file/d/0B2wBzr9vcXjPMjQweUQ0b25MX2M/view?usp=sharing
