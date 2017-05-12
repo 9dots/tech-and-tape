@@ -7,30 +7,31 @@ In lesson 3 students continue to develop an understanding of how to use commands
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 
-- I can use multiple commands to control my turtle’s movements.
+- I can use multiple instructions to control my turtle’s movements.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. Engage: Warm Up (3 min)
-1. Explore: Turtle Chase Video Game (10 min)
-1. Explain: Multiple Commands (7 min)
-1. Elaborate: Independent Practice & Review (7 min)
-1. Evaluate: Exit Ticket (3 min)
+1. **Engage:** Review (3 min)
+1. **Explore:** Turtle Chase Video Game (8 min)
+1. **Explain:** Multiple Commands (6 min)
+1. **Elaborate:** turtleMove II (9 min)
+1. **Evaluate:** Exit Ticket (4 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Computer
 - [ ] Projector
-- [ ] [Lesson 3 Slides][slides]
 - [ ] Floor Grid
-- [ ] [Paper Star][paper-star]
+- [ ] [Paper Star][star]
+- [ ] [Slide Show][slides]
+
 
 ###### Student Materials:
 
-- [ ] [Paper Game Controller][game-controllers]
-- [ ] [Practice Worksheet][ind-practice]
-- [ ] [Exit Ticket][exit-ticket]
+- [ ] [Game Controllers][controller]
+- [ ] [Navigation Worksheet][worksheet]
+- [ ] [Exit Tickets][exit-ticket]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
@@ -42,7 +43,7 @@ In lesson 3 students continue to develop an understanding of how to use commands
 
 ## Room Design
 
-![room](./images/layout-rug-grid.png)
+![room](/images/layout-grid.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
@@ -55,75 +56,73 @@ In lesson 3 students continue to develop an understanding of how to use commands
 <pagebreak/>
 
 
-## 1. Engage: Warm Up (3 min)
+## Engage: Review (3 min)
+- [ ] **Review** the previous lesson by standing on a square on the floor grid and placing the paper star in an adjacent square. Using the paper game controller have students press and hold the button they would use to direct you to the star.
 
-- [ ] Pass out a set of paper game controllers.
-- [ ] Place a star on the floor grid and stand in an adjacent square. Ask the class to hold the button they would press to navigate you to the star on the grid.
+<iconp type='question'>Which button would you press to direct me to the star?</iconp>
 
-![grid-one](./images/grid-one.png)
+- [ ] **Share Out:** Students share their responses with the class.
 
-- [ ] Repeat step 2 three more times to ensure that students have practiced using all four directional commands.
-- [ ] Place the star in a square at one end of the floor grid and stand in a square on the opposite end of the grid as shown in the picture below.
+- [ ] **Review** the previous lesson by continuing to move the paper star to adjacent squares and having students share the arrow button they would use to direct you to the star.
 
-![grid-two](./images/grid-two.png)
+## Explore: Turtle Chase  Game (8 min)
+- [ ] **Introduce** the turtle chase game.
+>> “In our first activity we are going to play a video game using our game controllers. In this video game instead of controller characters on a computer screen we are going to control some of our characters on the floor grid.”
 
-- [ ] Have the class press the button they would use to get you closer to the star.
-- [ ] Have a volunteer share out their selection and ask the class to agree or disagree. Once the class has settled on a button choice act out their selection. Repeat this process until the class has successfully navigated you to the star.
+- [ ] **Explain** how to play the turtle chase video game, choose two volunteers to play, and divide the class into two teams, team turtle and team rabbit.
+>> “In this game we will have two volunteers play different characters, one will be a turtle and the other will be a rabbit. The goal of the game is for the turtle to catch the rabbit by standing in the same square with it. We will have two teams in charge of controlling the characters on the grid. Team Rabbit will try to make the rabbit get away from the turtle by directing it with their controllers. When it is the rabbit’s turn to move you will press the button you would like to use to move the rabbit. Then I will choose someone who is raising their hand to share out the button they chose and the rabbit will move in that direction. Team turtle will then do the same to try to catch the rabbit.  We will keep taking turns to see if the turtle can catch the rabbit.”
 
-<note type='key' title='Key Points'>
-- It is possible to use more than one command to complete a task.
-</note>
+- [ ] **Play** the turtle chase video game as a class.
+
+## Explain: Multiple Commands (6 min.)
+- [ ] **Show** the first multiple commands challenge in the slide show.
+
+- [ ] **Turn and Talk:** Students discuss how the multiple commands challenge is different from the challenges that were solved in the previous lesson.
+
+<iconp type='question'>What do you notice that is different between this challenge and the challenges that we solved in our last lesson?</iconp>
+
+- [ ] **Share Out:** Students share their responses to the turn and talk question with the class.
+
+- [ ] **Model** solving the multiple commands challenge.
+>> “In this challenge I want to give my turtle instructions to get to the star on the right. The arrow that I need to get my turtle there is the yellow arrow because it makes my turtle move to the right. Next I have to figure out how many times I have to tell my turtle to move to the right by checking the number of times I have to press the button. If I press it once it makes it move one square to the right. If I press it a second time it will move one step closer. But it is still not there. If I press it a third time the turtle will make it to the star. That means I have to tell the turtle to move to the right 3 times. I will show that by writing a 3 in the square below the buttons.”
+
+- [ ] **Guided Practice:** Have students work as a class to solve the next multiple commands challenge.
+>> “Let’s look at the next challenge.”
+
+<iconp type='question'>Which direction does the turtle have to move to get closer to the star?</iconp>
+
+<iconp type='question'>Which arrow should I press to make it move in that direction?</iconp>
+<iconp type='question'>How many times would I have to push that button to make my turtle get to the star?</iconp>
 
 
-## 2. Explore: Turtle Chase Video Game (10 min)
+- [ ] **Guided Practice:** Pass out the navigation worksheet and complete the first challenge as a class.
+>> “Let’s look at the next challenge.”
 
-###### How to Play
-**Goal:** The turtle must try to catch the hare by moving into the same square as the hare.
-- Starting with Team Hare, each team takes turns navigating their team member by pressing buttons on their game controllers.
-- Teams select directions by having individuals volunteer to share our their button choice.
+<iconp type='question'>Which direction does the turtle have to move to get closer to the star?</iconp>
+<iconp type='question'>Which arrow should I press to make it move in that direction?</iconp>
+<iconp type='question'>How many times would I have to push that button to make my turtle get to the star?</iconp>
 
-- [ ] Divide the class into two teams, Team Hare and Team Turtle.
-- [ ] Select a volunteer from each group to play the role of the turtle and hare for their respective teams.
-- [ ] Have the volunteer from Team Turtle stand in a corner of the grid and have the volunteer from Team Hare stand in an adjacent square.
+## Elaborate: turtleMove II (9 min)
+- [ ] **Independent Practice:** Students complete the navigation worksheet independently.
 
-![turtle-hare](./images/turtle-hare.png)
+- [ ] **Monitor** the class for students in need of additional assistance.
 
-- [ ] Explain the goal and rules of the game.
-- [ ] Have students play the game.
+- [ ] **Review** 2-3 challenges from the navigation worksheet with the class.
 
-## 3. Explain: Multiple Commands (7 min.)
+## Exit Ticket (3 min)
+- [ ] **Exit Ticket:** Students complete the exit ticket independently.
 
-- [ ] Project the slide of problem 1 on the independent practice worksheet.
+- [ ] **Monitor** the class for students in need of additional assistance.
 
-![slide-three](./images/slide-three.png)
+- [ ] **Debrief** the lesson as a class.
 
-- [ ] Model how to solve the problem.
-   1. Circle the button you should press to get the turtle to the colored square.
-   1. Count the number times you should press the button by counting the number of squares the turtle would have to step through to stand in the colored square.
-   1. Write the number of times you should press the button in the blank square.
-
-<note type='key' title='Key Points'>
-- It is possible to complete a task by choosing multiple commands.
-- We will practice selecting multiple commands in this activity.
-</note>
-
-- [ ] Complete problem two with the help of the class.
-
-![slide-four](./images/slide-four.png)
-
-## 4. Elaborate: Independent Practice (7 min)
-
-- [ ] Have students complete the independent practice worksheet. Monitor the class for students in need of assistance.
-- [ ] Review 2-3 problems from the worksheet with the group by having student volunteers share out their answers.
-
-## 5. Exit Ticket (3 min)
-
-- [ ] Have students complete the exit ticket to check for understanding.
+<iconp type='question'>What was different about the way we solved our practice challenges in this lesson compared to our last lesson?</iconp>
+<iconp type='question'>Why do you think it is useful to be able to give your turtle more than one instruction?</iconp>
 
 </notable>
 
+[star]: https://drive.google.com/open?id=0B48_2vIyABioYThreXZIU3d5ckU
 [slides]: https://drive.google.com/open?id=1sEgDN-IjoNcAdUqGP7Vlm5bqLMkpUa1Agt_x6rCLoTU
-[paper-star]: https://drive.google.com/open?id=0B48_2vIyABioelNBOFh0VHhWaEE
-[game-controllers]: https://drive.google.com/open?id=0B48_2vIyABioRVJkODVORy1FNEk
-[ind-practice]: https://drive.google.com/open?id=0B48_2vIyABioRlNJQjhjMlJSUU0
-[exit-ticket]: https://drive.google.com/open?id=0B48_2vIyABioU0FPUVlXaXBQcU0
+[controller]: https://drive.google.com/open?id=0B48_2vIyABioZ0Mzd3J5aURHMTg
+[worksheet]: https://drive.google.com/open?id=0B48_2vIyABioVXY5UVFGYkJWNjA
+[exit-ticket]: https://drive.google.com/open?id=0B48_2vIyABioaFVIRkxLeEstZEk
