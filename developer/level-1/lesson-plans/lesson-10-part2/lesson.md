@@ -18,14 +18,15 @@ This lesson assumes you are completing it in the same period as the ICC review. 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
-- [ ] [Lesson 10 Slides][slide-show]
+- [ ] [Slide Show][slide-show]
 - [ ] Teacher Scratch Blocks
 - [ ] Projector
-- [ ] Unplugged Maze
+- [ ] Foam Tiles
 
 ###### Student Materials:
 - [ ] Scratch Studio
 - [ ] Idea Journals
+- [ ] Computers
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
@@ -54,6 +55,7 @@ Participation: Whole Class, Unplugged
 
 > > “Yes! We are going to write the code for one of the enemies to patrol the maze. We’ve been practicing reading and writing code to improve on the game and make it more challenging. Today we will make it happen!”
 
+<note> **Slides:** ![slides-why](./images/slides-why.png)</note>
 
 ## 2. Explore: Code the First Enemy (5 min)
 Participation: Whole Class, Unplugged
@@ -66,6 +68,13 @@ Participation: Whole Class, Unplugged
 1. Identify the repeating element of a pattern and how many times it repeats.
 1. Place the repeating section of code within the loop’s block.
 1. Place the number of times the pattern repeats as the loop’s argument.
+
+![slides-volunteer](./images/slides-volunteer.png)
+![slides-q1](./images/slides-q1.png)
+![slides-q2](./images/slides-q2.png)
+![slides-q3](./images/slides-q3.png)
+![slides-q4](./images/slides-q4.png)
+![slides-q5](./images/slides-q5.png)
 </note>
 
 > > “I need one student to come up to the unplugged maze and act as our Bot, moving back and forth like the enemy that you see in the slide.”
@@ -90,12 +99,15 @@ Participation: Whole Class, Unplugged
 <iconp type='question'>**Extension Question:** How would we change our code if we wanted the enemy to continue to patrol the maze until game play ends?</iconp>
 <iconp type='answer'>Change the repeat loop to a forever loop.</iconp>
 
+<pagebreak/>
 ## 3. Explain: Code Along (8 min)
 Participation: Whole Class, Online
 
 - [ ] **Code Along:** Play the video to add the enemy code in Scratch. Pause at appropriate times to allow students to answer the questions.  (10 min)
 
 > > ”We just wrote the code to control one of the enemies. So now let’s put the code into our game!”
+
+<note>![slides-CodeAlong](./images/slides-codealong.png)</note>
 
 ## 4. Elaborate: Code it in Scratch (30 min)
 Participation: Independent, Online
@@ -104,10 +116,14 @@ Participation: Independent, Online
 
 > > “Now it is your turn. Let’s login to your Scratch account and put the code into your own version of the maze.”
 
+<note>![slides-YourTurn](./images/slides-yourturn.png)</note>
+
 <br/>
 - [ ] **Challenge:** Allow students to experiment coding different enemies. We will follow a more formal process in Lesson 11.
 
 > > “Once you’ve gotten that first enemy working, think back to all the code you wrote in Lessons 7 & 8. Can you write the code to make a different enemy spin? Can you make one travel in a square?”
+
+<note>![slides-challenge](./images/slides-challenge.png)</note>
 
 ## 4. Evaluate: Review Projects
 Participation: Teacher Only
@@ -116,4 +132,4 @@ Participation: Teacher Only
 
 </notable>
 
-[slide-show]: https://docs.google.com/presentation/d/1FYKb6QpjKcpymzLRw4CAEs_r0DKZ5RElQh8bizPxPsc/edit?usp=sharing
+[slide-show]: https://docs.google.com/presentation/d/1r3CuSiro-WklEfXQ6Cr6gKTN3XW0Bl4jA6IMXEkakZA/edit?usp=sharing

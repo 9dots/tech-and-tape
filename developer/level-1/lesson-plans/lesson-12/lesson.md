@@ -20,13 +20,12 @@ In this lesson we will begin to talk about user experience in the context of des
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Projector
-- [ ] [Lesson 12 Slides][slide-show]
+- [ ] [Slide Show][slide-show]
 - [ ] [Scratch Studio][starter-code]
 - [ ] [Scratch Sample Games][games]
 
 ###### Student Materials:
 - [ ] Computers
-- [ ] [Project Checklist Handouts][handout]
 - [ ] [Game Plans][plan]
 - [ ] Idea Journals
 - [ ] Dry Erase Markers
@@ -71,7 +70,7 @@ Participation: Whole Class Unplugged
 
 > > “Today you will decide which enemies you want to patrol your maze. By the end of class you will submit your project. Next week we will start to learn how to make our enemies do something when you run into them.”
 
-<note> ![slides-goal](./images/slides-goal.jpeg) </note>
+<note> ![slides-goal](./images/slides-goal.png) </note>
 
 - [ ] **Empathize:** Invite three students to play three versions of the Escape the Maze game on the projector: v.1 is too difficult to win, v2 is too easy, and v3 is difficult but possible to win.
 
@@ -83,8 +82,9 @@ Participation: Whole Class Unplugged
 <iconp type='question'>What makes certain enemies not fun to play against?</iconp>
 <iconp type='answer'>When there are too many and the game is impossible to beat</iconp>
 
-<note> ![slides-design](./images/slides-design.jpeg)
-![slides-empathize](./images/slides-empathize.jpeg) </note>
+<note> 
+![slides-empathize](./images/slides-empathize.jpeg) 
+![slides-design](./images/slides-design.png)</note>
 
 
 - [ ] **Define:** Process the findings from your empathy work in order to form a user point of view that you will address with your design.
@@ -103,6 +103,7 @@ Participation: Whole Class Unplugged
 
 ![Game Plan](./images/plan.jpeg)
 
+<note>![slides-plan](./images/slides-plan.png)</note>
 
 - [ ] **Set the Challenge:** Show them the rubric for the finished product (see #5).
 
@@ -113,7 +114,7 @@ Participation: Whole Class Unplugged
 - Program initiates when green flag is clicked.
 - Enemies improve the user experience by making the game more challenging but not impossible.”
 
-<note>![slides-checklist](./images/slides-checklist.jpeg)</note>
+<note>![slides-set](./images/slides-set.png)</note>
 
 ## 4) Elaborate: Prototype (20 min)
 Participation: Independent, Online
@@ -124,6 +125,7 @@ Participation: Independent, Online
 
 <note type="tip">As you walk around the room, remind students to use their game plans
 <br/> 🎥 Logging In and navigating to project
+![slides-codeAlong](./images/slides-CodeAlong.png)
 </note>
 
 ## 5) Evaluate: Submit Your Code (10 min)
@@ -138,7 +140,8 @@ Participation: Independent, Online
 - Program initiates when green flag is clicked
 - Enemies improve the user experience by making the game more challenging but not impossible.”
 
-<note>**Teacher’s Note:** After the lesson the teacher should view student progress in the studio and target individuals who need assistance in further programming. It is ok if students did not code all 6 enemies, but they should have the code for at least one enemy they wrote on their own.</note>
+<note>**Teacher’s Note:** After the lesson the teacher should view student progress in the studio and target individuals who need assistance in further programming. It is ok if students did not code all 6 enemies, but they should have the code for at least one enemy they wrote on their own.
+![slides-submit](./images/slides-submit.png)</note>
 
 </notable>
 

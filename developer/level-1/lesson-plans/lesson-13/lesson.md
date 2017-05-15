@@ -23,6 +23,7 @@ Students are introduced to the debugging protocol and practice applying it to a 
 ###### Student Materials:
 - [ ] Pencils
 - [ ] Computers
+- [ ] [Scratch Studio][scratch]
 
 
 </note>
@@ -50,6 +51,9 @@ Participation: Independent, Online
 
 > > “Often when we are writing code it does not work the way we wanted it to. When this happens we need to debug. I have prepared 5 challenges for you to debug today. Let’s login to Scratch and follow the 3 steps to debug these: Compare, Find, Fix.”
 
+<note>**Slides:** ![slides-debug](./images/slides-debug.png)
+![slides-CodeAlong](./images/slides-CodeAlong.png)</note>
+
 - [ ] **Challenge 1**
 
 <iconp type="question"> What does the coder want their program to do? What does it do instead?</iconp>
@@ -58,7 +62,7 @@ Participation: Independent, Online
 
 	Solution: Add a wait 1 second block after each move block.
 
-![Challenge1-5](./images/Challenge1-5.jpeg)
+<note>![Challenge1](./images/slides-d1.png)</note>
 <br/>
 
 - [ ] **Challenge 2**
@@ -69,7 +73,7 @@ Participation: Independent, Online
 
 	Solution: Change the argument in the second “change size” block to a negative number and add wait blocks.
 
-![Challenge1-2](./images/Challenge1-2.jpeg)
+<note>![Challenge2](./images/slides-d2.png)</note>
 <br/>
 
 - [ ] **Challenge 3**
@@ -80,7 +84,7 @@ Participation: Independent, Online
 
 	Solution: Add wait blocks between the show and hide.
 
-![Challenge1-3](./images/Challenge1-3.jpeg)
+<note>![Challenge3](./images/slides-d3.png)</note>
 <br/>
 
 - [ ] **Challenge 4**
@@ -91,7 +95,7 @@ Participation: Independent, Online
 
 	Solution: Change the repeat loop to a forever loop.
 
-![Challenge1-4](./images/Challenge1-4.jpeg)
+<note>![Challenge4](./images/slides-d4.png)</note>
 <br/>
 
 - [ ] **Challenge 5**
@@ -102,7 +106,7 @@ Participation: Independent, Online
 
 	Solution: Add more glide blocks and adjust the arguments.
 
-![Challenge1-1](./images/Challenge1-1.jpeg)
+<note>![Challenge5](./images/slides-d5.png)</note>
 
 - [ ] **Explain:** the debugging protocol.
 
@@ -111,16 +115,17 @@ Participation: Independent, Online
 > > 2. Find: Where is the bug?
 > > 3. Fix
 
-<note>![slides-debugging2](./images/Debugging2.jpeg)</note>
+<note>![slides-debug](./images/slides-debug.png)</note>
 
 ## 2. Evaluate: Socrative (15 min)
 Participation: Independent Online
 
 - [ ] **Exit Challenge:** Students navigate to Socrative and answer the questions on SOC-26868660
 
-<note>![Exit](./images/ExitChallenge.jpeg) </note>
+<note>![Socrative](./images/slides-soc.png) </note>
 
 </notable>
 
 [slide-show]: https://docs.google.com/presentation/d/1e1pb_i3jLzJHgTZ3zRVfOR3S3PrjVpg7rE7Z4WmrWYQ/edit?usp=sharing
 [soc]: https://b.socrative.com/teacher/#import-quiz/26868660
+[scratch]: https://scratch.mit.edu/studios/3755751/

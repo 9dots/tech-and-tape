@@ -10,10 +10,9 @@ Students are introduced to “boolean” and practice identifying true/false sta
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 1. Engage: Kids Code (5 min)
 1. Explore: True/False (10 min)
-1. Explain: Define (5 min)
+1. Explain: Define (15 min)
 1. Elaborate: Boolean Code (10 min)
 1. Evaluate: Exit Challenge (5 min)
-1. Extension: Independent Coding (10-25 min)
 
 
 <note>
@@ -32,15 +31,15 @@ Students are introduced to “boolean” and practice identifying true/false sta
 - [ ] Code Blocks
 
 
-</note>
-
-## Room Design
-
-<note>
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
 - **Boolean:** A statement that can be "true" or "false".
 
+</note>
+
+## Room Design
+
+<note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
 
 <iconp ml='1.65em' type='question'>question</iconp>
@@ -48,24 +47,23 @@ Students are introduced to “boolean” and practice identifying true/false sta
 - [ ] action item
 </note>
 
+<pagebreak/>
 ## 1. Kids Code (5 min)
 Participation: Whole Class Unplugged
 
-- [ ] **Showcase** young student programmer and students to be the next programmer we feature.
+- [ ] **Showcase** young student programmer and students to be the next programmer we feature. 
 
 > > “Kids all around are coding and creating. You’re never too young to start! If you code a project on your own, we would like to feature your project/app at the start of our class. Code something in Scratch or Code.org or any coding platform and show it to your getCoding teacher.”
+
+<note>![slides-kidscode](./images/slides-kidscode.png)
+</note>
 
 <br/>
 - [ ] **Motivate** students by connecting today’s lesson to their Escape the Maze game.
 
-> > “Last week when we played the three versions of our Escape the Maze game, what happened when the hero touched an enemy? The hero was sent back to the start! In order to write this code, we first need to learn about boolean code. When you are working independently on the computers you can work on finishing your enemies in Scratch. When you are working in our small group we will be learning about boolean, the foundation to programming enemies that react when the hero touches them.”
+> > “Last week when we played the three versions of our Escape the Maze game, what happened when the hero touched an enemy? The hero was sent back to the start! In order to write this code, we first need to learn about boolean code. We will be learning about boolean, the foundation to programming enemies that react when the hero touches them.”
 
-<note>![slides-kidscode3](./images/slides-kidscode3.png)
-![slides-kidscode4](./images/slides-kidscode4.png)
-</note>
-
-<pagebreak/>
-## 2. Explore: True/False (5 min)
+## 2. Explore: True/False (10 min)
 Participation: Small Group Unplugged
 
 - [ ] **True/False:** Students hold up True or False to respond to questions.
@@ -104,7 +102,8 @@ Participation: Small Group Unplugged
 ![slides-tf4](./images/slides-tf4.png) </note>
 
 <pagebreak/>
-## 3. Explain: Define (5 min)
+
+## 3. Explain: Define (15 min)
 Participation: Small Group Unplugged
 
 - [ ] **Define** boolean - students write the definition in their idea journals.
@@ -134,6 +133,9 @@ Participation: Small Group Unplugged
 | Run in a circle. 	|		Not Boolean |
 | 5 x 3 = 		|		Not Boolean |
 
+<note>![slides-BooleanCards](./images/slides-boolean.png)
+![slides-BooleanOrNot](./images/slides-ornot.png)</note>
+
 - [ ] **Check for Understanding:**
 
 <iconp type="question">Patty is taking a Boolean test. How do we know? </iconp>
@@ -141,7 +143,9 @@ Participation: Small Group Unplugged
 
 <note>![slides-define4](./images/slides-define5.png)</note>
 
-## 4. Elaborate: Boolean Code (5 min)    
+<pagebreak/>
+
+## 4. Elaborate: Boolean Code (10 min)    
 Participation: Small Group, Partners, Unplugged
 
 - [ ] **Contrasting Cases:** Give students a series of Scratch blocks and have them work in partners to identify which are examples of Boolean statements.
@@ -151,6 +155,8 @@ Participation: Small Group, Partners, Unplugged
 <iconp type="question"> What do you notice about the shape of boolean blocks? </iconp>
 <iconp type="answer">The ends of boolean blocks have points like triangles.</iconp>
 
+<note>![Boolean Code](./images/slides-bcode.png)</note>
+
 ## 5. Evaluate: Exit Challenge (5 min)
 Participation: Small Group, Independent, Unplugged
 
@@ -158,14 +164,12 @@ Participation: Small Group, Independent, Unplugged
 
 > > “Try these three challenges independently to test your new knowledge of booleans!”
 
-## 6. Extension: Independent Coding (10-25 min)
-
-- [ ] **Independent Coding:** Students login and continue to move at their own pace through the Code.org studios.
+<note>![Exit Challenge](./images/slides-exit.png)</note>
 
 
 </notable>
 
-[slide-show]: https://docs.google.com/presentation/d/1e1pb_i3jLzJHgTZ3zRVfOR3S3PrjVpg7rE7Z4WmrWYQ/edit?usp=sharing
+[slide-show]: https://docs.google.com/presentation/d/1fwufcIayqgfsEaQF5h9J3KRzOMAnN1lbgIPTAhyKGOc/edit?usp=sharing
 [answer-key]: https://docs.google.com/document/d/1VCO5Z0fPzbgoiQgkzvngx9JP_BMw0xfmHmjADoLOyaY/edit?usp=sharing
 [exit-challenge]: https://docs.google.com/document/d/1Ep32lyMTvf5f5oCggVSgyIqNUWsAeefzj6zFtGm04J4/edit
 [boolean-cards]: https://docs.google.com/document/d/1ENgpq-WdFCHz869IwJ9gVTF9bnf_TYze7dyVgDiy6uE/edit

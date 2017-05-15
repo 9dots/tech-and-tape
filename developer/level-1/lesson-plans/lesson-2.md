@@ -1,4 +1,4 @@
-<header class='header' title='If You Give a Mouse a Cookie' subtitle='Lesson 2'/>
+<header class='header' title='If You Give a Mouse a Cookie' subtitle='Lesson 02'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -110,4 +110,4 @@ Participation: Independent, Online
 
 [slide-show]: https://docs.google.com/presentation/d/1uJD-NpNnVgcb0qX0Hv_3LYX14yf1aRKRQzzB9PJgbCM/edit?usp=sharing
 [scratch]: https://scratch.mit.edu/studios/3448945/
-[tutorial]: https://scratch.mit.edu/help/videos/#Introductory Tutorials 
+[tutorial]: https://scratch.mit.edu/help/videos/#IntroductoryTutorials 

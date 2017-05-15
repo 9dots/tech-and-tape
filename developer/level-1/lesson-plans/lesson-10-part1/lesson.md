@@ -54,9 +54,10 @@ Participation: Whole Class, Unplugged
 
 > > “In lesson 9 you complete an Independent Coding Challenge because you are coders and coders love to challenge themselves. We want you to see how much you have learned so today we’re going to look at how we did on our challenges. Just a few months ago you had probably never coded before!”
 <br/>
-![slides-motivate1](./images/slides-motivate1.jpeg)
 
-<note type='key' title='Key Point:'>As coders we enjoy challenging ourselves, enjoy learning new things, and like to address weaknesses in our understanding.</note>
+<note title='Slides:'>
+![slides-challenge](./images/slides-challenge.png)
+</note>
 
 - [ ] **Deliberate Practice:** Hand back students’ Independent Coding Challenges for students to follow along.
 
@@ -78,7 +79,7 @@ Participation: Whole Class, Unplugged
 <iconp type='question'>What error did this coder make when reading this code?</iconp>
 <iconp type='question'>What could this coder have done to avoid making this error?</iconp>
 
-![slides-productive-failure](./images/slides-productive-failure.jpeg)
+![slides-productive-failure](./images/slides-correct.png)
 
 
 </notable>

@@ -32,8 +32,6 @@ Students are introduced to the Escape the Maze project they will be working on t
 
 ## Room Design
 
-![room](./lesson-1/images/online.png)
-
 <note>
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>

@@ -1,4 +1,4 @@
-<header class='header' title='Code the Enemy (Write Loops)' subtitle='Lesson 8'/>
+<header class='header' title='Code the Enemy' subtitle='Lesson 08'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -18,7 +18,7 @@ In this lesson students identify repeating patterns in a sequence and replace th
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
-- [ ] [Lesson 8 Slides][slide-show]
+- [ ] [Slide Show][slide-show]
 - [ ] Projector
 
 ###### Student Materials:
@@ -53,6 +53,10 @@ In this lesson students identify repeating patterns in a sequence and replace th
 
 ![pattern1](./images/unifix-cubes-pattern1.jpeg)
 
+<note>**Slides:** <br/>
+![slides-cubes1](./images/slides-cubes1.png)
+</note>
+
 - [ ] **Pattern Recognition:** Students identify the pattern in the cubes.
 
 <iconp type="question">What is repeating in this pattern?</iconp>
@@ -63,6 +67,7 @@ In this lesson students identify repeating patterns in a sequence and replace th
 <iconp type="answer">4</iconp>
 
 <br/>
+
 - [ ] **Build:** Students use the code blocks to build a loop that describes the pattern.
 
 <iconp type="question">How could you represent the pattern using fewer cubes and code blocks?</iconp>
@@ -70,7 +75,9 @@ In this lesson students identify repeating patterns in a sequence and replace th
 <iconp type="question">What number do I write as the argument in the repeat loop? How do you know?</iconp>
 <iconp type="answer">4 because the pattern repeated 4 times</iconp>
 
-<note type="tip">The number in the loop block is called an argument. </note>
+<note type="tip">The number in the loop block is called an argument. 
+![slides-cubes2](./images/slides-cubes2.png)
+</note>
 
 <iconp type="question">Why do I put just one piece of the pattern inside the loop?</iconp>
 <iconp type="answer">Because only that section is repeating 4 times. If you put the whole thing in the loop you’d get a much longer sequence.</iconp>
@@ -79,6 +86,10 @@ In this lesson students identify repeating patterns in a sequence and replace th
 - [ ] **Optional:** Repeat process with second pattern.
 
 ![pattern2](./images/unifix-cubes-pattern2.jpeg)
+<note>
+![slides-cubes3](./images/slides-cubes3.png)
+![slides-cubes4](./images/slides-cubes4.png)
+</note>
 
 ## 2. Explain: Translating Patterns to Loops (10 min)
 
@@ -103,13 +114,23 @@ In this lesson students identify repeating patterns in a sequence and replace th
 2. Place the repeating section of code within the loop’s mouth.
 3. Place the number of times the pattern repeats as the loop’s argument.</iconp>
 
+![slides-translating1](./images/slides-translating1.png)
+![slides-translating2](./images/slides-translating2.png)
+![slides-translating3](./images/slides-translating3.png)
+![slides-translating4](./images/slides-translating4.png)
+![slides-translating5](./images/slides-translating5.png)
+![slides-translating6](./images/slides-translating6.png)
+
+
 ## 3. Elaborate/Evaluate: Socrative (10 min)
 
 - [ ] **Socrative:** Run the Socrative quiz. Students work independently to continue to practice identifying the patterns in a sequence and rewrite them as a loop. You will need to give students the Room Name.
 
 > > “Coders, I have a challenge for you! Let’s login to Socrative and answer the questions independently about what we practiced today. When you are finished you can continue to work through the studios in Code.org.”
 
-## 4. Extension: Independent Coding(15-30 min)
+<note>![slides-socrative](./images/slides-soc.png)</note>
+
+## 4. Extension: Independent Coding (15-30 min)
 
 - [ ] **Independent Coding:** Students move at their own pace through the Code.org studios. If you’d like to give students a more targeted lesson about loops you can direct them to continue working on Code.org Course 2 Stage 8: Bee Loops
 

@@ -52,10 +52,13 @@ Participation: Whole Class Unplugged
 > > “Kids all around are coding and creating. You’re never too young to start! If you code a project on your own, we would like to feature your project/app at the start of our class. Code something in Scratch or Code.org or any coding platform and show it to your getCoding teacher.”
 
 <br/>
+<note>**Slides:** ![slides-showcase](./images/slides-showcase.png)</note>
 
 - [ ] **Motivate** students by connecting today’s lesson to their Escape the Maze game. 
 
 > > “In Lesson 12 when we played the three versions of our Escape the Maze game, what happened when the hero touched an enemy? The hero was sent back to the start! This is caused by conditional statements. Today we will be learning about conditionals, the foundation to programming enemies that react when the hero touches them.”
+
+<note>![slides-motivate](./images/slides-motivate.png)</note>
 
 <br/>
 
@@ -64,8 +67,8 @@ Participation: Whole Class Unplugged
 <iconp type="question"> A lot of coders made this error on their exit challenge last week. When coders get a problem wrong they debug! What was the error here?</iconp>
 
 <iconp type="answer">7 + 3 is not a boolean, it is not a true/false statement and does not have pointed ends</iconp>
-<note>![slides-KC2](./images/slides-KC2.png)
-</note>
+
+<note>![slides-review](./images/slides-review.png)</note>
 
 <pagebreak/>
 

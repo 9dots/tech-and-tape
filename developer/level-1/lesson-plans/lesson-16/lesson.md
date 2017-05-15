@@ -2,7 +2,7 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Students practice reading code with conditionals by checking the boolean statement and then deciding if the nested code in the conditional should be executed or not. Conditional statements include code that causes the hero and enemy to interact. Students practice reading code written with conditionals that instructs them in drawing a robot.
+ Students practice reading code written with conditionals that instructs them in drawing a robot. They then Code Along to write conditionals in Scratch that allow their Sprites to interact with each other.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can read an if-then statement to execute a sequence if a test is true.
@@ -10,9 +10,7 @@ Students practice reading code with conditionals by checking the boolean stateme
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 1. Engage: Kids Code (5 min)
 1. Explore: Build-a-Bot (15 min)
-1. Explain: Read Protocol (5 min)
-1. Elaborate: Conditionals in Scratch (15 min)
-1. Evaluate: Exit Challenge (5 min)
+1. Explain: Code Along (25 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -21,13 +19,10 @@ Students practice reading code with conditionals by checking the boolean stateme
 - [ ] [Slide Show][slide-show]
 
 ###### Student Materials:
-- [ ] [Lesson 15 Handout][handout1]
 - [ ] [Bots Code Handout][handout2]
 - [ ] [Bots Picture Handout][handout3]
-- [ ] [Exit Challenges][exit-challenge]
 - [ ] Index Cards
 - [ ] Pencils
-- [ ] Dry erase markers
 - [ ] Playing Cards (min 6 per student)
 
 </note>
@@ -56,17 +51,11 @@ Students do not need a special setup for this lesson as they will not be on comp
 ## 1. Kids Code (5 min)
 Participation: Whole Class Unplugged
 
-- [ ] **Showcase** the video of Anivitha, the youngest programmer to attend Apple’s Worldwide Developer Conference last year.
+- [ ] **Showcase** the video of Anivitha, the youngest programmer to attend Apple’s Worldwide Developer Conference last year, and challenge students to be the next programmer we feature.
 
-> > “Kids all around are coding and creating.”
+> > “Kids all around are coding and creating. If you code a project on your own, we would like to feature your project/app at the start of our class. Code something in Scratch or Code.org or any coding platform and show it to your getCoding teacher.”
 
 <note>![slides-KC1](./images/KC1.jpeg)
-</note>
-- [ ] **Challenge** students to be the next programmer we feature.
-
-> > “If you code a project on your own, we would like to feature your project/app at the start of our class. Code something in Scratch or Code.org or any coding platform and show it to your getCoding teacher.”
-
-<note>![slides-KC2](./images/KC2.jpeg)
 </note>
 <br/>
 
@@ -82,25 +71,22 @@ Participation: Whole Class Unplugged
 ## 2. Explore: Build-a-Bot (15 min)
 Participation: Independent Unplugged
 
-- [ ] **Connect Prior Knowledge:**
+- [ ] **Connect Prior Knowledge:** Remind students what a conditional is and of the tools we use to read code.
 
 <iconp type="question"> The code on the side of your paper are your instructions for building your robot. What are we going to use our index cards for?</iconp>
 <iconp type="answer">Uncover each line of code one at a time as we read.</iconp>
 <iconp type="question"> Look at the yellow blocks of code on your paper that start with “If”. What do we call code that starts with “If”?</iconp>
 <iconp type="answer">Conditionals. Bonus if they can identify the triangular Boolean statement as well.</iconp>
-<note>![slides-BB1](./images/BB1.jpeg)
-![slides-BB2](./images/BB2.jpeg)
+<note>![slides-BB2](./images/BB2.jpeg)
 ![slides-BB3](./images/BB3.jpeg)
 </note>
 - [ ] **Model** the steps to reading conditionals as you complete your own bot on the board. When you read each Boolean statement read it “... is true”.
 
-Steps for reading code with conditionals:
-1. **Draw a box** around the conditional statement.
-1. **Identify** if the Boolean statement is ✓ true or X false?
-1. **Step** through code before the conditional statement.
-1. **If true:** Jump into the conditional.
-1. **If false:** Skip the conditional statement.
-1. **Step** through code after the conditional statement.
+	Steps for reading code with conditionals:
+**Don't forget to also read any code that is before and after the conditional in order.**
+	1. Read the If statement. 
+	1. ✔ if the Boolean is true, read and execute what is inside the conditional
+	1. ✘ if the Boolean is false, skip what is inside the conditional
 
 <note>![slides-BB4](./images/BB4.jpeg)
 ![slides-BB5](./images/BB5.jpeg)
@@ -114,50 +100,22 @@ Steps for reading code with conditionals:
 
 - [ ] **Share:** If time allows, call up a couple of volunteers to share their bots with the class.
 
-## 3. Explain: Read Protocol (5 min)
-Participation: Whole Class Unplugged
+## 3. Explain: Code Along (25 min)
+Participation: Whole Class Online
 
-- [ ] **Model:** Follow the same steps you introduced in explore to read the Scratch code in the first example on the handout.
+- [ ] **Code Along:** Play the code along videos while students follow along on their computers to write conditionals in Scratch.
 
-> > “In the last lesson we were translating Scratch code with conditionals. In this lesson we will read how the conditional code is executed. That means what happens when we run the conditional code.”
+> > “Now that you've gotten comfortable with conditionals, let's code along as we learn how to write conditionals in Scratch. 
 
-Steps for reading code with conditionals:
-1. **Draw a box** around the conditional statement.
-1. **Identify** if the Boolean statement is ✓ true or X false?
-1. **Step** through code before the conditional statement.
-1. **If true:** Jump into the conditional.
-1. **If false:** Skip the conditional statement.
-1. **Step** through code after the conditional statement.
 
-<note>![slides-conditionals1](./images/Conditionals1.jpeg)
-![slides-conditionals2](./images/Conditionals2.jpeg)
-![slides-conditionals3](./images/Conditionals3.jpeg)
+<note>![slides-CodeAlong](./images/CodeAlong.png)
 </note>
 
-## 4. Elaborate: Conditionals in Scratch (15 min)
-Participation: Pairs Unplugged
 
-- [ ] **Pair Practice:** Students continue with challenges 2-6 on the handout in pairs. Younger grades that are not as proficient in writing can do this as a Pair-Share activity where they say their statement to their partner. A good way to pace this activity is to give groups 90 seconds for each challenge and then 30 seconds to share whole group. Have students write out at least one of the problems so they are prepared to write on the exit challenge.
-
-<note>!
-There are 8 more slides in this section.
-</note>
-
-## 5. Evaluate: Exit Challenge (5 min)
-Participation: Independent Unplugged
-
-- [ ] **Exit Challenge:** Students answer the [Exit Challenge][exit-challenge] on paper using pencil independently and turn it in.
-
-> > “Try these three challenges independently to test your new knowledge of conditionals!”
-
-<note>![slides-EC1](./images/EC1.jpeg)
-![slides-EC2](./images/EC2.jpeg)
-</note>
 
 </notable>
 
 [handout1]: https://docs.google.com/document/d/1fSpf8pCcVZ0IOAqMHoqblKPumZ1YzYSHaOhpN-_yHrU/edit?usp=sharing
 [handout2]: https://drive.google.com/file/d/0B2wBzr9vcXjPQmdYWE1BZ2dTN2M/view?usp=sharing
 [handout3]: https://drive.google.com/file/d/0B48_2vIyABiobmdhS2wxWjctSGs/view?usp=sharing
-[exit-challenge]: https://docs.google.com/document/d/17CoW2GSrtILlClHWW7BEO2LIaL7V3PUfHG7T1V2UmOc/edit?usp=sharing
 [slide-show]: https://docs.google.com/presentation/d/1iyrvTfBPOIJBptvhT4CYhAbtus-xAybmmpDaX4NL6go/edit?usp=sharing
