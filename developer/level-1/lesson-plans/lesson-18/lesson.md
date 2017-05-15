@@ -1,37 +1,29 @@
-<header class='header' title='Where is Rover?' subtitle='Lesson 18'/>
+<header class='header' title='Write Conditionals' subtitle='Lesson 18'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Students continue to practice reading conditionals with Rover. They build their argumentation skills to debate where Rover lands. Independently, students continue to practice writing conditionals and loops as they work on their Escape the Maze projects. 
+Students apply their knowledge of conditionals to write code in their Escape the Maze projects that cause the hero and enemies to interact.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can read an if-then statement to execute a sequence if a test is true.
 - I can write a conditional (if-then) to make my maze hero and enemies interact.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-1. Engage: Dance Dance Conditionals (5 minutes)
-1. Elaborate: Where’s Rover (20 minutes)
-1. Evaluate: Exit Challenge (5 minutes)
-1. Extension: Secret Word (15-30 minutes)
+1. Engage: Kids Code (5 minutes)
+1. Explain: Code Along (5 minutes)
+1. Elaborate: Code (30 minutes)
+1. Evaluate: Project Checklist (5 minutes)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Projector
 - [ ] [Slide Show][slide-show]
-- [ ] Rover (large)
-- [ ] Foam Tiles (with numbers written in permanent marker)
 
 ###### Student Materials:
 - [ ] Computers
 - [ ] Idea Journals
-- [ ] [Where's Rover Handout][handout]
-- [ ] Index Cards
-- [ ] Rovers
-- [ ] [Exit Challenges][exit]
-- [ ] Pencils
-- [ ] [Secret Word Handout][secret]
-- [ ] Token for secret word challenge
+- [ ] [Game Plans][plan]
 
 </note>
 
@@ -50,56 +42,43 @@ Students continue to practice reading conditionals with Rover. They build their 
 <iconp ml='1.65em' type='answer'>answer</iconp>
 - [ ] action item
 
+<pagebreak/>
+## 1. Engage: Kids Code (5 min)
 
-## 1. Engage: Dance Dance (5 min)
-Participation: Small Group Unplugged
+- [ ] **Showcase:** Choose a student from your class to show off their current Escape the Maze project or a personal project. 
 
-- [ ] **Review** the steps of reading conditionals by calling a volunteer up to the front to perform the dance code on the board.
+<note>**Slides:** ![Kids Code](./images/KidsCode.png)</note>
 
-<note>**Slide:** ![slides-dance](./images/slide-dance.jpeg) </note>
+## 2. Explain: Code Along (5 min)
 
-## 2. Elaborate: Where's Rover (20 min)
-Participation: Whole Class, Unplugged
+- [ ] **Code Along:** Play the code along video to show students how to navigate to their project and code the conditionals from their game plan.
 
-- [ ] **Argumentation:** Students get the Where's Rover handout. They individually practice reading the code as they move Rover around their grid to determine where he lands. Give students a minute to try the problem on their own and then have students argue their answer by stepping through the code and moving Rover on the large foam tiles. The discussion should be student led. Provide sentence starters for students to respond to answers they believe are not correct:
-- “I disagree with your answer because…”
-- “Can you show me how you got…”
-- “What line of code shows that…”
-
-![handout1](./images/WheresRover.jpeg)
+> > "In our last lesson you wrote in your game plan how you want to use conditionals in your Escape the Maze project. Today you are going to have most of the lesson to code those conditionals in your game. Let's follow along to navigate to our projects."
 
 <br/>
+<note>![Code Along](./images/CodeAlong.png)</note>
 
-- [ ] **Optional If Time**: On the back of the handout students use the debugging protocol to determine what error was made while reading the code.
+## 3. Elaborate: Code (30 min)
 
-![handout2](./images/FindtheBug.jpeg)
-<note> ![slides-WheresRover2](./images/slide-wr2.jpeg)
-**If Time:** ![slides-WheresRover4](./images/slide-wr4.jpeg)
-</note>
+- [ ] **Make:** Students add the conditionals code to their projects following their plan and the code we demoed in the Code Along.
 
-## 3. Evaluate: Exit Challenge (5 min)
-Participation: Independent Unplugged
+> > “Now that you have seen the power of conditionals, it is your turn to write conditionals into your Escape the Maze project. Don’t forget to use your game plan.”
 
-- [ ] **Evaluate:** Students answer the Exit Challenge on paper using pencil independently and turn it in.
+<note>![Code](./images/Code.png)</note>
+<pagebreak/>
 
-> > “Try these challenges independently to test your knowledge of reading conditionals!”
+## 4. Evaluate: Project Checklist (5 min) 
 
-<note> **Slides:**
-![exit challenge](./images/slides-ec.jpeg)
-</note>
+- [ ] **Evaluate:** Students check their projects against the rubric checklist and ensure their project is in the Lesson studio.
 
-## 4. Extension: Secret Word (15-30 min) 
-Participation: Partners, unplugged
+> > “Let’s read through the project checklist on the back of your game plan to see how we are doing with our projects. You will have more time to work on the project so you are not expected to be done today. Check off each item if you have completed it.”
+![ProjectChecklist](./images/projectChecklist.png)
 
-- [ ] **Challenge:** Complete the first row together as a class on the board. Students read and step through the code on the handout to reveal a secret word. In this activity they are practicing using all of the tools we have used to read code: index cards, tally marks, ✘ and ✔.  After students have had time to complete the challenge discuss the solution as a class, encouraging students to ask questions where they had difficulty with the code. 
-
-> > “Coders, I have a super challenge for you. For this challenge you are going to combine your knowledge of sequences, loops, and conditionals to reveal a secret word. Let’s do the first column of the challenge together and then you will continue on your own.”
-
-<note type="tip">It’s ok if they do not finish the challenge in class, you can have them take it with and complete it throughout the week. </note>
+<note>![Checklist](./images/checklist1.png)
+![Checklist](./images/checklist.png)
+![Checklist](./images/checklist3.png)</note>
 
 </notable>
 
-[slide-show]: https://docs.google.com/presentation/d/12gEP4eKzWl3vAGfh2-v8Z2FWzq86bZ8CBY7UemnCVWI/edit?usp=sharing
-[handout]: https://drive.google.com/file/d/0B2wBzr9vcXjPaFhWVG83TEhaMjg/view?usp=sharing
-[exit]: https://drive.google.com/file/d/0B2wBzr9vcXjPUkFOajdHbHhlQTg/view?usp=sharing
-[secret]: https://drive.google.com/open?id=0B2wBzr9vcXjPbG9pc3ZhRE1fWGM
+[slide-show]: https://docs.google.com/presentation/d/11yK7r4SqfhVqMo9GnLnQQ2_ne3xjztH12CUGBof0GvU/edit?usp=sharing
+[plan]: https://drive.google.com/file/d/0B2wBzr9vcXjPN3hPQmItMndvQ1k/view?usp=sharing
