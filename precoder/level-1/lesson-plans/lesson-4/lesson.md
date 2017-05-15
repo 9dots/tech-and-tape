@@ -2,37 +2,36 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 4 students are introduced to sequences and begin developing an understanding of how to read code. Students learn how to step through sequences of 2-5 arrow directions with the aid of a token.
+In lesson 4 students are introduced to sequences and begin developing an understanding of how to read code. Students learn how to step through sequences of 2-5 lines of code with the aid of a token.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
-
-I can read a 2-5 block sequence of code.
-
+- I can step through a 2-5 line sequence of code.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. Engage: Intro to Sequences (5 min)
-1. Explore: Stepping (2 min)
-1. Explain: Stepping Demonstration (8 min)
-1. Elaborate: Independent Practice (10 min)
-1. Evaluate: Exit Ticket (3 min)
+1. **Engage:** Review (3 min)
+1. **Explore:** Sequences (4 min)
+1. **Explain:** Stepping (10 min)
+1. **Elaborate:** Stepping Practice (10 min)
+1. **Evaluate:** Exit Ticket (3 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Computer
 - [ ] Projector
-- [ ] [Lesson 4 Slides][slides]
 - [ ] [Board Token][token]
+- [ ] [Slide Show][slides]
+
 
 ###### Student Materials:
-- [ ] Dry Erase Markers
-- [ ] [Stepping Tokens][token]
-- [ ] [Independent Practice Worksheet][ind-practice]
-- [ ] [Exit Ticket][assess]
+- [ ] Pencils
+- [ ] Index Cards
+- [ ] [Tokens][token]
+- [ ] [Stepping Worksheet][ind-practice]
+- [ ] [Exit Tickets][exit-ticket]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
-
 - **Sequence** - A set of actions that must be performed in the order they are written.
 
 </note>
@@ -41,7 +40,7 @@ I can read a 2-5 block sequence of code.
 
 ## Room Design
 
-![room](./images/layout-tables.png)
+![room](/images/layout-rows.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
@@ -53,78 +52,90 @@ I can read a 2-5 block sequence of code.
 
 <pagebreak/>
 
-## 1. Engage: Intro to Sequences (5 min)
+## Engage: Review (3 min)
 
-- [ ] Present the sequence in slide 2 to the class and ask:
+- [ ] **Show** the first sequence to the class.
 
-![slide-two](./images/slide-two.png)
+- [ ] **Turn and Talk:** Students discuss the turtle’s final position after following the sequence of arrows.
 
 <iconp type='question'>Where would the turtle stop if I pressed the buttons in order starting from the top?</iconp>
-<iconp type='answer'>The turtle will end up on the G.</iconp>
+<iconp type='answer'>The turtle would stop on the letter Y.</iconp>
 
-<br/>
+- [ ] **Share Out:** Students share their responses to the turn and talk question with the class.
 
-- [ ] Explain that the buttons shown on the board are an example of a sequence.
-- [ ] Have students repeat the word in unison until all students are able to pronounce it.
-- [ ] Explain that a sequence is  a set of actions that happen a specific order.
-- [ ] Show the example of a sequence in slide 3.
+- [ ] **Demonstrate** that by pressing the buttons on the right in order from top to bottom the turtle would stop at the letter Y.
+>> “If I follow the instructions on the right the turtle will first move one step down to the letter G. Then it will move another step down to the letter M. Then it will move another step down to the letter S. Finally, it will take one last step down to the letter Y.”
 
-![slide-three](./images/slide-three.png)
+## Explore: Sequence (4 min)
 
-- [ ] Show slide 4 and ask
+- [ ] **Explain** that the order of arrow instructions is an example of a sequence.
+>> “The instructions we just followed to move the turtle to the letter Y are an example of something called a sequence.”
 
-![slide-four](./images/slide-four.png)
+- [ ] **Practice:** Students practice saying the word sequence.
+>> “Everyone repeat after me and say the word sequence.”
 
+- [ ] **Show** the class a series of examples of sequences.
+>> “I am going to show you some examples of sequences. As you look at them I want you to try to find what is the same about all of these examples.”
 
-<iconp type='question'>What is similar about the sequences you see on the board?</iconp>
-<iconp type='answer'>Both sequences are numbered.</iconp>
-<iconp type='answer'>Both sequences give directions that complete a task.</iconp>
-<iconp type='answer'>Both sequences are ordered from top to bottom.</iconp>
+- [ ] **Share Out:** Students discuss commonalities among the examples of sequences.
 
-<br/>
+<iconp type='question'>What is the same about all of these examples?</iconp>
 
-<iconp type='question'>What is different about the sequences you see on the board?</iconp>
-<iconp type='answer'>One sequence uses words and the other does not.</iconp>
+- [ ] **Turn and Talk:** Students attempt to define a sequence with their partner.
 
-<br/>
+<iconp type='question'>Think about the things you just described that are the same in all of these examples. What do you think a sequence is?</iconp>
 
--  [ ] Explain that each sequence contains a set of directions and they are numbered to show in the order they’re supposed to be followed.
+- [ ] **Define** the word sequence.
+>> “A sequence is a set of actions that must occur in the order they are written.”
 
-## 2. Explore: Stepping (2 min)
+- [ ] **Explain** how each example shown is a sequence.
 
-- [ ] Give students a stepping board, a marker, and a token.
-- [ ] Have students place their token at the start block.
-- [ ] Direct students to try and determine which letter the token would stop on if it followed the sequence on the right hand side of the board.
+- [ ] **Demonstrate** the sequence hand signal.
 
-## 3. Explain: Stepping (8 min)
+- [ ] **Practice:** Students practice saying the word sequence while doing the hand signal.
 
-- [ ] Demonstrate how to step through the sequence using the token cutout on the board.
-   1. Move the token one step at a time
-   1. As each direction in the sequence is completed, place a checkmark next to it.
-   1. Repeat the process until the token reaches it’s final destination.
-- [ ] Project slide 5 and demonstrate how to complete it using the same process described above.
+## Explain: Stepping (10 min)
 
-![slide-five](./images/slide-five.png)
+- [ ] **Introduce** the lesson’s objective and the stepping activity.
+>> “In today’s lesson we are going to learn how to read code by doing something we call stepping. Stepping means reading and acting out our code one step at a time.”
 
-- [ ] Invite two students to come up to the board to read and act out the code in slide 6.
-   1. One student will read and check mark the directions in the sequence.
-   1. The second student will move the token.
-- [ ] Have the students read and act out the code together.
+- [ ] **Model** how to step through a sequence of code with a token using the slide, move, check protocol.
 
-![slide-six](./images/slide-six.png)
+  Stepping Protocol
 
-## 4. Elaborate: Independent Practice (7 min)
+  1. *Slide* the index card down to reveal the next line of code.
+  1. *Move* the token according to the code.
+  1. *Check:* Draw a check mark next to the line of code that was read.
+>> “In this challenge we have a sequence of instructions. We will think of these instructions as our code. The sequence tells my turtle how to move. To make it easier to read this code I will cover it with an index card. Then I will slide it down to show the first line of code. The first line of code says to move to the right so I will move my turtle one step to the right. I will also draw a check mark to the right of the code to remember that I already read this line. To read the next line of code I will slide my card down again. Then I will move my turtle to the right because it says to move to the right. I’ll also add another check mark to remember that I read this line. I’ll continue doing this until I no longer have any code to read. The order goes slide, move, check.”
 
-- [ ] Have students complete the independent practice worksheet independently. Monitor the class for students in need of assistance.
-- [ ] Review 2-3 problems from the worksheet with the group by having student volunteers share out their answers.
+- [ ] **Model** how to step through a second sequence of code with less explanation in order to allow them to see the full process without any interruption.
 
-## 5. Evaluate: Exit Ticket (3 min)
+- [ ] **Guided Practice:** Student volunteers step through a sequence on the board. One student reads the line out loud while the other student moves the token.
 
-- [ ] Have students complete the exit ticket to check for understanding.
+- [ ] **Guided Practice:** The class works together to complete the first challenge on the stepping worksheet by following the stepping protocol.
+
+## Elaborate: Stepping Practice (10 min)
+
+- [ ] **Independent Practice:** Students complete the stepping worksheet independently.
+
+- [ ] **Monitor** the class for students in need of additional assistance.
+
+- [ ] **Review** 2-3 challenges from the stepping worksheet with the class.
+
+## Evaluate: Exit Ticket (3 min)
+
+- [ ] **Exit Ticket:** Students complete the exit ticket independently.
+
+- [ ] **Monitor** the class for students in need of additional assistance.
+
+- [ ] **Debrief** the lesson as a class.
+
+<iconp type='question'>What did we learn to do today?</iconp>
+<iconp type='question'>What were the 3 things we did to step through our code?</iconp>
 
 </notable>
 
 [slides]: https://drive.google.com/open?id=1bK9-uPRxR7YiNm53pGFELiFsjBXf4OoWYIXw8oo5WE0
 [token]: https://drive.google.com/open?id=0B48_2vIyABioVjJucTBqNE1ELUE
 [ind-practice]: https://drive.google.com/open?id=0B48_2vIyABioN2RPX0dqZVhzbjg
-[assess]: https://drive.google.com/open?id=0B48_2vIyABioTHlfWFJKY3d2MHc
+[exit-ticket]: https://drive.google.com/open?id=0B48_2vIyABioTHlfWFJKY3d2MHc
