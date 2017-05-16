@@ -1,4 +1,4 @@
-<header class='header' title='Project & Bug Tickets' subtitle='Lesson 22'/>
+<header class='header' title='Bug Tickets' subtitle='Lesson 22'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -22,7 +22,7 @@ Students use their game plan to work on their final Escape the Maze project. If 
 - [ ] [Scratch Zine][zine]
  
 ###### Student Materials:
-- [ ] [Game plans from Lesson 19][plan]
+- [ ] [Game plans][plan]
 - [ ] Pencils
 - [ ] Idea Journals
 - [ ] Computers
@@ -53,7 +53,7 @@ Participation: Whole Class, Unplugged
 > > “Today you are going to work on your projects on Scratch. As Coders we run into bugs. As coders we love the challenge of debugging our code! But sometimes we need help. Today if you need help debugging, fill out a Bug Ticket and then ask the class for help. Let’s look at a Bug Ticket together.”
 
 ![bug-ticket](./images/bug-ticket2.jpeg)
-<note>**Slide:** ![slide-bug](./images/slides-bug.jpeg)</note>
+<note>**Slides:** ![slide-bug](./images/slides-bug.jpeg)</note>
 
 <pagebreak/>
 
@@ -64,6 +64,7 @@ Participation: Independent, Online
 
 > > “Continue to use your game plan to work on your Escape the Maze project. If you get stuck today, you are going to fill out a bug ticket to get help from your fellow coders.”
 
+<note>![Zine](./images/zine.png)</note>
 </notable>
 
 [slide-show]: https://docs.google.com/presentation/d/1XD_MyZ350fmlR0n61mbOm8lVVDXjy-ymguw_Afn8lbc/edit?usp=sharing

@@ -20,9 +20,8 @@ See all objectives from lessons 1-20
  
 ###### Student Materials:
 - [ ] Pencils
-- [ ] Coding Boxes:
-	- [ ] Rovers
-	- [ ] Index Cards
+- [ ] Rovers
+- [ ] Index Cards
 - [ ] Bug Erasers
 - [ ] [Independent Coding Challenges][icc]
 - [ ] Computers

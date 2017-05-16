@@ -1,4 +1,4 @@
-<header class='header' title='Final Project & User Experience' subtitle='Lesson 23'/>
+<header class='header' title='User Experience' subtitle='Lesson 23'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -10,9 +10,9 @@ Students are introduced to giving constructive feedback on user experience. They
 - I can give and receive feedback on user experience.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-1. Engage: Challenges Solved (15 minutes)
+1. Engage: Challenges Solved (10 minutes)
 1. Explore/Explain: User Experience (15 minutes)
-1. Elaborate: Project Time (30 minutes)
+1. Elaborate: Project Time (20 minutes)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -22,7 +22,7 @@ Students are introduced to giving constructive feedback on user experience. They
 - [ ] [Scratch Zine][zine]
  
 ###### Student Materials:
-- [ ] [Game plans from Lesson 19][plan]
+- [ ] [Game plans][plan]
 - [ ] Pencils
 - [ ] Idea Journals
 - [ ] Computers
@@ -62,6 +62,7 @@ Students are introduced to giving constructive feedback on user experience. They
 
 > > “User experience is how a person feels when using a program or product. When designing a game you want to create the best experience for your users. Before we continue working on our project today, we are going to get some peer feedback on user experience.”
 
+<br/>
 - [ ] **Explore/Explain:** Play the example game. Have students identify constructive feedback on user experience.
 
 <incop type="question">Which of these are constructive feedback? That means it is helpful.</incop>
@@ -94,12 +95,13 @@ Students are introduced to giving constructive feedback on user experience. They
 
 <note> ![slide-practice](./images/slides-ux4.jpeg) </note>
 
-## 3. Elaborate: Project Time (30 min) 
+## 3. Elaborate: Project Time (20 min) 
 
 - [ ] **Work time:** Students have the rest of the lesson to work on their final project. Students can use a bug ticket today if they are stuck on a bug in their game and want to get help from the class. Have a student fill out the bug ticket and then get the whole class’s attention before having the student present their bug to the class. Students can also reference the coding zine if they need help.
 
-> > “Today is your last  implement your Escape the Maze game design. Remember to incorporate your user experience feedback as you continue to work on your game.”
+> > “Today is your last day to implement your Escape the Maze game design. Remember to incorporate your user experience feedback as you continue to work on your game.”
 
+<note>![Zine](./images/zine.png)</note>
 </notable>
 
 [slide-show]: https://docs.google.com/presentation/d/1ocZZQSVxaP8DneUVH-qfys1Z5ecJ3qUUnrktrOnZGKo/edit#slide=id.g212b6187de_0_12
