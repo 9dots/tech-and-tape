@@ -23,7 +23,6 @@ In lesson 4 students are introduced to sequences and begin developing an underst
 - [ ] [Board Token][token]
 - [ ] [Slide Show][slides]
 
-
 ###### Student Materials:
 - [ ] Pencils
 - [ ] Index Cards
@@ -137,5 +136,5 @@ In lesson 4 students are introduced to sequences and begin developing an underst
 
 [slides]: https://drive.google.com/open?id=1bK9-uPRxR7YiNm53pGFELiFsjBXf4OoWYIXw8oo5WE0
 [token]: https://drive.google.com/open?id=0B48_2vIyABioVjJucTBqNE1ELUE
-[ind-practice]: https://drive.google.com/open?id=0B48_2vIyABioN2RPX0dqZVhzbjg
-[exit-ticket]: https://drive.google.com/open?id=0B48_2vIyABioTHlfWFJKY3d2MHc
+[ind-practice]: https://drive.google.com/open?id=0B48_2vIyABioTzRaWVN5ZVZ1X28
+[exit-ticket]: https://drive.google.com/open?id=0B48_2vIyABioUHdDdWNmYWJzbnc
