@@ -53,7 +53,7 @@
 * [Developer](developer/README.md)
   * [Level 1](developer/level-1/README.md)
     * [Lesson 1: I am a Coder](developer/level-1/lesson-plans/lesson-1.md)
-    * [Lesson 2: Getting Started on Scratch](developer/level-1/lesson-plans/lesson-2.md)
+    * [Lesson 2: If You Give a Mouse a Cookie](developer/level-1/lesson-plans/lesson-2.md)
     * [Lesson 3: Rover](developer/level-1/lesson-plans/lesson-3.md)
     * [Lesson 4: Escape the Maze](developer/level-1/lesson-plans/lesson-4.md)
     * [Lesson 5: In the Loop](developer/level-1/lesson-plans/lesson-5/lesson.md)

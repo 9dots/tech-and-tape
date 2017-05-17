@@ -9,10 +9,10 @@ Students apply their knowledge of conditionals to write code in their Escape the
 - I can write a conditional (if-then) to make my maze hero and enemies interact.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-1. Engage: Kids Code (5 minutes)
-1. Explain: Code Along (5 minutes)
-1. Elaborate: Code (30 minutes)
-1. Evaluate: Project Checklist (5 minutes)
+1. Engage: Kids Code (5 min)
+1. Explain: Code Along (5 min)
+1. Elaborate: Code (30 min)
+1. Evaluate: Project Checklist (5 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>

@@ -9,9 +9,9 @@ Students continue to build their debugging skills by reading a bug ticket and us
 - When my code fails, I use the debugging protocol to debug my code.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-1. Engage: Kids Code (5 minutes)
-1. Explore/Explain: Debugging Challenges (30 minutes)
-1. Elaborate: Plan Your Conditionals (10 minutes)
+1. Engage: Kids Code (5 min)
+1. Explore/Explain: Debugging Challenges (30 min)
+1. Elaborate: Plan Your Conditionals (10 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>

@@ -33,11 +33,8 @@ See all vocabulary from previous lessons.
 
 </note>
 
-<pagebreak/>
-
 ## Room Design
 
-![room](./images/desk-setup_unplugged.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key

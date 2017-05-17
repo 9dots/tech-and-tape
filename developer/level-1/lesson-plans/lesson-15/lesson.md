@@ -126,9 +126,15 @@ Participation: Whole Class, Unplugged
 1. ✔ if the Boolean is true, read and execute what is inside the conditional
 1. ✘ if the Boolean is false, skip what is inside the conditional
 
+<note> ![slides-read1](./images/slides-read1.png)</note>
+
 - [ ] **Independent Practice:** Students continue to follow the read conditionals steps to finish the examples on the handout. Review the answers together as a class when students are done. 
 
 > > “Your turn. Keep following our 3 steps to finish the examples on your paper.”
+
+<note> ![slides-read2](./images/slides-read2.png)
+![slides-read3](./images/slides-read3.png)
+![slides-challenge](./images/slides-challenge.png)</note>
 
 **Extension Questions for Advanced Groups:**
 <iconp type="question">Which of these conditionals would change you to the next level if you touch the goal? </iconp>
@@ -150,7 +156,7 @@ Participation: Small Group, Independent, Unplugged
 
 
 </notable>
-[handouts]: https://docs.google.com/document/d/1GNLjhQ46PKIzcA7039MJXRfX9eE_XnBmLQ6NE7YgK_s/edit?usp=sharing
+[handouts]: https://docs.google.com/document/d/16Khyb7j2r6JYH7o_7oU9ViYkkjBUosblMvIE5l0k5mw/edit?usp=sharing
 [exit-challenge]: https://docs.google.com/document/d/1W62TkE9xkMoGnFAeSZI7Uk-FSAP9WaWX5RVsS4w-4wM/edit?usp=sharing
 [boolean-cards]: https://docs.google.com/document/d/1ENgpq-WdFCHz869IwJ9gVTF9bnf_TYze7dyVgDiy6uE/edit
 [slide-show]: https://docs.google.com/presentation/d/1O5q0HkabIMtdP2OXq1G49SF_l6rh687KUs2Opn4u08Q/edit?usp=sharing

@@ -10,9 +10,9 @@ Students are introduced to giving constructive feedback on user experience. They
 - I can give and receive feedback on user experience.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-1. Engage: Challenges Solved (10 minutes)
-1. Explore/Explain: User Experience (15 minutes)
-1. Elaborate: Project Time (20 minutes)
+1. Engage: Challenges Solved (10 min)
+1. Explore/Explain: User Experience (15 min)
+1. Elaborate: Project Time (20 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>

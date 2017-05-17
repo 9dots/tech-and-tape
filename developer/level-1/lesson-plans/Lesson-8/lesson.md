@@ -128,7 +128,7 @@ In this lesson students identify repeating patterns in a sequence and replace th
 
 > > “Coders, I have a challenge for you! Let’s login to Socrative and answer the questions independently about what we practiced today. When you are finished you can continue to work through the studios in Code.org.”
 
-<note>![slides-socrative](./images/slides-soc.png)</note>
+<note>![slides-socrative](./images/slides-socrative.png)</note>
 
 ## 4. Extension: Independent Coding (15-30 min)
 

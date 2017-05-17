@@ -14,7 +14,7 @@ Students practice reading code by predicting, stepping through, and summarizing 
 1. Explore: Predict (5 min)
 1. Explain: Step & Summarize (10 min)
 1. Elaborate/Evaluate: Salsa Cards (10 min)
-1. Extension: Independent Coding (15-35 min)
+1. Extension: Independent Coding (15-30 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
