@@ -1,40 +1,38 @@
-<header class='header' title='Write Conditionals 2' subtitle='Lesson 17'/>
+<header class='header' title='Debugging Conditionals' subtitle='Lesson 17'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Students apply their knowledge of conditionals to write code in their Escape the Maze projects that cause the hero and enemies to interact.
+Students continue to build their debugging skills by reading a bug ticket and using the debugging protocol to tackle a series of challenges within the Escape the Maze game. They then add conditionals to their Game Plan for their final project.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can write an if-then statement to execute a sequence if a test is true.
-- I can write a conditional (if-then) to make my maze hero and enemies interact.
+- When my code fails, I use the debugging protocol to debug my code.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-1. Engage/Explore: Code Along (15 min)
-1. Explain: Design (5 min)
-1. Elaborate: Code (20 min)
-1. Evaluate: Submit (5 min)
+1. Engage: Kids Code (5 min)
+1. Explore/Explain: Debugging Challenges (30 min)
+1. Elaborate: Plan Your Conditionals (10 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Projector
 - [ ] [Slide Show][slide-show]
-- [ ] [Scratch Studio][studio]
+- [ ] [Debugging Studio][studio]
 
 ###### Student Materials:
 - [ ] Computers
 - [ ] Idea Journals
-- [ ] Code Along Handout & Checklist
+- [ ] [Game Plan][handout]
+- [ ] Pencils
 
 </note>
 
 ## Room Design
-Students will be on computers for the entire lesson. Your room setup should allow students to easily see the board and you to easily walk around the room and view their screens.
-
 <note>
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
-
+- **Debug** Finding and fixing errors in code.
 - **Conditional** Asks a boolean statement, and runs a chunk of code if the answer is true.
 
 </note>
@@ -45,66 +43,116 @@ Students will be on computers for the entire lesson. Your room setup should allo
 <iconp ml='1.65em' type='answer'>answer</iconp>
 - [ ] action item
 
-
 <pagebreak/>
+## 1. Engage: Kids Code (5 min)
+Participation: Whole Class Unplugged
 
-## 1. Engage/Explore: Code Along (15 min)
-Participation: Independent Online
+- [ ] **Showcase** a project from your class.  If you do not have a student project to showcase you can show Yamato’s project from Selma Avenue Elementary. Challenge students to be the next programmer we feature.
 
-- [ ] **Code along:** Students navigate to the Lesson 16 studio and work in the “code along” project with the teacher.
+> > “If you code a project on your own, we would like to feature your project/app at the start of our class. Code something in Scratch or Code.org or any coding platform and show it to your getCoding teacher.”
 
-<note type="tip">You can show the videos for each challenge or write the code yourself in Scratch.</note>
+<note>**Slides:** ![slides-KidsCode](./images/slides-kc.png)</note>
 
-The four conditionals we will demo are:
+##  2. Explore: Debugging Challenges (30 min)
+Participation: Whole Class Online
 
-1. If the goal touches the hero, then the backdrop changes to level 2 and the goal moves to the opposite end.
-1. If Enemy 2 touches the hero, then the enemy changes color.
-1. If Enemy 3 touches the hero, then it grows.
-1. If Enemy 4 touches the hero, then he chases the hero.
+- [ ] **Set the Challenge:** Students login to Scratch and navigate to the debugging studio in “My Class”. For each challenge read the Bug Ticket together. Coders will follow the 3 steps as they debug the code. Focus discussion on step 2: "Find" and logically identifying where the bug must be in the code. There is a video to help students fix the bug after they have discussed and tried it themselves.
 
-Finished product looks like this https://scratch.mit.edu/projects/143255918/#editor
+> > “As we write more complex code, our bugs get more challenging.  Often when a coder encounters a bug they write a Bug Ticket. I have 5 more challenges for you to debug today and for each I have provided you with the Bug Ticket. Let’s login to Scratch and follow the 3 steps to debug: 1. Compare, 2. Find, 3. Fix.”
+
+<note>![debug-slides](./images/debug.png)
+![debug-CodeAlong](./images/CodeAlong.png)</note>
+
 <br/>
-![Slides-codealong1](./images/codealong1.jpeg)
-![Slides-codealong2](./images/codealong2.jpeg)
 
-## 2. Explain: Design (5 min)
-Participation: Independent Unplugged
+- [ ]**Challenge 6:**
 
-- [ ] **Plan:** students view the code along they completed and plan the conditionals they will add to their game today.
+<iconp type="question"> Compare: What does the coder want their program to do? What does it do instead?</iconp>
+	<iconp type="answer"> “My mouse goes through the walls. It is supposed to move backwards when it bumps into a wall.”</iconp>
+<br/><iconp type="question"> Find: Where is the bug in their code?</iconp>
+	<iconp type="answer"> The hero’s starter code -> the chunk that controls the wall</iconp>
+<br/><iconp type="question"> Fix: How did you fix the bug?</iconp>
+	Solution: “Move 10” needs to be “Move -10”
 
-> > “Now that you have seen the power of conditionals, it is your turn to write conditionals into your Escape the Maze project. The code you write today will be the start of your final version of the project. Take a minute to plan in your Idea Journal what conditionals you will write into your project. You can see all of the code we wrote in our code alongs on the handout.”
+<note>![debugC1-slides](./images/dc6-1.png)
+![debugC1-slides](./images/dc6-2.png)
+![debugC1-slides](./images/dc6-3.png)
+![debugC1-slides](./images/dc6-4.png)</note>
 
-**Student Handout:**
-![Handout1](./images/Handout1.jpeg)
-<note>![Slides-design](./images/plan.jpeg)</note>
+- [ ]**Challenge 7:**
 
-## 3. Elaborate: Code (20 min)
-Participation: Independent Online
+<iconp type="question"> Compare: What does the coder want their program to do? What does it do instead?</iconp>
+	<iconp type="answer">“I want my enemy to change colors if it touches the hero. But instead my hero is changing color.”</iconp>
+<br/><iconp type="question"> Find: Where is the bug in their code? </iconp>
+	<iconp type="answer">The hero’s code -> the conditional </iconp>
+<br/><iconp type="question"> Fix: How did you fix the bug? </iconp>
+	Solution: The conditional needs to be moved from the hero to the enemy.
 
-- [ ] **Make:** Students add the conditionals code to their projects following their plan and the code we demoed in the Code Along.
+<note>![debugC1-slides](./images/dc7-1.png)
+![debugC1-slides](./images/dc7-2.png)
+![debugC1-slides](./images/dc7-3.png)
+![debugC1-slides](./images/dc7-4.png)</note>
+<pagebreak/>
+- [ ]**Challenge 8:**
 
-> > “Navigate to the Final Project studio in Scratch and start to add the code you planned in your journal.”
+<iconp type="question"> Compare: What does the coder want their program to do? What does it do instead?</iconp>
+	<iconp type="answer">“I want my hero to go back to the start when it touches an enemy. But instead my hero goes somewhere else.”</iconp>
+<br/><iconp type="question"> Find: Where is the bug in their code? </iconp>
+	<iconp type="answer">The hero’s code -> the go to block</iconp>
+<br/><iconp type="question">Fix: How did you fix the bug? </iconp>
+	Solution: The "go to" coordinates need to be x: -205, y: 147
 
-<note>![Slides-code1](./images/Code1.jpeg)
-![Slides-code2](./images/Code2.jpeg)
-![Slides-code3](./images/Code3.jpeg)
+<note>![debugC1-slides](./images/dc8-1.png)
+![debugC1-slides](./images/dc8-2.png)
+![debugC1-slides](./images/dc8-3.png)
+![debugC1-slides](./images/dc8-4.png)</note>
+
+- [ ]**Challenge 9:**
+
+<iconp type="question"> Compare: What does the coder want their program to do? What does it do instead?</iconp>
+	<iconp type="answer">“I want my hero to go back to the start when it touches an enemy. But it only goes back to the start for enemy 1.”</iconp>
+<br/><iconp type="question"> Find: Where is the bug in their code?</iconp>
+	<iconp type="answer">“The hero’s code -> the conditionals </iconp>
+<br/><iconp type="question">Fix: How did you fix the bug? </iconp>
+	Solution: Move the last 4 conditionals out of the first conditional.
+
+<note>![debugC1-slides](./images/dc9-1.png)
+![debugC1-slides](./images/dc9-2.png)
+![debugC1-slides](./images/dc9-3.png)
+![debugC1-slides](./images/dc9-4.png)</note>
+<pagebreak/>
+- [ ]**Challenge 10:**
+
+<iconp type="question"> Compare: What does the coder want their program to do? What does it do instead?</iconp>
+	<iconp type="answer">“I want my bat to go back to its original size when I press the reset key, but it doesn’t work.”</iconp>
+<br/><iconp type="question"> Find: Where is the bug in their code? </iconp>
+	<iconp type="answer">The enemy’s code -> missing reset code</iconp>
+<br/><iconp type="question">Fix: How did you fix the bug? </iconp>
+	Solution: Add the reset code, you can look at the other enemy to see what it should look like, but you will have to change the coordinates
+
+<note>![debugC1-slides](./images/dc10-1.png)
+![debugC1-slides](./images/dc10-2.png)
 </note>
 
-## 4. Evaluate: Submit (5 min)
-Participation: Independent Online
+## 4. Elaborate: Plan Your Conditionals (10 min)
 
-- [ ] **Evaluate:** Students check their projects against the rubric checklist and ensure their project is in the Lesson studio.
+- [ ] **Plan:** Students plan the conditionals they will add to their game.
 
-> > “Let’s read through the submission checklist and follow the steps to submit our project. You will have more time to work on the project next week so you are not expected to be done today.”
+> > “Game designers do not just start coding without first creating a design or plan for their game. Let’s take a few minutes to return to our Escape the Maze game plans. On the Game Plan there is space for us to plan how each Sprite is going to interact with others through conditionals. We are going to fill out the right column with the “If________, then_______” statements. Last lesson we practiced writing some of these conditionals in Scratch. Here are some ideas of code we’ve already written: 
+- Hero: If touching an enemy, then go back to the start.
+- Hero: If touching the goal, then change backdrop to level 2 and go back to the start.
+- Enemy: If touching the hero, then the enemy changes color.
+- Enemy: If touching the hero, then the enemy grows.
+- Enemy: If touching the hero, then the enemy chases the hero.
 
-**Student Handout:**
-![Handout2](./images/Handout2.jpeg)
+> > Take a minute to write your plan for each sprite before we start to code.”  
 
-<note>![Slides-submit1](./images/submit1.jpeg)
-![Slides-submit2](./images/submit2.jpeg)
+<note>![slides-plan1](./images/slides-plan1.png)
+![slides-plan2](./images/slides-plan2.png)
 </note>
 
 </notable>
 
-[slide-show]: https://drive.google.com/file/d/0B2wBzr9vcXjPSkdTbThzcmQzRTQ/view?usp=sharing
-[studio]: https://scratch.mit.edu/studios/3755751/
+[slide-show]: https://docs.google.com/presentation/d/1M_YWoWbDw0JhgFS17fq_8e73WQdM5363brbsHQYjtVM/edit?usp=sharing
+[handout]: https://drive.google.com/file/d/0B2wBzr9vcXjPN3hPQmItMndvQ1k/view?usp=sharing
+[studio]: https://scratch.mit.edu/studios/3833131/

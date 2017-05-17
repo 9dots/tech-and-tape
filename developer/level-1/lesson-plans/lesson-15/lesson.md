@@ -1,18 +1,20 @@
-<header class='header' title='Build-a-Bot' subtitle='Lesson 15'/>
+<header class='header' title='Conditionals' subtitle='Lesson 15'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Students practice reading code with conditionals by checking the boolean statement and then deciding if the nested code in the conditional should be executed or not. Conditional statements include code that causes the hero and enemy to interact. Students practice reading code written with conditionals that instructs them in drawing a robot.
+Students are introduced to conditionals (if then), practice reading conditional statements in Scratch, and identify how boolean statements are related to conditionals.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
+- I can identify Boolean as true/false statements.
 - I can read an if-then statement to execute a sequence if a test is true.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 1. Engage: Kids Code (5 min)
-1. Explore: Build-a-Bot (15 min)
-1. Explain: Read Protocol (5 min)
-1. Elaborate: Conditionals in Scratch (15 min)
+1. Explore: If Then (5 min)
+1. Explain: Define (5 min)
+1. Elaborate: Reading Conditionals (10 min)
 1. Evaluate: Exit Challenge (5 min)
+1. Extension: Independent Coding (15-30 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -21,20 +23,17 @@ Students practice reading code with conditionals by checking the boolean stateme
 - [ ] [Slide Show][slide-show]
 
 ###### Student Materials:
-- [ ] [Lesson 15 Handout][handout1]
-- [ ] [Bots Code Handout][handout2]
-- [ ] [Bots Picture Handout][handout3]
+- [ ] Computers
 - [ ] [Exit Challenges][exit-challenge]
-- [ ] Index Cards
+- [ ] [True/False cards][boolean-cards]
+- [ ] Idea Journals
 - [ ] Pencils
 - [ ] Dry erase markers
-- [ ] Playing Cards (min 6 per student)
+- [ ] [Lesson 14 Handouts][handouts]
 
 </note>
 
 ## Room Design
-Students do not need a special setup for this lesson as they will not be on computers. It will help if they are sitting in pairs.
-
 <note>
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
@@ -43,121 +42,121 @@ Students do not need a special setup for this lesson as they will not be on comp
 - **Conditional** Asks a boolean statement, and runs a chunk of code if the answer is true.
 
 </note>
-
-###### Symbols Key
-
-<iconp ml='1.65em' type='question'>question</iconp>
-<iconp ml='1.65em' type='answer'>answer</iconp>
-- [ ] action item
-
-
 <pagebreak/>
 
 ## 1. Kids Code (5 min)
 Participation: Whole Class Unplugged
 
-- [ ] **Showcase** the video of Anivitha, the youngest programmer to attend Apple’s Worldwide Developer Conference last year.
+- [ ] **Showcase** young student programmer and students to be the next programmer we feature.
 
-> > “Kids all around are coding and creating.”
+> > “Kids all around are coding and creating. You’re never too young to start! If you code a project on your own, we would like to feature your project/app at the start of our class. Code something in Scratch or Code.org or any coding platform and show it to your getCoding teacher.”
 
-<note>![slides-KC1](./images/KC1.jpeg)
-</note>
-- [ ] **Challenge** students to be the next programmer we feature.
-
-> > “If you code a project on your own, we would like to feature your project/app at the start of our class. Code something in Scratch or Code.org or any coding platform and show it to your getCoding teacher.”
-
-<note>![slides-KC2](./images/KC2.jpeg)
-</note>
 <br/>
+<note>**Slides:** ![slides-showcase](./images/slides-showcase.png)</note>
 
-- [ ] **Motivate** students by connecting today’s lesson on reading conditionals to their Escape the Maze games.
+- [ ] **Motivate** students by connecting today’s lesson to their Escape the Maze game. 
 
-<iconp type="question"> When you played the 3 versions of Escape the Maze, what happened when the hero touched an enemy?</iconp>
-<iconp type="answer">It went back to the start.</iconp>
-> > “This is an example of code that uses a conditional! Today you are going to read the code that caused the hero to react to touching the enemies.”
+> > “In Lesson 12 when we played the three versions of our Escape the Maze game, what happened when the hero touched an enemy? The hero was sent back to the start! This is caused by conditional statements. Today we will be learning about conditionals, the foundation to programming enemies that react when the hero touches them.”
 
-<note>![slides-KC3](./images/KC3.jpeg)
-</note>
-
-## 2. Explore: Build-a-Bot (15 min)
-Participation: Independent Unplugged
-
-- [ ] **Connect Prior Knowledge:**
-
-<iconp type="question"> The code on the side of your paper are your instructions for building your robot. What are we going to use our index cards for?</iconp>
-<iconp type="answer">Uncover each line of code one at a time as we read.</iconp>
-<iconp type="question"> Look at the yellow blocks of code on your paper that start with “If”. What do we call code that starts with “If”?</iconp>
-<iconp type="answer">Conditionals. Bonus if they can identify the triangular Boolean statement as well.</iconp>
-<note>![slides-BB1](./images/BB1.jpeg)
-![slides-BB2](./images/BB2.jpeg)
-![slides-BB3](./images/BB3.jpeg)
-</note>
-- [ ] **Model** the steps to reading conditionals as you complete your own bot on the board. When you read each Boolean statement read it “... is true”.
-
-Steps for reading code with conditionals:
-1. **Draw a box** around the conditional statement.
-1. **Identify** if the Boolean statement is ✓ true or X false?
-1. **Step** through code before the conditional statement.
-1. **If true:** Jump into the conditional.
-1. **If false:** Skip the conditional statement.
-1. **Step** through code after the conditional statement.
-
-<note>![slides-BB4](./images/BB4.jpeg)
-![slides-BB5](./images/BB5.jpeg)
-</note>
-
-- [ ] **Explore:** Students draw cards following the teacher model to complete their own bot.
-
-> > “Your turn. Follow my steps and don’t forget to use your index card as you build your own bot.”
+<note>![slides-motivate](./images/slides-motivate.png)</note>
 
 <br/>
 
-- [ ] **Share:** If time allows, call up a couple of volunteers to share their bots with the class.
+- [ ] **Connecting Prior Knowledge:** Review question #3 from Lesson 13 Exit Challenge.
 
-## 3. Explain: Read Protocol (5 min)
-Participation: Whole Class Unplugged
+<iconp type="question"> A lot of coders made this error on their exit challenge last week. When coders get a problem wrong they debug! What was the error here?</iconp>
 
-- [ ] **Model:** Follow the same steps you introduced in explore to read the Scratch code in the first example on the handout.
+<iconp type="answer">7 + 3 is not a boolean, it is not a true/false statement and does not have pointed ends</iconp>
 
-> > “In the last lesson we were translating Scratch code with conditionals. In this lesson we will read how the conditional code is executed. That means what happens when we run the conditional code.”
+<note>![slides-review](./images/slides-review.png)</note>
 
-Steps for reading code with conditionals:
-1. **Draw a box** around the conditional statement.
-1. **Identify** if the Boolean statement is ✓ true or X false?
-1. **Step** through code before the conditional statement.
-1. **If true:** Jump into the conditional.
-1. **If false:** Skip the conditional statement.
-1. **Step** through code after the conditional statement.
+<pagebreak/>
 
-<note>![slides-conditionals1](./images/Conditionals1.jpeg)
-![slides-conditionals2](./images/Conditionals2.jpeg)
-![slides-conditionals3](./images/Conditionals3.jpeg)
+## 2. Explore: If Then (5 min)
+Participation: Whole Class, Unplugged
+
+- [ ] **Real World Connections:** Students fill in the if/then prompts. Note that there are no right/wrong answers to these.
+
+- If it is raining, then _____________.
+- If it is Saturday, then ____________.
+- If the light is green, then ______________.
+- If the enemy is touching the hero, then _________________.
+- If the hero is touching the goal, then ___________________.
+
+<note>![slides-IfThen](./images/slides-IfThen.png)
 </note>
 
-## 4. Elaborate: Conditionals in Scratch (15 min)
-Participation: Pairs Unplugged
+- [ ] **Classification:** Ask students to identify what all of the statements had in common.
 
-- [ ] **Pair Practice:** Students continue with challenges 2-6 on the handout in pairs. Younger grades that are not as proficient in writing can do this as a Pair-Share activity where they say their statement to their partner. A good way to pace this activity is to give groups 90 seconds for each challenge and then 30 seconds to share whole group. Have students write out at least one of the problems so they are prepared to write on the exit challenge.
+<iconp type="question">These are called conditional statements. What do conditionals all have in common? </iconp>
+<iconp type="answer">They all are “If __________, then ___________" statements.</iconp>
 
-<note>!
-There are 8 more slides in this section.
+<iconp type="question">What do you notice about all of the “If” statements? Think about our lesson last week. </iconp>
+<iconp type="answer">They are all Boolean statements. </iconp>
+
+
+## 3. Explain: Define (5 min)
+Participation: Whole Class, Unplugged
+
+- [ ] **Define** conditionals - students write it in their idea journals
+
+> > “On a blank page in your idea journal let’s write the definition of conditional. Conditional - Asks a true/false (boolean) statement, and runs a chunk of code if the answer is true.”
+
+- [ ] **Check for understanding** -
+
+<iconp type="question"> Which of these blocks are examples of conditionals? </iconp>
+<iconp type="answer">The if-then block</iconp>
+
+<iconp type="question"> Which of these blocks are examples of boolean? </iconp>
+<iconp type="answer"> 4 is less than 5 </iconp>
+
+<note>![slides-Define2](./images/slides-Define2.png)
 </note>
+
+**Possible Misconceptions:**
+- Students may think a loop is a conditional because of the shape, however a conditional does not repeat on its own.
+- Students may think a boolean is a conditional, but a boolean is just a part of a conditional.
+- Students may think 4+5 is a boolean because of the color and numbers, but a boolean block has points on the ends and can be answered with True or False.
+
+## 4. Elaborate: Reading Conditionals (10 min)
+Participation: Whole Class, Unplugged
+
+- [ ] **Model** how to use the steps to read conditional statements to read the first few examples on the handout together: 
+1. Read the If statement. 
+1. ✔ if the Boolean is true, read and execute what is inside the conditional
+1. ✘ if the Boolean is false, skip what is inside the conditional
+
+<note> ![slides-read1](./images/slides-read1.png)</note>
+
+- [ ] **Independent Practice:** Students continue to follow the read conditionals steps to finish the examples on the handout. Review the answers together as a class when students are done. 
+
+> > “Your turn. Keep following our 3 steps to finish the examples on your paper.”
+
+<note> ![slides-read2](./images/slides-read2.png)
+![slides-read3](./images/slides-read3.png)
+![slides-challenge](./images/slides-challenge.png)</note>
+
+**Extension Questions for Advanced Groups:**
+<iconp type="question">Which of these conditionals would change you to the next level if you touch the goal? </iconp>
+<iconp type="question">Which of these conditionals sends you back to the start if you touch an enemy?</iconp>
 
 ## 5. Evaluate: Exit Challenge (5 min)
-Participation: Independent Unplugged
+Participation: Small Group, Independent, Unplugged
 
 - [ ] **Exit Challenge:** Students answer the [Exit Challenge][exit-challenge] on paper using pencil independently and turn it in.
 
 > > “Try these three challenges independently to test your new knowledge of conditionals!”
 
-<note>![slides-EC1](./images/EC1.jpeg)
-![slides-EC2](./images/EC2.jpeg)
+<note>![slides-Exit](./images/slides-Exit.png)
 </note>
 
-</notable>
+## 6. Extension: Independent Coding(15-30 min)
 
-[handout1]: https://docs.google.com/document/d/1fSpf8pCcVZ0IOAqMHoqblKPumZ1YzYSHaOhpN-_yHrU/edit?usp=sharing
-[handout2]: https://drive.google.com/file/d/0B2wBzr9vcXjPQmdYWE1BZ2dTN2M/view?usp=sharing
-[handout3]: https://drive.google.com/file/d/0B48_2vIyABiobmdhS2wxWjctSGs/view?usp=sharing
-[exit-challenge]: https://docs.google.com/document/d/17CoW2GSrtILlClHWW7BEO2LIaL7V3PUfHG7T1V2UmOc/edit?usp=sharing
-[slide-show]: https://docs.google.com/presentation/d/1iyrvTfBPOIJBptvhT4CYhAbtus-xAybmmpDaX4NL6go/edit?usp=sharing
+- [ ] **Independent Coding:** Students move at their own pace through the Code.org studios. If you’d like to give students a more targeted lesson about loops you can direct them to continue working on Code.org Course 2 Lesson 13: Bee Conditionals
+
+
+</notable>
+[handouts]: https://docs.google.com/document/d/16Khyb7j2r6JYH7o_7oU9ViYkkjBUosblMvIE5l0k5mw/edit?usp=sharing
+[exit-challenge]: https://docs.google.com/document/d/1W62TkE9xkMoGnFAeSZI7Uk-FSAP9WaWX5RVsS4w-4wM/edit?usp=sharing
+[boolean-cards]: https://docs.google.com/document/d/1ENgpq-WdFCHz869IwJ9gVTF9bnf_TYze7dyVgDiy6uE/edit
+[slide-show]: https://docs.google.com/presentation/d/1O5q0HkabIMtdP2OXq1G49SF_l6rh687KUs2Opn4u08Q/edit?usp=sharing

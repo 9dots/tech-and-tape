@@ -14,10 +14,9 @@ We want to establish a coding learning culture where students identify as coders
 - I can replace a repeating sequence with a forever loop, for-loop, or while loop to increase code efficiency and readability.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-1. Set the Challenge (4 min)
-1. Independent Coding Challenge (40 min)
-1. Closing (1 min)
-
+1. Engage: Set the Challenge (5 min)
+1. Explore/Explain: Model Question (5 min)
+1. Evaluate: Independent Coding Challenge (35 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -35,15 +34,11 @@ We want to establish a coding learning culture where students identify as coders
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
-- **Loop:** A sequence of instructions that is continually repeated until a certain condition is reached.
+See all vocabulary from previous lessons.
 
 </note>
 
-<pagebreak/>
-
 ## Room Design
-
-![room](./images/desk-setup_online.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
@@ -53,66 +48,47 @@ We want to establish a coding learning culture where students identify as coders
 - [ ] action item
 </note>
 
-## 1. Set the Challenge (4 min)
+## 1. Engage: Set the Challenge (5 min)
 
-- [ ] What are we doing today?
+- [ ] **Motivate:** introduce our challenges for today.
 
-> > “You are coders! Coders love to challenge themselves. So today we are going to do a series of Coding Challenges.”
+> > “You are coders! Coders love to challenge themselves. So today we are going to do a series of Coding Challenges. We want you to see how much you have learned about coding. Some of the challenges may feel easy. Some of the challenges may feel really challenging, which is good!
 
-![slides-challenge](./images/slides-challenge.jpeg)
+<note> **Slides:** ![slides-challenge](./images/slides-challenge.png)
+![slides-set](./images/slides-set.png)</note>
 
-- [ ] Why?
+## 2. Explore/Explain: Model Question (5 min)
 
-> > “Challenges are fun. We want you to see how much you have learned about coding.”
-
-![slides-why](./images/slides-why.jpeg)
-
-- [ ] Expectations:
-> > - (If necessary for room setup:) Use the privacy shields to help you concentrate.
-> > - We want to see your own code, so work independently.
-> > - Coding takes a lot of brainpower, so keep the room silent for your fellow coders to concentrate.
-> > - If you have a question, ask your teacher with a silent hand.
-> > - If you don’t understand a question, ask your teacher!
-
-<note type='key' title='Key Point'>The Independent Coding Challenge is not a test, it is an opportunity for you to show off your coding skills and to see where you still need more practice.</note>
-![slides-expectations](./images/slides-expectations.jpeg)
-
-- [ ] Students may need you to walk them through a practice version of the first question:
+- [ ] **Model**: Students may need you to walk them through a practice version of the first question:
 > > Let's try this first question together. It looks a lot like the first challenge on your Independent Coding Challenge.
 
 ![slides-practice](./images/slides-practice.jpeg)
 
-## 2. Independent Coding Challenge (40 min)
+<pagebreak/>
 
-- [ ] Pass out rovers, index cards, and the Independent Coding Challenge (ICC).
+## 3. Evaluate: Independent Coding Challenge (35 min)
 
-- [ ] When the ICC is completed, have students complete the Student Survey.
+- [ ] **Expectations:** Set the expectations for a positive classroom environment for students to feel they can concentrate and push themselves. 
 
-- [ ] If a student is stuck you can:
+> > - (If necessary for room setup:) Use the privacy shields to help you concentrate.
+> > - We want to see your own code, so work independently.
+> > - Coding takes a lot of brainpower, so keep the room silent for your fellow coders to concentrate.
+> > - If you have a question or don’t understand a challenge, ask your teacher with a silent hand.
+
+<note>![slides-expectations](./images/slides-expectations.png)</note>
+
+- [ ] **Independent Coding Challenge:** Students work independently on the challenges. When students are finished encourage them to review and validate their answers. Then they can take the student survey and go to Code.org. If a student is stuck you can help them by:
     - Read the question out loud.
     - Ask guiding questions without giving away an answer:
-    - Do you remember when we painted with Rover?
-    - Did you validate your code to make sure there are no bugs?
-    - Did you use the index card to read each line of code one at a time?
-    - What does “sequence” mean?
-    - What is a “loop”?
+        - Do you remember when we painted with Rover?
+        - Did you validate your code to make sure there are no bugs?
+        - Did you use the index card to read each line of code one at a time?
+        - What does “sequence” mean?
+        - What is a “loop”?
 
-- [ ] When students finish:
-    - Students take the student survey.
-    - Encourage them to review and validate their answers.
-    - Students can continue on Code.org.
+- [ ] **Closing:** Acknowledge the hard work students just did and how excited we are to see their work.
 
-<note>
-![slides-finished](./images/slides-finished.jpeg)
-</note>
-
-## 3. Closing (1 min)
-
-- [ ] Acknowledge the hard work students just did and how excited we are to see their work.
-
-<note>
-![slides-closing](./images/slides-closing.jpeg)
-</note>
+> > "You have tackled a lot of challenges today. You are growing so much as coders! I can't wait to look at your work."
 
 </notable>
 

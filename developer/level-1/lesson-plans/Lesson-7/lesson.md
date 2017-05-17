@@ -1,4 +1,4 @@
-<header class='header' title='Enemies on Patrol' subtitle='Lesson 7'/>
+<header class='header' title='Enemies on Patrol' subtitle='Lesson 07'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -14,12 +14,12 @@ Students practice reading code by predicting, stepping through, and summarizing 
 1. Explore: Predict (5 min)
 1. Explain: Step & Summarize (10 min)
 1. Elaborate/Evaluate: Salsa Cards (10 min)
-1. Extension: Independent Coding (15-35 min)
+1. Extension: Independent Coding (15-30 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
-- [ ] [Lesson 7 Slides][slide-show]
+- [ ] [Slide Show][slide-show]
 - [ ] Projector
 - [ ] Foam Tiles
 
@@ -37,8 +37,6 @@ Students practice reading code by predicting, stepping through, and summarizing 
 - **Loop:** A sequence of instructions that is continually repeated until a certain condition is reached.
 
 </note>
-
-<pagebreak/>
 
 ## Room Design
 
@@ -62,6 +60,9 @@ Students practice reading code by predicting, stepping through, and summarizing 
 <iconp type="answer">Blue - moves up, moves down, forever</iconp>
 <iconp type="answer">Black - moves left, spins, moves right, spins forever</iconp>
 
+<note>**Slides:** 
+![slides-wps](./images/slides-wps.png)
+![slides-enemies](./images/slides-enemies.png)</note>
 
 ## 2. Explore: Predict (5 min)
 
@@ -69,6 +70,8 @@ Students practice reading code by predicting, stepping through, and summarizing 
  
 <iconp type="question">Here is the code for one of the enemies we just saw. What do you predict this code will do? What movement do you think the enemy will do when it runs this code?</iconp>
 <iconp type="answer">Answers will vary</iconp>
+
+<note>![slides-predict](./images/slides-predict.png)</note>
 
 ## 3. Explain: Step & Summarize (10 min)
 
@@ -91,7 +94,10 @@ Students practice reading code by predicting, stepping through, and summarizing 
 <iconp type="question">Raise your hand if you are the Bot. What is your job as Bot?</iconp>
 <iconp type="answer">Check that each pair has one Bot. They will be moving the enemy and validating the code.</iconp>
 
+![slides-step1](./images/slides-step1.png)
+![slides-step2](./images/slides-step2.png)
 
+<pagebreak/>
 ## 4. Elaborate/Evaluate: Salsa Practice (10 min)
 
 - [ ] **Coders & Bots:** Students work in pairs to predict, step, and summarize the code of an enemy from one of the four options: mild, medium, spicy, and wow that’s hotttt. Then check all examples as a class. Observe student work to evaluate how comfortable students are working with loops. Encourage pairs that finish early to try a more challenging card.
@@ -103,11 +109,16 @@ Students practice reading code by predicting, stepping through, and summarizing 
 <iconp type="question">Raise your hand if you are the Bot. What is your job as Bot?</iconp>
 <iconp type="answer">Check that each pair has one Bot. They will be moving the enemy and validating the code.</iconp>
 
-![salsacards](./images/salsacards.jpeg)
+<note>![slides-salsa](./images/slides-salsa.png)</note>
 
-## 5. Extension: Code.org (20-35 min.)
+![solution1](./images/slides-solution1.png)
+![solution2](./images/slides-solution2.png)
+
+## 5. Extension: Independent Coding (20-35 min)
 
 - [ ] **Independent Coding:** Students move at their own pace through the Code.org studios. Play the video to review using Code.org if students need a reminder. If you’d like to give students a more targeted lesson about loops you can direct them to complete Course 2 Stage 8: Bee Loops.
+
+<note>![slides-ic](./images/slides-ic.png)</note>
 
 </notable>
 

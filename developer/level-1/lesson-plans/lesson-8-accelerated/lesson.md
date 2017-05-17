@@ -1,4 +1,4 @@
-<header class='header' title='Code the Enemy (Write Loops)' subtitle='Lesson 8 (Accelerated)'/>
+<header class='header' title='Code the Enemy' subtitle='Lesson 08 (Accelerated)'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -14,12 +14,12 @@ In this lesson students identify repeating patterns in a sequence and replace th
 1. Engage & Explore: Patterns (10 min)
 1. Explain: Translating Patterns to Loops (10 min)
 1. Elaborate/Evaluate: Socrative (10 min)
-1. Extension: Code.org (15-30 min)
+1. Extension: Independent Coding (15-30 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
-- [ ] [Lesson 8 Slides][slide-show]
+- [ ] [Slide Show][slide-show]
 - [ ] Projector
 
 ###### Student Materials:
@@ -55,6 +55,10 @@ In this lesson students identify repeating patterns in a sequence and replace th
 
 ![pattern1](./images/unifix-cubes-pattern1.jpeg)
 
+<note>**Slides:** <br/>
+![slides-cubes1](./images/slides-cubes1.png)
+</note>
+
 - [ ] **Pattern Recognition:** Students identify the pattern in the cubes.
 
 <iconp type="question">What is repeating in this pattern?</iconp>
@@ -75,11 +79,19 @@ In this lesson students identify repeating patterns in a sequence and replace th
 <iconp type="answer">Because only that section is repeating 4 times. If you put the whole thing in the loop you’d get a much longer sequence.</iconp>
 
 <br/>
+<note type="tip">The number in the loop block is called an argument. 
+![slides-cubes2](./images/slides-cubes2.png)
+</note>
 
 - [ ] **Build:** Students use unifix cubes to build the pattern they see on the slide. 
 
 > > “Sometimes not everything is part of the pattern. Build this pattern using the cubes at your table.”
 ![pattern2](./images/unifix-cubes-pattern2.jpeg)
+
+<note>
+![slides-note1](./images/slides-note1.png)
+![slides-cubes3](./images/slides-cubes3.png)
+</note>
 
 - [ ] **Pattern Recognition:** Students identify the pattern in the cubes. The end of this design is not part of the pattern.
 
@@ -92,6 +104,8 @@ In this lesson students identify repeating patterns in a sequence and replace th
 <iconp type="question">What can we do with this extra piece that is 2 black cubes?</iconp>
 <iconp type="answer">Place it outside the loop.</iconp>
 
+<note> ![slides-cubes4](./images/slides-cubes4.png)
+</note>
 <br/>
 
 ## 2. Explain: Translating Patterns to Loops (10 min)
@@ -100,6 +114,7 @@ In this lesson students identify repeating patterns in a sequence and replace th
 
 > > “Now we’re going to do the same process to translate a sequence of code to a loop.”
 
+<note>![slides-note2](./images/slides-note2.png) </note>
 <iconp type="question">What is repeating in this pattern? Circle the pattern each time it repeats.</iconp>
 <iconp type="answer">See slides </iconp>
                                      
@@ -117,18 +132,25 @@ In this lesson students identify repeating patterns in a sequence and replace th
 2. Place the repeating section of code within the loop’s mouth.
 3. Place the number of times the pattern repeats as the loop’s argument.</iconp>
 
+![slides-translating1](./images/slides-translating1.png)
+![slides-translating2](./images/slides-translating2.png)
+![slides-translating3](./images/slides-translating3.png)
+![slides-translating4](./images/slides-translating4.png)
+
 ## 3. Elaborate/Evaluate: Socrative (10 min)
 
 - [ ] **Socrative:** Run the Socrative quiz. Students work independently to continue to practice identifying the patterns in a sequence and rewrite them as a loop. You will need to give students the Room Name.
 
-> > “Coders, I have a challenge for you! Let’s login to Socrative and answer the questions independently about what we practiced today. When you are finished you can continue to work through the studios in Code.org.”
+> > “Coders, I have a challenge for you! Login to Socrative and answer the questions independently about. When you are finished you can continue to work through the lessons in Code.org.”
 
-## 4. Extension: Code.org (15-30 min)
+<note>![slides-socrative](./images/slides-soc.png)</note>
 
-- [ ] **Independent Coding:** Students move at their own pace through the Code.org studios. If you’d like to give students a more targeted lesson about loops you can direct them to continue working on Code.org Course 2 Stage 8: Bee Loops
+## 4. Extension: Independent Coding (15-30 min)
+
+- [ ] **Independent Coding:** Students move at their pace through Code.org. You can direct students to continue working on Code.org Course 2 Lesson 8: Bee Loops
 
 
 </notable>
 
-[slide-show]: https://docs.google.com/presentation/d/1qY2UHzrIAYHKvO47l1gtxVDtr68lObRKzMVWHIrS888/edit?usp=sharing
+[slide-show]: https://docs.google.com/presentation/d/1RcoJ6hh9rQCNuBCYYBFuNXrB3PB13WVs5xq4jOtregI/edit?usp=sharing
 [code-handouts]: https://drive.google.com/file/d/0B2wBzr9vcXjPSkdnS2llTlU0bWc/view?usp=sharing

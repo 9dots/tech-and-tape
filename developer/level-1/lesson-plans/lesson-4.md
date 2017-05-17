@@ -32,8 +32,6 @@ Students are introduced to the Escape the Maze project they will be working on t
 
 ## Room Design
 
-![room](./lesson-1/images/online.png)
-
 <note>
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
@@ -132,4 +130,4 @@ Participation: Partners, Online
 
 [slide-show]: https://docs.google.com/presentation/d/1cR3e-XiSHqI6O8H01ng_IoglktZefa-hRPKNsuhlyW8/edit?usp=sharing
 [socrative]: https://b.socrative.com/teacher/#import-quiz/28414624
-[tutorial]: https://www.youtube.com/watch?v=upY8uG3NFfY
+[tutorial]: https://drive.google.com/file/d/0B2wBzr9vcXjPcGJsRDhHSWZWbW8/view?usp=sharing

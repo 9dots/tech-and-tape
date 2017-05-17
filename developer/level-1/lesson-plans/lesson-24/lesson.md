@@ -68,8 +68,8 @@ Students share their final projects and give each other feedback on user experie
 ![slides-setup2](./images/slides-setup2.jpeg)
 ![slides-setup3](./images/slides-setup3.jpeg)
 </note>
-
-- [ ] **Feedback:** (3 minutes) Review expectations for leaving feedback as they view each other’s games. Read the examples on the back of the feedback sheet together and have them brainstorm more ideas. These feedback sheets are for students to take home at the end of the lesson.
+<br/>
+- [ ] **Feedback:** Review expectations for leaving feedback as they view each other’s games. Read the examples on the back of the feedback sheet together and have them brainstorm more ideas. These feedback sheets are for students to take home at the end of the lesson.
 
 > > “When you are viewing each other’s games, you will also be leaving feedback on the game. This feedback should be about what you enjoyed about the game. Let’s look at some ideas for leaving feedback (read the back of the feedback sheet).”
 
@@ -87,8 +87,7 @@ Students share their final projects and give each other feedback on user experie
 <note type="tip">You may need to review expectations for how to move around the room respectfully. 
 Use the timer slide that is right for your class length: 10 minute groups or 15 minute groups.
 ![slides-arcade1](./images/slides-arcade1.jpeg)
-![slides-timer10](./images/slides-timer10.jpeg)
-![slides-timer15](./images/slides-timer15.jpeg)
+![slides-timer](./images/slides-timer.png)
 </note>
 
 - [ ] **Closing:**  Have students sign out of Scratch. Send students home with their idea journals and certificates.

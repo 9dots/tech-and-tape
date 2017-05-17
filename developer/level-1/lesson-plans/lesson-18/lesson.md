@@ -1,46 +1,33 @@
-<header class='header' title='Where is Rover?' subtitle='Lesson 18'/>
+<header class='header' title='Write Conditionals' subtitle='Lesson 18'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In small groups students build their argumentation skills to debate where Rover lands while they practice reading conditionals. Independently, students continue to practice writing conditionals and loops in their Escape the Maze projects.
+Students apply their knowledge of conditionals to write code in their Escape the Maze projects that cause the hero and enemies to interact.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
-- I can write an if-then statement to execute a sequence if a test is true.
+- I can read an if-then statement to execute a sequence if a test is true.
 - I can write a conditional (if-then) to make my maze hero and enemies interact.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-1. Engage: Kids Code (5 minutes)
-
-Small Groups
-1. Engage: Dance Dance Conditionals (2 minutes)
-1. Elaborate: Where’s Rover (13 minutes)
-1. Evaluate: Exit Challenge (5 minutes)
-
-Independent Work
-1. Finish Conditionals in Project (20 minutes)
+1. Engage: Kids Code (5 min)
+1. Explain: Code Along (5 min)
+1. Elaborate: Code (30 min)
+1. Evaluate: Project Checklist (5 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Projector
 - [ ] [Slide Show][slide-show]
-- [ ] Rover (large)
-- [ ] Foam Tiles (with numbers written in permanent marker)
 
 ###### Student Materials:
 - [ ] Computers
 - [ ] Idea Journals
-- [ ] [Where's Rover Handout][handout]
-- [ ] Index Cards
-- [ ] Rovers
-- [ ] Dry Erase Markers
-- [ ] [Exit Challenges][exit]
-- [ ] Pencils
+- [ ] [Game Plans][plan]
 
 </note>
 
 ## Room Design
-![room](./images/desk-setup_split-classroom.png)
 <note>
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
@@ -55,66 +42,43 @@ Independent Work
 <iconp ml='1.65em' type='answer'>answer</iconp>
 - [ ] action item
 
-
+<pagebreak/>
 ## 1. Engage: Kids Code (5 min)
-Participation: Whole Class Unplugged
 
-- [ ] **Showcase** Mostafa’s project from Alexandria. Mostafa coded this game on his own using the code alongs he did in class! Play the game and show the code behind it.
+- [ ] **Showcase:** Choose a student from your class to show off their current Escape the Maze project or a personal project. 
 
-<note>**Slides:** ![slides-kidscode1](./images/slide-kc1.jpeg) </note>
+<note>**Slides:** ![Kids Code](./images/KidsCode.png)</note>
 
-- [ ] **Challenge** students to be the next programmer we feature.
+## 2. Explain: Code Along (5 min)
 
-> > “If you code a project on your own, we would like to feature your project/app at the start of our class. Code something in Scratch or Code.org or any coding platform and show it to your getCoding teacher.”
+- [ ] **Code Along:** Play the code along video to show students how to navigate to their project and code the conditionals from their game plan.
 
-- [ ] **Motivate** students by introducing today’s lesson.
+> > "In our last lesson you wrote in your game plan how you want to use conditionals in your Escape the Maze project. Today you are going to have most of the lesson to code those conditionals in your game. Let's follow along to navigate to our projects."
 
-> > “In our small group we will continue to work towards mastering conditionals. While you work independently on the computers, continue to add conditionals to your Escape the Maze project.”
-
-<note>![slides-kidscode2](./images/slide-kc2.jpeg) </note>
-
-## 2. Engage: Dance Dance (2 min)
-Participation: Small Group Unplugged
-
-- [ ] **Review** the steps of reading conditionals by calling a volunteer up to the front to perform the dance code on the board.
-
-<note>**Slide:** ![slides-dance](./images/slide-dance.jpeg) </note>
-
-## 3. Elaborate: Where's Rover (13 min)
-Participation: Small Group Unplugged
-
-- [ ] **Argumentation:** Students get the Where's Rover handout. They individually practice reading the code as they move Rover around their grid to determine where he lands. Give students a minute to try the problem on their own and then have students argue their answer by stepping through the code and moving Rover on the large foam tiles. The discussion should be student led. Provide sentence starters for students to respond to answers they believe are not correct:
-- “I disagree with your answer because…”
-- “Can you show me how you got…”
-- “What line of code shows that…”
-
-![handout1](./images/WheresRover.jpeg)
-
-<note type="tip"> Not every group will complete all 5. Number 5 is challenging because there is a loop with conditionals nested inside. This means students will need to evaluate the Boolean statement each time they run through the loop.
 <br/>
-**Slides:**
-![slides-WheresRover](./images/slide-wr1.jpeg)
-</note>
+<note>![Code Along](./images/CodeAlong.png)</note>
 
-- [ ] **Optional If Time**: On the back of the handout students use the debugging protocol to determine what error was made while reading the code.
+## 3. Elaborate: Code (30 min)
 
-![handout2](./images/FindtheBug.jpeg)
-<note> ![slides-WheresRover2](./images/slide-wr2.jpeg)
-**If Time:** ![slides-WheresRover4](./images/slide-wr4.jpeg)
-</note>
+- [ ] **Make:** Students add the conditionals code to their projects following their plan and the code we demoed in the Code Along.
 
-## 4. Evaluate: Exit Challenge (5 min)
-Participation: Independent Unplugged
+> > “Now that you have seen the power of conditionals, it is your turn to write conditionals into your Escape the Maze project. Don’t forget to use your game plan.”
 
-- [ ] **Evaluate:** Students answer the Exit Challenge on paper using pencil independently and turn it in.
+<note>![Code](./images/Code.png)</note>
+<pagebreak/>
 
-> > “Try these challenges independently to test your knowledge of reading conditionals!”
+## 4. Evaluate: Project Checklist (5 min) 
 
-<note> **Slides:**
-![exit challenge](./images/slides-ec.jpeg)
-</note>
+- [ ] **Evaluate:** Students check their projects against the rubric checklist and ensure their project is in the Lesson studio.
+
+> > “Let’s read through the project checklist on the back of your game plan to see how we are doing with our projects. You will have more time to work on the project so you are not expected to be done today. Check off each item if you have completed it.”
+![ProjectChecklist](./images/projectChecklist.png)
+
+<note>![Checklist](./images/checklist1.png)
+![Checklist](./images/checklist.png)
+![Checklist](./images/checklist3.png)</note>
+
 </notable>
 
-[slide-show]: https://docs.google.com/presentation/d/12gEP4eKzWl3vAGfh2-v8Z2FWzq86bZ8CBY7UemnCVWI/edit?usp=sharing
-[handout]: https://drive.google.com/file/d/0B2wBzr9vcXjPaFhWVG83TEhaMjg/view?usp=sharing
-[exit]: https://drive.google.com/file/d/0B2wBzr9vcXjPUkFOajdHbHhlQTg/view?usp=sharing
+[slide-show]: https://docs.google.com/presentation/d/11yK7r4SqfhVqMo9GnLnQQ2_ne3xjztH12CUGBof0GvU/edit?usp=sharing
+[plan]: https://drive.google.com/file/d/0B2wBzr9vcXjPN3hPQmItMndvQ1k/view?usp=sharing

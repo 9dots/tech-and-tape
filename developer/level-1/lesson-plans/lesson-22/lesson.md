@@ -1,4 +1,4 @@
-<header class='header' title='Project & Bug Tickets' subtitle='Lesson 22'/>
+<header class='header' title='Bug Tickets' subtitle='Lesson 22'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -22,7 +22,7 @@ Students use their game plan to work on their final Escape the Maze project. If 
 - [ ] [Scratch Zine][zine]
  
 ###### Student Materials:
-- [ ] [Game plans from Lesson 19][plan]
+- [ ] [Game plans][plan]
 - [ ] Pencils
 - [ ] Idea Journals
 - [ ] Computers
@@ -32,8 +32,6 @@ Students use their game plan to work on their final Escape the Maze project. If 
 </note>
 
 ## Room Design
-
-![room](./images/desk-setup_online.png)
 
 <note>
 
@@ -50,41 +48,23 @@ Students use their game plan to work on their final Escape the Maze project. If 
 ## 1. Engage: Bug Tickets (5 min) 
 Participation: Whole Class, Unplugged
 
-- [ ] **Bug Ticket:** Students complete their own bug ticket today if they are stuck. Follow the 3 steps we practiced in Lessons 16 & 19. Introduce and read the Bug Ticket together.
+- [ ] **Bug Ticket:** Students complete their own bug ticket today if they are stuck. Introduce and read the Bug Ticket together.
 
 > > “Today you are going to work on your projects on Scratch. As Coders we run into bugs. As coders we love the challenge of debugging our code! But sometimes we need help. Today if you need help debugging, fill out a Bug Ticket and then ask the class for help. Let’s look at a Bug Ticket together.”
 
 ![bug-ticket](./images/bug-ticket2.jpeg)
-<note>**Slide:** ![slide-bug](./images/slides-bug.jpeg)</note>
+<note>**Slides:** ![slide-bug](./images/slides-bug.jpeg)</note>
 
 <pagebreak/>
 
 ## 2. Elaborate: Project Time (40 min) 
-Participation: Whole Class ->  Independent, Online
+Participation: Independent, Online
 
-- [ ] **Model** (movie) getting started on the final project using your game plans. Students should have their game plans in front of them while they are coding and use it as a reference. 
+- [ ] **Work time:** Students have the rest of the lesson to work on their final project. Students should use a bug ticket today if they are stuck on a bug in their game and want to get help from the class. Have the student fill out the bug ticket and then get the whole class’s attention before having the student present their bug to the class. Students can also reference the coding zine if they need help.
 
-> > “You are going to have today and next week to implement your Escape the Maze game design. Follow along on your computer as we navigate to our projects.”
+> > “Continue to use your game plan to work on your Escape the Maze project. If you get stuck today, you are going to fill out a bug ticket to get help from your fellow coders.”
 
-<note type="tip"> There are 2 movies. Play the one that your class needs to watch based on if they saved their projects in Lesson 17 or not. 
-<br/>
-**Slides:**
-![slide-movies](./images/slides-movies.jpeg)
-</note>
-
-- [ ] **Work time:** Students work on their final project and use a bug ticket if they are stuck on a bug in their game. Have a student fill out the bug ticket and then get the class’s attention before the student presents their bug to the class. Students can also reference the coding zine for help.
-
-> > “You are going to have today and next week to code your final Escape the Maze game. Use your game plan. If your plan isn’t done, complete it before continuing with your project. If you need a reminder of the code we have written in previous lessons you can open the Scratch Zine using the link in the slide.”
-
-<note type="tip">You may need to show students how to navigate to and use the zine in a new tab.
-<br/>
-![slide-zine](./images/slides-zine.jpeg)</note>
-<br/>
-- [ ] **Closing:** Leave a few minutes at the end of class to have students check that they have saved their work to the Final Project studio before logging out. 
-
-> > “Check that your work is saved and sign out of your Scratch account. You will have one more lesson to work on your project.”
-
-<note>![slide-signout](./images/slides-signout.jpeg)</note>
+<note>![Zine](./images/zine.png)</note>
 </notable>
 
 [slide-show]: https://docs.google.com/presentation/d/1XD_MyZ350fmlR0n61mbOm8lVVDXjy-ymguw_Afn8lbc/edit?usp=sharing

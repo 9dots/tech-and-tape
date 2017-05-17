@@ -1,4 +1,4 @@
-<header class='header' title='Rover Paint' subtitle='Lesson 6'/>
+<header class='header' title='Rover Paint' subtitle='Lesson 06'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -14,13 +14,14 @@ Students learn to read code with loops by stepping through one block at a time. 
 1. Explore: Loops in GIFS (5 min)
 1. Explain: Rover Paint (5 min)
 1. Elaborate/Evaluate: Practice (10 min)
-1. Extension: Code.org (20-35 min)
+1. Extension: Independent Coding (20-35 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 
 ###### Teacher Materials:
 - [ ] Projector
+- [ ] [Slide Show][slides]
 - [ ] Foam Tiles
 - [ ] Construction Paper
 - [ ] [Large Rover][large-rover]
@@ -38,8 +39,6 @@ Students learn to read code with loops by stepping through one block at a time. 
 - **Loop:** A sequence of instructions that is continually repeated until a certain condition is reached.
 
 </note>
-
-<pagebreak/>
 
 ## Room Design
 
@@ -65,6 +64,11 @@ Students learn to read code with loops by stepping through one block at a time. 
 <iconp type="question">Then what is the benefit of using a loop to write this code?  </iconp>
 <iconp type="answer">A loop requires less lines of code. </iconp>
 
+<note>**Slides:** <br/>
+![slides-why1](./images/slides-why1.png)
+![slides-why2](./images/slides-why2.png)
+![slides-why3](./images/slides-why3.png)
+</note>
 
 ## 2. Explore: Loops in GIFs (5 min)
 
@@ -75,14 +79,18 @@ Students learn to read code with loops by stepping through one block at a time. 
 <iconp type="question">What might the code look like for this GIF?</iconp>
 <iconp type="answer">See code suggestions on slides. Students should nest the action they are seeing inside a loop block.</iconp>
 
-<br/>
+![slides-gifs1](./images/slides-gifs1.png)
+![slides-gifs2](./images/slides-gifs2.png)
+
 - [ ] **Enemy Loops:** Show students the Escape the Maze GIF and identify one of the enemy’s movements as a loop. 
 
 <iconp type="question">In this animation of our Escape the Maze project, what do you notice about the enemies?</iconp>
 <iconp type="answer">Each enemy is moving in a loop. The actions they are doing repeat. This is because the code they are reading has a loop in it. </iconp>
 
+<note>
+![slides-gif5](./images/slides-gif5.png)</note>
 
-## 3. Explain: Rover Paints (5 min.)
+## 3. Explain: Rover Paints (5 min)
 
 - [ ] **Model** the steps to read a chunk of code that contains a loop. Have students follow along on their handout. Uncover each line of code one at a time using an index card. Make a tally at the end of the sequence to keep track of how many times you’ve repeated the sequence.
 
@@ -102,31 +110,36 @@ Narrate what you’re doing at each step.
 
 ![loop-code](./images/explain-read-loops.png)
 
+<note>
+![slides-paint1](./images/slides-paint1.png)
+![slides-paint2](./images/slides-paint2.png)
+![slides-paint3](./images/slides-paint3.png)</note>
 
-## 4. Elaborate/Evaluate: Practice (10 min.)
+## 4. Elaborate/Evaluate: Practice (10 min)
 
 - [ ] **Independent Practice:** Students step through the remaining chunks of code on their paper using the steps you modeled. 
+
+<note>
+![slides-p1](./images/slides-p1.png)
+</note>
 
 - [ ] **Coder & Bot:** Have one coder and bot read and act out the code on the unplugged platform to check their work on each practice problem.
 
 > > "I need one student to be the Coder and read the sequence one line at a time. A second student will be the Bot and act it out on the foam tiles."
 
-![painting-one](./images/painting-one.png)
+![slides-practice1](./images/slides-practice1.png)
+![slides-practice2](./images/slides-practice2.png)
+![slides-practice3](./images/slides-practice3.png)
 
-![painting-two](./images/painting-two.png)
-
-![extension](./images/extension-challenge.png)
 
 - [ ] **Evaluate:** Choose one problem that you do not go over as a class to collect for your exit challenge.
        
-## 5. Extension: Code.org (20-35 min.)
+## 5. Extension: Independent Coding (20-35 min)
 
 - [ ] **Independent Coding:** Students move at their own pace through the Code.org studios. Play the video to introduce students to using Code.org if you did not start with Lesson 00: Digital Literacy.
 
-<note>🎥
-- Logging into Code.org from the special website
-- Navigating through the studio
-- Dark green means completed, yellow means incomplete, light green means completed, but could be improved on
+<note>
+![slides-ic](./images/slides-ic.png)
  </note>         
 
 </notable>
@@ -134,3 +147,4 @@ Narrate what you’re doing at each step.
 [large-rover]: https://drive.google.com/file/d/0B48_2vIyABioeEVTZWx1XzRMUFU/view
 [lesson-6-handout]: https://drive.google.com/file/d/0B2wBzr9vcXjPYjM5MUhtdkxrc0U/view
 [rover-cutouts]: https://drive.google.com/file/d/0B48_2vIyABioNG8tTWZNYmZocFE/view
+[slides]: https://docs.google.com/presentation/d/1JaiKYd3o56fOmnQyJ9it6fcgsgpiF_LsjjBf0aCzoUM/edit?usp=sharing
