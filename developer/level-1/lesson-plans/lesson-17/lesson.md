@@ -29,6 +29,8 @@ Students continue to build their debugging skills by reading a bug ticket and us
 </note>
 
 ## Room Design
+![room](/images/layout-online.png)
+
 <note>
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
@@ -138,7 +140,7 @@ Participation: Whole Class Online
 
 - [ ] **Plan:** Students plan the conditionals they will add to their game.
 
-> > “Game designers do not just start coding without first creating a design or plan for their game. Let’s take a few minutes to return to our Escape the Maze game plans. On the Game Plan there is space for us to plan how each Sprite is going to interact with others through conditionals. We are going to fill out the right column with the “If________, then_______” statements. Last lesson we practiced writing some of these conditionals in Scratch. Here are some ideas of code we’ve already written: 
+> > “Game designers do not just start coding without first creating a design or plan for their game. Let’s take a few minutes to return to our Escape the Maze game plans. On the Game Plan there is space for us to plan how each Sprite is going to interact with others through conditionals. We are going to fill out the right column with the “If________, then_______” statements. Last lesson we practiced writing some of these conditionals in Scratch. Here are some ideas of code we’ve already written:
 - Hero: If touching an enemy, then go back to the start.
 - Hero: If touching the goal, then change backdrop to level 2 and go back to the start.
 - Enemy: If touching the hero, then the enemy changes color.

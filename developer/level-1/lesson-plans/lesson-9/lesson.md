@@ -39,6 +39,7 @@ See all vocabulary from previous lessons.
 </note>
 
 ## Room Design
+![room](/images/layout-rows.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
@@ -68,7 +69,7 @@ See all vocabulary from previous lessons.
 
 ## 3. Evaluate: Independent Coding Challenge (35 min)
 
-- [ ] **Expectations:** Set the expectations for a positive classroom environment for students to feel they can concentrate and push themselves. 
+- [ ] **Expectations:** Set the expectations for a positive classroom environment for students to feel they can concentrate and push themselves.
 
 > > - (If necessary for room setup:) Use the privacy shields to help you concentrate.
 > > - We want to see your own code, so work independently.

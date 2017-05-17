@@ -2,7 +2,7 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In this lesson students identify repeating patterns in a sequence and replace the repetition with more efficient code by using a loop.  This is students’ first lesson in writing code with loops. Younger students may need more support and practice with pattern recognition. 
+In this lesson students identify repeating patterns in a sequence and replace the repetition with more efficient code by using a loop.  This is students’ first lesson in writing code with loops. Younger students may need more support and practice with pattern recognition.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can recognize and identify a repeating pattern.
@@ -36,6 +36,7 @@ In this lesson students identify repeating patterns in a sequence and replace th
 </note>
 
 ## Room Design
+![room](/images/layout-maze.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
@@ -47,7 +48,7 @@ In this lesson students identify repeating patterns in a sequence and replace th
 <pagebreak/>
 ## 1. Engage/Explore: Patterns (10 min)
 
-- [ ] **Build:** Students use unifix cubes to build the pattern they see on the slide. 
+- [ ] **Build:** Students use unifix cubes to build the pattern they see on the slide.
 
 > > “Build this pattern using the cubes at your table.”
 
@@ -75,7 +76,7 @@ In this lesson students identify repeating patterns in a sequence and replace th
 <iconp type="question">What number do I write as the argument in the repeat loop? How do you know?</iconp>
 <iconp type="answer">4 because the pattern repeated 4 times</iconp>
 
-<note type="tip">The number in the loop block is called an argument. 
+<note type="tip">The number in the loop block is called an argument.
 ![slides-cubes2](./images/slides-cubes2.png)
 </note>
 
@@ -99,7 +100,7 @@ In this lesson students identify repeating patterns in a sequence and replace th
 
 <iconp type="question">What is repeating in this pattern? Circle the pattern each time it repeats.</iconp>
 <iconp type="answer">See slides </iconp>
-                                     
+
 <iconp type="question">How many times does the section of code repeat itself?</iconp>
 <iconp type="answer">16 times                  4 times                    3 times</iconp>
 
@@ -107,7 +108,7 @@ In this lesson students identify repeating patterns in a sequence and replace th
 <iconp type="answer">![solutions](./images/solutions.jpeg)</iconp>
 
 - [ ] **Summarize:** students summarize the process they just followed in 3 steps to write code using a loop.
-                                     
+
 <iconp type="question">Describe the process we did to write a sequence of code using a loop in 3 steps? </iconp>
 <iconp type="answer">
 1. Identify the repeating pattern and how many times it repeats.

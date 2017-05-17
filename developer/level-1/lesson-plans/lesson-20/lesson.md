@@ -2,7 +2,7 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Students complete a series of challenges to review the coding skills they’ve built since the start of the course. 
+Students complete a series of challenges to review the coding skills they’ve built since the start of the course.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can code a sequence of actions in the order I want them performed.
@@ -29,7 +29,7 @@ Students complete a series of challenges to review the coding skills they’ve b
 - [ ] Foam Tiles
 - [ ] Large Rover
 - [ ] Construction Paper to mark the foam tiles
- 
+
 ###### Student Materials:
 - [ ] Computers
 - [ ] Pencils
@@ -41,7 +41,9 @@ See all vocabulary from previous lessons
 </note>
 
 ## Room Design
-You will need a 5x5 grid of foam tiles setup so that it is viewable to all students.
+
+![room](/images/layout-grid.png)
+
 <note>
 ###### Symbols Key
 
@@ -51,7 +53,7 @@ You will need a 5x5 grid of foam tiles setup so that it is viewable to all stude
 </note>
 
 <pagebreak/>
-## 1. Engage: I Have a Challenge for You (2 min) 
+## 1. Engage: I Have a Challenge for You (2 min)
 Participation: Whole class, unplugged
 
 - [ ] **Call and Response:** teach students the call and response. Teacher says: “I have a challenge for you.” Students say: “Bring it, bring it.”
@@ -65,20 +67,20 @@ Participation: Whole class, unplugged
 
 > > “You have learned so much as coders since September! Today, working in partners, you get a chance to apply all of your coding skills to tackle a series of challenges."
 
-## 2. Elaborate: Rover (23 min) 
+## 2. Elaborate: Rover (23 min)
 Participation: Partners, unplugged
 
-- [ ] **Challenge:** Students move Rover around their grids to practice reading and debugging code with loops and conditionals. 
+- [ ] **Challenge:** Students move Rover around their grids to practice reading and debugging code with loops and conditionals.
 
 > > "Your first challenge today is to move Rover around the grid to practice reading and debugging code with loops and conditionals. With a partner, carefully read and execute the code on your paper. Afterwards I will ask you to share and defend your answers to the class."
 
 <note>![slides-rover1](./images/slides-rover1.jpeg)
 </note>
 <br/>
-- [ ] **Argumentation:** Use the foam tiles to have students act out code. You can add and subtract foam tiles to match the grid in each problem on the handout. Encourage academic discourse: 
+- [ ] **Argumentation:** Use the foam tiles to have students act out code. You can add and subtract foam tiles to match the grid in each problem on the handout. Encourage academic discourse:
 	- “I disagree because…”
 	- “Show me how you got…”
-	- “What line of code…” 
+	- “What line of code…”
 
 **Solutions:**
 ![Rover-answers](./images/rover3-answers.jpeg)
@@ -89,7 +91,7 @@ Participation: Partners, unplugged
 ![slides-rover4](./images/slides-rover4.jpeg)
 ![slides-rover5](./images/slides-rover5.jpeg)</note>
 
-## 3. Elaborate: Socrative (20 min) 
+## 3. Elaborate: Socrative (20 min)
 Participation: Partners, online
 
 - [ ] **Challenge:** Students login to Socrative to complete a series of challenges similar to the ones they will complete independently on the ICC next week. This is not a test and there is no final score. Run this “Teacher Paced” so that you can display and discuss the classes’ answers after each question. Allow students to work in pairs on this challenge and encourage academic discourse.

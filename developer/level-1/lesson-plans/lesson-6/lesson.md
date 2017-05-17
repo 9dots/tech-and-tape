@@ -2,7 +2,7 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Students learn to read code with loops by stepping through one block at a time. Using pre-written code, students guide Rover the robot’s movements as it paints a grid. 
+Students learn to read code with loops by stepping through one block at a time. Using pre-written code, students guide Rover the robot’s movements as it paints a grid.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can step through and act out code that contains a loop.
@@ -41,6 +41,7 @@ Students learn to read code with loops by stepping through one block at a time. 
 </note>
 
 ## Room Design
+![room](/images/layout-grid.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
@@ -82,7 +83,7 @@ Students learn to read code with loops by stepping through one block at a time. 
 ![slides-gifs1](./images/slides-gifs1.png)
 ![slides-gifs2](./images/slides-gifs2.png)
 
-- [ ] **Enemy Loops:** Show students the Escape the Maze GIF and identify one of the enemy’s movements as a loop. 
+- [ ] **Enemy Loops:** Show students the Escape the Maze GIF and identify one of the enemy’s movements as a loop.
 
 <iconp type="question">In this animation of our Escape the Maze project, what do you notice about the enemies?</iconp>
 <iconp type="answer">Each enemy is moving in a loop. The actions they are doing repeat. This is because the code they are reading has a loop in it. </iconp>
@@ -117,7 +118,7 @@ Narrate what you’re doing at each step.
 
 ## 4. Elaborate/Evaluate: Practice (10 min)
 
-- [ ] **Independent Practice:** Students step through the remaining chunks of code on their paper using the steps you modeled. 
+- [ ] **Independent Practice:** Students step through the remaining chunks of code on their paper using the steps you modeled.
 
 <note>
 ![slides-p1](./images/slides-p1.png)
@@ -133,7 +134,7 @@ Narrate what you’re doing at each step.
 
 
 - [ ] **Evaluate:** Choose one problem that you do not go over as a class to collect for your exit challenge.
-       
+
 ## 5. Extension: Independent Coding (20-35 min)
 
 - [ ] **Independent Coding:** Students move at their own pace through the Code.org studios. Play the video to introduce students to using Code.org if you did not start with Lesson 00: Digital Literacy.

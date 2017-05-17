@@ -35,6 +35,7 @@ This lesson assumes you are completing it in the same period as the ICC review. 
 </note>
 
 ## Room Design
+![room](/images/layout-maze.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
@@ -45,7 +46,7 @@ This lesson assumes you are completing it in the same period as the ICC review. 
 </note>
 
 <pagebreak/>
-## 1.  Engage: Why (2 min) 
+## 1.  Engage: Why (2 min)
 Participation: Whole Class, Unplugged
 
 - [ ] **Motivate:** Frame the purpose of this lesson. Show students the original Escape the Maze game.
@@ -62,7 +63,7 @@ Participation: Whole Class, Unplugged
 
 - [ ] **Question Driven:** Prompt students with questions to write the first enemy’s code with magentic coding blocks as they act it out on the unplugged maze.
 
-<note type="tip"> Use sticky notes to mark which tiles the enemy is moving between. 
+<note type="tip"> Use sticky notes to mark which tiles the enemy is moving between.
 
 <br/>Here we are following the process of writing a loop:
 1. Identify the repeating element of a pattern and how many times it repeats.
@@ -112,7 +113,7 @@ Participation: Whole Class, Online
 ## 4. Elaborate: Code it in Scratch (30 min)
 Participation: Independent, Online
 
-- [ ] **Making:** Students add the code from the previous activity to their enemy in the game. 
+- [ ] **Making:** Students add the code from the previous activity to their enemy in the game.
 
 > > “Now it is your turn. Let’s login to your Scratch account and put the code into your own version of the maze.”
 

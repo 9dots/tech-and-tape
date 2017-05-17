@@ -28,6 +28,8 @@ Students apply their knowledge of conditionals to write code in their Escape the
 </note>
 
 ## Room Design
+![room](/images/layout-grid.png)
+
 <note>
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
@@ -45,7 +47,7 @@ Students apply their knowledge of conditionals to write code in their Escape the
 <pagebreak/>
 ## 1. Engage: Kids Code (5 min)
 
-- [ ] **Showcase:** Choose a student from your class to show off their current Escape the Maze project or a personal project. 
+- [ ] **Showcase:** Choose a student from your class to show off their current Escape the Maze project or a personal project.
 
 <note>**Slides:** ![Kids Code](./images/KidsCode.png)</note>
 
@@ -67,7 +69,7 @@ Students apply their knowledge of conditionals to write code in their Escape the
 <note>![Code](./images/Code.png)</note>
 <pagebreak/>
 
-## 4. Evaluate: Project Checklist (5 min) 
+## 4. Evaluate: Project Checklist (5 min)
 
 - [ ] **Evaluate:** Students check their projects against the rubric checklist and ensure their project is in the Lesson studio.
 

@@ -33,7 +33,7 @@ In this lesson students explore and predict how they can use loops to more effic
 - [ ] [Maze Handout][maze-handout]
 - [ ] Scratch blocks
 - [ ] Pencils
-- [ ] Rovers 
+- [ ] Rovers
 - [ ] Computers
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
@@ -43,6 +43,7 @@ In this lesson students explore and predict how they can use loops to more effic
 </note>
 
 ## Room Design
+![room](/images/layout-maze.png)
 
 
 <note borderLeft='2px solid green' mt='2em'>

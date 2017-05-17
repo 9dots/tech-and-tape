@@ -20,7 +20,7 @@ Students are introduced to giving constructive feedback on user experience. They
 - [ ] Projector
 - [ ] [Slide Show][slide-show]
 - [ ] [Scratch Zine][zine]
- 
+
 ###### Student Materials:
 - [ ] [Game plans][plan]
 - [ ] Pencils
@@ -34,19 +34,20 @@ Students are introduced to giving constructive feedback on user experience. They
 </note>
 
 ### Room Design
+![room](/images/layout-online.png)
 
 <note>
 
 ###### Symbols Key
 <iconp ml='1.65em' type='question'>question</iconp>
 <iconp ml='1.65em' type='answer'>answer</iconp>
-- [ ] action item 
+- [ ] action item
 </note>
 
 <pagebreak/>
 ## 1. Engage: Challenges Solved (10 min)
 
-- [ ] **Challenge** students to debug their Independent Coding Challenges as you step through the slides. Encourage students to share their own answers and ask questions before revealing the solutions in the slides. Solutions to challenges 8-10 are shown in movies in the slides. 
+- [ ] **Challenge** students to debug their Independent Coding Challenges as you step through the slides. Encourage students to share their own answers and ask questions before revealing the solutions in the slides. Solutions to challenges 8-10 are shown in movies in the slides.
 
 > > “In Lesson 21 you completed a series of coding challenges. Let’s look at your Independent Coding Challenges together so we can debug any challenges you struggled with and celebrate the challenges you completed without any bugs.”
 
@@ -56,7 +57,7 @@ Students are introduced to giving constructive feedback on user experience. They
 
 <note type="tip"> Students will be more engaged if you have them lead this activity.</note>
 
-## 2. Explore/Explain: User Experience (15 min) 
+## 2. Explore/Explain: User Experience (15 min)
 
 - [ ] **Motivate:** introduce the importance of user experience.
 
@@ -91,11 +92,11 @@ Students are introduced to giving constructive feedback on user experience. They
 
 - [ ] **Practice:** Students play their partner’s game and give them constructive feedback. Then students share out the feedback they received. Optional: Have students write down the feedback they receive in their idea journals.
 
-> > “You and your table partner are going to play each other’s game. Give your partner 2 pieces of feedback: 1) Something you liked about their game. 2) Something they can do to improve their game. Be specific and actionable. I will ask you to share out in 5 minutes so make sure you both share your feedback with each other.” 
+> > “You and your table partner are going to play each other’s game. Give your partner 2 pieces of feedback: 1) Something you liked about their game. 2) Something they can do to improve their game. Be specific and actionable. I will ask you to share out in 5 minutes so make sure you both share your feedback with each other.”
 
 <note> ![slide-practice](./images/slides-ux4.jpeg) </note>
 
-## 3. Elaborate: Project Time (20 min) 
+## 3. Elaborate: Project Time (20 min)
 
 - [ ] **Work time:** Students have the rest of the lesson to work on their final project. Students can use a bug ticket today if they are stuck on a bug in their game and want to get help from the class. Have a student fill out the bug ticket and then get the whole class’s attention before having the student present their bug to the class. Students can also reference the coding zine if they need help.
 

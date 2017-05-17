@@ -38,6 +38,7 @@ Students are introduced to “boolean” and practice identifying true/false sta
 </note>
 
 ## Room Design
+![room](/images/layout-online.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
@@ -51,7 +52,7 @@ Students are introduced to “boolean” and practice identifying true/false sta
 ## 1. Kids Code (5 min)
 Participation: Whole Class Unplugged
 
-- [ ] **Showcase** young student programmer and students to be the next programmer we feature. 
+- [ ] **Showcase** young student programmer and students to be the next programmer we feature.
 
 > > “Kids all around are coding and creating. You’re never too young to start! If you code a project on your own, we would like to feature your project/app at the start of our class. Code something in Scratch or Code.org or any coding platform and show it to your getCoding teacher.”
 

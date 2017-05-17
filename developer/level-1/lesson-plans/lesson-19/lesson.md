@@ -2,7 +2,7 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Students continue to practice reading conditionals with Rover. They build their argumentation skills to debate where Rover lands. Independently, students continue to practice writing conditionals and loops as they work on their Escape the Maze projects. 
+Students continue to practice reading conditionals with Rover. They build their argumentation skills to debate where Rover lands. Independently, students continue to practice writing conditionals and loops as they work on their Escape the Maze projects.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can read an if-then statement to execute a sequence if a test is true.
@@ -35,6 +35,8 @@ Students continue to practice reading conditionals with Rover. They build their 
 </note>
 
 ## Room Design
+![room](/images/layout-online.png)
+
 <note>
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
@@ -59,10 +61,10 @@ Participation: Small Group Unplugged
 
 ## 2. Elaborate: Where's Rover (20 min)
 
-- [ ] **Challenge:** Students individually practice reading code on the Where's Rover handout as they move Rover around their grid to determine where he lands. Give students time to try the problems on their own. 
+- [ ] **Challenge:** Students individually practice reading code on the Where's Rover handout as they move Rover around their grid to determine where he lands. Give students time to try the problems on their own.
 
 > > "Coders, I have a challenge for you. Use Rover to read the code on your handout and determine where Rover will land on the grid after he follows the code. Remember that when code has conditionals in it you need to also read any code that is before and after the conditional in order.
-> > 	1. Read the If statement. 
+> > 	1. Read the If statement.
 > > 	1. ✔ if the Boolean is true, read and execute what is inside the conditional
 > > 	1. ✘ if the Boolean is false, skip what is inside the conditional"
 
@@ -102,14 +104,14 @@ Participation: Small Group Unplugged
 
 <pagebreak/>
 
-## 4. Extension: Secret Word (15-30 min) 
+## 4. Extension: Secret Word (15-30 min)
 Participation: Partners, unplugged
 
-- [ ] **Challenge:** Complete the first row together as a class on the board. Students read and step through the code on the handout to reveal a secret word. In this activity they are practicing using all of the tools we have used to read code: index cards, tally marks, ✘ and ✔.  After students have had time to complete the challenge discuss the solution as a class, encouraging students to ask questions where they had difficulty with the code. 
+- [ ] **Challenge:** Complete the first row together as a class on the board. Students read and step through the code on the handout to reveal a secret word. In this activity they are practicing using all of the tools we have used to read code: index cards, tally marks, ✘ and ✔.  After students have had time to complete the challenge discuss the solution as a class, encouraging students to ask questions where they had difficulty with the code.
 
 > > “Coders, I have a super challenge for you. For this challenge you are going to combine your knowledge of sequences, loops, and conditionals to reveal a secret word. Let’s do the first column of the challenge together and then you will continue on your own.”
 
-<note type="tip">It’s ok if they do not finish the challenge in class, you can have them take it with and complete it throughout the week. 
+<note type="tip">It’s ok if they do not finish the challenge in class, you can have them take it with and complete it throughout the week.
 ![Secret Word](./images/secretword1.png)
 ![Secret Word](./images/secretword2.png)
 </note>

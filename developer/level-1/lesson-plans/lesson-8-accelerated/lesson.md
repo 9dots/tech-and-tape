@@ -37,6 +37,7 @@ In this lesson students identify repeating patterns in a sequence and replace th
 </note>
 
 ## Room Design
+![room](/images/layout-maze.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
@@ -49,7 +50,7 @@ In this lesson students identify repeating patterns in a sequence and replace th
 
 ## 1. Engage/Explore: Patterns (10 min)
 
-- [ ] **Build:** Students use unifix cubes to build the pattern they see on the slide. 
+- [ ] **Build:** Students use unifix cubes to build the pattern they see on the slide.
 
 > > “Build this pattern using the cubes at your table.”
 
@@ -79,11 +80,11 @@ In this lesson students identify repeating patterns in a sequence and replace th
 <iconp type="answer">Because only that section is repeating 4 times. If you put the whole thing in the loop you’d get a much longer sequence.</iconp>
 
 <br/>
-<note type="tip">The number in the loop block is called an argument. 
+<note type="tip">The number in the loop block is called an argument.
 ![slides-cubes2](./images/slides-cubes2.png)
 </note>
 
-- [ ] **Build:** Students use unifix cubes to build the pattern they see on the slide. 
+- [ ] **Build:** Students use unifix cubes to build the pattern they see on the slide.
 
 > > “Sometimes not everything is part of the pattern. Build this pattern using the cubes at your table.”
 ![pattern2](./images/unifix-cubes-pattern2.jpeg)
@@ -117,7 +118,7 @@ In this lesson students identify repeating patterns in a sequence and replace th
 <note>![slides-note2](./images/slides-note2.png) </note>
 <iconp type="question">What is repeating in this pattern? Circle the pattern each time it repeats.</iconp>
 <iconp type="answer">See slides </iconp>
-                                     
+
 <iconp type="question">How many times does the section of code repeat itself?</iconp>
 <iconp type="answer">3 times		4 times		3 times</iconp>
 
@@ -125,7 +126,7 @@ In this lesson students identify repeating patterns in a sequence and replace th
 <iconp type="answer">![solutions](./images/solution.jpeg)</iconp>
 
 - [ ] **Summarize:** students summarize the process they just followed in 3 steps to write code using a loop.
-                                     
+
 <iconp type="question">Describe the process we did to write a sequence of code using a loop in 3 steps? </iconp>
 <iconp type="answer">
 1. Identify the repeating pattern and how many times it repeats.
