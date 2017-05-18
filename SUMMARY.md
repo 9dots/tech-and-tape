@@ -83,6 +83,7 @@
     * [Lesson 2: Functions](developer/minecraft/beginner/lesson-plans/lesson-2/lesson.md)
     * [Lesson 3: Functions with Parameters](developer/minecraft/beginner/lesson-plans/lesson-3/lesson.md)
     * [Lesson 4: Build Challenges & Prototype](developer/minecraft/beginner/lesson-plans/lesson-4/lesson.md)
+    * [Lesson 5: Project Time](developer/minecraft/beginner/lesson-plans/lesson-5/lesson.md)
   * [p5](developer/p5/README.md)
     * [visual-beat-machine](developer/p5/visual-beat-machine/README.md)
       * [Lesson 1: Introducing P5.js & Mouse Input](developer/p5/visual-beat-machine/lesson-plans/lesson-1/lesson.md)
