@@ -34,6 +34,9 @@ Students are introduced to conditionals (if then), practice reading conditional 
 </note>
 
 ## Room Design
+
+![room](/images/layout-groups.png)
+
 <note>
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
@@ -54,7 +57,7 @@ Participation: Whole Class Unplugged
 <br/>
 <note>**Slides:** ![slides-showcase](./images/slides-showcase.png)</note>
 
-- [ ] **Motivate** students by connecting today’s lesson to their Escape the Maze game. 
+- [ ] **Motivate** students by connecting today’s lesson to their Escape the Maze game.
 
 > > “In Lesson 12 when we played the three versions of our Escape the Maze game, what happened when the hero touched an enemy? The hero was sent back to the start! This is caused by conditional statements. Today we will be learning about conditionals, the foundation to programming enemies that react when the hero touches them.”
 
@@ -121,14 +124,14 @@ Participation: Whole Class, Unplugged
 ## 4. Elaborate: Reading Conditionals (10 min)
 Participation: Whole Class, Unplugged
 
-- [ ] **Model** how to use the steps to read conditional statements to read the first few examples on the handout together: 
-1. Read the If statement. 
+- [ ] **Model** how to use the steps to read conditional statements to read the first few examples on the handout together:
+1. Read the If statement.
 1. ✔ if the Boolean is true, read and execute what is inside the conditional
 1. ✘ if the Boolean is false, skip what is inside the conditional
 
 <note> ![slides-read1](./images/slides-read1.png)</note>
 
-- [ ] **Independent Practice:** Students continue to follow the read conditionals steps to finish the examples on the handout. Review the answers together as a class when students are done. 
+- [ ] **Independent Practice:** Students continue to follow the read conditionals steps to finish the examples on the handout. Review the answers together as a class when students are done.
 
 > > “Your turn. Keep following our 3 steps to finish the examples on your paper.”
 

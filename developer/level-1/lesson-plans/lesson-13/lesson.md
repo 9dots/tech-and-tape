@@ -29,6 +29,7 @@ Students are introduced to the debugging protocol and practice applying it to a 
 </note>
 
 ## Room Design
+![room](/images/layout-maze.png)
 
 <note>
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>

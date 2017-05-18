@@ -5,28 +5,31 @@
 In lesson 2 students begin to develop an understanding of how to use commands to control the actions of a computer. Students are introduced to the idea that commands must be clear and precise in order for a computer to carry them out.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
-- I can use a set of commands to direct my turtle’s movement.
+- I can use a set of instructions to direct my turtle bot’s movement.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. Engage: Warm Up (5 min)
-1. Explore/Explain: turtleMove (5 min)
-1. Elaborate: Turtle Go (15 min)
-1. Evaluate: Discussion (5 min)
+1. Engage: Toothbrushing (5 min)
+1. Explore: Navigation (7 min)
+1. Explain: turtleGo (7 min)
+1. Elaborate: turtleMove (7 min)
+1. Evaluate: Debrief (4 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
+- [ ] Computer
 - [ ] Projector
-- [ ] [Lesson 2 Slides][slides]
 - [ ] Toothbrush
 - [ ] Tube of Toothpaste
 - [ ] Floor Grid
 - [ ] [Paper Star][paper-star]
+- [ ] [Slide Show][slides]
 
 ###### Student Materials:
-- [ ] [Paper Game Controllers][paper-controllers]
-- [ ] [Direction Cards][direction-cards]
+- [ ] [Game Controllers][paper-controllers]
+- [ ] [Navigation Cards][direction-cards]
+- [ ] [Navigation Worksheet][worksheet]
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
@@ -38,7 +41,7 @@ In lesson 2 students begin to develop an understanding of how to use commands to
 
 ## Room Design
 
-![room](./images/layout-rug-grid.png)
+![room](./images/layout-grid.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
@@ -51,70 +54,94 @@ In lesson 2 students begin to develop an understanding of how to use commands to
 <pagebreak/>
 
 
-## 1. Engage: Warm Up (7 min)
+## Engage: Warm Up (7 min)
+- [ ] **Introduce** the toothbrushing activity.
+>> “I need your help. I have forgotten how to brush my teeth. I brought my toothpaste and toothbrush so that you can teach me how.”
 
-- [ ] Have students volunteer to give you directions on how to brush your teeth. Act out each student’s directions as they share.
+<iconp type='question'>What should I do to brush my teeth? Tell me what I should do one step at a time.</iconp>
+
+<note type='key' title='Key Points'>The purpose of this activity is for students to see how important it is to give clear and precise directions when communicating with a computer. Follow all student directions literally to show how directions can lead to undesired outcomes if not they are not clear and precise. For example, if a student says to place toothpaste on the toothbrush, place the tube of toothpaste on the toothbrush.</note>
+
+- [ ] **Share Out:** Students share their directions with the class.
+
+- [ ] **Debrief** the activity.
+>> “This year we will learn how to make computers do things like paint objects and move characters. When we give instructions to a computer we have to make sure our directions are clear because a computer can’t figure out what you mean in the same way a person can. When you gave me directions that were not clear I only pretended not to understand to show you how a computer may not understand your directions and do something you don’t want it to do.”
+
+- [ ] **Define** code.
+>> “When we give a computer instructions to do something we call that coding. This year you are all going to learn how to write code. The instructions we give to a computer are called code.”
+
+## Explore: Navigation (7 min)
+- [ ] **Introduce** the grid navigation activity. Stand on the floor grid and place the paper star in an adjacent square.
+>> “In this activity we are going to create instructions that we will use to make our computer do things like move characters on the screen and paint pictures.
+I am standing in a square. In the square next to me there is a star. If I wanted to stand in the square with the star and I did not know how to get there, what would you say to give me directions to move to the star?”
+
+<iconp type='question'>What instructions would you give me to get to the star?</iconp>
+
+- [ ] **Share Out:** Students share ideas of how they will direct the teacher to the star on the grid.
+
+- [ ] **Introduce** the next challenge in which the class must complete the same task without using their voices.
+>> “In this next challenge, I want to stand in the square with the star again. This time you have to give me instructions without using your voice.”
+
+<iconp type='question'>How would you give me instructions without using your voice?</iconp>
+
+- [ ] **Share Out:** Students demonstrate how they would give the teacher directions without their voice.
+
+- [ ] **Introduce** the next challenge in which the class must complete the same task without using a set of direction cards.
+>> “In the last challenge I want to get to the star again. This time you have to give me instructions by using the cards that I just gave you.”
+
+<iconp type='question'>How would you give me instructions with the card?</iconp>
+
+- [ ] **Share Out:** Students demonstrate how they would give the teacher directions using the navigation cards.
+
+- [ ] **Demonstrate** the proper way to use the navigation cards.
+
+## Explain: turtleGo (7 min)
+- [ ] **Introduce** the grid navigation activity with game controllers.
+>> “Now that we know how to use the arrows we can use our game controllers to to give instructions. In this activity you are going to continue to give me instructions in order to move me to the star. This time you will press the arrow button that you think will move me to the star.”
+
+- [ ] **Demonstrate** how to properly hold the game controller.
+
+- [ ] **Check** students to ensure that they are holding the game controller properly.
+
+- [ ] **Show** the first challenge. Stand on the grid and place the paper star in an adjacent square. Have the class press the button on the controller they would use to direct you to the star.
+
+<iconp type='question'>Which color arrow did you press to move me to the square with the star?</iconp>
+
+- [ ] **Share Out:** Students share out the button they would press to give the teacher directions.
+
+- [ ] **Show** the next challenge and have students share their responses in the same manner. Continue this process until students have had to use all 4 arrow directions on the game controller.
+
+- [ ] **Show** the navigation worksheet to the class.
+
+- [ ] **Model** completing the first challenge and have students copy the solution on their worksheet.
+>> “To complete this challenge I have to circle the arrow direction that I would use to move the turtle to the star. In this first challenge I need to move my turtle to the right so I will circle the yellow arrow because the yellow arrow points to the right. Circle the yellow arrow on your worksheet to show the correct answer..”
+
+- [ ] **Guided Practice:** Have the class assist in completing the second challenge on the worksheet by having individuals students volunteer to share their answers.
+>> “In this next challenge I’m going to need your help.”
+
+<iconp type='question'>Which color arrow should I circle to get my turtle to move to the star?</iconp>
 
 
-**Note:** The purpose of this activity is for students to see how important it is to give clear and precise directions. Each direction a student gives should be followed literally to show how directions that are not clear and precise can be misinterpreted.
+## Elaborate: turtleMove (7 min)
+- [ ] **Independent Practice:** Students complete the navigation worksheet independently.
 
-**Example:** If a student says to put toothpaste on the toothbrush, place the tube of toothpaste on the toothbrush.
+- [ ] **Monitor** the class for students in need of additional assistance.
 
+- [ ] **Review** 2-3 challenges from the navigation worksheet with the class.
 
-<note type='key' title='Key Points'>
-- This year we will learn how to make make computers do things like draw objects and navigate characters.
-- In order to make computers do tasks for us, we have to learn how to give them instructions.
-- Giving instructions to a computer is what we call coding.
-</note>
+## Evaluate: Debrief (4 min)
+- [ ] **Debrief** the lesson with the class.
+>> “In this lesson we were able to come up with a set of instructions to communicate with our turtle.”
 
-## 2. Explore/Explain: turtleMove (5 min)
+<iconp type='question'>What did we use to give our turtle directions?</iconp>
+<iconp type='answer'>We used arrows to give our turtle directions.</iconp>
 
-- [ ] Place the star on the floor grid and stand in an adjacent square.
-- [ ] Tell students that you need help navigating to the colored tile.
-- [ ] Have volunteers to give you directions to the colored tile.
-
-![grid-one](./images/grid-one.png)
-
-
-- [ ] Present the same scenario. This time inform students that they cannot use their voice.
-- [ ] Have volunteers to give you directions to the colored tile.
-- [ ] Ask the class:
-
-<iconp type='question'>What was different this time?</iconp>
-<iconp type='answer'>We had to use visuals like signals, gestures, or symbols to communicate our directions.</iconp>
-
-- [ ] Pass out direction cards and ask students how they would use them to give you directions.
-- [ ] Move the star to different adjacent squares and have the class practice giving you directions with the directions card.
-
-## 3. Elaborate: Turtle Go (15 min)
-
-Pass out 1 game controller cutout to each student and project the large game controller from the slideshow.
-<br/>
-- [ ] Demonstrate how to orient and hold the game controller. Make sure each student is holding it properly.
-- [ ] Place a star in one square of the grid and stand in another square at the opposite end of the grid.
-
-![grid-two](./images/grid-two.png)
-
-
-- [ ] Ask the whole group to press the button they would use to get the turtle closer to the star.
-- [ ] Have a volunteer share his/her choice and ask the class to agree or disagree by raising their hands.
-- [ ] Once the group agrees on a button have a volunteer press the button on the large controller and move to an adjacent square in response to the button that was selected.
-- [ ] Repeat this process until you reach the star.
-
-## 4. Evaluate: Discussion (5 min)
-
-Debrief the activity with a discussion.
-
-<br/>
-
-###### Discussion Questions
-
-<iconp type='question'>What did you do to give me directions?</iconp>
-<iconp type='answer'>I pressed the arrow buttons on the controller.</iconp>
+<iconp type='question'>Why do you think it was important for us to create simple instructions for our turtle bot to follow?</iconp>
 
 </notable>
 
 [slides]: https://drive.google.com/open?id=1Ff8QsgmBG1q5Pa-Kq14IPe-3HArs8f7EAW73lxKFVBk
-[paper-star]: https://drive.google.com/open?id=0B48_2vIyABioelNBOFh0VHhWaEE
-[paper-controllers]: https://drive.google.com/open?id=0B48_2vIyABioRVJkODVORy1FNEk
-[direction-cards]: https://drive.google.com/open?id=0B48_2vIyABioRm5NbkN4VGxZU2s
+[paper-star]: https://drive.google.com/open?id=0B48_2vIyABioYThreXZIU3d5ckU
+[paper-controllers]: https://drive.google.com/open?id=0B48_2vIyABioZ0Mzd3J5aURHMTg
+[direction-cards]: https://drive.google.com/open?id=0B48_2vIyABioTDhLa1RYaDVzalE
+[worksheet]: https://drive.google.com/open?id=0B48_2vIyABioOGZFVEgzc0d4cFE

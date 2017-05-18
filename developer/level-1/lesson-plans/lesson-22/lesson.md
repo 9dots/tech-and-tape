@@ -20,7 +20,7 @@ Students use their game plan to work on their final Escape the Maze project. If 
 - [ ] Projector
 - [ ] [Slide Show][slide-show]
 - [ ] [Scratch Zine][zine]
- 
+
 ###### Student Materials:
 - [ ] [Game plans][plan]
 - [ ] Pencils
@@ -32,6 +32,7 @@ Students use their game plan to work on their final Escape the Maze project. If 
 </note>
 
 ## Room Design
+![room](/images/layout-online.png)
 
 <note>
 
@@ -41,11 +42,11 @@ Students use their game plan to work on their final Escape the Maze project. If 
 ###### Symbols Key
 <iconp ml='1.65em' type='question'>question</iconp>
 <iconp ml='1.65em' type='answer'>answer</iconp>
-- [ ] action item 
+- [ ] action item
 </note>
 
 <pagebreak/>
-## 1. Engage: Bug Tickets (5 min) 
+## 1. Engage: Bug Tickets (5 min)
 Participation: Whole Class, Unplugged
 
 - [ ] **Bug Ticket:** Students complete their own bug ticket today if they are stuck. Introduce and read the Bug Ticket together.
@@ -57,7 +58,7 @@ Participation: Whole Class, Unplugged
 
 <pagebreak/>
 
-## 2. Elaborate: Project Time (40 min) 
+## 2. Elaborate: Project Time (40 min)
 Participation: Independent, Online
 
 - [ ] **Work time:** Students have the rest of the lesson to work on their final project. Students should use a bug ticket today if they are stuck on a bug in their game and want to get help from the class. Have the student fill out the bug ticket and then get the whole class’s attention before having the student present their bug to the class. Students can also reference the coding zine if they need help.

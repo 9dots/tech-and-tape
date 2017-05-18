@@ -34,6 +34,7 @@ See all vocabulary from previous lessons.
 </note>
 
 ## Room Design
+![room](/images/layout-rows.png)
 
 
 <note borderLeft='2px solid green' mt='2em'>

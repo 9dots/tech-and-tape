@@ -24,7 +24,7 @@ Students practice reading code by predicting, stepping through, and summarizing 
 - [ ] Foam Tiles
 
 ###### Student Materials:
-- [ ] Index cards 
+- [ ] Index cards
 - [ ] Idea Journals
 - [ ] Pencils
 - [ ] [Handout: Maze][handout]
@@ -39,6 +39,7 @@ Students practice reading code by predicting, stepping through, and summarizing 
 </note>
 
 ## Room Design
+![room](/images/layout-maze.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
@@ -48,7 +49,7 @@ Students practice reading code by predicting, stepping through, and summarizing 
 - [ ] action item
 </note>
 
-## 1. Engage: Enemies (5 min) 
+## 1. Engage: Enemies (5 min)
 
 - [ ] **Write Pair Share:** Students write a list of loops they see in the GIF of our Escape the Maze. They then share their lists with their partners before sharing out to the class.
 
@@ -60,14 +61,14 @@ Students practice reading code by predicting, stepping through, and summarizing 
 <iconp type="answer">Blue - moves up, moves down, forever</iconp>
 <iconp type="answer">Black - moves left, spins, moves right, spins forever</iconp>
 
-<note>**Slides:** 
+<note>**Slides:**
 ![slides-wps](./images/slides-wps.png)
 ![slides-enemies](./images/slides-enemies.png)</note>
 
 ## 2. Explore: Predict (5 min)
 
 - [ ] **Predict:** Students predict what code with a loop will do before stepping through it.
- 
+
 <iconp type="question">Here is the code for one of the enemies we just saw. What do you predict this code will do? What movement do you think the enemy will do when it runs this code?</iconp>
 <iconp type="answer">Answers will vary</iconp>
 

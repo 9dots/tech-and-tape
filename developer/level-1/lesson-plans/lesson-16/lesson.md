@@ -28,7 +28,8 @@
 </note>
 
 ## Room Design
-Students do not need a special setup for this lesson as they will not be on computers. It will help if they are sitting in pairs.
+![room](/images/layout-rows.png)
+
 
 <note>
 
@@ -84,7 +85,7 @@ Participation: Independent Unplugged
 
 	Steps for reading code with conditionals:
 **Don't forget to also read any code that is before and after the conditional in order.**
-	1. Read the If statement. 
+	1. Read the If statement.
 	1. ✔ if the Boolean is true, read and execute what is inside the conditional
 	1. ✘ if the Boolean is false, skip what is inside the conditional
 
@@ -105,7 +106,7 @@ Participation: Whole Class Online
 
 - [ ] **Code Along:** Play the code along videos while students follow along on their computers to write conditionals in Scratch.
 
-> > “Now that you've gotten comfortable with conditionals, let's code along as we learn how to write conditionals in Scratch. 
+> > “Now that you've gotten comfortable with conditionals, let's code along as we learn how to write conditionals in Scratch.
 
 
 <note>![slides-CodeAlong](./images/CodeAlong.png)

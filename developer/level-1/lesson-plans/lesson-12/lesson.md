@@ -38,6 +38,7 @@ In this lesson we will begin to talk about user experience in the context of des
 </note>
 
 ## Room Design
+![room](/images/layout-online.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
@@ -82,8 +83,8 @@ Participation: Whole Class Unplugged
 <iconp type='question'>What makes certain enemies not fun to play against?</iconp>
 <iconp type='answer'>When there are too many and the game is impossible to beat</iconp>
 
-<note> 
-![slides-empathize](./images/slides-empathize.jpeg) 
+<note>
+![slides-empathize](./images/slides-empathize.jpeg)
 ![slides-design](./images/slides-design.png)</note>
 
 
@@ -97,9 +98,9 @@ Participation: Whole Class Unplugged
 ## 3) Explain: Set the Challenge (5 min)
 Participation: Whole Class Unplugged
 
-- [ ] **Ideate:** Students look back at their game plan to reexamine the plan for their enemies and incorporate the elements of user experience that we explored as a class. 
+- [ ] **Ideate:** Students look back at their game plan to reexamine the plan for their enemies and incorporate the elements of user experience that we explored as a class.
 
-> > “Look back at your Game Plan from our last lesson. How many enemies are you going to have in your game? Is there anything you want to change about each enemy that will improve the user experience? Make those notes now.” 
+> > “Look back at your Game Plan from our last lesson. How many enemies are you going to have in your game? Is there anything you want to change about each enemy that will improve the user experience? Make those notes now.”
 
 ![Game Plan](./images/plan.jpeg)
 
@@ -151,4 +152,3 @@ Participation: Independent, Online
 [handout]: https://docs.google.com/document/d/1zRRcYYC3x9WjOi9JlQ2XyDq4CGB8bBCkixxZyBd-EiY/edit?usp=sharing
 [video]: https://drive.google.com/file/d/0B2wBzr9vcXjPdEppeUN2aV9KbFk/view
 [plan]: https://drive.google.com/file/d/0B2wBzr9vcXjPN3hPQmItMndvQ1k/view
-

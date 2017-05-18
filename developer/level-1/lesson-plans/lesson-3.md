@@ -34,6 +34,7 @@ Students are introduced to the importance of writing clear instructions. Student
 </note>
 
 ## Room Design
+![room](/images/layout-online.png)
 
 <note>
 

@@ -36,6 +36,7 @@ Students work in groups to tackle a challenging problem-solving game. They begin
 </note>
 
 ## Room Design
+![room](/images/layout-online.png)
 
 <note>
 
