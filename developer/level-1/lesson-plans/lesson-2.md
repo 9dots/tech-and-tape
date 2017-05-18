@@ -1,4 +1,4 @@
-<header class='header' title='If You Give a Mouse a Cookie' subtitle='Lesson 2'/>
+<header class='header' title='If You Give a Mouse a Cookie' subtitle='Lesson 02'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -9,7 +9,7 @@ Students get comfortable using the Scratch editor and writing a sequence in code
 - I can use the editor, block palette, and stage in Scratch to code my program.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-1. Engage:  If You Give a Mouse a Cookie (5 min) 
+1. Engage:  If You Give a Mouse a Cookie (5 min)
 1. Explore/Explain: Code Along (20 min)
 1. Elaborate: Independent Coding (20 min)
 1. Extension: Further Exploring Scratch (5-60 min)
@@ -31,7 +31,7 @@ Students get comfortable using the Scratch editor and writing a sequence in code
 
 ## Room Design
 
-![room](./lesson-1/images/online.png)
+![room](/images/layout-online.png)
 
 <note>
 
@@ -89,9 +89,9 @@ Participation: Independent, Online
 ![plan](./lesson-2/images/plan.jpeg)
 
 	Anticipating Student Misconceptions:
-	- Coding in the wrong sprite - Students should be coding in the sprite where the action is occuring. 
+	- Coding in the wrong sprite - Students should be coding in the sprite where the action is occuring.
 	- Taking a “say” block instead of “say for 2 sec” - without the time, Scratch will perform the action so quickly that it won’t be seen on the stage.
-	- Deleting the starter code - Students should not change or delete the first two blocks as they ensure that whenever the green flag is pressed the mouse returns to its original position. 
+	- Deleting the starter code - Students should not change or delete the first two blocks as they ensure that whenever the green flag is pressed the mouse returns to its original position.
 
 <note>![slides-code](./lesson-2/images/slides-code.jpeg)</note>
 
@@ -110,4 +110,4 @@ Participation: Independent, Online
 
 [slide-show]: https://docs.google.com/presentation/d/1uJD-NpNnVgcb0qX0Hv_3LYX14yf1aRKRQzzB9PJgbCM/edit?usp=sharing
 [scratch]: https://scratch.mit.edu/studios/3448945/
-[tutorial]: https://scratch.mit.edu/help/videos/#Introductory Tutorials 
+[tutorial]: https://scratch.mit.edu/help/videos/#IntroductoryTutorials

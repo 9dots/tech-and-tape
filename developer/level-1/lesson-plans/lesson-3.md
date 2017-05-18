@@ -34,8 +34,7 @@ Students are introduced to the importance of writing clear instructions. Student
 </note>
 
 ## Room Design
-
-![room](./lesson-1/images/online.png)
+![room](/images/layout-online.png)
 
 <note>
 
@@ -180,7 +179,7 @@ Nut allergies are common. Sunflower butter is a safe alternative to peanut butte
 
 </notable>
 
-[slide-show]: https://docs.google.com/presentation/d/1cR3e-XiSHqI6O8H01ng_IoglktZefa-hRPKNsuhlyW8/edit?usp=sharing
+[slide-show]: https://docs.google.com/presentation/d/14h8F-A34JqlIF53ZXV2t0l3eunX5blb6184AuwBKZhk/edit?usp=sharing
 [targets]: https://drive.google.com/file/d/0B48_2vIyABioeEVTZWx1XzRMUFU/view?usp=sharing
 [code]: https://drive.google.com/file/d/0B48_2vIyABioU0FyTTNsR29WNUE/view?usp=sharing
 [handout]: https://drive.google.com/file/d/0B48_2vIyABiodlhwdFRiRDJXckU/view?usp=sharing

@@ -17,12 +17,11 @@ See all objectives from lessons 1-20
 - [ ] Projector
 - [ ] [Slide Show][slide-show]
 - [ ] [Answer Key][solutions]
- 
+
 ###### Student Materials:
 - [ ] Pencils
-- [ ] Coding Boxes:
-	- [ ] Rovers
-	- [ ] Index Cards
+- [ ] Rovers
+- [ ] Index Cards
 - [ ] Bug Erasers
 - [ ] [Independent Coding Challenges][icc]
 - [ ] Computers
@@ -30,8 +29,7 @@ See all objectives from lessons 1-20
 </note>
 
 ## Room Design
-
-![room](./images/desk-setup_online.png)
+![room](/images/layout-online.png)
 
 <note>
 
@@ -41,11 +39,11 @@ See all vocabulary from previous lessons.
 ###### Symbols Key
 <iconp ml='1.65em' type='question'>question</iconp>
 <iconp ml='1.65em' type='answer'>answer</iconp>
-- [ ] action item 
+- [ ] action item
 </note>
 
 <pagebreak/>
-## 1. Engage: I Have a Challenge for You (2 min) 
+## 1. Engage: I Have a Challenge for You (2 min)
 Participation: Whole class, unplugged
 
 - [ ] **Motivate:** introduce our challenges for today.
@@ -63,7 +61,7 @@ Participation: Whole class, unplugged
 
 <note>![slides-bug](./images/slides-bugs.jpeg)</note>
 
-## 2. Evaluate: Challenges (43 min) 
+## 2. Evaluate: Challenges (43 min)
 Participation: Independent, unplugged
 
 - [ ] **Bonus**: Tell students #10 is a bonus and should be done last.
@@ -72,7 +70,7 @@ Participation: Independent, unplugged
 
 <note> **Slides:** ![slides-bonus](./images/slides-icc1.jpeg)</note>
 
-- [ ] **Expectations:** Set the expectations for a positive classroom environment for students to feel they can concentrate and push themselves. 
+- [ ] **Expectations:** Set the expectations for a positive classroom environment for students to feel they can concentrate and push themselves.
 
 > > - (If necessary for room setup:) Use the privacy shields to help you concentrate.
 > > - We want to see your own code, so work independently.
