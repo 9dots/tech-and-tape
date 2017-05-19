@@ -29,9 +29,9 @@ Students get comfortable using the Scratch editor and writing a sequence in code
 
 </note>
 
-## Room Design
+### Room Design
 
-![room](/images/layout-online.png)
+![room](/images/layout-rows.png)
 
 <note>
 

@@ -18,40 +18,33 @@ In this lesson students explore and predict how they can use loops to more effic
 4. **Elaborate:** Loops in the Real World (5 min)
 5. **Evaluate:** Exit Challenge (15 min)
 
+
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 
 ###### Teacher Materials:
 - [ ] [Slide Show][slide-show]
 - [ ] Projector
-- [ ] Unplugged Foam Maze
-- [ ] Whiteboard
-- [ ] Teacher Scratch Blocks magnetic
+- [ ] Unplugged Foam Tiles
+- [ ] Teacher Scratch Blocks
 - [ ] [Socrative Quiz][soc]
 
 ###### Student Materials:
 - [ ] [Maze Handout][maze-handout]
 - [ ] Scratch blocks
-- [ ] Pencils
+- [ ] Pencil
 - [ ] Rovers
 - [ ] Computers
 
+</note>
+## Room Design
+![room](/images/layout-maze.png)
+
+<note>
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
 - **Loop:** A sequence of instructions that is continually repeated until a certain condition is reached.
 
-</note>
-
-## Room Design
-![room](/images/layout-maze.png)
-
-
-<note borderLeft='2px solid green' mt='2em'>
-###### Symbols Key
-
-<iconp ml='1.65em' type='question'>question</iconp>
-<iconp ml='1.65em' type='answer'>answer</iconp>
-- [ ] action item
 </note>
 
 <pagebreak/>

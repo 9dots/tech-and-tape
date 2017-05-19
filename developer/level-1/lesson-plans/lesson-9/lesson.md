@@ -30,23 +30,16 @@ We want to establish a coding learning culture where students identify as coders
 - [ ] Index Cards (class set)
 - [ ] Rovers (class set)
 - [ ] Student Surveys (class set)
+</note>
 
+### Room Design
+![room](/images/layout-rows.png)
+<note>
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
 See all vocabulary from previous lessons.
 
-</note>
-
-## Room Design
-![room](/images/layout-rows.png)
-
-<note borderLeft='2px solid green' mt='2em'>
-###### Symbols Key
-
-<iconp ml='1.65em' type='question'>question</iconp>
-<iconp ml='1.65em' type='answer'>answer</iconp>
-- [ ] action item
 </note>
 
 ## 1. Engage: Set the Challenge (5 min)

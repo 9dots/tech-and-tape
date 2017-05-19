@@ -12,15 +12,16 @@ In this lesson students identify repeating patterns in a sequence and replace th
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 1. Engage & Explore: Patterns (10 min)
-1. Explain: Translating Patterns to Loops (10 min)
-1. Elaborate/Evaluate: Socrative (10 min)
-1. Extension: Independent Coding (15-30 min)
+1. Explain/Elaborate: Translating Patterns to Loops (10 min)
+1. Evaluate: Socrative (5 min)
+1. Extension: Independent Coding (20-35 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] [Slide Show][slide-show]
 - [ ] Projector
+- [ ] [Exit Challenge Answer Key][key]
 
 ###### Student Materials:
 - [ ] Idea Journals
@@ -29,23 +30,19 @@ In this lesson students identify repeating patterns in a sequence and replace th
 - [ ] Student Code Blocks: repeat, 2 moves, turn, 2 waits
 - [ ] Computers
 - [ ] Unifix Cubes
+- [ ] [Exit Challenge][exit]
 
+</note>
+
+### Room Design
+![room](/images/layout-rows.png)
+<note>
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
 - **Loop:** A sequence of instructions that is continually repeated until a certain condition is reached.
 
 </note>
 
-## Room Design
-![room](/images/layout-maze.png)
-
-<note borderLeft='2px solid green' mt='2em'>
-###### Symbols Key
-
-<iconp ml='1.65em' type='question'>question</iconp>
-<iconp ml='1.65em' type='answer'>answer</iconp>
-- [ ] action item
-</note>
 <pagebreak/>
 
 ## 1. Engage/Explore: Patterns (10 min)
@@ -138,15 +135,15 @@ In this lesson students identify repeating patterns in a sequence and replace th
 ![slides-translating3](./images/slides-translating3.png)
 ![slides-translating4](./images/slides-translating4.png)
 
-## 3. Elaborate/Evaluate: Socrative (10 min)
+## 3. Elaborate/Evaluate: Exit Challenge (5 min)
 
-- [ ] **Socrative:** Run the Socrative quiz. Students work independently to continue to practice identifying the patterns in a sequence and rewrite them as a loop. You will need to give students the Room Name.
+- [ ] **Exit Challenge:** Students independently rewrite 3 sequences of code as loops. Collect the exit challenges and review them to identify who needs more support with writing loops.
 
-> > “Coders, I have a challenge for you! Login to Socrative and answer the questions independently about. When you are finished you can continue to work through the lessons in Code.org.”
+> > “Coders, I have a challenge for you! Independently rewrite the 3 sequences on your exit challenge as loops. First, circle the pattern that is repeating. Then rewrite the sequence as a loop at the bottom of the page.”
 
 <note>![slides-socrative](./images/slides-soc.png)</note>
 
-## 4. Extension: Independent Coding (15-30 min)
+## 4. Extension: Independent Coding (20-35 min)
 
 - [ ] **Independent Coding:** Students move at their pace through Code.org. You can direct students to continue working on Code.org Course 2 Lesson 8: Bee Loops
 
@@ -155,3 +152,5 @@ In this lesson students identify repeating patterns in a sequence and replace th
 
 [slide-show]: https://docs.google.com/presentation/d/1RcoJ6hh9rQCNuBCYYBFuNXrB3PB13WVs5xq4jOtregI/edit?usp=sharing
 [code-handouts]: https://drive.google.com/file/d/0B2wBzr9vcXjPSkdnS2llTlU0bWc/view?usp=sharing
+[exit]: https://docs.google.com/document/d/1DjoqTdASsbnpOnhh5GoJLhPqLtP9nrrbKTEyFZl6wk4/edit?usp=sharing
+[key]: https://docs.google.com/document/d/10OFFXNsVVOCNlJ56cydtFdOLkXTYWY7Y1KPpua0G1O4/edit?usp=sharing

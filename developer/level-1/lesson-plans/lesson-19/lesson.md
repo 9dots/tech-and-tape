@@ -23,7 +23,6 @@ Students continue to practice reading conditionals with Rover. They build their 
 - [ ] Foam Tiles (with numbers to match the handout)
 
 ###### Student Materials:
-- [ ] Idea Journals
 - [ ] [Where's Rover Handout][handout]
 - [ ] Index Cards
 - [ ] Rovers
@@ -35,7 +34,7 @@ Students continue to practice reading conditionals with Rover. They build their 
 </note>
 
 ## Room Design
-![room](/images/layout-online.png)
+![room](/images/layout-grid.png)
 
 <note>
 
@@ -44,12 +43,6 @@ Students continue to practice reading conditionals with Rover. They build their 
 - **Conditional** Asks a boolean statement, and runs a chunk of code if the answer is true.
 
 </note>
-
-###### Symbols Key
-
-<iconp ml='1.65em' type='question'>question</iconp>
-<iconp ml='1.65em' type='answer'>answer</iconp>
-- [ ] action item
 
 <pagebreak/>
 ## 1. Engage: Dance Dance (5 min)
