@@ -26,7 +26,6 @@ Students are introduced to “boolean” and practice identifying true/false sta
 - [ ] Computers
 - [ ] [Exit Challenges][exit-challenge]
 - [ ] [Boolean Cards][boolean-cards]
-- [ ] Idea Journals
 - [ ] Pencils
 - [ ] Code Blocks
 

@@ -22,14 +22,13 @@ Students continue to build their debugging skills by reading a bug ticket and us
 
 ###### Student Materials:
 - [ ] Computers
-- [ ] Idea Journals
 - [ ] [Game Plan][handout]
 - [ ] Pencils
 
 </note>
 
 ## Room Design
-![room](/images/layout-online.png)
+![room](/images/layout-rows.png)
 
 <note>
 

@@ -23,7 +23,6 @@ Students continue to practice reading conditionals with Rover. They build their 
 - [ ] Foam Tiles (with numbers to match the handout)
 
 ###### Student Materials:
-- [ ] Idea Journals
 - [ ] [Where's Rover Handout][handout]
 - [ ] Index Cards
 - [ ] Rovers
@@ -35,7 +34,7 @@ Students continue to practice reading conditionals with Rover. They build their 
 </note>
 
 ## Room Design
-![room](/images/layout-online.png)
+![room](/images/layout-grid.png)
 
 <note>
 

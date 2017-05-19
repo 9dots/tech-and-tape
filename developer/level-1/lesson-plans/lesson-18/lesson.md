@@ -22,13 +22,12 @@ Students apply their knowledge of conditionals to write code in their Escape the
 
 ###### Student Materials:
 - [ ] Computers
-- [ ] Idea Journals
 - [ ] [Game Plans][plan]
 
 </note>
 
 ## Room Design
-![room](/images/layout-grid.png)
+![room](/images/layout-online.png)
 
 <note>
 
