@@ -30,8 +30,8 @@ Students are introduced to the Escape the Maze project they will be working on t
 
 </note>
 
-## Room Design
-![room](/images/layout-online.png)
+### Room Design
+![room](/images/layout-rows.png)
 
 <note>
 
@@ -76,16 +76,14 @@ Participation: Whole Class, Online
 ## 2. Explain: Code Along (20 min)
 Participation: Whole Class, Online
 
-- [ ] **Code Along:** Play the code along video to navigate students to the maze in Scratch. Pause the video to allow students to answer the questions in the video.
+- [ ] **Code Along:** Play the code along videos one at a time to navigate students to the maze in Scratch. Between each video, pause to facilitate student discussion to the questions posed in the video. Encourage students to respond to eachother with "I agree because..." or "I disagree because..."
 
 > > “Let’s login to Scratch and look at the code that makes this game work.”
 
+<iconp type="question">What do you think this chunk of code does?</iconp>
+
 <note>
-![slides-code](./lesson-4/images/slides-code.jpeg)
-🎥 **Code Along**
-- Login to Scratch & Navigate to project
-- Play Escape the Maze
-- Break starter code, unearth what it does
+![slides-code](./lesson-4/images/slides-code.png)
 </note>
 
 ## 3. Elaborate: Brainstorm (5 min)
@@ -105,7 +103,7 @@ Continue to prompt students with questions:
 <note>
 ![slides-brainstorm](./lesson-4/images/slides-brainstorm.jpeg)
 </note>
-
+<pagebreak/>
 ## 4. Evaluate: Socrative (15 min)
 Participation: Partners, Online
 
@@ -115,9 +113,6 @@ Participation: Partners, Online
 
 <note>
 ![slides-code](./lesson-4/images/slides-code.jpeg)
-🎥 **Code Along**
-- How to use Socrative
-- Navigate to Socrative
 ![slides-socrative](./lesson-4/images/slides-socrative.jpeg)
 </note>
 

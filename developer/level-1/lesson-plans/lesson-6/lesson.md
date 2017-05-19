@@ -16,6 +16,7 @@ Students learn to read code with loops by stepping through one block at a time. 
 1. Elaborate/Evaluate: Practice (10 min)
 1. Extension: Independent Coding (20-35 min)
 
+
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 
@@ -28,29 +29,21 @@ Students learn to read code with loops by stepping through one block at a time. 
 
 ###### Student Materials:
 - [ ] [Lesson 6 Handout][lesson-6-handout]
-- [ ] Idea Journals
 - [ ] Index Cards
 - [ ] [Rover Cutouts][rover-cutouts]
 - [ ] Pencils
 - [ ] Computers
 
+</note>
+
+## Room Design
+![room](/images/layout-grid.png)
+<note>
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
 - **Loop:** A sequence of instructions that is continually repeated until a certain condition is reached.
 
 </note>
-
-## Room Design
-![room](/images/layout-grid.png)
-
-<note borderLeft='2px solid green' mt='2em'>
-###### Symbols Key
-
-<iconp ml='1.65em' type='question'>question</iconp>
-<iconp ml='1.65em' type='answer'>answer</iconp>
-- [ ] action item
-</note>
-
 
 ## 1. Engage: Why Loops? (5 min)
 

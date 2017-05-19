@@ -26,8 +26,7 @@ Students are introduced to conditionals (if then), practice reading conditional 
 - [ ] Computers
 - [ ] [Exit Challenges][exit-challenge]
 - [ ] [True/False cards][boolean-cards]
-- [ ] Idea Journals
-- [ ] Pencils
+\- [ ] Pencils
 - [ ] Dry erase markers
 - [ ] [Lesson 14 Handouts][handouts]
 
@@ -35,7 +34,7 @@ Students are introduced to conditionals (if then), practice reading conditional 
 
 ## Room Design
 
-![room](/images/layout-groups.png)
+![room](/images/layout-rows.png)
 
 <note>
 

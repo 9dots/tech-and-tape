@@ -2,7 +2,7 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In this lesson we will begin to talk about user experience in the context of designing enemies that increase the level of difficulty of the Escape the Maze game without making the game so difficult that they do not want to play. They will apply their knowledge of writing loops to improve on their enemies' code.
+In this lesson we begin to talk about user experience in the context of designing enemies that increase the level of difficulty of the game without making it impossible to win. Students apply their knowledge of writing loops to improve on their enemies' code.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can use the editor, block palette, and stage in Scratch to code my program.
@@ -27,25 +27,18 @@ In this lesson we will begin to talk about user experience in the context of des
 ###### Student Materials:
 - [ ] Computers
 - [ ] [Game Plans][plan]
-- [ ] Idea Journals
-- [ ] Dry Erase Markers
+- [ ] Pencils
 
+</note>
+
+### Room Design
+![room](/images/layout-online.png)
+<note>
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
 - **Sprite:** An object that can perform an action.
 - **Editor:** A program designed for editing computer code by coders.
 
-</note>
-
-## Room Design
-![room](/images/layout-online.png)
-
-<note borderLeft='2px solid green' mt='2em'>
-###### Symbols Key
-
-<iconp ml='1.65em' type='question'>question</iconp>
-<iconp ml='1.65em' type='answer'>answer</iconp>
-- [ ] action item
 </note>
 
 <pagebreak/>
