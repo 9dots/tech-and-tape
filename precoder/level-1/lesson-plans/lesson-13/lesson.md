@@ -37,7 +37,7 @@ Lesson 13 is an introduction to the concept of decomposition. The lesson begins 
 
 ## Room Design
 
-![room](./images/layout-computer.png)
+![room](/images/layout-online.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key

@@ -40,7 +40,7 @@ I can read a 2-10 block sequence with directional moves.
 
 ## Room Design
 
-![room](./images/layout-tables.png)
+![room](/images/layout-rows.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key

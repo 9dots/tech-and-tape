@@ -36,7 +36,7 @@ In lesson 17 students learn to identify patterns and the number of times their c
 
 ## Room Design
 
-![room](./images/layout-tables.png)
+![room](/images/layout-rows.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key

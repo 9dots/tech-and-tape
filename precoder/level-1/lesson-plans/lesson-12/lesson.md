@@ -38,7 +38,7 @@ Lesson 12 builds on lesson 11’s introduction to summarizing. Students learn th
 <pagebreak/>
 
 ## Room Design
-![room](./images/layout-tables.png)
+![room](/images/layout-rows.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key

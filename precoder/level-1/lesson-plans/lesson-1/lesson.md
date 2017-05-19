@@ -34,7 +34,7 @@ In lesson 1 students are introduced to the concept of productive failure through
 
 ## Room Design
 
-![room](./images/layout-rug.png)
+![room](/images/layout-rug.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key

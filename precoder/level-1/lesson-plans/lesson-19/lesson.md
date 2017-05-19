@@ -37,7 +37,7 @@ In lesson 19 students learn to read loops by stepping through sequences of code 
 
 ## Room Design
 
-![room](./images/layout-tables.png)
+![room](/images/layout-online.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key

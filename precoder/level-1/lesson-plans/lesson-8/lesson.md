@@ -40,7 +40,7 @@ I can write a 2-10 block sequence with more than one directional move.
 
 ## Room Design
 
-![room](./images/layout-computer.png)
+![room](/images/layout-online.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key

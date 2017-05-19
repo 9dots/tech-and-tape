@@ -35,7 +35,7 @@ In lesson 13 students learned how to decompose grid images into their simpler el
 
 ## Room Design
 
-![room](./images/layout-computer.png)
+![room](/images/layout-online.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key

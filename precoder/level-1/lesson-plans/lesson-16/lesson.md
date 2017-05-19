@@ -37,7 +37,7 @@ In lesson 16  students learn to identify the number of times a sequence repeats 
 
 ## Room Design
 
-![room](./images/layout-tables.png)
+![room](/images/layout-rows.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key

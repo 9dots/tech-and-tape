@@ -36,7 +36,7 @@ In lesson 18 students learn to write loops on the pixelBot platform. Students us
 
 ## Room Design
 
-![room](./images/layout-computer.png)
+![room](/images/layout-online.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
