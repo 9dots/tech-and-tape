@@ -1,4 +1,4 @@
-<header class='header' title='turtleMove Part I' subtitle='Lesson 2'/>
+<header class='header' title='turtleMove Part I' subtitle='Lesson 02'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>

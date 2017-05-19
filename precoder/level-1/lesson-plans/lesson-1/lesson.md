@@ -1,4 +1,4 @@
-<header class='header' title='Mystery Robot' subtitle='Lesson 1'/>
+<header class='header' title='Mystery Robot' subtitle='Lesson 01'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -9,11 +9,11 @@ In lesson 1 students are introduced to the concept of productive failure through
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. **Engage:** The Most Magnificent Thing (10 min)
-1. **Explore:** Mystery Robot (5 min)
-1. **Explain:** Process of Elimination (3 min)
-1. **Elaborate:** Mystery Robot Round 2 (7 min)
-1. **Evaluate:** Debrief (5 min)
+1. Engage: The Most Magnificent Thing (10 min)
+1. Explore: Mystery Robot (5 min)
+1. Explain: Process of Elimination (3 min)
+1. Elaborate: Mystery Robot Round 2 (7 min)
+1. Evaluate: Debrief (5 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>

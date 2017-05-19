@@ -1,4 +1,4 @@
-<header class='header' title='turtleMove Part II' subtitle='Lesson 3'/>
+<header class='header' title='turtleMove Part II' subtitle='Lesson 03'/>
 
 
 <notable>
@@ -11,11 +11,11 @@ In lesson 3 students continue to develop an understanding of how to use commands
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. **Engage:** Review (3 min)
-1. **Explore:** Turtle Chase Video Game (8 min)
-1. **Explain:** Multiple Commands (6 min)
-1. **Elaborate:** turtleMove II (9 min)
-1. **Evaluate:** Exit Ticket (4 min)
+1. Engage: Review (3 min)
+1. Explore: Turtle Chase Video Game (8 min)
+1. Explain: Multiple Commands (6 min)
+1. Elaborate: turtleMove II (9 min)
+1. Evaluate: Exit Ticket (4 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>

@@ -1,8 +1,8 @@
-<header class='header' title='pixelBot' subtitle='Lesson 5'/>
+<header class='header' title='pixelBot' subtitle='Lesson 05'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Lesson 5 introduces students to writing code on the Pixel Bot platform. As an introduction, students are asked to solve a task in which they naturally explore the platform’s user interface on their own. After allowing a brief period of struggle, the teacher answers student questions and gives a formal tutorial on how to write code on the platform.
+Lesson 5 introduces students to writing code on the pixelBot platform. Students explore the platform and solve a series of painting challenges by writing 2-5 line sequences.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 
@@ -11,27 +11,29 @@ I can write a 2-5 block sequence of code.
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
 
-1. Engage: Pixel Bot Predictions (5 min)
+1. Engage: pixelBot Predictions (5 min)
 1. Explore: Challenge (2 min)
-1. Explain: Pixel Bot 101 (5 min)
-1. Elaborate: Independent Practice (15 min)
-1. Evaluate: Exit Ticket (3 min)
+1. Explain: pixelBot 101 (5 min)
+1. Elaborate: pixelBot Playlist (15 min)
+1. Evaluate: Debrief (3 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
+- [ ] Computer
 - [ ] Projector
-- [ ] [Lesson 5 Slides][slides]
 - [ ] [Engage Link][engage-link]
+- [ ] [SLide Show][slides]
 
 ###### Student Materials:
 - [ ] Computers
-- [ ] [Pixel Bot Playlist][ind-practice]
-- [ ] [Exit Ticket][assess]
+- [ ] [Playlist: Intro to Writing Code][ind-practice]
+
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
 - **Sequence** - A set of actions that must be performed in the order they are written.
+
 - **Code:** A set of instructions designed to be carried out by a computer.
 
 </note>
@@ -40,7 +42,7 @@ I can write a 2-5 block sequence of code.
 
 ## Room Design
 
-![room](./images/layout-computer.png)
+![room](/images/layout-online.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
@@ -52,72 +54,63 @@ I can write a 2-5 block sequence of code.
 
 <pagebreak/>
 
-## 1. Engage: Pixel Bot Predictions (5 min)
-- [ ] Show students the code on slide 2 and ask the question below.
+## Engage: Predictions (4 min)
+- [ ] **Show** the pixelBot sequence.
+- [ ] **Turn and Talk:** Student predict what the pixelBot would do if it followed the directions in the sequence.
 
-![slide-two](./images/slide-two.png)
+<iconp type='question'>If our pixelBot followed the directions in the sequence in order, where would it stop?</iconp>
 
-<iconp type='question'>What do you think would happen if the character on the screen followed these directions?</iconp>
-<iconp type='answer'>The character would move 5 spaces.</iconp>
+- [ ] **Share Out:** Students share their predictions with the class. As they share out, challenge them explain their thinking with the question below.
 
-<br/>
+<iconp type='question'>Why do you think that would happen?</iconp>
 
-- [ ] As students make their predictions mark where they think the character would stop with a marker on the board.
-- [ ] Run the code and emphasize the connection between each individual coding block and the character’s movement.
-- [ ] Tell students that they will be writing their very own code.
+- [ ] **Show** the class the result of running the code in pixelBot.
 
-## 2. Explore: Challenge (2 min)
-- [ ] Show slide 3. Tell students that they will be given 2 minutes to try to complete the challenge independently. Add that during this time you will not be answering any questions so that they can try on their own.
+- [ ] **Explain** that in this lesson our goal is to learn how to write code in pixelBot.
 
-![slide-three](./images/slide-three.png)
+## Explore: Challenge (4 min)
+- [ ] **Show** the class the first challenge.
 
-- [ ] Reassure students that it is ok if they don’t figure it out as long as they try their hardest during the 2 minutes.
-- [ ] Have students try to complete the challenge by getting the character to move to marked square and paint it black.
+- [ ] **Explain** the goal of the challenge.
+>> “In this challenge our goal is to move our pixelBot to the last square at the bottom of the grid and then we want to paint it. Your job is to try to do that by creating a sequence of code. During this challenge you will try to do this on your own. It is ok if you can’t do it because we will discuss it and solve it together after you give it a try.”
 
-## 3. Explain: Pixel Bot 101 (5 min)
-- [ ]Ask the class the questions below.
+- [ ] **Discuss** the different strategies that students tried during the challenge.
 
+<iconp type='question'>What are some things you tried to complete the challenge?</iconp>
 
-<iconp type='question'>What was the hardest part of trying to complete the challenge on your own?</iconp>
-<iconp type='answer'>Answers will vary.</iconp>
+- [ ] **Model** how to solve the challenge.
+>> “I will select a down arrow block because my pixelBot needs to move down to get closer to the square it needs to color. Next I will click the green run button to make my pixelBot do what I wrote. My pixelBot moved down just like I wanted it to so I will keep this code. My pixelBot needs to move one more step down to get to the square. This means that I need to select the down arrow block again. I run my code to see what it does from the beginning if it follows this code. The last thing I need to add to my code is a paintbrush so that my pixelBot knows to color the last square. Finally, I will run my code one more time to complete the challenge.”
 
-<br/>
+## Explain: pixelBot 101 (7 min)
+- [ ] **Explain** how to add code in the pixelBot editor.
+>> “I can add code by selecting blocks of code on the left. The code I can add includes arrows that make the pixelBot move and the paintbrush that makes it paint.”
 
-<iconp type='question'>What are some things you tried to do to complete the challenge?</iconp>
-<iconp type='answer'>Answers will vary.</iconp>
+- [ ] **Demonstrate** how to add code in the pixelBot editor.
 
-<br/>
+- [ ] **Explain** what running code means and how to do it.
+>> “When we run code we are simply telling the computer to follow the directions we wrote. To run the code we wrote we press the big green button.”
 
-<iconp type='question'>What did you learn to do on Pixel Bot while trying to complete the challenge?</iconp>
-<iconp type='answer'>Answers will vary.</iconp>
+- [ ] **Demonstrate** how to run code.
 
-<br/>
+- [ ] **Explain** how to delete code in the pixelBot editor.
+>> “Sometimes when we write code we make mistakes. We may add code that we don’t want. To delete the code we can click the trash can next to the block of code we don’t want.”
 
-- [ ] Demonstrate how to complete the challenge and explain what each of the major sections of the Pixel Bot interface do:
-   - [ ] **Editor:** The editor is the space where the code we write is located.
-   - [ ] **Palette:** The palette is where we select individual coding blocks by clicking them.
-   - [ ] **Stage:** The stage is where we see the character act out the code we wrote in the editor.
-   - [ ] **Run Button:** The run button tells the computer act out the code we wrote in the editor.
+- [ ] Demonstrate how to delete code in the pixelBot editor.
 
-- [ ] Present the challenge on slide 4 and perform a code along with the class.
+- [ ] **Show** the next pixelBot challenge.
 
-![slide-four](./images/slide-four.png)
+- [ ] **Guided Practice:** Students help the teacher solve the pixelBot challenge by sharing their thoughts.
+>> “My goal is to make my pixelBot paint the square on the left.”
 
-   - [ ] Solve the problem one step a time making sure to stop and allow students to copy what you do on their computers.
-   - [ ] As you solve the problem, highlight all of the parts of the Pixel Bot interface that you described in the previous demonstration.
+## Elaborate: pixelBot Playlist (10 min)
+- [ ] **Independent Coding:** Students work through a series of challenges in a pixelBot Intro to Writing Code playlist.
 
-## 4. Elaborate: Independent Practice (15 min)
-- [ ] Have students complete the series of independent practice problems on Pixel Bot.
-- [ ] Monitor the class for students that are in need of additional assistance.
-- [ ] After 10 minutes have passed, review 2-3 problems on the board.
-- [ ] If students are comfortable, have 1 or 2 students come to the front and complete one of the challenges for the class on your computer.
+- [ ] **Monitor** the class for students in need of additional assistance.
 
-## 5. Evaluate: Exit Ticket (3 min)
+## Evaluate: Review & Debrief (3 min)
+- [ ] **Review** 1-2 challenges from the stepping worksheet with the class.
 
-- [ ] Have students complete the exit ticket challenge.
-- [ ] Monitor the room to ensure all students are finished.
-
-![exit-problem](./images/exit-ticket.png)
+- [ ] **Debrief** the lesson as a class.
 
 </notable>
 

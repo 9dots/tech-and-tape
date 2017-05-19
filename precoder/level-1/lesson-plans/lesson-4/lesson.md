@@ -1,4 +1,4 @@
-<header class='header' title='Turtle Steps' subtitle='Lesson 4'/>
+<header class='header' title='Turtle Steps' subtitle='Lesson 04'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -9,11 +9,11 @@ In lesson 4 students are introduced to sequences and begin developing an underst
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. **Engage:** Review (3 min)
-1. **Explore:** Sequences (4 min)
-1. **Explain:** Stepping (10 min)
-1. **Elaborate:** Stepping Practice (10 min)
-1. **Evaluate:** Exit Ticket (3 min)
+1. Engage: Review (3 min)
+1. Explore: Sequences (4 min)
+1. Explain: Stepping (10 min)
+1. Elaborate: Stepping Practice (10 min)
+1. Evaluate: Exit Ticket (3 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
