@@ -35,7 +35,7 @@ Students are introduced to conditionals (if then), practice reading conditional 
 
 ## Room Design
 
-![room](/images/layout-groups.png)
+![room](/images/layout-rows.png)
 
 <note>
 

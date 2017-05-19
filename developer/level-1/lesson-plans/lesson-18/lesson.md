@@ -38,11 +38,6 @@ Students apply their knowledge of conditionals to write code in their Escape the
 
 </note>
 
-###### Symbols Key
-
-<iconp ml='1.65em' type='question'>question</iconp>
-<iconp ml='1.65em' type='answer'>answer</iconp>
-- [ ] action item
 
 <pagebreak/>
 ## 1. Engage: Kids Code (5 min)

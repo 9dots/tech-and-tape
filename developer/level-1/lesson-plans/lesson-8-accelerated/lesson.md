@@ -32,22 +32,17 @@ In this lesson students identify repeating patterns in a sequence and replace th
 - [ ] Unifix Cubes
 - [ ] [Exit Challenge][exit]
 
+</note>
+
+### Room Design
+![room](/images/layout-rows.png)
+<note>
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
 - **Loop:** A sequence of instructions that is continually repeated until a certain condition is reached.
 
 </note>
 
-## Room Design
-![room](/images/layout-maze.png)
-
-<note borderLeft='2px solid green' mt='2em'>
-###### Symbols Key
-
-<iconp ml='1.65em' type='question'>question</iconp>
-<iconp ml='1.65em' type='answer'>answer</iconp>
-- [ ] action item
-</note>
 <pagebreak/>
 
 ## 1. Engage/Explore: Patterns (10 min)
@@ -144,7 +139,7 @@ In this lesson students identify repeating patterns in a sequence and replace th
 
 - [ ] **Exit Challenge:** Students independently rewrite 3 sequences of code as loops. Collect the exit challenges and review them to identify who needs more support with writing loops.
 
-> > “Coders, I have a challenge for you! Independently rewrite the 3 sequences on your exit challenge as loops. Let's read the directions together on your paper. First, circle the pattern that is repeating. Then rewrite the sequence as a loop in the blanks at the bottom of the page.”
+> > “Coders, I have a challenge for you! Independently rewrite the 3 sequences on your exit challenge as loops. First, circle the pattern that is repeating. Then rewrite the sequence as a loop at the bottom of the page.”
 
 <note>![slides-socrative](./images/slides-soc.png)</note>
 

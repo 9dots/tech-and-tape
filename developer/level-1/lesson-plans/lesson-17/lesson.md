@@ -39,11 +39,6 @@ Students continue to build their debugging skills by reading a bug ticket and us
 
 </note>
 
-###### Symbols Key
-
-<iconp ml='1.65em' type='question'>question</iconp>
-<iconp ml='1.65em' type='answer'>answer</iconp>
-- [ ] action item
 
 <pagebreak/>
 ## 1. Engage: Kids Code (5 min)

@@ -32,22 +32,18 @@ Students practice reading code by predicting, stepping through, and summarizing 
 - [ ] [Salsa Cards][salsa-cards]
 - [ ] Computers
 
+</note>
+
+### Room Design
+![room](/images/layout-maze.png)
+
+<note>
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
 - **Loop:** A sequence of instructions that is continually repeated until a certain condition is reached.
 
 </note>
 
-## Room Design
-![room](/images/layout-maze.png)
-
-<note borderLeft='2px solid green' mt='2em'>
-###### Symbols Key
-
-<iconp ml='1.65em' type='question'>question</iconp>
-<iconp ml='1.65em' type='answer'>answer</iconp>
-- [ ] action item
-</note>
 
 ## 1. Engage: Enemies (5 min)
 

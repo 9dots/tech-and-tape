@@ -45,12 +45,6 @@ Students continue to practice reading conditionals with Rover. They build their 
 
 </note>
 
-###### Symbols Key
-
-<iconp ml='1.65em' type='question'>question</iconp>
-<iconp ml='1.65em' type='answer'>answer</iconp>
-- [ ] action item
-
 <pagebreak/>
 ## 1. Engage: Dance Dance (5 min)
 Participation: Small Group Unplugged

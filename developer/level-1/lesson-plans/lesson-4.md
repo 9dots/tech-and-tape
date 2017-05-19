@@ -30,8 +30,8 @@ Students are introduced to the Escape the Maze project they will be working on t
 
 </note>
 
-## Room Design
-![room](/images/layout-online.png)
+### Room Design
+![room](/images/layout-rows.png)
 
 <note>
 
@@ -103,7 +103,7 @@ Continue to prompt students with questions:
 <note>
 ![slides-brainstorm](./lesson-4/images/slides-brainstorm.jpeg)
 </note>
-
+<pagebreak/>
 ## 4. Evaluate: Socrative (15 min)
 Participation: Partners, Online
 

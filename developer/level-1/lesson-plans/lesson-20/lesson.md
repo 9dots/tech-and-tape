@@ -5,20 +5,14 @@
 Students complete a series of challenges to review the coding skills they’ve built since the start of the course.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
-- I can code a sequence of actions in the order I want them performed.
-- When my code fails, I use the debugging protocol to debug my code.
-- I can step through and act out code that contains a loop.
-- I can predict the effects of code that contains a loop.
-- I can recognize and identify a repeating pattern.
-- I can replace a repeating sequence with a loop.
-- I can identify Boolean as true/false statements.
-- I can read an if-then statement to execute a sequence if a test is true.
+This lesson reviews the objectives from Lessons 1-19.
 
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 1. Engage: I Have a Challenge For You (2 min)
 1. Elaborate: Rover (23 min)
 1. Elaborate: Socrative (20 min)
+
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -36,21 +30,18 @@ Students complete a series of challenges to review the coding skills they’ve b
 - [ ] Rovers
 - [ ] [Rover Handout][rover]
 
+</note>
+
+
+### Room Design
+
+![room](/images/layout-grid.png)
+<note>
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 See all vocabulary from previous lessons
 </note>
 
-## Room Design
 
-![room](/images/layout-grid.png)
-
-<note>
-###### Symbols Key
-
-<iconp ml='1.65em' type='question'>question</iconp>
-<iconp ml='1.65em' type='answer'>answer</iconp>
-- [ ] action item
-</note>
 
 <pagebreak/>
 ## 1. Engage: I Have a Challenge for You (2 min)
