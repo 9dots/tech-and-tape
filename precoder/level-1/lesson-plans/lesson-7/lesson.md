@@ -21,7 +21,7 @@ I can read a 2-10 block sequence with directional moves.
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Projector
-- [ ] [Lesson 7 Slides][slides]
+- [ ] [Slide Show][slides]
 
 ###### Student Materials:
 - [ ] Pencils

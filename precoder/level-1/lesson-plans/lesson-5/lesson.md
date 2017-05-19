@@ -23,7 +23,7 @@ I can write a 2-5 block sequence of code.
 - [ ] Computer
 - [ ] Projector
 - [ ] [Engage Link][engage-link]
-- [ ] [SLide Show][slides]
+- [ ] [Slide Show][slides]
 
 ###### Student Materials:
 - [ ] Computers
@@ -54,7 +54,7 @@ I can write a 2-5 block sequence of code.
 
 <pagebreak/>
 
-## Engage: Predictions (4 min)
+## 1. Engage: Predictions (4 min)
 - [ ] **Show** the pixelBot sequence.
 - [ ] **Turn and Talk:** Student predict what the pixelBot would do if it followed the directions in the sequence.
 
@@ -68,7 +68,7 @@ I can write a 2-5 block sequence of code.
 
 - [ ] **Explain** that in this lesson our goal is to learn how to write code in pixelBot.
 
-## Explore: Challenge (4 min)
+## 2. Explore: Challenge (4 min)
 - [ ] **Show** the class the first challenge.
 
 - [ ] **Explain** the goal of the challenge.
@@ -81,7 +81,7 @@ I can write a 2-5 block sequence of code.
 - [ ] **Model** how to solve the challenge.
 >> “I will select a down arrow block because my pixelBot needs to move down to get closer to the square it needs to color. Next I will click the green run button to make my pixelBot do what I wrote. My pixelBot moved down just like I wanted it to so I will keep this code. My pixelBot needs to move one more step down to get to the square. This means that I need to select the down arrow block again. I run my code to see what it does from the beginning if it follows this code. The last thing I need to add to my code is a paintbrush so that my pixelBot knows to color the last square. Finally, I will run my code one more time to complete the challenge.”
 
-## Explain: pixelBot 101 (7 min)
+## 3. Explain: pixelBot 101 (7 min)
 - [ ] **Explain** how to add code in the pixelBot editor.
 >> “I can add code by selecting blocks of code on the left. The code I can add includes arrows that make the pixelBot move and the paintbrush that makes it paint.”
 
@@ -102,12 +102,12 @@ I can write a 2-5 block sequence of code.
 - [ ] **Guided Practice:** Students help the teacher solve the pixelBot challenge by sharing their thoughts.
 >> “My goal is to make my pixelBot paint the square on the left.”
 
-## Elaborate: pixelBot Playlist (10 min)
+## 4. Elaborate: pixelBot Playlist (10 min)
 - [ ] **Independent Coding:** Students work through a series of challenges in a pixelBot Intro to Writing Code playlist.
 
 - [ ] **Monitor** the class for students in need of additional assistance.
 
-## Evaluate: Review & Debrief (3 min)
+## 5. Evaluate: Review & Debrief (3 min)
 - [ ] **Review** 1-2 challenges from the stepping worksheet with the class.
 
 - [ ] **Debrief** the lesson as a class.

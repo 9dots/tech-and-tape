@@ -21,7 +21,7 @@ I can debug a 2-10 block sequence with more than one directional move.
 - [ ] Computer
 - [ ] Projector
 - [ ] [Pixel Bot Token][token]
-- [ ] [Lesson 9 Slides][slides]
+- [ ] [Slide Show][slides]
 
 ###### Student Materials:
 - [ ] Computers

@@ -20,9 +20,9 @@ I can debug a 2-10 block sequence with more than one directional move.
 ###### Teacher Materials:
 - [ ] Computer
 - [ ] Projector
-- [ ] [Lesson 10 Slides][slides]
 - [ ] [Engage Link][engage]
 - [ ] [Explore Link][explore]
+- [ ] [Slide Show][slides]
 
 ###### Student Materials:
 - [ ] Computers

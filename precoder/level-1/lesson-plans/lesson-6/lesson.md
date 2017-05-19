@@ -19,7 +19,7 @@ I can debug a 2-5 block sequence.
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Projector
-- [ ] [Lesson 6 Slides][slides]
+- [ ] [Slide Show][slides]
 
 ###### Student Materials:
 - [ ] Computers

@@ -19,7 +19,7 @@ Lesson 13 is an introduction to the concept of decomposition. The lesson begins 
 ###### Teacher Materials:
 - [ ] Computer
 - [ ] Projector
-- [ ] [Lesson 13 Slides][slides]
+- [ ] [Slide Show][slides]
 
 ###### Student Materials:
 - [ ] Computers

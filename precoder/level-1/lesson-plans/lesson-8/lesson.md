@@ -22,9 +22,9 @@ I can write a 2-10 block sequence with more than one directional move.
 ###### Teacher Materials:
 - [ ] Computer
 - [ ] Projector
-- [ ] [Lesson 8 Slides][slides]
 - [ ] [Pokemon Demo Code][code]
 - [ ] [Pokemon Demo Video][video]
+- [ ] [Slide Show][slides]
 
 ###### Student Materials:
 - [ ] Computers

@@ -21,7 +21,7 @@ In lesson 16  students learn to identify the number of times a sequence repeats 
 ###### Teacher Materials:
 - [ ] Computer
 - [ ] Projector
-- [ ] [Lesson 16 Slides][slides]
+- [ ] [Slide Show][slides]
 
 ###### Student Materials:
 - [ ] [Patterns Worksheet][worksheet]

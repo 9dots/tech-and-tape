@@ -19,7 +19,7 @@ In lesson 19 students learn to read loops by stepping through sequences of code 
 ###### Teacher Materials:
 - [ ] Computer
 - [ ] Projector
-- [ ] [Lesson 19 Slides][slides]
+- [ ] [Slide Show][slides]
 
 ###### Student Materials:
 - [ ] Index Cards
@@ -49,7 +49,7 @@ In lesson 19 students learn to read loops by stepping through sequences of code 
 
 <pagebreak/>
 
-## Engage: Writing Review (3 min)
+## 1. Engage: Writing Review (3 min)
 - [ ] **Show** the class a sequence of pixelBot code and click run to show what it does.
 
 <iconp type='question'>What can we do to make this code shorter?</iconp>
@@ -85,7 +85,7 @@ In lesson 19 students learn to read loops by stepping through sequences of code 
 <iconp type='answer'>We should get rid of the code we are not going to use.</iconp>
 
 
-## Explore: Loops (7 min)
+## 2. Explore: Loops (7 min)
 - [ ] **Introduce** the loop game and call on a volunteer to model how to play.
 
 - [ ] **Explain** how the game is played and show the first sequence of code that will be read.
@@ -111,7 +111,7 @@ In lesson 19 students learn to read loops by stepping through sequences of code 
 
 - [ ] **Demonstrate** the loop hand gesture and have the class practice.
 
-## Explain: Reading Loops (8 min)
+## 3. Explain: Reading Loops (8 min)
 - [ ] **Model** stepping through a loop.
 - [ ] **Explain** the process of stepping through a loop while modeling.
   1. Cover the code inside the loop with an index card.
@@ -131,7 +131,7 @@ In lesson 19 students learn to read loops by stepping through sequences of code 
   1. Have students draw a tick mark at the bottom of the loop.
   1. Have students continue steps 1-5 until they have 3 tick marks at the bottom of the loop.
 
-## Elaborate: Independent Practice (12 min)
+## 4. Elaborate: Independent Practice (12 min)
 - [ ] **Independent Practice:** Students complete a series of stepping challenges on the Reading Loops Worksheet.
 - [ ] **Monitor** the room for students in need of additional assistance.
 - [ ] **Review** 1-2 challenges with the whole class.

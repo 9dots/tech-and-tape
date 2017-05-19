@@ -18,8 +18,8 @@ In lesson 13 students learned how to decompose grid images into their simpler el
 ###### Teacher Materials:
 - [ ] Computer
 - [ ] Projector
-- [ ] [Lesson 14 Slides][slides]
 - [ ] [The Letter L Playlist][letter]
+- [ ] [Slide Show][slides]
 
 ###### Student Materials:
 - [ ] Computers

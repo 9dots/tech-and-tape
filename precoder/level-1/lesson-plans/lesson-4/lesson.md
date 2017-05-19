@@ -51,7 +51,7 @@ In lesson 4 students are introduced to sequences and begin developing an underst
 
 <pagebreak/>
 
-## Engage: Review (3 min)
+## 1. Engage: Review (3 min)
 
 - [ ] **Show** the first sequence to the class.
 
@@ -65,7 +65,7 @@ In lesson 4 students are introduced to sequences and begin developing an underst
 - [ ] **Demonstrate** that by pressing the buttons on the right in order from top to bottom the turtle would stop at the letter Y.
 >> “If I follow the instructions on the right the turtle will first move one step down to the letter G. Then it will move another step down to the letter M. Then it will move another step down to the letter S. Finally, it will take one last step down to the letter Y.”
 
-## Explore: Sequence (4 min)
+## 2. Explore: Sequence (4 min)
 
 - [ ] **Explain** that the order of arrow instructions is an example of a sequence.
 >> “The instructions we just followed to move the turtle to the letter Y are an example of something called a sequence.”
@@ -93,7 +93,7 @@ In lesson 4 students are introduced to sequences and begin developing an underst
 
 - [ ] **Practice:** Students practice saying the word sequence while doing the hand signal.
 
-## Explain: Stepping (10 min)
+## 3. Explain: Stepping (10 min)
 
 - [ ] **Introduce** the lesson’s objective and the stepping activity.
 >> “In today’s lesson we are going to learn how to read code by doing something we call stepping. Stepping means reading and acting out our code one step at a time.”
@@ -113,7 +113,7 @@ In lesson 4 students are introduced to sequences and begin developing an underst
 
 - [ ] **Guided Practice:** The class works together to complete the first challenge on the stepping worksheet by following the stepping protocol.
 
-## Elaborate: Stepping Practice (10 min)
+## 4. Elaborate: Stepping Practice (10 min)
 
 - [ ] **Independent Practice:** Students complete the stepping worksheet independently.
 
@@ -121,7 +121,7 @@ In lesson 4 students are introduced to sequences and begin developing an underst
 
 - [ ] **Review** 2-3 challenges from the stepping worksheet with the class.
 
-## Evaluate: Exit Ticket (3 min)
+## 5. Evaluate: Exit Ticket (3 min)
 
 - [ ] **Exit Ticket:** Students complete the exit ticket independently.
 
