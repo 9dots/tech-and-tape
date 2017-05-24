@@ -1,41 +1,41 @@
-<header class='header' title='Debugging' subtitle='Lesson 16'/>
+<header class='header' title='Build-a-Bot' subtitle='Lesson 16'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Students are introduced to the debugging protocol and practice applying it to a series of debugging challenges in Scratch. Then they continue to practice writing conditionals by coding along in Scratch to create conditionals that cause their game to progress to the next level and that cause their enemies and hero to react to each other.
+ Students practice reading code written with conditionals that instructs them in drawing a robot. They then Code Along to write conditionals in Scratch that allow their Sprites to interact with each other.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
-- I can write an if-then statement to execute a sequence if a test is true.
-- When my code fails, I use the debugging protocol to debug my code.
+- I can read an if-then statement to execute a sequence if a test is true.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-1. Engage/Explore/Explain: Debugging (20 min)
-1. Elaborate: Real World Conditionals (5 min)
-1. Elaborate: Code Along Challenges (15 min)
-1. Evaluate: Exit Challenge (5 min)
+1. Engage: Kids Code (5 min)
+1. Explore: Build-a-Bot (15 min)
+1. Explain: Code Along (25 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Projector
 - [ ] [Slide Show][slide-show]
-- [ ] [Scratch Studio][studio]
-- [ ] [Socrative Challenge][socrative] SOC-26868660
 
 ###### Student Materials:
-- [ ] Dry erase markers
-- [ ] Computers
+- [ ] [Bots Code Handout][handout2]
+- [ ] [Bots Picture Handout][handout3]
+- [ ] Index Cards
+- [ ] Pencils
+- [ ] Playing Cards (min 6 per student)
 
 </note>
 
 ## Room Design
-Students will be on computers for the entire lesson. Your room setup should allow students to easily see the board and you to easily walk around the room and view their screens.
+![room](/images/layout-rows.png)
+
 
 <note>
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
-- **Debug:** Finding and fixing errors in code.
+- **Boolean:** A statement that can be "true" or "false".
 - **Conditional** Asks a boolean statement, and runs a chunk of code if the answer is true.
 
 </note>
@@ -49,120 +49,74 @@ Students will be on computers for the entire lesson. Your room setup should allo
 
 <pagebreak/>
 
-## 1. Engage/Explore/Explain: Debugging (20 min)
-Participation: Independent Online
-
-
-- [ ] **Debugging** Students login to Scratch and navigate to the debugging studio in “My Class”. For each challenge show students a gif of what the coder wanted the enemy to do. Coders will follow the 3 steps as they debug the code. Discuss solutions as a whole class before continuing to the next challenge.
-
-<note type="tip"> You can either show students the video solutions in the slides or demo the solution yourself in Scratch.</note>
-
-> > “Often when we are writing code it does not work the way we wanted it to. When this happens we need to debug. I have prepared 5 challenges for you to debug today. Let’s login to Scratch and follow the 3 steps to debug these: Compare, Find, Fix.”
-
-![slides-debugging](./images/Debugging.jpeg)
-
-<br/>
-
-- [ ] **Challenge 1**
-
-<iconp type="question"> What does the coder want their program to do? What does it do instead?</iconp>
-<iconp type="answer"> It moves forward and then moves backwards very slowly.</iconp>
-<iconp type="question"> Ask students to find & fix the bug in their Scratch editor. </iconp>
-
-	Solution: Add a wait 1 second block after each move block.
-
-![Challenge1-5](./images/Challenge1-5.jpeg)
-<br/>
-
-- [ ] **Challenge 2**
-
-<iconp type="question"> What does the coder want their program to do? What does it do instead?</iconp>
-<iconp type="answer"> Instead of growing and shrinking, the enemy only grows.</iconp>
-<iconp type="question"> Ask students to find & fix the bug in their Scratch editor. </iconp>
-
-	Solution: Change the argument in the second “change size” block to a negative number and add wait blocks.
-
-![Challenge1-2](./images/Challenge1-2.jpeg)
-<br/>
-
-- [ ] **Challenge 3**
-
-<iconp type="question"> What does the coder want their program to do? What does it do instead?</iconp>
-<iconp type="answer"> Instead of showing and hiding, it looks like the enemy doesn't do anything.</iconp>
-<iconp type="question"> Ask students to find & fix the bug in their Scratch editor. </iconp>
-
-	Solution: Add wait blocks between the show and hide.
-
-![Challenge1-3](./images/Challenge1-3.jpeg)
-<br/>
-
-- [ ] **Challenge 4**
-
-<iconp type="question"> What does the coder want their program to do? What does it do instead?</iconp>
-<iconp type="answer"> Instead of changing color repeatedly, it changes color ten times and stops.</iconp>
-<iconp type="question"> Ask students to find & fix the bug in their Scratch editor. </iconp>
-
-	Solution: Change the repeat loop to a forever loop.
-
-![Challenge1-4](./images/Challenge1-4.jpeg)
-<br/>
-
-- [ ] **Challenge 5**
-
-<iconp type="question"> What does the coder want their program to do? What does it do instead?</iconp>
-<iconp type="answer"> Instead of zigzagging, it glides between 2 points.</iconp>
-<iconp type="question"> Ask students to find & fix the bug in their Scratch editor. </iconp>
-
-	Solution: Add more glide blocks and adjust the arguments.
-
-![Challenge1-1](./images/Challenge1-1.jpeg)
-
-- [ ] **Explain:** the debugging protocol.
-
-> > “Those 3 steps are steps that as a coder you should follow anytime your code isn’t doing what you wanted it to do:
-> > 1. Compare: What do you want your program to do? What is it doing instead?
-> > 2. Find: Where is the bug?
-> > 3. Fix
-
-<note>![slides-debugging2](./images/Debugging2.jpeg)</note>
-
-## 2. Elaborate: Real World Conditionals (5 min)
+## 1. Kids Code (5 min)
 Participation: Whole Class Unplugged
 
+- [ ] **Showcase** the video of Anivitha, the youngest programmer to attend Apple’s Worldwide Developer Conference last year, and challenge students to be the next programmer we feature.
 
-- [ ] **Making Connections:** Students complete if-then statements as the teacher writes them as a conditional in Scratch blocks on the board.
+> > “Kids all around are coding and creating. If you code a project on your own, we would like to feature your project/app at the start of our class. Code something in Scratch or Code.org or any coding platform and show it to your getCoding teacher.”
 
-> > “Let’s switch gears and look at the conditionals we were reading last week. This week we are going to write our own. Let’s start with some simple ones. Finish the conditional statement and then write it in the Scratch block.”
+<note>![slides-KC1](./images/KC1.jpeg)
+</note>
+<br/>
 
-![Real-World](./images/RealWorld.jpeg)
+- [ ] **Motivate** students by connecting today’s lesson on reading conditionals to their Escape the Maze games.
 
-## 3. Elaborate: Code Along (15 min)
+<iconp type="question"> When you played the 3 versions of Escape the Maze, what happened when the hero touched an enemy?</iconp>
+<iconp type="answer">It went back to the start.</iconp>
+> > “This is an example of code that uses a conditional! Today you are going to read the code that caused the hero to react to touching the enemies.”
+
+<note>![slides-KC3](./images/KC3.jpeg)
+</note>
+
+## 2. Explore: Build-a-Bot (15 min)
+Participation: Independent Unplugged
+
+- [ ] **Connect Prior Knowledge:** Remind students what a conditional is and of the tools we use to read code.
+
+<iconp type="question"> The code on the side of your paper are your instructions for building your robot. What are we going to use our index cards for?</iconp>
+<iconp type="answer">Uncover each line of code one at a time as we read.</iconp>
+<iconp type="question"> Look at the yellow blocks of code on your paper that start with “If”. What do we call code that starts with “If”?</iconp>
+<iconp type="answer">Conditionals. Bonus if they can identify the triangular Boolean statement as well.</iconp>
+<note>![slides-BB2](./images/BB2.jpeg)
+![slides-BB3](./images/BB3.jpeg)
+</note>
+- [ ] **Model** the steps to reading conditionals as you complete your own bot on the board. When you read each Boolean statement read it “... is true”.
+
+	Steps for reading code with conditionals:
+**Don't forget to also read any code that is before and after the conditional in order.**
+	1. Read the If statement.
+	1. ✔ if the Boolean is true, read and execute what is inside the conditional
+	1. ✘ if the Boolean is false, skip what is inside the conditional
+
+<note>![slides-BB4](./images/BB4.jpeg)
+![slides-BB5](./images/BB5.jpeg)
+</note>
+
+- [ ] **Explore:** Students draw cards following the teacher model to complete their own bot.
+
+> > “Your turn. Follow my steps and don’t forget to use your index card as you build your own bot.”
+
+<br/>
+
+- [ ] **Share:** If time allows, call up a couple of volunteers to share their bots with the class.
+
+## 3. Explain: Code Along (25 min)
 Participation: Whole Class Online
 
+- [ ] **Code Along:** Play the code along videos while students follow along on their computers to write conditionals in Scratch.
 
-- [ ] **Code Along:** Students navigate to the Lesson 16 studio and work in the “code along” project with the teacher.
-
-<note type="tip">You can either show the code along videos in the slides or demo the code yourself in Scratch.</note>
-
-The three conditionals we will demo are:
-1. If my hero touches Enemy 1, then the hero goes back to the start.
-1. If my hero touches any enemy, then the hero goes back to the start.
-
-You can view the finished product here: https://scratch.mit.edu/projects/143255918/#editor .
-
-![CodeAlong](./images/CodeAlong.jpeg)
-![CodeAlong](./images/CodeAlong2.jpeg)
-
-## 4. Evaluate: Exit Challenge (5 min)
-Participation: Independent Online
+> > “Now that you've gotten comfortable with conditionals, let's code along as we learn how to write conditionals in Scratch.
 
 
-- [ ] **Exit Challenge:** Students navigate to Socrative and answer the questions on SOC-26868660
+<note>![slides-CodeAlong](./images/CodeAlong.png)
+</note>
 
-<note>![Exit](./images/ExitChallenge.jpeg) </note>
+
 
 </notable>
 
-[slide-show]: https://drive.google.com/file/d/0B2wBzr9vcXjPUU1HbnlqY0xhLWc/view?usp=sharing
-[studio]: https://scratch.mit.edu/studios/3755751/
-[socrative]: http://www.socrative.com
+[handout1]: https://docs.google.com/document/d/1fSpf8pCcVZ0IOAqMHoqblKPumZ1YzYSHaOhpN-_yHrU/edit?usp=sharing
+[handout2]: https://drive.google.com/file/d/0B2wBzr9vcXjPQmdYWE1BZ2dTN2M/view?usp=sharing
+[handout3]: https://drive.google.com/file/d/0B48_2vIyABiobmdhS2wxWjctSGs/view?usp=sharing
+[slide-show]: https://docs.google.com/presentation/d/1iyrvTfBPOIJBptvhT4CYhAbtus-xAybmmpDaX4NL6go/edit?usp=sharing

@@ -1,4 +1,4 @@
-<header class='header' title='In the Loop' subtitle='Lesson 5'/>
+<header class='header' title='In the Loop' subtitle='Lesson 05'/>
 
 <notable>
 
@@ -22,7 +22,7 @@ In this lesson students explore and predict how they can use loops to more effic
 <iconp src='/icons/materials.png'>### Materials</iconp>
 
 ###### Teacher Materials:
-- [ ] [Lesson 5 Slides][slide-show]
+- [ ] [Slide Show][slide-show]
 - [ ] Projector
 - [ ] Unplugged Foam Maze
 - [ ] Whiteboard
@@ -33,7 +33,7 @@ In this lesson students explore and predict how they can use loops to more effic
 - [ ] [Maze Handout][maze-handout]
 - [ ] Scratch blocks
 - [ ] Pencils
-- [ ] Rovers 
+- [ ] Rovers
 - [ ] Computers
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
@@ -42,11 +42,9 @@ In this lesson students explore and predict how they can use loops to more effic
 
 </note>
 
-<pagebreak/>
-
 ## Room Design
+![room](/images/layout-maze.png)
 
-![room](./images/desk-setup_split-classroom.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
@@ -60,16 +58,20 @@ In this lesson students explore and predict how they can use loops to more effic
 
 ## 1. Engage: Sequence Through a Maze (10 min)
 
+- [ ] **Review** how to read the turn clockwise/counter clockwise blocks with students.
+
+> > "There are 2 code blocks you will see today that tell Rover how to turn. When you see 'Turn left 90 degrees', Rover is turning a quarter turn to the left. When you see 'Turn right 90 degrees', Rover is turning a quarter turn to the right."
+
+![slides-rover](./images/slides-rover.png)
+
 - [ ] **Debugging:** Students move their rover around their paper maze to identify where in the given sequence there is a bug.
 
 > > "Move Rover around the maze as you read the sequence of code on your paper. Identify where in the sequence there is a bug (error) and how would you fix it."
 
-![sequence](./images/sequence.png)
-
-<note type='reminder' title='Reminders'>
-- A sequence is the order in which the code is written.
-- Show students that 90 degrees clockwise and counterclockwise means a quarter turn left or right.
+<note title='Slides'>![slides-sequence](./images/slides-seq.png)
 </note>
+
+![sequence](./images/sequence.png)
 
 <pagebreak/>
 
@@ -94,6 +96,8 @@ In this lesson students explore and predict how they can use loops to more effic
 <iconp type='question'> What did the code do before that wasn’t working? </iconp>
 <iconp type='answer'> Answer: At line 11 the hero moved 6 steps instead of 2 so it walked off the board. </iconp>
 
+<note> ![slides-solution](./images/slides-sol.png)</note>
+
 ## 2. Explore: Discovering Loops (10 min)
 
 - [ ] **Challenge:** In pairs students code a sequence that will take Rover around the grid, following the dotted path. Students will not have enough move and turn blocks to finish the sequence.
@@ -108,6 +112,7 @@ In this lesson students explore and predict how they can use loops to more effic
 
 <note type='tip' title='Tip'>
 _Younger students may need to be told to write in 90 degrees on turn blocks._
+![slides-discover](./images/slides-discover.png)
 </note>
 
 - [ ] **Discover Loops:** Wait until students identify that there are not enough blocks before introducing loops.  Without introducing them verbally, place loop strips on each group’s table.
@@ -116,6 +121,8 @@ _Younger students may need to be told to write in 90 degrees on turn blocks._
 
 <iconp type='question' mb='1em'>Extension: Can you rewrite your code with fewer blocks</iconp>
 ![extension](./images/extension.png)
+
+<note>![slides-loopsolution](./images/slides-loopsol.png)</note>
 
 ## 3. Explain: Loops (5 min)
 
@@ -129,6 +136,7 @@ _Younger students may need to be told to write in 90 degrees on turn blocks._
 
 > > "These structures are called loops. Loops make it so we don’t have to write a sequence of code over and over to make it repeat."
 
+<note>![slides-loops](./images/slides-loop.png)</note>
 
 ## 4. Elaborate: Loops in the Real World (5 min)
 
@@ -142,7 +150,16 @@ _Younger students may need to be told to write in 90 degrees on turn blocks._
 <iconp type='question'>Riding The Tower of Terror 5 Times <iconp ml='1em' type='answer'>Repeat 5</iconp></iconp>
 <iconp type='question'>Riding The Tower of Terror Until the Park Closes <iconp type='answer' mb='1em'>Repeat Until Park Closes</iconp></iconp>
 
+<note>![slides-rw1](./images/slides-rw1.png)
+![slides-rw2](./images/slides-rw2.png)
+![slides-rw3](./images/slides-rw3.png.png)
+![slides-rw4](./images/slides-rw4.png.png)
+![slides-rw5](./images/slides-rw5.png.png)
+![slides-rw6](./images/slides-rw6.png.png)</note>
+
 - [ ] **Think Pair Share:** What other examples of loops can you come up with?
+
+<note>![slides-rw7](./images/slides-rw7.png.png)</note>
 
 ## 5. Evaluate: Exit Challenge (15 min)
 
@@ -150,8 +167,12 @@ _Younger students may need to be told to write in 90 degrees on turn blocks._
 
 > > "I have a challenge for you. Login to Socrative to complete the challenge questions about Loops."
 
+<note> ![slides-soc1](./images/slides-soc1.png)
+![slides-soc2](./images/slides-soc2.png)
+</note>
+
 </notable>
 
-[maze-handout]: https://drive.google.com/open?id=0B2wBzr9vcXjPSUV2ZlZtc01Ea2c
+[maze-handout]: https://drive.google.com/file/d/0BzHmgSOPbtkIWXdRWnZJNnhLVmM/view?usp=sharing
 [slide-show]: https://docs.google.com/presentation/d/1bbWIFAN66jsNqsTDXqy4OG31CUGDuPw9bRMqtKDNU-4/edit#slide=id.g1612fbdbad_0_42
 [soc]: https://b.socrative.com/teacher/#import-quiz/28442633

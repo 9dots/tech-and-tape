@@ -31,8 +31,7 @@ Students are introduced to the Escape the Maze project they will be working on t
 </note>
 
 ## Room Design
-
-![room](./lesson-1/images/online.png)
+![room](/images/layout-online.png)
 
 <note>
 
@@ -68,7 +67,7 @@ Participation: Whole Class, Online
 <iconp type="question"> What happens when the mouse gets to the cheese? </iconp>
 <iconp type="answer"> It says "You Win!"</iconp>
 
-<note>**Slides:** 
+<note>**Slides:**
 ![slides-challenge](./lesson-4/images/slides-challenge.jpeg)
 ![slides-play](./lesson-4/images/slides-play.jpeg)
 </note>
@@ -97,7 +96,7 @@ Participation: Whole Class, Unplugged
 <iconp type="question"> The game you just saw is just the starter version. As a coder, it will be your job to improve the game and make it your own. What features could we add to Escape the Maze to make it more fun to play? </iconp>
 <iconp type="answer"> Record students’ responses on the board as they share and encourage them to write the ideas they like in their idea journals. </iconp>
 
-Continue to prompt students with questions: 
+Continue to prompt students with questions:
 <iconp type="question"> What could make the enemies more challenging? </iconp>
 <iconp type="question"> What should happen when you get to the end of the maze? </iconp>
 <iconp type="question"> What should happen if the mouse runs into one of the enemies? </iconp>
@@ -122,7 +121,7 @@ Participation: Partners, Online
 ![slides-socrative](./lesson-4/images/slides-socrative.jpeg)
 </note>
 
-- [ ] **Closing:** If there is time you can review students’ answers as a class on Socrative. Make sure students log out of their accounts. 
+- [ ] **Closing:** If there is time you can review students’ answers as a class on Socrative. Make sure students log out of their accounts.
 
 <note>
 ![slides-close](./lesson-4/images/slides-close.jpeg)
@@ -132,4 +131,4 @@ Participation: Partners, Online
 
 [slide-show]: https://docs.google.com/presentation/d/1cR3e-XiSHqI6O8H01ng_IoglktZefa-hRPKNsuhlyW8/edit?usp=sharing
 [socrative]: https://b.socrative.com/teacher/#import-quiz/28414624
-[tutorial]: https://www.youtube.com/watch?v=upY8uG3NFfY
+[tutorial]: https://drive.google.com/file/d/0B2wBzr9vcXjPcGJsRDhHSWZWbW8/view?usp=sharing

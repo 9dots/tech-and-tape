@@ -1,4 +1,4 @@
-<header class='header' title='I am a Coder' subtitle='Lesson 1'/>
+<header class='header' title='I am a Coder' subtitle='Lesson 01'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -36,8 +36,7 @@ Students work in groups to tackle a challenging problem-solving game. They begin
 </note>
 
 ## Room Design
-
-![room](./lesson-1/images/online.png)
+![room](/images/layout-online.png)
 
 <note>
 
@@ -156,7 +155,7 @@ Participation: Whole Class
 [Tcode-blocks]: https://drive.google.com/file/d/0B2wBzr9vcXjPVFJSdmpISXlaU2c/view?usp=sharing
 [Tcharacters]: https://drive.google.com/file/d/0B2wBzr9vcXjPRDdsaHhzMVpKT3M/view?usp=sharing
 [solution]: https://drive.google.com/file/d/0B2wBzr9vcXjPaXZMS1ZDaUVJanM/view?usp=sharing
-[pre-post]: https://docs.google.com/document/d/1ifXqXqqLKvb1wE-vF7aLZxuqECaq-qspaGtSKaGstjU/edit#bookmark=id.v9nahf6kyw7d
+[pre-post]: https://docs.google.com/document/d/1FJadnUWO4exzRNfrZ7wbNUuTBXjgFHvgwgLV9D8neek/edit?usp=sharing
 [handout]: https://drive.google.com/open?id=1KtK75TuiA325kNRi_n6fS5FQMISY1oownFKKqG5Qz18
 [code-blocks]: https://drive.google.com/file/d/0B2wBzr9vcXjPVFJSdmpISXlaU2c/view?usp=sharing
 [characters]: https://drive.google.com/file/d/0B2wBzr9vcXjPNjhKX19SdGs1OXc/view?usp=sharing

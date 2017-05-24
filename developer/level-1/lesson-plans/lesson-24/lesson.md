@@ -18,7 +18,7 @@ Students share their final projects and give each other feedback on user experie
 ###### Teacher Materials:
 - [ ] Projector
 - [ ] [Slide Show][slide-show]
- 
+
 ###### Student Materials:
 - [ ] Pencils
 - [ ] Idea Journals
@@ -32,20 +32,20 @@ Students share their final projects and give each other feedback on user experie
 </note>
 
 ### Room Design
-![room](./images/desk-setup_online.png)
+![room](/images/layout-online.png)
 
 <note>
 
 ###### Symbols Key
 <iconp ml='1.65em' type='question'>question</iconp>
 <iconp ml='1.65em' type='answer'>answer</iconp>
-- [ ] action item 
+- [ ] action item
 </note>
 
 <pagebreak/>
 ## 1. Setup (8 min)
 
-- [ ] **Finishing Touches:** Students add the final touches including instructions and notes on the project page in Scratch. 
+- [ ] **Finishing Touches:** Students add the final touches including instructions and notes on the project page in Scratch.
 
 > > “Today you get to present your projects! You probably are not done. Coders are never done with their projects because there is always something more you can do to improve on your program. Before we share our projects we need to write the Instructions and Notes.
 
@@ -68,8 +68,8 @@ Students share their final projects and give each other feedback on user experie
 ![slides-setup2](./images/slides-setup2.jpeg)
 ![slides-setup3](./images/slides-setup3.jpeg)
 </note>
-
-- [ ] **Feedback:** (3 minutes) Review expectations for leaving feedback as they view each other’s games. Read the examples on the back of the feedback sheet together and have them brainstorm more ideas. These feedback sheets are for students to take home at the end of the lesson.
+<br/>
+- [ ] **Feedback:** Review expectations for leaving feedback as they view each other’s games. Read the examples on the back of the feedback sheet together and have them brainstorm more ideas. These feedback sheets are for students to take home at the end of the lesson.
 
 > > “When you are viewing each other’s games, you will also be leaving feedback on the game. This feedback should be about what you enjoyed about the game. Let’s look at some ideas for leaving feedback (read the back of the feedback sheet).”
 
@@ -78,17 +78,16 @@ Students share their final projects and give each other feedback on user experie
 <note>![slides-setup4](./images/slides-setup4.jpeg)
 </note>
 
-## 2. Arcade (22-32 min) 
+## 2. Arcade (22-32 min)
 
 - [ ] **Arcade** Split the class into two groups. Group A will open their Escape the Maze final project on their computer. They will stay at their computer to present their projects as Group B rotates and will leave feedback on the game. After 10 minutes the groups will switch. Show students how to circulate around the room and have students rotate to a new computer every minute. You should be circulating and monitoring the feedback students are leaving.  
 
 ![groups](./images/groups.jpeg)
 
-<note type="tip">You may need to review expectations for how to move around the room respectfully. 
+<note type="tip">You may need to review expectations for how to move around the room respectfully.
 Use the timer slide that is right for your class length: 10 minute groups or 15 minute groups.
 ![slides-arcade1](./images/slides-arcade1.jpeg)
-![slides-timer10](./images/slides-timer10.jpeg)
-![slides-timer15](./images/slides-timer15.jpeg)
+![slides-timer](./images/slides-timer.png)
 </note>
 
 - [ ] **Closing:**  Have students sign out of Scratch. Send students home with their idea journals and certificates.
@@ -98,7 +97,7 @@ Use the timer slide that is right for your class length: 10 minute groups or 15 
 <note>![slides-signout](./images/slides-signout.jpeg)</note>
 
 <pagebreak/>
-## 3. Final Survey (15 min) 
+## 3. Final Survey (15 min)
 
 - [ ] **Survey:** Students take the getCoding survey to give us a sense of how they feel they have progressed as coders.
 
