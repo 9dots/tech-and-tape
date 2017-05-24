@@ -24,7 +24,6 @@ Students are introduced to the Escape the Maze project they will be working on t
 - [ ] [Socrative Tutorial][tutorial]
 
 ###### Student Materials:
-- [ ] Idea Journals
 - [ ] Pencils
 - [ ] Computers
 
@@ -92,7 +91,7 @@ Participation: Whole Class, Unplugged
 - [ ] **Brainstorm:** The game students played is just the bare bones. Help students brainstorm ideas to improve Escape the Maze that they can code as they build their coder skills.
 
 <iconp type="question"> The game you just saw is just the starter version. As a coder, it will be your job to improve the game and make it your own. What features could we add to Escape the Maze to make it more fun to play? </iconp>
-<iconp type="answer"> Record students’ responses on the board as they share and encourage them to write the ideas they like in their idea journals. </iconp>
+<iconp type="answer"> Record students’ responses on the board as they share and encourage them to write the ideas they like in their workbooks. </iconp>
 
 Continue to prompt students with questions:
 <iconp type="question"> What could make the enemies more challenging? </iconp>

@@ -24,7 +24,6 @@ Students are introduced to giving constructive feedback on user experience. They
 ###### Student Materials:
 - [ ] [Game plans][plan]
 - [ ] Pencils
-- [ ] Idea Journals
 - [ ] Computers
 - [ ] [Bug Tickets][bug]
 
@@ -90,7 +89,7 @@ Students are introduced to giving constructive feedback on user experience. They
 </note>
 
 
-- [ ] **Practice:** Students play their partner’s game and give them constructive feedback. Then students share out the feedback they received. Optional: Have students write down the feedback they receive in their idea journals.
+- [ ] **Practice:** Students play their partner’s game and give them constructive feedback. Then students share out the feedback they received. Optional: Have students write down the feedback they receive in their workbooks.
 
 > > “You and your table partner are going to play each other’s game. Give your partner 2 pieces of feedback: 1) Something you liked about their game. 2) Something they can do to improve their game. Be specific and actionable. I will ask you to share out in 5 minutes so make sure you both share your feedback with each other.”
 

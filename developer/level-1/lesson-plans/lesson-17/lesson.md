@@ -141,7 +141,7 @@ Participation: Whole Class Online
 - Enemy: If touching the hero, then the enemy grows.
 - Enemy: If touching the hero, then the enemy chases the hero.
 
-> > Take a minute to write your plan for each sprite before we start to code.”  
+> > Take a minute to write your plan for each sprite. In our next lesson you will start to write this code!”  
 
 <note>![slides-plan1](./images/slides-plan1.png)
 ![slides-plan2](./images/slides-plan2.png)

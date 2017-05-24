@@ -24,7 +24,6 @@ In this lesson students identify repeating patterns in a sequence and replace th
 - [ ] [Exit Challenge Answer Key][key]
 
 ###### Student Materials:
-- [ ] Idea Journals
 - [ ] Pencils
 - [ ] [Code Handouts][code-handouts]
 - [ ] Student Code Blocks: repeat, 2 moves, turn, 2 waits

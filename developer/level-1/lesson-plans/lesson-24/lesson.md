@@ -21,7 +21,6 @@ Students share their final projects and give each other feedback on user experie
 
 ###### Student Materials:
 - [ ] Pencils
-- [ ] Idea Journals
 - [ ] Computers
 - [ ] [Survey Link][survey]
 - [ ] [Feedback Sheet][handout]
@@ -92,7 +91,7 @@ Use the timer slide that is right for your class length: 10 minute groups or 15 
 
 - [ ] **Closing:**  Have students sign out of Scratch. Send students home with their idea journals and certificates.
 
-> > “Your journey as a coder has just begun. Keep creating, coding, and debugging! Your idea journals are for you to keep and write your ideas for apps, games, and other projects you want to code. You can login to Scratch and Code.org from any computer anytime. Share your project with 9dots_getcoding so we can see what you’ve done.”
+> > “Your journey as a coder has just begun. Keep creating, coding, and debugging! Your workbooks are for you to keep and write your ideas for apps, games, and other projects you want to code. You can login to Scratch and Code.org from any computer anytime. Share your project with 9dots_getcoding so we can see what you’ve done.”
 
 <note>![slides-signout](./images/slides-signout.jpeg)</note>
 
