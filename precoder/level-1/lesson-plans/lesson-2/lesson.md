@@ -1,4 +1,4 @@
-<header class='header' title='turtleMove Part I' subtitle='Lesson 2'/>
+<header class='header' title='turtleMove Part I' subtitle='Lesson 02'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -41,7 +41,7 @@ In lesson 2 students begin to develop an understanding of how to use commands to
 
 ## Room Design
 
-![room](./images/layout-grid.png)
+![room](/images/layout-grid.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
@@ -54,7 +54,7 @@ In lesson 2 students begin to develop an understanding of how to use commands to
 <pagebreak/>
 
 
-## Engage: Warm Up (7 min)
+## 1. Engage: Warm Up (7 min)
 - [ ] **Introduce** the toothbrushing activity.
 >> “I need your help. I have forgotten how to brush my teeth. I brought my toothpaste and toothbrush so that you can teach me how.”
 
@@ -70,7 +70,7 @@ In lesson 2 students begin to develop an understanding of how to use commands to
 - [ ] **Define** code.
 >> “When we give a computer instructions to do something we call that coding. This year you are all going to learn how to write code. The instructions we give to a computer are called code.”
 
-## Explore: Navigation (7 min)
+## 2. Explore: Navigation (7 min)
 - [ ] **Introduce** the grid navigation activity. Stand on the floor grid and place the paper star in an adjacent square.
 >> “In this activity we are going to create instructions that we will use to make our computer do things like move characters on the screen and paint pictures.
 I am standing in a square. In the square next to me there is a star. If I wanted to stand in the square with the star and I did not know how to get there, what would you say to give me directions to move to the star?”
@@ -95,9 +95,11 @@ I am standing in a square. In the square next to me there is a star. If I wanted
 
 - [ ] **Demonstrate** the proper way to use the navigation cards.
 
-## Explain: turtleGo (7 min)
+## 3. Explain: turtleGo (7 min)
 - [ ] **Introduce** the grid navigation activity with game controllers.
 >> “Now that we know how to use the arrows we can use our game controllers to to give instructions. In this activity you are going to continue to give me instructions in order to move me to the star. This time you will press the arrow button that you think will move me to the star.”
+
+<note>![controller](./images/game-controller.png)</note>
 
 - [ ] **Demonstrate** how to properly hold the game controller.
 
@@ -122,14 +124,15 @@ I am standing in a square. In the square next to me there is a star. If I wanted
 <iconp type='question'>Which color arrow should I circle to get my turtle to move to the star?</iconp>
 
 
-## Elaborate: turtleMove (7 min)
+## 4. Elaborate: turtleMove (7 min)
 - [ ] **Independent Practice:** Students complete the navigation worksheet independently.
 
 - [ ] **Monitor** the class for students in need of additional assistance.
 
 - [ ] **Review** 2-3 challenges from the navigation worksheet with the class.
+![room](./images/worksheet.png)
 
-## Evaluate: Debrief (4 min)
+## 5. Evaluate: Debrief (4 min)
 - [ ] **Debrief** the lesson with the class.
 >> “In this lesson we were able to come up with a set of instructions to communicate with our turtle.”
 

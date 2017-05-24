@@ -21,7 +21,7 @@ In lesson 17 students learn to identify patterns and the number of times their c
 ###### Teacher Materials:
 - [ ] Computer
 - [ ] Projector
-- [ ] [Lesson 17 Slides][slides]
+- [ ] [Slide Show][slides]
 
 ###### Student Materials:
 - [ ] [Patterns Worksheet][work]
@@ -36,7 +36,7 @@ In lesson 17 students learn to identify patterns and the number of times their c
 
 ## Room Design
 
-![room](./images/layout-tables.png)
+![room](/images/layout-rows.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
@@ -48,7 +48,7 @@ In lesson 17 students learn to identify patterns and the number of times their c
 
 <pagebreak/>
 
-## Engage: Patterns Review (4 min)
+## 1. Engage: Patterns Review (4 min)
 - [ ] **Present** the review problem.
 
 - [ ] **Turn and Talk:** Students examine a pattern and attempt to identify its core.
@@ -64,7 +64,7 @@ In lesson 17 students learn to identify patterns and the number of times their c
 
 ![engage](./images/engage.png)
 
-## Explore: pixelBot Patterns (4 min)
+## 2. Explore: pixelBot Patterns (4 min)
 - [ ] **Challenge** the class to identify a pattern in the pixelBot video.
 
 - [ ] **Show** the pixelBot video.
@@ -82,7 +82,7 @@ In lesson 17 students learn to identify patterns and the number of times their c
 
 <iconp type='question'>What pattern do you see in the code?</iconp>
 
-## Explain: Patterns in Code (10 min)
+## 3. Explain: Patterns in Code (10 min)
 - [ ] **Explain** that the images the bot colored are a representation of patterns in the code.
 >> “In pixelBot we can create patterns in our bot's actions by coding patterns in the directions we give it. In the last video we saw a pattern that our bot painted because someone coded a pattern in its directions."
 
@@ -120,7 +120,7 @@ In lesson 17 students learn to identify patterns and the number of times their c
 
 <iconp type='question'>How many times does the core repeat?</iconp>
 
-## Elaborate: Independent Practice (12 min)
+## 4. Elaborate: Independent Practice (12 min)
 - [ ] **Independent Practice:** Students work on the patterns worksheet independently.
 
 - [ ] **Monitor** the room for students in need of additional assistance.

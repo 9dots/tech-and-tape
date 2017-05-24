@@ -1,4 +1,4 @@
-<header class='header' title='Bug Catchers' subtitle='Lesson 9'/>
+<header class='header' title='Bug Catchers' subtitle='Lesson 09'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -21,7 +21,7 @@ I can debug a 2-10 block sequence with more than one directional move.
 - [ ] Computer
 - [ ] Projector
 - [ ] [Pixel Bot Token][token]
-- [ ] [Lesson 9 Slides][slides]
+- [ ] [Slide Show][slides]
 
 ###### Student Materials:
 - [ ] Computers
@@ -37,7 +37,7 @@ I can debug a 2-10 block sequence with more than one directional move.
 
 ## Room Design
 
-![room](./images/layout-computer.png)
+![room](/images/layout-online.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key

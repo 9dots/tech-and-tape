@@ -20,8 +20,8 @@ In lesson 18 students learn to write loops on the pixelBot platform. Students us
 ###### Teacher Materials:
 - [ ] Computer
 - [ ] Projector
-- [ ] [Lesson 18 Slides][slides]
 - [ ] [Playlist: Intro to Loops][loops]
+- [ ] [Slide Show][slides]
 
 ###### Student Materials:
 - [ ] Computers
@@ -36,7 +36,7 @@ In lesson 18 students learn to write loops on the pixelBot platform. Students us
 
 ## Room Design
 
-![room](./images/layout-computer.png)
+![room](/images/layout-online.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
@@ -48,7 +48,7 @@ In lesson 18 students learn to write loops on the pixelBot platform. Students us
 
 <pagebreak/>
 
-## Engage: Jumping Robot (8 min)
+## 1. Engage: Jumping Robot (8 min)
 - [ ] **Introduce** the jumping robot activity and ask for a volunteer to play the role of the jumping robot.
 >> “We are going to play a game called jumping robot. In this game I will be a coder who will code a robot that can jump. The robot will follow the directions I give it in the code on the board. The only direction the robot can understand is jump. Would anyone like to volunteer to be the jumping robot?”
 
@@ -69,7 +69,7 @@ In lesson 18 students learn to write loops on the pixelBot platform. Students us
 
 - [ ] **Show** that the sequence of code with 50 jump commands is the same as the sequence of code that tells the robot to repeat the jump command 50 times.
 
-## Explore: Find the Pattern (5 min)
+## 2. Explore: Find the Pattern (5 min)
 - [ ] **Explain** that code can be repeated just like in the jumping robot example.
 
 - [ ] **Show** pixelBot challenge number one and have the class help you write the code.
@@ -102,7 +102,7 @@ In lesson 18 students learn to write loops on the pixelBot platform. Students us
 
 ![explore-four](./images/explore-four.png)
 
-## Explain: Repeat the Pattern (7 min)
+## 3. Explain: Repeat the Pattern (7 min)
 - [ ] **Explain** the sequence of steps students should follow to write a loop.
 	1. *Write* a sequence of code.
 	2. *Find* the number of times the pattern repeats.
@@ -133,7 +133,7 @@ In lesson 18 students learn to write loops on the pixelBot platform. Students us
 	<iconp type='answer'>The core of the pattern repeats 2 times.</iconp>
 >>“Next we select the lines of code that make up the core of the pattern and click the loop block. Finally we write the number two in the blank space to show that the code will be repeated twice and delete the remaining blocks.”
 
-## Elaborate: pixelBot Loops (10 min)
+## 4. Elaborate: pixelBot Loops (10 min)
 - [ ] **Independent Practice:** Students complete a series of coding challenges on pixelBot.
 - [ ] **Monitor** the room for students in need of additional assistance.
 - [ ] **Review** 2-3 challenges whole group.

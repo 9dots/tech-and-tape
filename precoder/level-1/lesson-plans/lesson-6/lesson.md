@@ -1,4 +1,4 @@
-<header class='header' title='Debugging' subtitle='Lesson 6'/>
+<header class='header' title='Debugging' subtitle='Lesson 06'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -19,7 +19,7 @@ I can debug a 2-5 block sequence.
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Projector
-- [ ] [Lesson 6 Slides][slides]
+- [ ] [Slide Show][slides]
 
 ###### Student Materials:
 - [ ] Computers
@@ -36,7 +36,7 @@ I can debug a 2-5 block sequence.
 
 ## Room Design
 
-![room](./images/layout-computer.png)
+![room](/images/layout-online.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
