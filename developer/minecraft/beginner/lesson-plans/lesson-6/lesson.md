@@ -97,5 +97,5 @@ Students continue working on their flower/sculpture garden project. If students 
 
 </notable>
 [slides]: https://docs.google.com/a/9-dots.org/presentation/d/1zXn81XDzu3nRxfotg9IkH-WcqzfS9azax24FrVLsSAY/edit?usp=sharing
-[PixelBots]: www.pixelbots.io/V88Z9
-[minecraftzine]: www.tinyurl.com/minecraftzine
+[PixelBots]:https://www.pixelbots.io/V88Z9
+[minecraftzine]:https://www.tinyurl.com/minecraftzine
