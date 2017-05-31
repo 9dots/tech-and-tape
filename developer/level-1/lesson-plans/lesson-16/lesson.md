@@ -40,13 +40,6 @@
 
 </note>
 
-###### Symbols Key
-
-<iconp ml='1.65em' type='question'>question</iconp>
-<iconp ml='1.65em' type='answer'>answer</iconp>
-- [ ] action item
-
-
 <pagebreak/>
 
 ## 1. Kids Code (5 min)

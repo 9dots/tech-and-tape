@@ -25,35 +25,30 @@ Students practice reading code by predicting, stepping through, and summarizing 
 
 ###### Student Materials:
 - [ ] Index cards
-- [ ] Idea Journals
 - [ ] Pencils
 - [ ] [Handout: Maze][handout]
 - [ ] [Enemies Character][characters]
 - [ ] [Salsa Cards][salsa-cards]
 - [ ] Computers
 
+</note>
+
+### Room Design
+![room](/images/layout-maze.png)
+
+<note>
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
 - **Loop:** A sequence of instructions that is continually repeated until a certain condition is reached.
 
 </note>
 
-## Room Design
-![room](/images/layout-maze.png)
-
-<note borderLeft='2px solid green' mt='2em'>
-###### Symbols Key
-
-<iconp ml='1.65em' type='question'>question</iconp>
-<iconp ml='1.65em' type='answer'>answer</iconp>
-- [ ] action item
-</note>
 
 ## 1. Engage: Enemies (5 min)
 
 - [ ] **Write Pair Share:** Students write a list of loops they see in the GIF of our Escape the Maze. They then share their lists with their partners before sharing out to the class.
 
-<iconp type="question">On a blank page in your idea journal, can you describe the movement that is looping for each of the enemies in this GIF of our Escape the Maze game?</iconp>
+<iconp type="question">In your workbook, describe the movement that is looping for each of the enemies in this GIF of our Escape the Maze game.</iconp>
 <iconp type="answer">Red - spinning forever</iconp>
 <iconp type="answer">Green - grows & shrinks forever</iconp>
 <iconp type="answer">Yellow - moves left, moves right, forever</iconp>

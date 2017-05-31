@@ -26,10 +26,15 @@ Students are introduced to “boolean” and practice identifying true/false sta
 - [ ] Computers
 - [ ] [Exit Challenges][exit-challenge]
 - [ ] [Boolean Cards][boolean-cards]
-- [ ] Idea Journals
 - [ ] Pencils
 - [ ] Code Blocks
 
+</note>
+
+## Room Design
+![room](/images/layout-online.png)
+
+<note>
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
@@ -37,16 +42,7 @@ Students are introduced to “boolean” and practice identifying true/false sta
 
 </note>
 
-## Room Design
-![room](/images/layout-online.png)
 
-<note borderLeft='2px solid green' mt='2em'>
-###### Symbols Key
-
-<iconp ml='1.65em' type='question'>question</iconp>
-<iconp ml='1.65em' type='answer'>answer</iconp>
-- [ ] action item
-</note>
 
 <pagebreak/>
 ## 1. Kids Code (5 min)

@@ -24,14 +24,13 @@ Students are introduced to the Escape the Maze project they will be working on t
 - [ ] [Socrative Tutorial][tutorial]
 
 ###### Student Materials:
-- [ ] Idea Journals
 - [ ] Pencils
 - [ ] Computers
 
 </note>
 
-## Room Design
-![room](/images/layout-online.png)
+### Room Design
+![room](/images/layout-rows.png)
 
 <note>
 
@@ -76,16 +75,14 @@ Participation: Whole Class, Online
 ## 2. Explain: Code Along (20 min)
 Participation: Whole Class, Online
 
-- [ ] **Code Along:** Play the code along video to navigate students to the maze in Scratch. Pause the video to allow students to answer the questions in the video.
+- [ ] **Code Along:** Play the code along videos one at a time to navigate students to the maze in Scratch. Between each video, pause to facilitate student discussion to the questions posed in the video. Encourage students to respond to eachother with "I agree because..." or "I disagree because..."
 
 > > “Let’s login to Scratch and look at the code that makes this game work.”
 
+<iconp type="question">What do you think this chunk of code does?</iconp>
+
 <note>
-![slides-code](./lesson-4/images/slides-code.jpeg)
-🎥 **Code Along**
-- Login to Scratch & Navigate to project
-- Play Escape the Maze
-- Break starter code, unearth what it does
+![slides-code](./lesson-4/images/slides-code.png)
 </note>
 
 ## 3. Elaborate: Brainstorm (5 min)
@@ -94,7 +91,7 @@ Participation: Whole Class, Unplugged
 - [ ] **Brainstorm:** The game students played is just the bare bones. Help students brainstorm ideas to improve Escape the Maze that they can code as they build their coder skills.
 
 <iconp type="question"> The game you just saw is just the starter version. As a coder, it will be your job to improve the game and make it your own. What features could we add to Escape the Maze to make it more fun to play? </iconp>
-<iconp type="answer"> Record students’ responses on the board as they share and encourage them to write the ideas they like in their idea journals. </iconp>
+<iconp type="answer"> Record students’ responses on the board as they share and encourage them to write the ideas they like in their workbooks. </iconp>
 
 Continue to prompt students with questions:
 <iconp type="question"> What could make the enemies more challenging? </iconp>
@@ -105,7 +102,7 @@ Continue to prompt students with questions:
 <note>
 ![slides-brainstorm](./lesson-4/images/slides-brainstorm.jpeg)
 </note>
-
+<pagebreak/>
 ## 4. Evaluate: Socrative (15 min)
 Participation: Partners, Online
 
@@ -115,9 +112,6 @@ Participation: Partners, Online
 
 <note>
 ![slides-code](./lesson-4/images/slides-code.jpeg)
-🎥 **Code Along**
-- How to use Socrative
-- Navigate to Socrative
 ![slides-socrative](./lesson-4/images/slides-socrative.jpeg)
 </note>
 

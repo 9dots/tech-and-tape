@@ -1,4 +1,4 @@
-<header class='header' title='Pixel Artists' subtitle='Lesson 8'/>
+<header class='header' title='Pixel Artists' subtitle='Lesson 08'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -22,9 +22,9 @@ I can write a 2-10 block sequence with more than one directional move.
 ###### Teacher Materials:
 - [ ] Computer
 - [ ] Projector
-- [ ] [Lesson 8 Slides][slides]
 - [ ] [Pokemon Demo Code][code]
 - [ ] [Pokemon Demo Video][video]
+- [ ] [Slide Show][slides]
 
 ###### Student Materials:
 - [ ] Computers
@@ -40,7 +40,7 @@ I can write a 2-10 block sequence with more than one directional move.
 
 ## Room Design
 
-![room](./images/layout-computer.png)
+![room](/images/layout-online.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key

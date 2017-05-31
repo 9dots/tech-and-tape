@@ -22,14 +22,13 @@ Students continue to build their debugging skills by reading a bug ticket and us
 
 ###### Student Materials:
 - [ ] Computers
-- [ ] Idea Journals
 - [ ] [Game Plan][handout]
 - [ ] Pencils
 
 </note>
 
 ## Room Design
-![room](/images/layout-online.png)
+![room](/images/layout-rows.png)
 
 <note>
 
@@ -39,11 +38,6 @@ Students continue to build their debugging skills by reading a bug ticket and us
 
 </note>
 
-###### Symbols Key
-
-<iconp ml='1.65em' type='question'>question</iconp>
-<iconp ml='1.65em' type='answer'>answer</iconp>
-- [ ] action item
 
 <pagebreak/>
 ## 1. Engage: Kids Code (5 min)
@@ -147,7 +141,7 @@ Participation: Whole Class Online
 - Enemy: If touching the hero, then the enemy grows.
 - Enemy: If touching the hero, then the enemy chases the hero.
 
-> > Take a minute to write your plan for each sprite before we start to code.”  
+> > Take a minute to write your plan for each sprite. In our next lesson you will start to write this code!”  
 
 <note>![slides-plan1](./images/slides-plan1.png)
 ![slides-plan2](./images/slides-plan2.png)

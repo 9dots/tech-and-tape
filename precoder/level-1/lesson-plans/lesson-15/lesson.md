@@ -21,7 +21,7 @@ Lesson 15 introduces students to patterns in preparation to learn how to loop co
 ###### Teacher Materials:
 - [ ] Computer
 - [ ] Projector
-- [ ] [Lesson 15 Slides][slides]
+- [ ] [Slide Show][slides]
 
 ###### Student Materials:
 - [ ] [Patterns Worksheet][worksheet]
@@ -37,7 +37,7 @@ Lesson 15 introduces students to patterns in preparation to learn how to loop co
 
 ## Room Design
 
-![room](./images/layout-tables.png)
+![room](/images/layout-rows.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key

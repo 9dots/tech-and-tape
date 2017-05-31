@@ -29,22 +29,17 @@ Students will begin their Game Plan to plan how each enemy will move in their Es
 - [ ] [Game Plan][plan]
 - [ ] Pencils
 
+</note>
+### Room Design
+![room](/images/layout-online.png)
+
+<note>
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 
 - **Loop:** A sequence of instructions that is repeated until a condition is reached.
 - **Sprite:** An object that can perform an action.
 - **Editor:** A program designed for editing computer code by coders.
-</note>
 
-## Room Design
-![room](/images/layout-online.png)
-
-<note borderLeft='2px solid green' mt='2em'>
-###### Symbols Key
-
-<iconp ml='1.65em' type='question'>question</iconp>
-<iconp ml='1.65em' type='answer'>answer</iconp>
-- [ ] action item
 </note>
 
 ## 1. Kids Code (5 min)

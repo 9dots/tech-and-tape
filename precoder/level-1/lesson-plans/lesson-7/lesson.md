@@ -1,4 +1,4 @@
-<header class='header' title='Directional Moves' subtitle='Lesson 7'/>
+<header class='header' title='Directional Moves' subtitle='Lesson 07'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -21,7 +21,7 @@ I can read a 2-10 block sequence with directional moves.
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
 - [ ] Projector
-- [ ] [Lesson 7 Slides][slides]
+- [ ] [Slide Show][slides]
 
 ###### Student Materials:
 - [ ] Pencils
@@ -40,7 +40,7 @@ I can read a 2-10 block sequence with directional moves.
 
 ## Room Design
 
-![room](./images/layout-tables.png)
+![room](/images/layout-rows.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key

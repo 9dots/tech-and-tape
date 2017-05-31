@@ -29,7 +29,7 @@ See all objectives from lessons 1-20
 </note>
 
 ## Room Design
-![room](/images/layout-online.png)
+![room](/images/layout-rows.png)
 
 <note>
 

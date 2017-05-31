@@ -1,4 +1,4 @@
-<header class='header' title='Mystery Robot' subtitle='Lesson 1'/>
+<header class='header' title='Mystery Robot' subtitle='Lesson 01'/>
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
@@ -9,11 +9,11 @@ In lesson 1 students are introduced to the concept of productive failure through
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. **Engage:** The Most Magnificent Thing (10 min)
-1. **Explore:** Mystery Robot (5 min)
-1. **Explain:** Process of Elimination (3 min)
-1. **Elaborate:** Mystery Robot Round 2 (7 min)
-1. **Evaluate:** Debrief (5 min)
+1. Engage: The Most Magnificent Thing (10 min)
+1. Explore: Mystery Robot (5 min)
+1. Explain: Process of Elimination (3 min)
+1. Elaborate: Mystery Robot Round 2 (7 min)
+1. Evaluate: Debrief (5 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -34,7 +34,7 @@ In lesson 1 students are introduced to the concept of productive failure through
 
 ## Room Design
 
-![room](./images/layout-rug.png)
+![room](/images/layout-rug.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key
@@ -45,7 +45,7 @@ In lesson 1 students are introduced to the concept of productive failure through
 </note>
 
 <pagebreak/>
-## Engage: *The Most Magnificent Thing* (10 min)
+## 1. Engage: *The Most Magnificent Thing* (10 min)
 
 - [ ] **Read** *The Most Magnificent Thing* while stopping to ask the class questions.
 
@@ -72,7 +72,7 @@ In lesson 1 students are introduced to the concept of productive failure through
 
 <note>![slides-engage](./images/engage-two.png)</note>
 
-## Explore: Mystery Robot (5 min)
+## 2. Explore: Mystery Robot (5 min)
 - [ ] **Introduce** the Mystery Robot game.
 >> “We are going to play a game in which we are going to solve a mystery. I am going to select one of the robots you see on the board from my deck of cards. You will all then try to figure out which robot I have selected by asking me about the robot’s size, color, shape, or number.”
 
@@ -90,7 +90,7 @@ In lesson 1 students are introduced to the concept of productive failure through
 - [ ] **Play** the Mystery Robot game as a class.
 
 
-## Explain: Productive Failure (10 min)
+## 3. Explain: Productive Failure (10 min)
 - [ ] **Share Out:** Students discuss their observations from playing the game.
 
 <iconp type='question'>What have you noticed that you have been able to do on your board after each person asks a question?</iconp>
@@ -102,7 +102,7 @@ In lesson 1 students are introduced to the concept of productive failure through
 - [ ] **Explain** that each response to a question is a learning opportunity even if the question was based on an idea that was wrong.
 >> “We are able to cross robots off our board each time a question is asked because we can always learn something new from the information we receive, even if our original idea is wrong. For example, if I think that the mystery robot is green I can ask ‘Is the mystery robot green?’ If the robot is not green I still learned something new because I can now cross off all of the green robots even though my idea of the robot’s color was wrong. This information gets me a little closer to finding out which robot is the mystery robot.”
 
-## Elaborate: Mystery Robot Round 2 (7 min)
+## 4. Elaborate: Mystery Robot Round 2 (7 min)
 - [ ] **Remind** students of the attributes they can ask about in the Mystery Robot game.
 >> “We are going to play another round of the Mystery Robot game. Remember, you can ask about the robot’s size, shape, color, and number.”
 
@@ -111,7 +111,7 @@ In lesson 1 students are introduced to the concept of productive failure through
 
 - [ ] **Play** another round of the Mystery Robot game as a class.
 
-## Evaluate: Debrief (3 min)
+## 5. Evaluate: Debrief (3 min)
 - [ ] **Remind** students of the lesson that was learned from reading The Most Magnificent Thing.
 >> “When we read The Most Magnificent Thing we learned that it is possible for us to learn from our mistakes as long as we don’t give up.”
 

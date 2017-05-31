@@ -8,17 +8,11 @@ Students continue working on their flower/sculpture garden project. If students 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can code turtle to build my design using for loops and functions.
 
-
-
-
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
 #### Length: 60 minutes
 1. Engage: Debugging (5-10 mins)
 1. Elaborate: Project Time (50-55 mins)
-
-
-
 
 <note>
 
@@ -29,7 +23,6 @@ Students continue working on their flower/sculpture garden project. If students 
 - MinecraftEdu
 - Projector
 - [Lesson 6 Slides][slides]
-
 
 #### Student Materials
 - Computer
@@ -46,9 +39,7 @@ Students continue working on their flower/sculpture garden project. If students 
 - **Parameter** - An extra piece of information that is passed to a function to customize it for a specific need.
 
 </note>
-
 <pagebreak/>
-
 #### 1. Engage: Debugging (5 mins)
 - [ ] **Review** and read the Debugging Protocol. If students get stuck while working on their project, students can follow these steps and share their bug with the class to get help.
   >>“Today you are going to work on your flower/sculpture garden projects on Minecraft. If you need help debugging, follow these three steps and ask the class for help.”

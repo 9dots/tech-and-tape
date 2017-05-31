@@ -24,7 +24,6 @@ Students use their game plan to work on their final Escape the Maze project. If 
 ###### Student Materials:
 - [ ] [Game plans][plan]
 - [ ] Pencils
-- [ ] Idea Journals
 - [ ] Computers
 - [ ] [Bug Tickets][bug]
 

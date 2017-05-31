@@ -23,15 +23,15 @@ Students get comfortable using the Scratch editor and writing a sequence in code
 - [ ] [Scratch Tutorials][tutorial]
 
 ###### Student Materials:
-- [ ] Idea Journals
 - [ ] Pencils
 - [ ] Computers
+- [ ] Scratch Logins
 
 </note>
 
-## Room Design
+### Room Design
 
-![room](/images/layout-online.png)
+![room](/images/layout-rows.png)
 
 <note>
 
@@ -66,27 +66,20 @@ Participation: Whole Class, Online
 
 <note>![slides-scratch](./lesson-2/images/slides-scratch.jpeg)</note>
 
-- [ ] **Code Along:** Point students to their log-in stickers. This is a good time to have them put their sticker somewhere that they will not loose it, like on their journals. Play the code along video. Pause the video to allow students to answer the questions posed.
+- [ ] **Code Along:** Point students to their log-in stickers. If you haven't yet, have students put their login sticker somewhere that they will not loose it, like in their workbooks. Play the code along video. Pause the video to allow students to answer the questions posed.
 
-🎥 Code Along Video:
-- Navigate to Scratch
-- Logging In
-- Navigate to the project
-- Dragging blocks to the script area: When green flag clicked, move 10 steps
-- Connecting blocks
-- Click the green flag to run the code
-- Change the number in the block
-- Add another block
-- Separating blocks
-- Delete blocks
-- Use the ? to find out what a block does
+> > "Let's follow along as we watch the code along."
+
 <note>![slides-codealong](./lesson-2/images/slides-codealong.jpeg)</note>
 
+<pagebreak/>
 ## 3. Elaborate: Independent Coding (20 min)
 Participation: Independent, Online
 
 - [ ] **Challenge** students to continue coding on their own to follow the sequence of the story. Encourage students to explore other blocks that improve the story if they’ve completed the planned sequence.
 ![plan](./lesson-2/images/plan.jpeg)
+
+> > "Continue to code the rest of the story in Scratch."
 
 	Anticipating Student Misconceptions:
 	- Coding in the wrong sprite - Students should be coding in the sprite where the action is occuring.
@@ -96,6 +89,8 @@ Participation: Independent, Online
 <note>![slides-code](./lesson-2/images/slides-code.jpeg)</note>
 
 - [ ] **Closing:** Congratulate coders on their first program!
+
+> > "Congratulations, coders! You just used code to write a computer program!"
 
 <note>![slides-signout](./lesson-2/images/slides-signout.jpeg)</note>
 

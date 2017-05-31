@@ -20,9 +20,9 @@ I can debug a 2-10 block sequence with more than one directional move.
 ###### Teacher Materials:
 - [ ] Computer
 - [ ] Projector
-- [ ] [Lesson 10 Slides][slides]
 - [ ] [Engage Link][engage]
 - [ ] [Explore Link][explore]
+- [ ] [Slide Show][slides]
 
 ###### Student Materials:
 - [ ] Computers
@@ -42,7 +42,7 @@ I can debug a 2-10 block sequence with more than one directional move.
 
 ## Room Design
 
-![room](./images/layout-tables.png)
+![room](/images/layout-rows.png)
 
 <note borderLeft='2px solid green' mt='2em'>
 ###### Symbols Key

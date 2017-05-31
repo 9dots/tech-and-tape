@@ -7,7 +7,7 @@
     * [Lesson 2: turtleMove Part I](precoder/level-1/lesson-plans/lesson-2/lesson.md)
     * [Lesson 3: turtleMove Part II](precoder/level-1/lesson-plans/lesson-3/lesson.md)
     * [Lesson 4: Turtle Steps](precoder/level-1/lesson-plans/lesson-4/lesson.md)
-    * [Lesson 5: Pixel Bot](precoder/level-1/lesson-plans/lesson-5/lesson.md)
+    * [Lesson 5: pixelBot](precoder/level-1/lesson-plans/lesson-5/lesson.md)
     * [Lesson 6: Debugging](precoder/level-1/lesson-plans/lesson-6/lesson.md)
     * [Lesson 7: Directional Moves](precoder/level-1/lesson-plans/lesson-7/lesson.md)
     * [Lesson 8: Pixel Artists](precoder/level-1/lesson-plans/lesson-8/lesson.md)
