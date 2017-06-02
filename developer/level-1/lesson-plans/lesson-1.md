@@ -28,7 +28,6 @@ Students work in groups to tackle a challenging problem-solving puzzle and start
 ###### Student Materials:
 - [ ] Name Tents & Markers
 - [ ] Sticky Notes, 2 Colors
-- [ ] [River Crossing Handouts][handout]
 - [ ] [Code Blocks][code-blocks]
 - [ ] Felt Strip
 - [ ] [Character Handout][characters]
