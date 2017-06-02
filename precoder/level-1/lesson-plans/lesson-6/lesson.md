@@ -18,6 +18,7 @@ I can debug a 2-5 block sequence.
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
+- [ ] Computer
 - [ ] Projector
 - [ ] [Slide Show][slides]
 
@@ -49,10 +50,7 @@ I can debug a 2-5 block sequence.
 <pagebreak/>
 
 ## 1. Engage: What is a Bug? (5 min)
-
 - [ ] **Read** the story of the first bug. (3 min)
-
-![slide-two](./images/slide-two.png)
 
 <iconp type='question'>Why was it important for the computer scientists not to give up?</iconp>
 
@@ -60,22 +58,17 @@ I can debug a 2-5 block sequence.
 	- A bug is an error found in code.
 	- Debugging is the process of finding and fixing bugs.
 
-![slides-define](./images/slides-define.png)
-
 - [ ] **Explain** the importance of debugging. (1 min)
 	- Bugs are common.
 	- Even the best coders make mistakes.
 	- Becoming a good coder means becoming good at debugging.
 	- The most important part of debugging is not giving up like the computer scientists in the story.
+	<note>![bug](./images/first-bug.png)</note>
 
 ## 2. Explore: Unearth Debugging Protocol (6 min)
 
 - [ ] **Introduce** students to the [first debugging challenge][challenge]. (1 min)
 	- The code is supposed to make the zebra move up 4 spaces and paint a square.
-
-
-![explore](./images/explore-challenge.png)
-
 
 - [ ] **Independent Exploration:** Have students try to determine if the code is valid using their computers. If the code is not valid students should try to fix it. (2 min)
 - [ ] **Review** the code's objective.
@@ -111,15 +104,8 @@ I can debug a 2-5 block sequence.
 
 <iconp type='question'>What should we replace these lines with?</iconp>
 
-<note>
-![challenge](./images/challenge-one.png)
-</note>
-
-
 - [ ] **Code Along II** (If time allows)
 	- Follow the same debugging protocol used in the previous code along to debug the second problem in the debugging playlist.
-
-![challenge](./images/challenge-two.png)
 
 ## 4. Elaborate: Pixel Bot Practice (11 min)
 - [ ] **Independent Practice:** Have students work on the independent practice [debugging playlist][playlist] and monitor the class for students in need of additional assistance. (8 min)
@@ -127,7 +113,6 @@ I can debug a 2-5 block sequence.
 	1. **Compare** the code’s objective to what it actually does.
 	2. **Find** the bug(s).
 	3. **Fix** the code.
-
 
 </notable>
 

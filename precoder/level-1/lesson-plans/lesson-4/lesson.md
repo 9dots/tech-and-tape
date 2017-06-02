@@ -52,10 +52,11 @@ In lesson 4 students are introduced to sequences and begin developing an underst
 <pagebreak/>
 
 ## 1. Engage: Review (3 min)
-
 - [ ] **Show** the first sequence to the class.
 
 - [ ] **Turn and Talk:** Students discuss the turtle’s final position after following the sequence of arrows.
+
+<note>![engage](./images/engage-sequence.png)</note>
 
 <iconp type='question'>Where would the turtle stop if I pressed the buttons in order starting from the top?</iconp>
 <iconp type='answer'>The turtle would stop on the letter Y.</iconp>
@@ -69,6 +70,8 @@ In lesson 4 students are introduced to sequences and begin developing an underst
 
 - [ ] **Explain** that the order of arrow instructions is an example of a sequence.
 >> “The instructions we just followed to move the turtle to the letter Y are an example of something called a sequence.”
+
+<note>![sequence](./images/sequence.png)</note>
 
 - [ ] **Practice:** Students practice saying the word sequence.
 >> “Everyone repeat after me and say the word sequence.”
@@ -107,6 +110,8 @@ In lesson 4 students are introduced to sequences and begin developing an underst
   1. *Check:* Draw a check mark next to the line of code that was read.
 >> “In this challenge we have a sequence of instructions. We will think of these instructions as our code. The sequence tells my turtle how to move. To make it easier to read this code I will cover it with an index card. Then I will slide it down to show the first line of code. The first line of code says to move to the right so I will move my turtle one step to the right. I will also draw a check mark to the right of the code to remember that I already read this line. To read the next line of code I will slide my card down again. Then I will move my turtle to the right because it says to move to the right. I’ll also add another check mark to remember that I read this line. I’ll continue doing this until I no longer have any code to read. The order goes slide, move, check.”
 
+![steps](./images/stepping.png)
+
 - [ ] **Model** how to step through a second sequence of code with less explanation in order to allow them to see the full process without any interruption.
 
 - [ ] **Guided Practice:** Student volunteers step through a sequence on the board. One student reads the line out loud while the other student moves the token.
@@ -120,6 +125,8 @@ In lesson 4 students are introduced to sequences and begin developing an underst
 - [ ] **Monitor** the class for students in need of additional assistance.
 
 - [ ] **Review** 2-3 challenges from the stepping worksheet with the class.
+
+![engage](./images/stepping-worksheet.png)
 
 ## 5. Evaluate: Exit Ticket (3 min)
 

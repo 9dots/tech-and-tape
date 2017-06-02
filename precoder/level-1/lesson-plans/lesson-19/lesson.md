@@ -9,10 +9,10 @@ In lesson 19 students learn to read loops by stepping through sequences of code 
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. **Engage: Writing Review (3 min)**
-1. **Explore: Loops (7 min)**
-1. **Explain: Reading Loops (8 min)**
-1. **Elaborate: Independent Practice (12 min)**
+1. Engage: Writing Review (3 min)
+1. Explore: Loops (7 min)
+1. Explain: Reading Loops (8 min)
+1. Elaborate: Independent Practice (12 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>

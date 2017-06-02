@@ -11,10 +11,10 @@ In lesson 17 students learn to identify patterns and the number of times their c
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. **Engage: Patterns Review (4 min)**
-1. **Explore: pixelBot Patterns (4 min)**
-1. **Explain: Patterns in Code (10 min)**
-1. **Elaborate: Independent Practice (12 min)**
+1. Engage: Patterns Review (4 min)
+1. Explore: pixelBot Patterns (4 min)
+1. Explain: Patterns in Code (10 min)
+1. Elaborate: Independent Practice (12 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>

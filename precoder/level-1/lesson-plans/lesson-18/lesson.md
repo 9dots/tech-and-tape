@@ -10,10 +10,10 @@ In lesson 18 students learn to write loops on the pixelBot platform. Students us
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. **Engage:** Jumping Robot (8 min)
-1. **Explore:** Find the Pattern (5 min)
-1. **Explain:** Repeat the Pattern (7 min)
-1. **Elaborate:**  pixelBot Loops (10 min)
+1. Engage: Jumping Robot (8 min)
+1. Explore: Find the Pattern (5 min)
+1. Explain: Repeat the Pattern (7 min)
+1. Elaborate: pixelBot Loops (10 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
