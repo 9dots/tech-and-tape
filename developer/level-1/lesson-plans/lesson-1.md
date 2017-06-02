@@ -2,20 +2,20 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Students work in groups to tackle a challenging problem-solving game. They begin to view failure as a step towards succeeding. The pre and post lesson resources reinforce the theme that failure is part of the process of learning and building. Create a low stakes environment for students to feel comfortable sharing a wrong solution.
+Students work in groups to tackle a challenging problem-solving puzzle and start to discuss on how mistakes are learning opportunities and get us closer to solutions. The pre and post lesson resources reinforce the theme that failure is part of the learning process. Create a low stakes environment for students to feel comfortable sharing a wrong solution.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
-- I can describe the importance of knowing how to code.
-- I am not afraid to fail. I succeed by learning why I failed and trying again.
+- I know that making mistakes is part of being a coder. I learn when I understand my mistakes and try again.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 1. Introductions (optional)
 1. Engage: What is Code (5 min)
 1. Explore: River Crossing (25 min)
 1. Explain: Solution Sharing (5 min)
-1. Elaborate: Norm Building (10 min)
+1. Elaborate: Debrief (10 min)
 
-
+##### Room Design
+![room](/images/layout-groups.png)
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
 ###### Teacher Materials:
@@ -32,13 +32,6 @@ Students work in groups to tackle a challenging problem-solving game. They begin
 - [ ] [Code Blocks][code-blocks]
 - [ ] Felt Strip
 - [ ] [Character Handout][characters]
-
-</note>
-
-### Room Design
-![room](/images/layout-groups.png)
-
-<note>
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 - **Code** - A set of instructions designed to be carried out by a computer.
@@ -63,12 +56,12 @@ Students work in groups to tackle a challenging problem-solving game. They begin
 ## 2. Engage: What is Code (5 min)
 Participation: Whole Class, Unplugged
 
-- [ ] **Define** code and present each of the examples on “Code is Everywhere”. Code is what creates the website or computer programs we use. Being a coder is about producing, not just consuming.
+- [ ] **Define** code and present each of the examples on “Code is Everywhere”. 
 
 <iconp type="question">What is code?</iconp>
 <iconp type="answer">A set of instructions designed to be carried out by a computer. It is the instructions someone wrote to make your website, app, game, etc. run.</iconp>
 
-> > “Code is everywhere. Everywhere we look computer programs are running code to run our world.”
+> > “Code is everywhere. Everywhere we look computer programs are running code to run our world. Code is what creates the website or computer programs we use. Being a coder is about producing, not just consuming.”
 
 <note>![slides-code2](./lesson-1/images/slides-code2.jpeg)
 ![slides-code3](./lesson-1/images/slides-code3.jpeg)</note>
@@ -78,13 +71,13 @@ Participation: Whole Class, Unplugged
 Participation: Whole Class ->  Small Group, Unplugged
 
 - [ ] **Challenge** students to tackle the problems today with a productive failure mindset.
-> >  “Today we’re going to become coders as we tackle a difficult challenge. Today we will act as both the coder and the computer. We are not going to get it right the first time. When coders make an error it is called a bug. Debugging is at the heart of the practice of coding. So today it is ok when your solution is wrong. We will keep coding and debugging until we have a solution that works."
+> >  “Today we’re going to become coders as we tackle a difficult challenge. We are not going to find the solution on our first try. When coders make a mistake it is called a bug. So today we are going to encounter lots of bugs. That is a normal part of coding. We will keep coding and debugging until we have a solution that works."
 
 
 <br/>
 
 - [ ] **Reveal the Mission**
-> > "A farmer needs to cross a river with a chicken, a fox, and a bag of grain. However, his boat can only hold him and one other object. If left together, the fox will eat the chicken and the chicken will eat the grain. You need to get the farmer across the river without losing any of them.""
+> > "A farmer needs to cross a river with a chicken, a fox, and a bag of grain. However, his boat can only hold him and one other object. If left together, the fox will eat the chicken and the chicken will eat the grain. You need to get the farmer across the river without losing any of them."
 
 **Checks for Understanding:**
 <iconp type="question"> What happens if the chicken and the fox are left alone while the farmer goes in the boat? </iconp>
@@ -128,18 +121,17 @@ Participation: Whole Class
 
 <pagebreak/>
 
-## 5. Elaborate: Norm Setting (10 min)
+## 5. Elaborate: Debrief (10 min)
 Participation: Whole Class
 
-- [ ] **Reflection** Students reflect on how it feels to be wrong as they set norms for how they will treat themselves and their peers when they encounter failure.
+- [ ] **Reflection** Students reflect on how it feels to be wrong as they set norms for how they will treat themselves and their peers when they encounter bugs.
 
-> > “As coders, we are going to be wrong. It is part of the process of creating good code. It is about how we act and what we do when we fail that defines the kind of coder we are. On your sticky notes answer these two questions:"
+> > “As coders, we are going to be wrong sometimes. It is part of the process of creating good code. It is about how we act and what we do when we make a mistake that defines the kind of coder we are. On your sticky notes answer these two questions:"
 
-<iconp type="question">How do you want to be treated when you’re wrong?</iconp>
-<iconp type="question">How can you manage your fear when you’re wrong?</iconp>
+<iconp type="question">What do you want your classmates to say to you when you make a mistake?</iconp>
+<iconp type="question">What do you want your classmates to do when you make a mistake?</iconp>
 
-<note type="tip">Students may need more prompting with “how does it look like/sound like when…” as follow up questions to oversimplified answers.
-<br/>
+<note>
 ![slides-norms](./lesson-1/images/slides-norms.jpeg)
 </note>
 
@@ -147,7 +139,7 @@ Participation: Whole Class
 
 - [ ] **Closing:** Collect stickies on the board. Group together similar ideas and read outloud. Students can give a thumbs up to ideas with which they agree. Acknowledge the work students have accomplished.
 
-> > “You have such great ideas! This is going to help guide us this year as we become coders in how we are going to treat ourselves and eachother when we encounter bugs in our code. The lesson is that you have to fail before you succeed. Thank you so much for sharing your time and ideas with us today.”
+> > “You have such great ideas! This is going to help guide us this year as we become coders in how we treat ourselves and eachother when we encounter bugs in our code. Bugs are inevitable and can be fixed. We learn by understanding the mistakes we make and trying again. Thank you for sharing your time and ideas with us today.”
 
 </notable>
 
