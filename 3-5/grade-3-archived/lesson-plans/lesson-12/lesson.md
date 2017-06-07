@@ -118,7 +118,6 @@ Participation: Independent, Online
 > > “Follow along to login to Scratch and navigate to your Escape the Maze project. You will have the rest of class to modify your enemies’ code to improve the user experience. Remember an enemy should be challenging, but not impossible to get around.”
 
 <note type="tip">As you walk around the room, remind students to use their game plans
-<br/> 🎥 Logging In and navigating to project
 ![slides-codeAlong](./images/slides-CodeAlong.png)
 </note>
 

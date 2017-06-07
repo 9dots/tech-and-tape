@@ -73,14 +73,13 @@ Participation: Small Group Unplugged
 > > “Answer each statement by holding up ‘True’ or ‘False’ on your card.”
 
 - You have a dog.
-- All bugs stink
+- All bugs are purple.
 - You are the youngest in your family.
 - Your favorite color is blue.
 - 4 + 5 = 8
 - You like to draw.
 - The sun is green.
-- Kittens grow up to be cats
-- Italy is a candy.
+- Kittens grow up to be cats.
 
 - [ ] **Contrasting Cases:** Students come up with their own definition of boolean by looking at the two lists of statements.
 
@@ -92,7 +91,7 @@ Participation: Small Group Unplugged
 | 4 + 5 = 8         | Say hello.             |
 | You are the youngest in your family.| Spin in a circle and touch your toes. |
 | 10 is greater than 2 | Draw a circle.         |
-| Italy is a candy.    | Repeat 5 times.        |
+| The sun is green.    | Repeat 5 times.        |
 | I have a dog.        | Wait for 1 second.     |
 
 <note>

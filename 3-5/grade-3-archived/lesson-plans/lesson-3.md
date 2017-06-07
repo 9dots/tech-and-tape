@@ -41,6 +41,7 @@ Students are introduced to the importance of writing clear instructions. Student
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
 - **Code:** A set of instructions designed to be carried out by a computer.
 - **Validate:** To check if something is correct or does what it is intended to do.
+- **Algorithm:** A step-by-step set of directions to perform a specific task.
 
 ###### Symbols Key
 <iconp ml='1.65em' type='question'>question</iconp>
@@ -56,7 +57,7 @@ Students are introduced to the importance of writing clear instructions. Student
 
 <iconp type="answer">Volunteers share their instructions. Follow each step exactly, without using your human intuition to interpret a direction. For example, if a student says “put the peanut butter on the bread” then put the jar of peanut butter on the top of the bag of bread.</iconp>
 
-> > “Humans can interpret the meaning and intention behind a direction in a way computers cannot. You would have known that “put the peanut butter on the bread” meant that first you needed to get a knife and open the jar and put peanut butter on the knife, etc. But a computer cannot infer all of that. It only knows to follow the specific instructions we write. These instructions are code. Today we are going to code a sequence of instructions that are clear and precise for a computer to follow.”
+> > “Humans can interpret the meaning and intention behind a direction in a way computers cannot. You would have known that “put the peanut butter on the bread” meant that first you needed to get a knife and open the jar and put peanut butter on the knife, etc. But a computer cannot infer all of that. It only knows to follow the specific instructions we write. These instructions are called an algorithm. Today we are going to code an algorithm for a computer to follow.”
 
 <note type="tip">
 Nut allergies are common. Sunflower butter is a safe alternative to peanut butter.
@@ -84,9 +85,9 @@ Nut allergies are common. Sunflower butter is a safe alternative to peanut butte
 ![slide-rover6](./lesson-3/images/slides-rover6.jpeg)
 </note>
 
-- [ ] **Challenge:** Help Rover navigate to the goal on handout 1 and on the foam tiles by following the three steps to write code: 1) plan 2) code 3) validate.
+- [ ] **Challenge:** Write an algorithm to navigate Rover to the goal on handout 1 and on the foam tiles by following these three steps: 1) plan 2) code 3) validate.
 
-> > “Now that you’ve been introduced to Rover, we are going to use him to complete our first challenge today. We need to write the code that will get Rover to the yellow goal. Find your Rover and place him on Start on your worksheet.”
+> > “Now that you’ve been introduced to Rover, we are going to use him to complete our first challenge today. We need to write an algorithm that will get Rover to the yellow goal. Find your Rover and place him on start on your worksheet.”
 
 <note> ![slide-challenge1](./lesson-3/images/slides-challenge1.jpeg)</note>
 <br/>
@@ -101,7 +102,7 @@ Nut allergies are common. Sunflower butter is a safe alternative to peanut butte
 
 - [ ] **Code:** Call a student to come up to the board and place the magnetic code strips up as the class suggests each line of code. This student is the Coder. Have a second student come up to the foam tiles and move Rover with each line of code. This student is the Bot.
 
-> > “I need one volunteer to be our Coder and one volunteer to be our Bot. Class you will follow along writing the code on your paper and moving Rover with us.”
+> > “I need one volunteer to be our Coder and one volunteer to be our Bot. Class you will follow along writing the algorithm on your paper and moving Rover with us.”
 
 <br/>
 
@@ -150,7 +151,7 @@ Nut allergies are common. Sunflower butter is a safe alternative to peanut butte
 
 ## 5. Optional Extension: Scavenger Hunt (20 min)
 
-- [ ] **Challenge:** Students will work in pairs to write the code to navigate Rover through a grid to reach each goal.
+- [ ] **Challenge:** Students will work in pairs to write an algorithm to navigate Rover through a grid to reach each goal.
 
 > > “Let’s make it more challenging! Acting as Coders & Bots, your goal is to navigate Rover through the maze to reach as many of the goals as you can. You probably won’t have time to make it to all of the goals. That’s ok. But for each goal you reach there is a prize waiting.”
 
