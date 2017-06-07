@@ -9,11 +9,10 @@ This lesson assumes you are completing it in the same period as the ICC review. 
 - I can code a loop that makes an enemy patrol my maze.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-1. Engage: Why (2 min)
+1. Engage: Why (5 min)
 1. Explore: Code the First Enemy (5 min)
-1. Explain: Code Along (8 min)
-1. Elaborate: Code it in Scratch (30 min)
-1. Evaluate: Review Projects
+1. Explain: Code Along (15 min)
+1. Elaborate: Code it in Scratch (20 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -40,7 +39,7 @@ This lesson assumes you are completing it in the same period as the ICC review. 
 </note>
 
 <pagebreak/>
-## 1.  Engage: Why (2 min)
+## 1.  Engage: Why (5 min)
 Participation: Whole Class, Unplugged
 
 - [ ] **Motivate:** Frame the purpose of this lesson. Show students the original Escape the Maze game.
@@ -89,41 +88,31 @@ Participation: Whole Class, Unplugged
 <iconp type='answer'>Move 4, Move -4 repeats. Circle the repeating pattern.</iconp>
 
 <iconp type='question'>What loop could we use to represent the pattern and shorten our code?</iconp>
-<iconp type='answer'>Nest two move blocks in a repeat 4 loop. Remind students that in Scratch we use a negative number to move backwards.</iconp>
+<iconp type='answer'>Nest two move blocks in a repeat 4 loop. ![repeat](./images/repeat.png)  </iconp>
 
-<iconp type='question'>**Extension Question:** How would we change our code if we wanted the enemy to continue to patrol the maze until game play ends?</iconp>
-<iconp type='answer'>Change the repeat loop to a forever loop.</iconp>
+<iconp type='question'>How would we change our code if we wanted the enemy to continue to patrol the maze until game play ends?</iconp>
+<iconp type='answer'>Change the repeat loop to a forever loop.
+![forever](./images/forever.png) </iconp>
 
-<pagebreak/>
-## 3. Explain: Code Along (8 min)
+## 3. Explain: Code Along (15 min)
 Participation: Whole Class, Online
 
-- [ ] **Code Along:** Play the video to add the enemy code in Scratch. Pause at appropriate times to allow students to answer the questions.  (10 min)
+- [ ] **Code Along:** Play the video to add the enemy code in Scratch. Pause at appropriate times to allow students to answer the questions.  
 
-> > ”We just wrote the code to control one of the enemies. So now let’s put the code into our game!”
+> > ”We just wrote the code to control one of the enemies. So now let’s put the code into our game! Follow along with the video to login to your Scratch account and put the code into your own version of the maze.”
 
 <note>![slides-CodeAlong](./images/slides-codealong.png)</note>
 
-## 4. Elaborate: Code it in Scratch (30 min)
+## 4. Elaborate: Code it in Scratch (20 min)
 Participation: Independent, Online
 
-- [ ] **Making:** Students add the code from the previous activity to their enemy in the game.
-
-> > “Now it is your turn. Let’s login to your Scratch account and put the code into your own version of the maze.”
-
-<note>![slides-YourTurn](./images/slides-yourturn.png)</note>
-
-<br/>
 - [ ] **Challenge:** Allow students to experiment coding different enemies. We will follow a more formal process in Lesson 11.
 
 > > “Once you’ve gotten that first enemy working, think back to all the code you wrote in Lessons 7 & 8. Can you write the code to make a different enemy spin? Can you make one travel in a square?”
 
-<note>![slides-challenge](./images/slides-challenge.png)</note>
+<note>![slides-YourTurn](./images/slides-yourturn.png)
+</note>
 
-## 4. Evaluate: Review Projects
-Participation: Teacher Only
-
-- [ ] **Evaluate:** After the lesson look at student projects in Scratch and identify students who need more support moving forward in coding in Scratch.
 
 </notable>
 
