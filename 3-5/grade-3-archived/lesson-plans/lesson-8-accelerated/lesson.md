@@ -11,10 +11,10 @@ In this lesson students identify repeating patterns in a sequence and replace th
 
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-1. Engage & Explore: Patterns (10 min)
+1. Engage/Explore: Patterns (10 min)
 1. Explain/Elaborate: Translating Patterns to Loops (10 min)
-1. Evaluate: Socrative (5 min)
-1. Extension: Independent Coding (20-35 min)
+1. Evaluate: Exit Challenge (10 min)
+1. Extension: Independent Coding (15-30 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -134,7 +134,7 @@ In this lesson students identify repeating patterns in a sequence and replace th
 ![slides-translating3](./images/slides-translating3.png)
 ![slides-translating4](./images/slides-translating4.png)
 
-## 3. Elaborate/Evaluate: Exit Challenge (5 min)
+## 3. Elaborate/Evaluate: Exit Challenge (10 min)
 
 - [ ] **Exit Challenge:** Students independently rewrite 3 sequences of code as loops. Collect the exit challenges and review them to identify who needs more support with writing loops.
 
@@ -142,7 +142,7 @@ In this lesson students identify repeating patterns in a sequence and replace th
 
 <note>![slides-socrative](./images/slides-soc.png)</note>
 
-## 4. Extension: Independent Coding (20-35 min)
+## 4. Extension: Independent Coding (15-30 min)
 
 - [ ] **Independent Coding:** Students move at their pace through Code.org. You can direct students to continue working on Code.org Course 2 Lesson 8: Bee Loops
 

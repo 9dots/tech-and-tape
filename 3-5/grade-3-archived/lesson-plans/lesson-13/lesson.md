@@ -45,7 +45,7 @@ Students are introduced to the debugging protocol and practice applying it to a 
 </note>
 
 <pagebreak/>
-## 1. Engage/Explore/Explain: Debugging (20 min)
+## 1. Engage/Explore/Explain: Debugging (30 min)
 Participation: Independent, Online
 
 - [ ] **Debugging:** Students login to Scratch and navigate to the debugging studio in “My Class”. For each challenge show students a gif of what the coder wanted the enemy to do. Coders will follow the 3 steps as they debug the code. Discuss solutions as a whole class before continuing to the next challenge. You can either show them the video solution or write the solution yourself in Scratch.

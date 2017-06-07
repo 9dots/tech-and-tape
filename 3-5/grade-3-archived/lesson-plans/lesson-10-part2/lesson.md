@@ -88,12 +88,12 @@ Participation: Whole Class, Unplugged
 <iconp type='answer'>Move 4, Move -4 repeats. Circle the repeating pattern.</iconp>
 
 <iconp type='question'>What loop could we use to represent the pattern and shorten our code?</iconp>
-<iconp type='answer'>Nest two move blocks in a repeat 4 loop. Remind students that in Scratch we use a negative number to move backwards.</iconp>
+<iconp type='answer'>Nest two move blocks in a repeat 4 loop. ![repeat](./images/repeat.png)  </iconp>
 
-<iconp type='question'>**Extension Question:** How would we change our code if we wanted the enemy to continue to patrol the maze until game play ends?</iconp>
-<iconp type='answer'>Change the repeat loop to a forever loop.</iconp>
+<iconp type='question'>How would we change our code if we wanted the enemy to continue to patrol the maze until game play ends?</iconp>
+<iconp type='answer'>Change the repeat loop to a forever loop.
+![forever](./images/forever.png) </iconp>
 
-<pagebreak/>
 ## 3. Explain: Code Along (15 min)
 Participation: Whole Class, Online
 

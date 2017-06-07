@@ -6,14 +6,14 @@ In this lesson students identify repeating patterns in a sequence and replace th
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can recognize and identify a repeating pattern.
-- I can replace a repeating sequence with a forever loop, for-loop, or while loop to increase code efficiency and readability.
+- I can replace a repeating sequence with a loop to increase code efficiency and readability.
 - I can code a loop that makes an enemy patrol my maze.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-1. Engage & Explore: Patterns (10 min)
+1. Engage/Explore: Patterns (10 min)
 1. Explain/Elaborate: Translating Patterns to Loops (10 min)
-1. Evaluate: Exit Challenge (5 min)
-1. Extension: Independent Coding (20-25 min)
+1. Evaluate: Exit Challenge (10 min)
+1. Extension: Independent Coding (15-30 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -89,7 +89,7 @@ In this lesson students identify repeating patterns in a sequence and replace th
 ![slides-cubes4](./images/slides-cubes4.png)
 </note>
 
-## 2. Explain: Translating Patterns to Loops (10 min)
+## 2. Explain/Elaborate: Translating Patterns to Loops (10 min)
 
 - [ ] **Transfer of Knowledge:** Students will follow the same process to identify the pattern in a sequence and rewrite it as a loop.
 
@@ -120,7 +120,7 @@ In this lesson students identify repeating patterns in a sequence and replace th
 ![slides-translating6](./images/slides-translating6.png)
 
 
-## 3. Elaborate/Evaluate: Exit Challenge (10 min)
+## 3. Evaluate: Exit Challenge (10 min)
 
 - [ ] **Exit Challenge:** Students independently rewrite 3 sequences of code as loops. Collect the exit challenges and review them to identify who needs more support with writing loops.
 
@@ -128,7 +128,7 @@ In this lesson students identify repeating patterns in a sequence and replace th
 
 <note>![slides-socrative](./images/slides-socrative.png)</note>
 
-## 4. Extension: Independent Coding (20-35 min)
+## 4. Extension: Independent Coding (15-30 min)
 
 - [ ] **Independent Coding:** Students move at their own pace through the Code.org studios. If you’d like to give students a more targeted lesson about loops you can direct them to continue working on Code.org Course 2 Stage 8: Bee Loops
 

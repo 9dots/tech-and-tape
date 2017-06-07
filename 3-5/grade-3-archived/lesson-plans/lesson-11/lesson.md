@@ -84,7 +84,7 @@ Students will begin their Game Plan to plan how each enemy will move in their Es
 
 <note>![slides-codealong](./images/slides-codealong.png)</note>
 
-## 4. Elaborate: Enemies on Patrol (30 min)
+## 4. Elaborate: Enemies on Patrol (20 min)
 
 - [ ] **Making:** Students get on Scratch and write the code for the enemies they planned in their Game Plan.
 
