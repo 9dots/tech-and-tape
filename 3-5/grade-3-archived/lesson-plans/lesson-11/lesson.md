@@ -78,7 +78,7 @@ Students will begin their Game Plan to plan how each enemy will move in their Es
 
 ## 3. Explain: Code Along (10 min)
 
-- [ ] **Code Along:** Play the video to show students how to navigate to the Scratch studio and continue to code from their Game Plan. View the steps here.
+- [ ] **Code Along:** Play the video to show students how to navigate to the Scratch studio and continue to code from their Game Plan. 
 
 > > “This is the code you wrote in lesson 8 to make the enemies patrol your maze. Today we are going to put our code into Scratch.”
 
