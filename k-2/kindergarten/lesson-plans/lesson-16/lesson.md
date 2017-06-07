@@ -74,8 +74,18 @@ In lesson 16  students learn to identify the number of times a sequence repeats 
 
 ![decomposing](./images/decompose-one.png)
 
-- [ ] **Decompose:** Have students break apart the omnifix cube pattern into its core units.
->> “Now that we have our pattern built let’s decompose it to show the parts that repeat. Find where the core begins. Then find where the core ends. Once you get to the end, break off the piece containing the core.”
+- [ ] **Challenge** the class to identify the core of the pattern by breaking it off from the rest of the omnifix cube sequence.
+
+- [ ] **Share Out:** Have volunteers share the core they identified with the class.
+
+- [ ] **Challenge** the class to decompose the rest of the omnifix cube sequence into its core units.
+
+- [ ] **Turn and Talk:** Students discuss the number of times the core repeats in the pattern and how they figured it out.
+
+<iconp type='question'>How many times does the core repeat in the pattern we created?</iconp>
+<iconp type='question'>How do you know?</iconp>
+
+- [ ] **Share Out:** Students share their answers with the rest of the class.
 
 ## 3. Explain: Repeating Patterns (8 min)
 - [ ] **Model** decomposing patterns and counting the number of times the core repeats.
