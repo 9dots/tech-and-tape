@@ -9,9 +9,6 @@ workbooks:
 	PDFconcat -o coder/level-2/workbook.pdf coder/level-2/worksheets/*.pdf
 	PDFconcat -o coder/level-3/workbook.pdf coder/level-3/worksheets/*.pdf
 
-splitlessons:
-	@for
-
 splitbooks:
 	@for COURSE in ${COURSES} ;	\
 		do OUTFOLDER="$$COURSE/levelPDFs"; \
