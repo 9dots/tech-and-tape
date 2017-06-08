@@ -7,12 +7,11 @@ In lesson 18 students learn to write loops on the pixelBot platform. Students us
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can loop a sequence of code.
 
-
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
-1. Engage: Jumping Robot (8 min)
-1. Explore: Find the Pattern (5 min)
-1. Explain: Repeat the Pattern (7 min)
+1. Engage: Jumping Robot (5 min)
+1. Explore: Find the Pattern (10 min)
+1. Explain: Repeat the Pattern (5 min)
 1. Elaborate: pixelBot Loops (10 min)
 
 <note>
@@ -26,38 +25,28 @@ In lesson 18 students learn to write loops on the pixelBot platform. Students us
 ###### Student Materials:
 - [ ] Computers
 - [ ] [Playlist: Writing Loops][writing]
-
-<iconp src='/icons/vocab.png'>### Vocabulary</iconp>
-- **Loop** - A sequence of actions that is repeated.
-
 </note>
-
-<pagebreak/>
 
 ## Room Design
-
 ![room](/images/layout-online.png)
 
-<note borderLeft='2px solid green' mt='2em'>
-###### Symbols Key
-
-<iconp ml='1.65em' type='question'>question</iconp>
-<iconp ml='1.65em' type='answer'>answer</iconp>
-- [ ] action item
+<note>
+<iconp src='/icons/vocab.png'>### Vocabulary</iconp>
+- **Loop** - A sequence of actions that is repeated.
 </note>
 
 <pagebreak/>
 
-## 1. Engage: Jumping Robot (8 min)
+## 1. Engage: Jumping Robot (5 min)
 - [ ] **Introduce** the jumping robot activity and ask for a volunteer to play the role of the jumping robot.
->> “We are going to play a game called jumping robot. In this game I will be a coder who will code a robot that can jump. The robot will follow the directions I give it in the code on the board. The only direction the robot can understand is jump. Would anyone like to volunteer to be the jumping robot?”
+>> “We are going to play a game called jumping robot. In this game I will be a coder who will code a robot that can jump. The robot will follow the directions I have coded on the board. Would anyone like to volunteer to be the jumping robot?”
 
-- [ ] **Show** the first two sequences of code and have the jumping robot act them out.
+- [ ] **Show** the first two sequences of code. Then have the jumping robot act them out.
 
 ![engage-one](./images/engage-one.png)
 
 
-- [ ] **Explain** that in the next sequence of code you want the jumping robot to jump 50 times, but writing the direction 50 times will take too much time.
+- [ ] **Explain** that in the next sequence of code you want the jumping robot to jump 50 times, but writing the direction 50 times will take too long.
 
 - [ ] **Challenge** the class to try to think of a different way to tell the jumping robot to jump.
 
@@ -69,40 +58,52 @@ In lesson 18 students learn to write loops on the pixelBot platform. Students us
 
 - [ ] **Show** that the sequence of code with 50 jump commands is the same as the sequence of code that tells the robot to repeat the jump command 50 times.
 
-## 2. Explore: Find the Pattern (5 min)
-- [ ] **Explain** that code can be repeated just like in the jumping robot example.
-
+## 2. Explore: Find the Pattern (10 min)
 - [ ] **Show** pixelBot challenge number one and have the class help you write the code.
->> “In this challenge we want to get out pixelBot to the square that the arrow is pointing to. What directions should I code for my pixelBot?”
+ >>“In this challenge we want to get our pixelBot to the square that the arrow is pointing to.”
+
+<iconp type='question'>What directions should we code?</iconp>
 
 ![explore-one](./images/explore-one.png)
 
-- [ ] **Explain** that the code can be shortened by telling the computer to repeat the direction that we see repeating in the sequence.
+- [ ] **Challenge** the class to identify what is repeating in the code and the number of times it repeats?
 
-- [ ] **Challenge** the class to identify the direction that is being repeated in the code.
+<iconp type='question'>What direction is being repeated in this code?
+How many times does it repeat?</iconp>
 
-<iconp type='question'>What direction is being repeated in this code?</iconp>
+- [ ] **Explain** that just like in the robot game it is possible to repeat directions.
+>>“Just like in our jumping robot game, we can tell our computer to repeat a direction more than once instead of writing that direction over and over again.”
 
-- [ ] **Demonstrate** how to repeat the code by writing a loop.
->> “Instead of writing the move right direction 10 times I can simply tell the computer to repeat move right 10 times. First I select the direction I want to repeat. Then I click on the loop block and delete the remaining code I do not need.”
+- [ ] **Demonstrate** how to repeat code using the loop block.
+ >>“To tell our computer to repeat a direction we put the direction or directions we want repeated in a loop. First we select the code we want to repeat. Then we click the loop block and select the number of times we want the computer to repeat the code.”
 
 ![explore-two](./images/explore-two.png)
 
-- [ ] **Show** pixelBot challenge number two and have the class help you write the code.
+- [ ] **Show** challenge number two and have the class help you write the code.
+>>“In this challenge we want our pixelBot to paint a line of 3 squares.”
+
+<iconp type='question'>What directions should we code?</iconp>
 
 ![explore-three](./images/explore-three.png)
 
-- [ ] **Challenge** the class to find a pattern in the code.
+- [ ] **Challenge** the class to identify the portion of the code that is repeating and the number of times it repeats.
 
-- [ ] **Turn and Talk:** Have the class share with a partner the pattern they found in the code.
+<iconp type='question'>What direction in this code can be repeated?
+How many times does it repeat?</iconp>
 
-- [ ] **Share Out:** Have a student volunteer share the pattern he/she found in the sequence of code.
+- [ ] **Record** student responses by circling the core of the pattern and writing down the number of times it repeats.
 
-- [ ] **Demonstrate** how to repeat the code by using the pattern.
+- [ ] **Challenge** the class repeat the code the correct number of times with the loop block.
+
+- [ ] **Turn and Talk:** Students share what they did to repeat the code with a partner.
+
+<iconp type='question'>What did you do to repeat the code?</iconp>
+
+- [ ] **Share Out:** Students share out what they did to repeat the code.
 
 ![explore-four](./images/explore-four.png)
 
-## 3. Explain: Repeat the Pattern (7 min)
+## 3. Explain: Repeat the Pattern (5 min)
 - [ ] **Explain** the sequence of steps students should follow to write a loop.
 	1. *Write* a sequence of code.
 	2. *Find* the number of times the pattern repeats.
