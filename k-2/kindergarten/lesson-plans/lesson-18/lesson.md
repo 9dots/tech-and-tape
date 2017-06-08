@@ -72,10 +72,10 @@ In lesson 18 students learn to write loops on the pixelBot platform. Students us
 How many times does it repeat?</iconp>
 
 - [ ] **Explain** that just like in the robot game it is possible to repeat directions.
->>“Just like in our jumping robot game, we can tell our computer to repeat a direction more than once instead of writing that direction over and over again.”
+>>“Just like in our jumping robot game, we can tell our computer to repeat code instead of writing same line or lines of code over and over again.”
 
 - [ ] **Demonstrate** how to repeat code using the loop block.
- >>“To tell our computer to repeat a direction we put the direction or directions we want repeated in a loop. First we select the code we want to repeat. Then we click the loop block and select the number of times we want the computer to repeat the code.”
+ >>“To tell our computer to repeat code we write it in a loop. First we select the code we want to repeat. Then we click the loop block and select the number of times we want the computer to repeat it.”
 
 ![explore-two](./images/explore-two.png)
 
@@ -86,7 +86,7 @@ How many times does it repeat?</iconp>
 
 ![explore-three](./images/explore-three.png)
 
-- [ ] **Challenge** the class to identify the portion of the code that is repeating and the number of times it repeats.
+- [ ] **Challenge** the class to identify the portion of the code that is repeating and the number of times it repeats on the board.
 
 <iconp type='question'>What direction in this code can be repeated?
 How many times does it repeat?</iconp>
@@ -115,18 +115,22 @@ How many times does it repeat?</iconp>
 >> “To solve this challenge my pixelBot needs to move right, paint, right, paint, right, paint.”
 
 - *Find* the number of times the core of the pattern repeats.
->> “The sequence of code that I wrote repeats the directions right and paint 3 times.”
+>> “The core of the pattern is move right and paint and it repeats 3 times."
 
 - *Repeat* the core of the pattern.
->>“Instead of writing right and paint three times I can tell the computer to repeat those two directions 3 times. To repeat the two directions, I am selecting them and clicking the loop button. The loop button tells the computer to repeat the code. Then I type the number 3 to show that the directions inside of the loop block repeat 3 times.  Finally I delete the rest of the code that is no longer needed.”
+>>“Instead of coding move right and paint three times I can tell the computer to repeat those two lines of code 3 times. To repeat my code I will select the lines I want repeated and then click the loop block. The loop block tells the computer to repeat the code. Next I will select the number 3 to show that the code inside of the loop repeats 3 times. The last thing I will do is delete the code that I no longer need.”
 
 - [ ] **Guided Practice:** Have the class work together to solve pixelBot challenge number four.
 
 - *Write* a sequence of code.
->> “To solve this challenge we have to paint two squares. What directions should I code?”
+>> “To solve this challenge we have to paint two squares."
+
+ <iconp type='question'>What should I code?</iconp>
 
 - *Find* the number of times the core of the pattern repeats.
->> “Try to find a pattern. What pattern do you see in this sequence of code?”
+>>"Next we have to find the core of the pattern we coded."
+
+<iconp type='question'>What is the core of the pattern we coded?</iconp>
 
 - *Repeat* the core of the pattern.
 
