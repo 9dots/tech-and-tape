@@ -97,12 +97,15 @@ Participation: Independent Unplugged
 ## 3. Explain: Code Along (25 min)
 Participation: Whole Class Online
 
-- [ ] **Code Along:** Play the code along videos while students follow along on their computers to write conditionals in Scratch.
+- [ ] **Code Along:** Play the code along videos while students follow along on their computers to write conditionals in Scratch. Pause after each question to facilitate discussion. Ask students to discuss their answers as a class before showing the next video.
 
-> > “Now that you've gotten comfortable with conditionals, let's code along as we learn how to write conditionals in Scratch.
+> > “Now that you've gotten comfortable with conditionals, let's code along as we learn how to write conditionals in Scratch."
 
 
-<note>![slides-CodeAlong](./images/CodeAlong.png)
+<note>![slides-CodeAlong1](./images/CodeAlong1.png)
+![slides-CodeAlong2](./images/CodeAlong2.png)
+![slides-CodeAlong3](./images/CodeAlong3.png)
+![slides-CodeAlong4](./images/CodeAlong4.png)
 </note>
 
 

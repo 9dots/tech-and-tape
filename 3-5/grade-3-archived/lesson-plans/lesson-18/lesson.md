@@ -60,7 +60,7 @@ Students apply their knowledge of conditionals to write code in their Escape the
 
 > > “Now that you have seen the power of conditionals, it is your turn to write conditionals into your Escape the Maze project. Don’t forget to use your game plan.”
 
-<note>![Code](./images/Code.png)</note>
+<note>![Code](./images/code.png)</note>
 <pagebreak/>
 
 ## 4. Evaluate: Project Checklist (5 min)
