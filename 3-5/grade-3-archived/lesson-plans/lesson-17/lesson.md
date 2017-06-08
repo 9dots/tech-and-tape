@@ -54,7 +54,7 @@ Participation: Whole Class Online
 
 - [ ] **Set the Challenge:** Students login to Scratch and navigate to the debugging studio in “My Class”. For each challenge read the Bug Ticket together. Coders will follow the 3 steps as they debug the code. Focus discussion on step 2: "Find" and logically identifying where the bug must be in the code. There is a video to help students fix the bug after they have discussed and tried it themselves.
 
-> > “As we write more complex code, our bugs get more challenging.  Often when a coder encounters a bug they write a Bug Ticket. I have 5 more challenges for you to debug today and for each I have provided you with the Bug Ticket. Let’s login to Scratch and follow the 3 steps to debug: 1. Compare, 2. Find, 3. Fix.”
+> > “As we write more complex code, our bugs get more challenging.  Often when a coder encounters a bug they write a Bug Ticket. I have 4 more challenges for you to debug today and for each I have provided you with the Bug Ticket. Let’s login to Scratch and follow the 3 steps to debug: 1. Compare, 2. Find, 3. Fix.”
 
 <note>![debug-slides](./images/debug.png)
 ![debug-CodeAlong](./images/CodeAlong.png)</note>
@@ -117,18 +117,6 @@ Participation: Whole Class Online
 ![debugC1-slides](./images/dc9-3.png)
 ![debugC1-slides](./images/dc9-4.png)</note>
 <pagebreak/>
-- [ ]**Challenge 10:**
-
-<iconp type="question"> Compare: What does the coder want their program to do? What does it do instead?</iconp>
-	<iconp type="answer">“I want my bat to go back to its original size when I press the reset key, but it doesn’t work.”</iconp>
-<br/><iconp type="question"> Find: Where is the bug in their code? </iconp>
-	<iconp type="answer">The enemy’s code -> missing reset code</iconp>
-<br/><iconp type="question">Fix: How did you fix the bug? </iconp>
-	Solution: Add the reset code, you can look at the other enemy to see what it should look like, but you will have to change the coordinates
-
-<note>![debugC1-slides](./images/dc10-1.png)
-![debugC1-slides](./images/dc10-2.png)
-</note>
 
 ## 4. Elaborate: Plan Your Conditionals (10 min)
 
@@ -136,7 +124,6 @@ Participation: Whole Class Online
 
 > > “Game designers do not just start coding without first creating a design or plan for their game. Let’s take a few minutes to return to our Escape the Maze game plans. On the Game Plan there is space for us to plan how each Sprite is going to interact with others through conditionals. We are going to fill out the right column with the “If________, then_______” statements. Last lesson we practiced writing some of these conditionals in Scratch. Here are some ideas of code we’ve already written:
 - Hero: If touching an enemy, then go back to the start.
-- Hero: If touching the goal, then change backdrop to level 2 and go back to the start.
 - Enemy: If touching the hero, then the enemy changes color.
 - Enemy: If touching the hero, then the enemy grows.
 - Enemy: If touching the hero, then the enemy chases the hero.
