@@ -2,11 +2,10 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 16  students learn to identify the number of times a sequence repeats within a pattern through decomposition. The lesson begins with a review of identifying the core of a pattern. Students then explore decomposing color patterns with omnifix cubes and practice with a worksheet.
+In lesson 16  students learn to identify the number of times the core repeats within a pattern through decomposition. The lesson begins with a review of identifying the core of a pattern. Students then explore decomposing color patterns with omnifix cubes and practice with a worksheet.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can decompose a pattern to identify the number of times its core repeats.
-
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
@@ -27,24 +26,14 @@ In lesson 16  students learn to identify the number of times a sequence repeats 
 - [ ] [Patterns Worksheet][worksheet]
 - [ ] Omnifix Cubes
 - [ ] Pencils
-
-<iconp src='/icons/vocab.png'>### Vocabulary</iconp>
-- **Pattern** - A sequence that repeats more than once.
-
 </note>
 
-<pagebreak/>
-
 ## Room Design
-
 ![room](/images/layout-rows.png)
 
-<note borderLeft='2px solid green' mt='2em'>
-###### Symbols Key
-
-<iconp ml='1.65em' type='question'>question</iconp>
-<iconp ml='1.65em' type='answer'>answer</iconp>
-- [ ] action item
+<note>
+<iconp src='/icons/vocab.png'>### Vocabulary</iconp>
+- **Pattern** - A sequence that repeats more than once.
 </note>
 
 <pagebreak/>
@@ -58,16 +47,16 @@ In lesson 16  students learn to identify the number of times a sequence repeats 
 
 - [ ] **Share Out:** Students share their definition of the word pattern.
 
-- [ ] **Group Practice:** Present a pattern and have students help complete the pattern.
+- [ ] **Show** a pattern and have students help complete it.
 >> “I need help completing this pattern. The pattern goes red, red, yellow, red, red, yellow.”
 
 <iconp type='question'>What should come next in the pattern?</iconp>
 
-- [ ] **Group Practice:** Have students help you identify the core of the pattern.
->> “Now let’s find the part of the pattern that keeps repeating.”
+- [ ] **Challenge** the class to help you identify the core of the pattern.
+>> “I need your help finding the core of this pattern.”
 
-<iconp type='question'>Where does the pattern begin?</iconp>
-<iconp type='question'>Where does the pattern end?</iconp>
+<iconp type='question'>Where does the core begin?</iconp>
+<iconp type='question'>Where does the core end?</iconp>
 
 ## 2. Explore: Decomposing Patterns (4 min)
 - [ ] **Demonstrate** how to build a pattern using omnifix cubes and have students copy the pattern you create.
@@ -89,11 +78,11 @@ In lesson 16  students learn to identify the number of times a sequence repeats 
 
 ## 3. Explain: Repeating Patterns (8 min)
 - [ ] **Model** decomposing patterns and counting the number of times the core repeats.
->> “To decompose this pattern I first want to try to identify the core. The pattern goes blue, yellow, blue, yellow, blue, yellow. The part that repeats includes one blue block and one yellow block. Now I can break my pattern apart into its core units that have one blue block connected to one yellow block.”
+>> “To decompose this pattern I first want to try to identify the core. The pattern goes blue, yellow, blue, yellow, blue, yellow. The part that repeats includes one blue block and one yellow block. Now I can break my pattern apart into its core units that have one blue block connected to one yellow block."
+
+>>"To see how many times the core repeats I simply count the number of pieces I’m left with. This sequence repeats 3 times in the pattern because there are 3 pieces left.”
 
 ![decompose](./images/decomposing.png)
-
->> “To see how many times the core repeats I simply count the number of pieces I’m left with. This sequence repeats 3 times in the pattern because there are 3 pieces left.”
 
 - [ ] **Guided Practice:** Have the class practice identifying the core.
 >> “Build the pattern you see on the board. Let’s say the colors we see in the pattern starting with the color yellow. Yellow, blue, blue, yellow, blue, blue”

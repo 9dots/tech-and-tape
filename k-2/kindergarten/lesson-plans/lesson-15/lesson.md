@@ -2,7 +2,7 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Lesson 15 introduces students to patterns in preparation to learn how to loop code. Through exploration students develop their own definition of a pattern and learn to identify the repeating sequence within a pattern.
+Lesson 15 introduces students to patterns in preparation to learn how to loop code. Through exploration students develop their own definition of a pattern and learn to identify the core of a pattern.
 
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
@@ -27,24 +27,14 @@ Lesson 15 introduces students to patterns in preparation to learn how to loop co
 - [ ] [Patterns Worksheet][worksheet]
 - [ ] Color Pencils
 - [ ] Pencils
-
-<iconp src='/icons/vocab.png'>### Vocabulary</iconp>
-- **Pattern** - A sequence that repeats more than once.
-
 </note>
 
-<pagebreak/>
-
 ## Room Design
-
 ![room](/images/layout-rows.png)
 
-<note borderLeft='2px solid green' mt='2em'>
-###### Symbols Key
-
-<iconp ml='1.65em' type='question'>question</iconp>
-<iconp ml='1.65em' type='answer'>answer</iconp>
-- [ ] action item
+<note>
+<iconp src='/icons/vocab.png'>### Vocabulary</iconp>
+- **Pattern** - A sequence that repeats more than once.
 </note>
 
 <pagebreak/>
@@ -71,7 +61,7 @@ Lesson 15 introduces students to patterns in preparation to learn how to loop co
 
 ## 3. Explain: Identify the Pattern (10 min)
 - [ ] **Define** pattern.
->> “In each of the examples you just saw something was repeating. A pattern is a repeating sequence.”
+>> “In each of the examples you just saw something was repeating. A pattern is a sequence that repeats.”
 
 - [ ] **Demonstrate** the pattern hand signal.
 
@@ -85,18 +75,18 @@ Lesson 15 introduces students to patterns in preparation to learn how to loop co
 ![nineteen](./images/slide-19.png)
 
 - [ ] **Guided Practice:** The class works together to complete a set of patterns.
->> “Let’s say the colors we see in order out loud. yellow, purple, yellow. purple, yellow, purple.”
+>> “Let’s say the colors we see in order out loud. Yellow, purple, yellow, purple, yellow, purple.”
 
 ![twenty](./images/slide-20.png)
 
 <iconp type='question'>What colors should the next two circles be?</iconp>
 
 - [ ] **Model** completing the pattern and identifying the repeating sequence.
->> “In order to find the repeating sequence of the pattern, I want to look for the beginning and ending of the sequence. We can call the repeating sequence in the pattern the core. This example shows red, red, blue, red, red, blue. So the core begins at red and ends with blue. To show this I will box the three circles starting at red and end with the blue one.”
+>> “In order to find the repeating sequence of the pattern, I want to look for the beginning and end of the sequence. We can call the repeating sequence in the pattern the core. This example shows red, red, blue, red, red, blue. So the core begins at red and ends with blue. To show this I will box the three circles beginning with the first red circle and end with the blue one.”
 
 ![twenty-one](./images/slide-21.png)
 
-- [ ] **Guided Practice:** completing the pattern and identifying the repeating sequence.
+- [ ] **Guided Practice:** Students complete the pattern and identify the core.
 >> “Let’s try one together. Say the colors with me. Red, yellow, blue, red, yellow, blue. “
 
 ![twenty-two](./images/slide-22.png)
@@ -105,7 +95,7 @@ Lesson 15 introduces students to patterns in preparation to learn how to loop co
 <iconp type='question'>Where does the core of the pattern begin and where does it end?</iconp>
 
 ## 4. Elaborate: Independent Practice (13 min)
-- [ ] **Explain** how to complete the patterns worksheet with problem number 1.
+- [ ] **Explain** how to complete the patterns worksheet with challenge number one.
 >> “In each of the problems on the worksheet we are going to (1) complete the pattern and (2) circle the core. Problem number 1 shows the pattern blue, red, blue, red.”
 
 <iconp type='question'>What colors should the next two circles be?</iconp>
