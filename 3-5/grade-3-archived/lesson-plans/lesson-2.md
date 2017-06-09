@@ -9,7 +9,7 @@ Students get comfortable using the Scratch editor and writing a sequence in code
 - I can use the editor, block palette, and stage in Scratch to code my program.
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
-1. Engage:  If You Give a Mouse a Cookie (5 min)
+1. Engage: *If You Give a Mouse a Cookie* (5 min)
 1. Explore/Explain: Code Along (20 min)
 1. Elaborate: Independent Coding (20 min)
 1. Extension: Further Exploring Scratch (5-60 min)
@@ -45,14 +45,14 @@ Students get comfortable using the Scratch editor and writing a sequence in code
 </note>
 
 <pagebreak/>
-## 1. Engage: If You Give a Mouse a Cookie (5 min)
+## 1. Engage: *If You Give a Mouse a Cookie* (5 min)
 Participation: Whole Class, Unplugged
 
-- [ ] **Hook:** Read If You Give a Mouse a Cookie outloud to the class.
+- [ ] **Hook:** Read *If You Give a Mouse a Cookie* outloud to the class.
 
 <note>**Slides:** ![slides-hook](./lesson-2/images/slides-hook.jpeg)</note>
 
-- [ ] **Plan:** Explain that we are going to practice coding a sequence by coding the sequence of the book. Show the step by step plan.
+- [ ] **Plan:** Explain that we are going to practice coding a sequence by following the sequence of the book. Show the step by step plan.
 
 <iconp type="question">Ask students to identify connection between a step and what happened in the story.</iconp>
 <note>![slides-plan](./lesson-2/images/slides-plan.jpeg)</note>
@@ -60,13 +60,13 @@ Participation: Whole Class, Unplugged
 ## 2. Explore/Explain: Code Along (20 min)
 Participation: Whole Class, Online
 
-- [ ] **Introduce Scratch:** Introduce students to the coding program we will be using this year - Scratch. Show the “Getting Started with Scratch Video”.
+- [ ] **Introduce Scratch:** Introduce students to the coding platform we will be using this year-Scratch. Show the “Getting Started with Scratch Video."
 
-> > “There are lots of different coding languages: Javascript, Python, C++, HTMl, CSS, Java, M. This year we will be using a language called Scratch. Today you are going to code If You Give a Mouse a Cookie in Scratch.”
+> > “There are lots of different coding languages: Javascript, Python, C++, HTMl, CSS, Java. This year we will be using a language called Scratch. Today you are going to code the sequence of events that happen in *If You Give a Mouse a Cookie* in Scratch.”
 
 <note>![slides-scratch](./lesson-2/images/slides-scratch.jpeg)</note>
 
-- [ ] **Code Along:** Point students to their log-in stickers. If you haven't yet, have students put their login sticker somewhere that they will not loose it, like in their workbooks. Play the code along video. Pause the video to allow students to answer the questions posed.
+- [ ] **Code Along:** Direct students to their log-in stickers. We suggest having students place their login stickers on their workbooks. Play the code along video. Pause the video to allow students to answer the questions.
 
 > > "Let's follow along as we watch the code along."
 
@@ -76,15 +76,15 @@ Participation: Whole Class, Online
 ## 3. Elaborate: Independent Coding (20 min)
 Participation: Independent, Online
 
-- [ ] **Challenge** students to continue coding on their own to follow the sequence of the story. Encourage students to explore other blocks that improve the story if they’ve completed the planned sequence.
+- [ ] **Challenge** students to continue coding on their own following the sequence of the story. Encourage students to explore other blocks that could build on the storyline if they completed the planned sequence.
 ![plan](./lesson-2/images/plan.jpeg)
 
 > > "Continue to code the rest of the story in Scratch."
 
 	Anticipating Student Misconceptions:
-	- Coding in the wrong sprite - Students should be coding in the sprite where the action is occuring.
-	- Taking a “say” block instead of “say for 2 sec” - without the time, Scratch will perform the action so quickly that it won’t be seen on the stage.
-	- Deleting the starter code - Students should not change or delete the first two blocks as they ensure that whenever the green flag is pressed the mouse returns to its original position.
+	- Coding in the wrong sprite-Students should be coding in the sprite where the action is occuring.
+	- Taking a “say” block instead of “say for 2 sec” block-without a specified time, Scratch will perform the action so quickly that it won’t be seen on the stage.
+	- Deleting the starter code-Students should not change or delete the first two blocks because they ensure that whenever the green flag is pressed the mouse returns to its original position.
 
 <note>![slides-code](./lesson-2/images/slides-code.jpeg)</note>
 
@@ -98,7 +98,7 @@ Participation: Independent, Online
 ## 4. Extension: Further Exploration in Scratch (5-60 min)
 Participation: Independent, Online
 
-- [ ] **Extension:** If you want to give your students more practice in Scratch, use the Introductory Tutorials. Play each tutorial video at least twice. The first time have them just watch, the second time have them follow along. Start with “Make your sprite move forward” and go from there depending on how much time you have.
+- [ ] **Extension:** If you want to give your students more practice in Scratch, use the Introductory Tutorials. Play each tutorial video at least twice. The first time have them just watch, the second time have them follow along. Start with “Make your sprite move forward.”
 
 
 </notable>
