@@ -28,7 +28,6 @@ Students work in groups to tackle a challenging problem-solving puzzle and start
 ###### Student Materials:
 - [ ] Name Tents & Markers
 - [ ] Sticky Notes, 2 Colors
-- [ ] [River Crossing Handouts][handout]
 - [ ] [Code Blocks][code-blocks]
 - [ ] Felt Strip
 - [ ] [Character Handout][characters]
@@ -44,10 +43,9 @@ Students work in groups to tackle a challenging problem-solving puzzle and start
 <pagebreak/>
 ## 1. Introductions (optional)
 
-- [ ] **Introductions:** students write their name on one side of their name tent and on the other side they draw or write “When I grow up I want to be a(n) _______________.”
+- [ ] **Introductions:** students create a name tent. They write their name on one side and what they want to be on the other. “When I grow up I want to be a(n) ....”
 
-<note type="tip"> Skip this if the instructor already knows their students.
- <br/> **Slides:** ![slides-intro1](./lesson-1/images/slides-intro1.jpeg)</note>
+<note> **Slides:** ![slides-intro1](./lesson-1/images/slides-intro1.jpeg)</note>
 
 - [ ] **Attention Getting Signal:** Teach students your attention getting signal and practice.
 
@@ -56,12 +54,12 @@ Students work in groups to tackle a challenging problem-solving puzzle and start
 ## 2. Engage: What is Code (5 min)
 Participation: Whole Class, Unplugged
 
-- [ ] **Define** code and present each of the examples on “Code is Everywhere”.
+- [ ] **Define** code and present each of the examples on “Code is Everywhere."
 
 <iconp type="question">What is code?</iconp>
-<iconp type="answer">A set of instructions designed to be carried out by a computer. It is the instructions someone wrote to make your website, app, game, etc. run.</iconp>
+<iconp type="answer">A set of instructions designed to be carried out by a computer. It is the instructions someone wrote to make your website, app, or game run.</iconp>
 
-> > “Code is everywhere. Everywhere we look computer programs are running code to run our world. Code is what creates the website or computer programs we use. Being a coder is about producing, not just consuming.”
+> > “Code is everywhere. Computer programs are running code to help run our world. Code is what creates the website or computer programs we use. Being a coder is about creating, not just consuming.”
 
 <note>![slides-code2](./lesson-1/images/slides-code2.jpeg)
 ![slides-code3](./lesson-1/images/slides-code3.jpeg)</note>
@@ -70,19 +68,19 @@ Participation: Whole Class, Unplugged
 ## 3. Explore: River Crossing (25 min)
 Participation: Whole Class ->  Small Group, Unplugged
 
-- [ ] **Challenge** students to tackle the problems today with a productive failure mindset.
+- [ ] **Challenge** students to tackle these problems with a productive failure mindset.
 > >  “Today we’re going to become coders as we tackle a difficult challenge. We are not going to find the solution on our first try. When coders make a mistake it is called a bug. So today we are going to encounter lots of bugs. That is a normal part of coding. We will keep coding and debugging until we have a solution that works."
 
 
 <br/>
 
 - [ ] **Reveal the Mission**
-> > "A farmer needs to cross a river with a chicken, a fox, and a bag of grain. However, his boat can only hold him and one other object. If left together, the fox will eat the chicken and the chicken will eat the grain. You need to get the farmer across the river without losing any of them.""
+> > "A farmer needs to a chicken, a fox, and a bag of grain to the other side of the river. However, his boat is small and can only hold him and one other item. He can't leave the fox and the chicken together along because the fox will eat the chicken. He can't leave the chicken and grain along because the chicken will eat the grain. How will the farmer make sure all the items cross the river without anyone getting eaten?"
 
 **Checks for Understanding:**
-<iconp type="question"> What happens if the chicken and the fox are left alone while the farmer goes in the boat? </iconp>
+<iconp type="question"> What happens if the chicken and the fox are left alone together? </iconp>
 <iconp type="answer"> The fox will eat the chicken.</iconp>
-<iconp type="question"> If left alone, what will the chicken eat?</iconp>
+<iconp type="question"> What will the chicken eat if it's left alone?</iconp>
 <iconp type="answer"> The grain</iconp>
 <iconp type="question"> If the farmer is with them, will the chicken still eat the grain?</iconp>
 <iconp type="answer"> No </iconp>
@@ -96,14 +94,14 @@ Participation: Whole Class ->  Small Group, Unplugged
 - [ ] **Model** a round of problem solving with the magnetic characters on the board as a whole class.
 ![sample-code](./lesson-1/images/sample-code.jpeg)
 
-<note type="tip">Keep a tally on the board of how many solutions we try and throw away - debugging moments. This aims to help students reframe wrong answers as debugging moments, moments of progress.</note>
+<note type="tip">Keep a tally on the board of how many solutions we try and throw away - debugging moments. This aims to help students see wrong answers as debugging moments, moments of progress.</note>
 
 - [ ] **Group tackle:** In small groups students tackle the challenge using the materials at their desks. Pause every 3-5 minutes to troubleshoot as a whole class and reveal hints as needed.
-	- Hint 1: Chicken has to cross the river first.
+	- Hint 1: The chicken has to cross the river first.
 	- Hint 2: A character can cross the river more than once.
 	- Hint 3: The farmer has to take either the chicken or the other item back across the river on his fourth trip.
 
-<note type="tip">The felt is provided for students to stick their code. This also allows you to clip the felt on the board when groups share out their solutions.
+<note type="tip">Students should punch out the character icons and code blocks to help them create a scene and a line of code.
 ![slides-river4](./lesson-1/images/slides-river4.jpeg)</note>
 
 <pagebreak/>
@@ -115,7 +113,7 @@ Participation: Whole Class
 
 ![solutions](./lesson-1/images/solutions.jpeg)
 
-<note type="tip">Don't use this as a solutions page when checking groups' work. Instead have them role play their solutions to more accurately mimic the debugging process and emphasize that students have the power to identify their bugs and rework their own solutions.
+<note type="tip">Do not tell students the solution. Instead have them role play their solutions to mimic the debugging process. Emphasize that students have the power to identify their bugs and rework their own solutions.
 <br/>
 ![slides-river4](./lesson-1/images/slides-river4.jpeg)</note>
 
@@ -124,7 +122,7 @@ Participation: Whole Class
 ## 5. Elaborate: Debrief (10 min)
 Participation: Whole Class
 
-- [ ] **Reflection** Students reflect on how it feels to be wrong as they set norms for how they will treat themselves and their peers when they encounter bugs.
+- [ ] **Reflection:** Students reflect on how it feels to be wrong in order to set norms for how they will treat themselves and others when they encounter bugs.
 
 > > “As coders, we are going to be wrong sometimes. It is part of the process of creating good code. It is about how we act and what we do when we make a mistake that defines the kind of coder we are. On your sticky notes answer these two questions:"
 
@@ -137,9 +135,9 @@ Participation: Whole Class
 
 <br/>
 
-- [ ] **Closing:** Collect stickies on the board. Group together similar ideas and read outloud. Students can give a thumbs up to ideas with which they agree. Acknowledge the work students have accomplished.
+- [ ] **Closing:** Collect sticky notes on the board. Group together similar ideas and read out loud. Students can give a thumbs up to ideas with which they agree. Acknowledge the work students have accomplished.
 
-> > “You have such great ideas! This is going to help guide us this year as we become coders in how we treat ourselves and each other when we encounter bugs in our code. Bugs are inevitable and can be fixed. We learn by understanding the mistakes we make and trying again. Thank you for sharing your time and ideas with us today.”
+> > “You have such great ideas, coders! This is going to remind us how we should treat ourselves and each other when we encounter bugs in our code. Bugs happen all the time, but they can be fixed! We learn by understanding the mistakes we make and then trying again. Thank you for sharing your ideas with us today.”
 
 </notable>
 
