@@ -26,8 +26,8 @@ In lesson 4 students are introduced to the story of the first bug and practice u
 
 ###### Student Materials:
 - [ ] Computers
-- [ ] [Playlist: getCoding 3.3 | Code: ZND7W][ind-practice]
-- [ ] [Playlist: getCoding 3.3 Exit | Code: QPJJ5][exit-ticket]
+- [ ] [Playlist: getCoding 3.4 | Code: ZND7W][ind-practice]
+- [ ] [Playlist: getCoding 3.4 Exit | Code: QPJJ5][exit-ticket]
 
 </note>
 

@@ -96,7 +96,7 @@ Lesson 15 introduces students to patterns in preparation to learn how to loop co
 
 ## 4. Elaborate: Independent Practice (13 min)
 - [ ] **Explain** how to complete the patterns worksheet with challenge number one.
->> “In each of the problems on the worksheet we are going to (1) complete the pattern and (2) circle the core. Problem number 1 shows the pattern blue, red, blue, red.”
+>> “In each of the challenges on the worksheet we are going to (1) complete the pattern and (2) circle the core. Challenge number one shows the pattern blue, red, blue, red.”
 
 <iconp type='question'>What colors should the next two circles be?</iconp>
 
