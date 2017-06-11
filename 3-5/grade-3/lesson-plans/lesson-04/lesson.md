@@ -2,7 +2,7 @@
 
 <notable>
 <iconp src='/icons/activity.png'>### Overview</iconp>
-In lesson 4 students are introduced to the story of the first bug and practice using the debugging protocol to tackle a series of debugging challenges.
+Students are introduced to the story of the first bug and practice using the debugging protocol to tackle a series of debugging challenges on pixelBots.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can code a sequence of actions in the order I want them performed.
@@ -12,10 +12,9 @@ In lesson 4 students are introduced to the story of the first bug and practice u
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
 
 1. Engage: The First Bug (5 min)
-1. Explore: Challenge I (5 min)
+1. Explore: Challenge (10 min)
 1. Explain: Debugging Protocol (10 min)
-1. Elaborate: Debugging Challenges (20 min)
-1. Evaluate: Exit Challenge (5 min)
+1. Elaborate: Independent Debugging (20 min)
 
 <note>
 <iconp src='/icons/materials.png'>### Materials</iconp>
@@ -44,83 +43,113 @@ In lesson 4 students are introduced to the story of the first bug and practice u
 <pagebreak/>
 
 ## 1. Engage: The First Bug (5 min)
-- [ ] **Read** *The First Bug* to the class.
+
+- [ ] **Read** *The First Bug* to the class from the slides.
+
+![Story1](./images/story1.png)
+![Story2](./images/story2.png)
+![Story3](./images/story3.png)
+![Story4](./images/story4.png)
+
+<note>**Slides:** ![Bug](./images/bug.png)</note>
 
 - [ ] **Debrief** the story.
->>“Just like in the story, sometimes things don’t work the way we want them to and we need to fix them.”
-What was the problem in the story?
-What was causing the problem?
 
-- [ ] **Define** bug.
->>“Things don’t always work the way we want them to when we code because we can often make mistakes. We call these mistakes in our code, bugs.”
+<iconp type="question">What was the problem in the story?</iconp>
+<iconp type="question">What was causing the problem?</iconp>
 
-- [ ] **Define** debugging.
->> “Debugging is the process of removing bugs in our code.”
+- [ ] **Define** bug and debugging.
 
-## 2. Explore: Challenge I (5 min)
-- [ ] **Introduce** debugging challenge number one.
->> “The code in challenge number 1 is supposed to make the pixelBot paint the two gray lines black. Your job is to make sure it paints those two lines.”
+>>“Things don’t always work the way we want them to when we code because we can often make mistakes. We call these mistakes in our code, bugs. Everyone say 'bug'. Debugging is the process of removing bugs in our code. Everyone say 'debug'.”
 
-- [ ] **Independent Exploration:** Students attempt to get the pixelBot to paint the two gray lines black.
+## 2. Explore: Challenge (10 min)
 
-- [ ] **Turn and Talk:** Students discuss the steps they took to complete the challenge.
+- [ ] **Challenge** students to tackle debugging challenge number one. Students go to pixelBots (Code: ZND7W) and attempt to get the pixelBot to paint the two gray lines black.
+
+>>“Today I have a series of bugs that I need help debugging. I challenge you to attempt the first bug on your own before we talk about it together. The code in challenge number 1 is supposed to make the pixelBot paint the two gray lines black. Your job is to make sure it paints those two lines.”
+
+<note>![Challenge](./images/pixelbots1.png)
+![Challenge](./images/pixelbots2.png)
+</note>
+
+<br/>
+- [ ] **Think Pair Share:** After students have a few minutes to try to debug the challenge, have them turn to their table partner and discuss the steps they took to complete the challenge. Then have them share out their strategies and write them on the board.
+
+>>"Turn to your table partner and share with them what steps you took to tackle this challenge. I am going to write your answers on the board in a few minutes."
 
 <iconp type='question'>What steps did you take to make sure the code did what it was supposed to do?</iconp>
-
-- [ ] **Share Out:** Students share the strategies they used to complete the challenge with the class.
-
-- [ ] **Record** responses that align with the compare, find, try debugging protocol on the whiteboard.
+<note> ![Challenge](./images/pixelbots3.png)</note>
 
 ## 3. Explain: Debugging Protocol (10 min)
-- [ ] **Explain** the debugging protocol.
->> “When we debug code we follow three basic steps: (1) Compare (2) Find (3) Try. First we compare what our code does to what it is currently doing. If it doesn’t do what we want it to do, we try to find the bug. Once we find the bug we come up with a possible solution and try it out. If the solution we try doesn’t work we choose another solution and try it out. ”
 
+- [ ] **Model** the debugging protocol and teach students the hand gestures for each step. 
+
+>> “When we debug code we follow three basic steps: (1) Compare (2) Find (3) Try. Let's try it with this challenge. First Compare:"
+
+<iconp type="question">What did we want our program to do?</iconp>
+<iconp type="answer">We wanted it to paint the gray boxes.</iconp>
+<iconp type="question">What did it do instead?</iconp>
+<iconp type="answer">It painted 3 of the 4 boxes correct, but painted the last box too far to the right.</iconp>
+
+>>"Step two, Find: We can use the yellow stepper tool to find where the bug might be."
+
+<iconp type="question">Where in the code do you think the bug is located?</iconp>
+<iconp type="answer">Line 8</iconp>
+
+>>"Step three, Try:"
+
+<iconp type="question">What solution should we try? If the solution we try doesn’t work we choose another solution and try it out.</iconp>
+<iconp type="answer">Let students try different solutions. Use the 'reset' button to reset the code.</iconp>
+
+<note type="tip">Teach students the hand gestures for each step. Compare: hold your palms up as if you were weighing two options. Find: run your finger in front of you back and forth as if you're scanning a text. Try: pretend to turn a screwdriver in the air.
+![Debug](./images/debug.png)
+![Compare](./images/compare.png)
+![Find](./images/find.png)
+![Try](./images/try.png)
+</note>
+<br/>
 - [ ] **Discuss:** Show the debugging protocol slide and have students discuss where the strategies that were recorded on the board belong in the compare, find, try protocol.
-<iconp type='question'>Which strategies on the board belong under compare?</iconp>
-<iconp type='question'>Which strategies on the board belong under find?</iconp>
-<iconp type='question'>Which strategies on the board belong under try?</iconp>
-
-- [ ] **Model** using the protocol to solve a debugging challenge.
-
-- *Compare*
-  >>“What do I want this code to do? The grid shows that I have to paint 4 squares in an L shape. What does it do instead? When I click run I can see that the pixelBot paints a square.“
-
-- *Find*
-  >>“Where in the code might the bug be located? If I use the yellow stepper button it runs my code one line at a time. I’m going to click through the code and see where it makes the first incorrect move. It looks like the first incorrect move occurs at line 7 where the pixelBot turns instead of painting the square.”
-
-- *Try*
-  >>“What is a possible solution? I don’t want the pixelBot to turn at line 7. I want it to paint the square. The next line of code after the turn is a paint block. That means that if I delete line 7 the pixelBot will paint the square. When I delete the turn and click run it paints the letter L.”
-
-- [ ] **Guided Practice:** The class attempts to use the debugging protocol to solve a debugging challenge.
->> “In this challenge our pixelBot needs to paint two horizontal lines.”
-Compare: What do we want our code to do? What does it do instead?
-Find: Where in the code might the bug be located?
-Try: What is a possible solution?
-
-- [ ] **Discuss:** Students discuss how they applied the debugging protocol to the challenge.
-
-<iconp type='question'>Compare: What did we do when we compared?</iconp>
-<iconp type='question'>Find: What did we do to find the bug?</iconp>
-<iconp type='question'>Try: What did we do to come up with a solution?</iconp>
-
-## 4. Elaborate: Debugging Challenges (20 min)
-- [ ] **Independent Practice:** Students apply the debugging protocol to a series of challenges.
-
-- [ ] **Monitor** the class for students in need of additional assistance.
-
-- [ ] **Review** debugging challenge numbers 5 as a class using the same questions used during guided practice.
 
 <iconp type='question'>Which strategies on the board belong under compare?</iconp>
 <iconp type='question'>Which strategies on the board belong under find?</iconp>
 <iconp type='question'>Which strategies on the board belong under try?</iconp>
 
-- [ ] **Review** debugging challenge number 7 by having a student share out their solution on the projector.
+<note> ![Debug](./images/debug.png)</note>
+<br/>
+- [ ] **Guided Practice:** The class works together to use the debugging protocol to solve a debugging challenge. When students share have them respond to each other with "I agree because..." and "I disagree because..."
 
-## 5. Evaluate: Exit Challenge (5 min)
-- [ ] **Exit Challenge:** Students complete the exit challenge independently.
+>> “Click 'Next' to try the next challenge with me.”
+
+<iconp type="question">Compare: What do we want our code to do? What does it do instead?</iconp>
+<iconp type="answer">We want our code to paint an L. Instead it paints a square.</iconp>
+<iconp type="question">Find: Where in the code might the bug be located? I will give you a few minutes to step through the code and find what line you think has the bug.</iconp>
+<iconp type="answer">There are multiple places that could be considered a bug.</iconp>
+<iconp type="question">Try: What is a possible solution?</iconp>
+<iconp type="answer">There are multiple possible solutions.</iconp>
+
+<note type="tip">While students are sharing have them turn their screens away from them so they can track the student sharing. When students share have them respond to each other with "I agree because..." and "I disagree because..."
+![Guided Practice](./images/guided.png)</note>
+
+## 4. Elaborate: Independent Debugging (20 min)
+- [ ] **Independent Practice:** Students apply the debugging protocol to a series of challenges. During this time circulate to assist students in need of additional help.
+
+> > "Alright coders, now it your turn. Continue to use our 3 steps to debug the remaining challenges."
+
+<note>![Independent Practice](./images/independent.png)</note>
+<br/>
+- [ ] **Share solutions** for debugging challenge numbers 5 & 7 as a class. Have students project their solutions. Encourage the class to respond with "I agree because..." and "I disagree because..."
+
+<iconp type="question">Compare: What do we want our code to do? What does it do instead?</iconp>
+<iconp type="question">Find: Where in the code might the bug be located? I will give you a few minutes to step through the code and find what line you think has the bug.</iconp>
+<iconp type="question">Try: What is a possible solution?</iconp>
+
+<br/>
+- [ ] **Closing:** Review the three steps to the debugging protocol with the hand gestures.
+
+>>"As a coder you can follow those 3 steps anytime you find a bug. Bugs are a fact of being a coder. You probably run into bugs in your life all the time. For our next lesson I will ask you to share when you have had to debug a situation in your everyday life."
 
 </notable>
 
-[slides]: https://drive.google.com/open?id=1KtmLLD3XKI_0Ox3TQA4PUgL1iQtnIxLn2ISbTneU6mg
+[slides]: https://docs.google.com/presentation/d/1Jbm3nJ4cOlYue8rF91Y8nB2ItFWL31juwRQebzU9RHM/edit?usp=sharing
 [ind-practice]: http://www.pixelbots.io/ZND7W
 [exit-ticket]: http://www.pixelbots.io/QPJJ5
