@@ -56,7 +56,8 @@ Prep: Build Teleporters Before Lesson
     1. Locate place for teleporters, dig a hole, then place command block.
       1. Place the ‘go to Showcase Area’ teleporter somewhere near the Graveyard area
       1. Place the ‘go to Graveyard’ teleporter somewhere near the Showcase Area
-    1. Set the console command of the command block.
+    1. Set the console command of the command block. Type '**/tp @p x y z**'
+      - **Note:** the coordinate values are separated by spaces.
     1. Cover hole with wool and place pressure plate on top. Then place a sign telling players where they will be teleported to. Ex: ‘Teleport to Graveyard’ or ‘Go to Showcase Area’
 
 ![slide](./images/tpslides.png)
