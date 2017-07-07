@@ -21,7 +21,7 @@
 * [Robotics](robotics/README.md)
   * [pushBots](robotics/pushbots/README.MD)
     * [Lesson 1: Building Community](robotics/pushbots/lesson-plans/lesson-1/lesson.md)
-    * [Lesson 2: This Push Challenge](robotics/pushbots/lesson-plans/lesson-2/lesson.md)
+    * [Lesson 2: The Push Challenge](robotics/pushbots/lesson-plans/lesson-2/lesson.md)
     * [Lesson 3: Prep and Build](robotics/pushbots/lesson-plans/lesson-3/lesson.md)
     * [Lesson 4: Programming in LEGO Mindstorms](robotics/pushbots/lesson-plans/lesson-4/lesson.md)
     * [Lesson 5: Designing Attachments](robotics/pushbots/lesson-plans/lesson-5/lesson.md)

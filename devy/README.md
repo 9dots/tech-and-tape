@@ -15,8 +15,3 @@ Our coding curriculum gives your educators the tools they need to empower studen
 Our lessons incorporate unplugged and online activities that build connections between coding concepts and apply them to projects. Along with hard skills in coding, students learn the processes and mindsets of a computer programmer. Students learn to approach failure as an opportunity, collaborate with peers on writing and reviewing code, and tap into their own creativity without reservations.
 <br spacing="1"></br>
 
-
-### Curriculum
-
-- [pixelBots](../devy/pixelbots/index.html)
-- [p5](../devy/p5/index.html)

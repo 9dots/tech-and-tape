@@ -4,6 +4,4 @@ PixelBots: Emoji teaches students basic JavaScript using pixelBots.io. In pixelB
 <br spacing="1"></br>
 
 
-### Curriculum
 
-- [pixelBots](../devy/pixelbots/index.html)

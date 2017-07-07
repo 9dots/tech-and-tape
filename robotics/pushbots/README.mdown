@@ -4,6 +4,3 @@ PushBots: PushBots is an introductory robotics unit that teaches students how to
 <br spacing="1"></br>
 
 
-### Curriculum
-
-- [pushBots](../robotics/pushbots/index.html)
