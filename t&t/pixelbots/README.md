@@ -1,6 +1,6 @@
 # PixelBots
 ![PixelBots](../../images/developer-one.jpg)
-PixelBots Emoji teaches students block coding using PixelBots.io. In PixelBots.io students code a bot to move and paint squares on a grid to form a picture. They are introduced to core coding concepts: sequences, passing arguments, and for loops. During this course students will design their own pixel emoji using the design thinking process and prototype their emoji. Students will then code a bot to paint their emoji. At the end of the course, students share their work with peers and mentors at a culminating showcase.  
+PixelBots Emoji teaches students block coding using PixelBots.io. In PixelBots.io students code a bot to move and paint squares on a grid to form a picture. They are introduced to core coding concepts: sequences and loops. During this course students will design their own emoji using the design thinking process and prototype their emoji. Students will then code a bot to paint their emoji. At the end of the course, students share their work with peers and mentors at a culminating showcase.  
 <br spacing="1"></br>
 
 
@@ -35,7 +35,7 @@ Title | Description | Objective
 [Lesson 06: Review Loops & Project Time][6] |  Students will review loops and start coding their Emoji Projects using all the coding concepts learned in previous lessons: sequence and loops. | I can code my project using sequences and loops.
 [Lesson 07: Project Time Continued][7] |  Students will continue to code their Emoji Projects using all the coding concepts learned in previous lessons: sequence and loops. | I can code my project using sequences and loops.  
 [Lesson 08: Project Time Continued][8] | Students will continue to code their Emoji Projects using all the coding concepts learned in previous lessons: sequence and loops. |  I can code my project using sequences and loops.
-[Lesson 09: Showcase Prep][9] | Students prepare to showcase their Emoji Projects by finishing up their project and creating a piece of artwork that reflects on their process of designing, building, and debugging their code. Students also write a letter to the person for whom they created their emoji. |  I can create a piece of art that reflects on the process of designing, building, and debugging my code. I can finish coding my features of my emoji.
+[Lesson 09: Showcase Prep][9] | Students prepare to showcase their Emoji Projects by finishing up their project and writing a letter to a future coder that reflects on their process of designing, building, and debugging their code. |  I can write a letter that reflects on the process of designing, building, and debugging my code. I can finish coding my features of my emoji.
 [Lesson 10: Showcase][10] | Students will share their projects in a showcase. | I can explain and share my project with family, friends, and mentors.
 
 [1]: ./emoji/lesson-plans/lesson-1/lesson.md

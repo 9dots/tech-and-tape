@@ -136,11 +136,13 @@ Students get familiar with navigating and using their computer, as well as the P
 - [ ] **Model** how to work with each of the key elements within the interface (clicking code blocks, inserting code blocks into existing code, deleting blocks, reset/play/step/check buttons, speed and transparency sliders)
 
 - [ ] **Pair up:** Have students split into pairs and complete and discuss the following tasks in Challenge 1 of the playlist:
-  - Add four code blocks into the editor. Click play and describe out loud to your partner what is happening.
-  - Insert an additional code block between their first and second code blocks. Click play. What changed? Discuss with your partner.
-  - Delete all of the blocks one by one. Then try using four different blocks. Click play. What does this new sequence do?
-  - Continue experimenting. See what else you can make your pixelBot do by writing code.
   >>"Right now we are going experiment and play with the PixelBots editor. I want you to add code blocks click play to see what happens, then add or delete code blocks click play and notice what changes. Try to use and learn every button."
+
+  - Add four code blocks.
+  - Insert an additional code block between their first and second code blocks.
+  - Delete all of the blocks one by one. Then try using four different blocks.
+  - Continue experimenting. See what else you can make your PixelBot do by writing code.
+
 
 <note>![slides](./images/pair.png)</note>
 - [ ] **Circulate** through the class and check for students in need of additional assistance.
