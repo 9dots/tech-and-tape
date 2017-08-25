@@ -112,7 +112,7 @@ Students will review loops and start coding their Emoji Projects using all the c
   <iconp type='question'>When is a loop useful?</iconp>
   <iconp type='answer'>When there is a long repeating sequence of code, rewrite it with a loop.</iconp>
 <note>![slides](./images/peeredit.png)
-![slides](./images/remind.png)</note>
+![slides](./images/newremind.png)</note>
 
 - [ ] **Project:** Students will have the rest of the time to continue their project.  
 
