@@ -51,7 +51,7 @@ Students will review loops and start coding their Emoji Projects using all the c
   <iconp type='answer'>The 3 steps are Compare, Find, and Try.</iconp>
 
 
-<note>**Slides:**![slides](./images/turntalk.png)
+<note>**Slides:**![slides](./images/turntalknew.png)
 ![slides](./images/debug.png)</note>
 - [ ] **Review:** Give students 5 minutes to try a debugging activity with loops in [T&T Emoji | 6  playlist (Code: E678O)][playlist].
   >>“We are starting our lesson with debugging challenges. You have 5 minutes to find and fix as many bugs as you can. Ready, set, go!”
@@ -94,7 +94,7 @@ Students will review loops and start coding their Emoji Projects using all the c
 - [ ] **Motivate:** Students write a debugging motto/hashtag of the day to help motivate themselves when coding gets tough.
   >>“Coding can be tough, especially when you have bugs. So before we begin coding, let’s write motivational debugging mottos and hashtags. Then when coding gets tough today, you can read your debugging motto or hashtag to encourage yourself. For example, #nevergiveup or keep calm and code on!”
 
-<note>**Slides:**![slides](./images/turntalk.png)</note>
+<note>**Slides:**![slides](./images/motivate.png)</note>
 
 - [ ] **Share out:** Have students share their debugging mottos with the class.
   >>“Let’s share out your motto’s and hashtags. If you hear one that you like, write it down in your journal.”
