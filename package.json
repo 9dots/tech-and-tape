@@ -1,6 +1,6 @@
 {
   "name": "tech-and-tape",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "tech and tape curricula",
   "main": "index.js",
   "scripts": {
