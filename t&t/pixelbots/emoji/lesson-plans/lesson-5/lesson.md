@@ -3,12 +3,11 @@
 <notable>
 
 <iconp src='/icons/activity.png'>### Overview</iconp>
-Students learn and use the design thinking process to design an emoji in PixelBots that they think a friend or family member will like. Students will learn how to use the moveTo block in PixelBots and decompose their emoji into features.
+Students learn and use the design thinking process to design an emoji in PixelBots that they think a friend or family member will like. Students will learn how to decompose their emoji into features.
 
 <iconp src='/icons/objectives.png'>### Objectives</iconp>
 - I can create a prototype on PixelBots using the design thinking process.
 - I can decompose my prototype into features and write a comment on PixelBots for each feature.
-- I can use the moveTo block in PixelBots to move to a specific square on the grid.
 
 
 <iconp src='/icons/agenda.png'>### Agenda</iconp>
@@ -17,10 +16,8 @@ Students learn and use the design thinking process to design an emoji in PixelBo
 
 1. **Engage:** Emoji Story (5 minutes)
 1. **Explore/Explain:** Design Thinking (40 minutes)
-1. **Explore:** MoveTo Block (5 minutes)
-1. **Explain:** MoveTo Block & Coordinate Plane (10 minutes)
-1. **Elaborate:** Continue Designing (25 minutes)
-1. **Evaluate:** Prototypes (5 minutes)
+1. **Elaborate:** Prototype (40 minutes)
+1. **Evaluate:** Check Prototypes (5 minutes)
 
 <note>
 
@@ -40,7 +37,6 @@ Students learn and use the design thinking process to design an emoji in PixelBo
 - PixelBots Account
 - Colored Pencils or Pencils
 - [Design Thinking Worksheet][worksheet]
-- [T&T Emoji | 5 (code: GZ94P)][playlist]
 - [T&T Emoji | Project (code: NN53T)][project]
 - [Emoji | Math Eye Smiley (Code: B2G8N)][example]
 
@@ -118,51 +114,9 @@ Students learn and use the design thinking process to design an emoji in PixelBo
 
 <note>**Slides:**![slides](./images/feedback.png)</note>
 
-#### 3. Explore: MoveTo Block (5 minutes)
-- [ ] **Challenge** students to tackle Challenge 1 with the new MoveTo block on [T&T Emoji | 5 Playlist (Code: GZ94P)][playlist]. If students need a hint during challenge, tell them to try using numbers between 0-4.
-  >>“Before you paint your prototype sketch on PixelBots, I challenge you to explore a new tool in PixelBots. See if you can figure out how it works on your own before we talk about it together. In this challenge, your job is to paint the squares using 8 lines of code.”
-
-<note>![slides](./images/challenge.png)</note>
-
-<pagebreak/>
-#### 4. Explain: MoveTo Block & Coordinate Plane (10 minutes)
-- [ ] **Predict & Define:** Students share their prediction of how the moveTo block works.
-  <iconp type='question'>How does this new block work? </iconp>
-  <iconp type='question'>What numbers did you try? </iconp>
-  <iconp type='answer'>Student answers will vary.</iconp>
-  >>"This new block is called MoveTo. The MoveTo block moves the bot to specific square on the grid using two numbers. Write this down in your journal and draw a picture to help remind you how the moveTo block works. Everybody say ‘MoveTo’."
-
-<note>**Slides:**![slides](./images/define.png)</note>
-
-- [ ] **Explain** how the moveTo uses two numbers, called coordinates, to code the bot where to go on the grid. Review the coordinates used in Challenge 1.
-  >>“Let’s learn how the two numbers in the MoveTo block code the bot to go to a specific square. The grid is secretly numbered starting from 0 at this bottom left square, the numbers go up as we go to the right and as we go up. This square here is called (0,0). The first number in the moveTo block tells the bot how many squares the bot will move left from square (0,0). This is the x-coordinate. The second number in the moveTo block tells the bot how many squares the bot will move up from square (0,0). This is the y-coordinate. Here the move to block has the numbers 1 and 3. From (0,0) we count one to the left and three squares up.”
-
-  <iconp type='question'>In Challenge 1, what are the coordinates for the pink square?</iconp>
-  <iconp type='answer'>(1,3)</iconp>
-  <iconp type='question'>What are the coordinates for the green square?</iconp>
-  <iconp type='answer'>(0,1)</iconp>
-  <iconp type='question'>What are the coordinates for the orange square?</iconp>
-  <iconp type='answer'>(3,1)</iconp>
-  <iconp type='question'>What are the coordinates for the light green square?</iconp>
-  <iconp type='answer'>(4,3)</iconp>
-
-<note>![slides](./images/explain.png)
-![slides](./images/explain2.png)
-</note>
 
 
-<pagebreak/>
-- [ ] **Guided Practice** Use the slideshow to practice more coordinates. Go over the answers as a class.
-  <iconp type='question'>Where will the PixelBot be?</iconp>
-  <iconp type='question'>What are the coordinates of the bot?</iconp>
-  <iconp type='question'>What is the difference between (4,2) and (2,4)</iconp>
-  <iconp type='answer'>Students should come to the conclusion that X, the first number, represents horizontal and Y, the second number, represents vertical. </iconp>
-
-<note>**Slides:**![slides](./images/practice.png)</note>
-
-- [ ] **Independent Practice:** Students practice using the MoveTo block on the [T&T Emoji | 5 playlist (Code: GZ94P)][playlist].
-
-#### 5. Elaborate: Continue Designing (25 minutes)
+#### 4. Elaborate: Prototype (40 minutes)
 **Prototype on PixelBots.io** (15 minutes): Students transfer their prototype from their Emoji Design Thinking worksheets to PixelBots.
 
 - [ ] **Model** how to paint on PixelBots using the paint and eraser tool on the PixelBots Emoji Project Challenge. Demonstrate how to paint on PixelBots OR show video on slide and narrate.
@@ -182,7 +136,7 @@ Students learn and use the design thinking process to design an emoji in PixelBo
 <note>**Slides:**![slides](./images/decomposition.png)</note>
 
 - [ ] **Independent Exploration:** Students decompose their emoji by writing each feature as a comment on PixelBots.
-  >>“Your turn. Decompose your emoji prototype and create a comment for each feature of your emoji. Your decomposed emoji will be the plan of how you code your emoji in PixelBots. When you start coding your emoji, you will be using the moveTo block to move from one feature of your emoji to the next feature.”
+  >>“Your turn. Decompose your emoji prototype and create a comment for each feature of your emoji. Your decomposed emoji will be the plan of how you code your emoji in PixelBots.”
 
 <note>![slides](./images/indexpdecomp.png)</note>
 

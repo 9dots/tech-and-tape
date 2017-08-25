@@ -1,7 +1,7 @@
 {
-  "name": "get-coding-curricula",
-  "version": "0.1.151",
-  "description": "get coding curricula",
+  "name": "tech-and-tape",
+  "version": "0.2.1",
+  "description": "tech and tape curricula",
   "main": "index.js",
   "scripts": {
     "start": "gitbook serve",

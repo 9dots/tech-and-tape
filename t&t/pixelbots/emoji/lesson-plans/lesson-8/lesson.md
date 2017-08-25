@@ -54,7 +54,7 @@ Students will continue to code their Emoji Projects using all the coding concept
 
 <note>**Slides:**![slides](./images/charades.png)</note>
 
-- [ ] **Review:** Give students 5 minutes to try a debugging challenge with moveTo and loops loops in [T&T Emoji | 8 (Code: M2DEB)][playlist].
+- [ ] **Review:** Give students 5 minutes to try a debugging challenge with loops in [T&T Emoji | 8 (Code: M2DEB)][playlist].
   >>“We are going to take some time to build our debugging skills. You have 5 minutes to find and fix as many bugs as you can in these challenges.”
 
 <note>![slides](./images/review.png)</note>
@@ -95,7 +95,7 @@ Students will continue to code their Emoji Projects using all the coding concept
 - [ ] **Evaluate:** During project time, circulate and check students' progress on Emoji. Students should have at least four features of their Emoji project completed. Ask the following guiding questions as needed, encourage the debugging mindset and use vocabulary when possible.
   <iconp type='question'>Can you show me your sequence?</iconp>
   <iconp type='question'>Do you think you can use a loop any where? Is that harder or easier?</iconp>
-  <iconp type='question'>Do you think you can use a move To block?</iconp>
+
 
 <pagebreak/>
 #### 4. Evaluate: Wrap Up (5 minutes)

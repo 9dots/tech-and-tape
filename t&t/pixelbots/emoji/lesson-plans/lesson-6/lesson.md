@@ -46,20 +46,19 @@ Students will review loops and start coding their Emoji Projects using all the c
 <pagebreak/>
 
 #### 1. Engage: Review & Debug  (15 minutes)
-- [ ] **Turn & Talk:** Give students one minute to turn in pairs and review the concepts from the previous lesson. Discuss answers as a whole class. Review the MoveTo block and the X Y coordinates.
+- [ ] **Turn & Talk:** Give students one minute to turn in pairs and review the concepts from the previous lesson. Discuss answers as a whole class.
   <iconp type='question'>What are the 3 steps to the debugging protocol? </iconp>
   <iconp type='answer'>The 3 steps are Compare, Find, and Try.</iconp>
-  <iconp type='question'>What are the coordinates to the yellow square? </iconp>
-  <iconp type='answer'>(5, 7). If students say 6, 8, remind them that the first block is 0. If students say (7,5), emphasize that X (horizontal axis) is first and Y is second.</iconp>
+
 
 <note>**Slides:**![slides](./images/turntalk.png)
 ![slides](./images/debug.png)</note>
-- [ ] **Review:** Give students 5 minutes to try a debugging activity with moveTo and Loops in [T&T Emoji | 6  playlist (Code: E678O)][playlist].
+- [ ] **Review:** Give students 5 minutes to try a debugging activity with loops in [T&T Emoji | 6  playlist (Code: E678O)][playlist].
   >>“We are starting our lesson with debugging challenges. You have 5 minutes to find and fix as many bugs as you can. Ready, set, go!”
 
 <note>![slides](./images/review.png)</note>
 
-- [ ] **Discuss:** Facilitate a class discussion about the debugging challenge. Reinforce the use of loops and MoveTo block.
+- [ ] **Discuss:** Facilitate a class discussion about the debugging challenge. Reinforce the use of loops.
   <iconp type='question'>How did you rewrite the code to meet the line limit?</iconp>
   <iconp type='answer'>Replaced repeating sequences with loops.</iconp>
   <iconp type='question'>What strategies did you use to find the bugs?</iconp>
@@ -110,8 +109,6 @@ Students will review loops and start coding their Emoji Projects using all the c
 - [ ] **Turn & Talk:** 30 minutes into Project Time, guide students in a 5 minute peer - revise/edit, and remind students of different code blocks.
   >>“Coders, let’s take a quick break to give our neighbors feedback. Turn to your right and look over your fellow coder’s progress. If they are feeling frustrated, share your debugging motto with them, or help look over their code. If they are doing great, give them some feedback on their design so far! Do the same with the person on your left.”
 
-  <iconp type='question'>When should I use MoveTo?</iconp>
-  <iconp type='answer'>To move from one feature to the next.</iconp>
   <iconp type='question'>When is a loop useful?</iconp>
   <iconp type='answer'>When there is a long repeating sequence of code, rewrite it with a loop.</iconp>
 <note>![slides](./images/peeredit.png)
@@ -123,7 +120,6 @@ Students will review loops and start coding their Emoji Projects using all the c
 
   <iconp type='question'>Can you show me your sequence?</iconp>
   <iconp type='question'>Do you think you can use a loop any where? Is that harder or easier?</iconp>
-  <iconp type='question'>Do you think you can use a move To block any where? Is that harder or easier?</iconp>
 
 
 #### 4. Evaluate: Wrap Up (10 minutes)

@@ -1,0 +1,6 @@
+# PushBots
+ 
+PushBots: PushBots is an introductory robotics unit that teaches students how to design and program a LEGO Mindstorms EV3 Robot. Using the design thinking process, students build and iterate robot attachments for a final Push Competition. 
+<br spacing="1"></br>
+
+

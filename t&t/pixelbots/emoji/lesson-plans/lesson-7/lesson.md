@@ -54,7 +54,7 @@ Students will continue to code their Emoji Projects using all the coding concept
 
 <note>**Slides:**![slides](./images/turntalk.png)</note>
 
-- [ ] **Review:** Give students 5 minutes to try a debugging activity with MoveTo and Loops in [T&T Emoji | 7 playlist (code: 59OO4)][playlist]
+- [ ] **Review:** Give students 5 minutes to try a debugging activity with loops in [T&T Emoji | 7 playlist (code: 59OO4)][playlist]
   >>“Today you will continue your Emoji Project, but before you jump straight into coding your emoji, we are going to take some time to build our debugging skills. You have 5 minutes to find and fix as many bugs as you can in these challenges.”
 
   <note>![slides](./images/review.png)</note>
@@ -98,7 +98,6 @@ Students will continue to code their Emoji Projects using all the coding concept
 - [ ] **Evaluate:** During project time, circulate and check students' progress on Emoji. Students should have at least four features of their Emoji project completed. Ask the following guiding questions as needed, encourage the debugging mindset and use vocabulary when possible.
   <iconp type='question'>Can you show me your sequence?</iconp>
   <iconp type='question'>Do you think you can use a loop any where? Is that harder or easier?</iconp>
-  <iconp type='question'>Do you think you can use a move To block  any where? Is that harder or easier?</iconp>
 
 #### 4. Evaluate: Wrap Up (5 minutes)
 - [ ] **Evaluate:** Students self assess their own progress on their project. Students respond to the following prompts in their journals:
