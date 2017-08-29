@@ -140,5 +140,5 @@ Students will review loops and start coding their Emoji Projects using all the c
 </notable>
 [slides]:https://docs.google.com/presentation/d/1JnouGjee6fOmStntKtBdkD0lOy50UImAOMRgMCsZzAs/edit?usp=sharing
 [playlist]: http://www.pixelbots.io/E678O
-[project]: http://wwww.pixelbots.io/NN53T
+[project]: http://www.pixelbots.io/NN53T
 [worksheet]: https://docs.google.com/document/d/1M8PUzOcR0zXQguK3wxgIDGn0EQ7yjjX7fb2Ed4ZNa6k/edit?usp=sharing

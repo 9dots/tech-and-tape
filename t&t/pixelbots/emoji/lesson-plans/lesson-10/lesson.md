@@ -44,3 +44,5 @@ Students will share their projects in a showcase.
 
 </notable>
 [slides]: https://docs.google.com/presentation/d/14jft0bNv_15Ps7--ASEOowWcjBCsD9vPvoF2_0dA1DM/edit?usp=sharing
+[project]: http://www.pixelbots.io/NN53T
+[worksheet]: https://docs.google.com/document/d/1M8PUzOcR0zXQguK3wxgIDGn0EQ7yjjX7fb2Ed4ZNa6k/edit?usp=sharing
