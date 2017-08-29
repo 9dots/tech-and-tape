@@ -94,5 +94,5 @@ Students will continue to code their Emoji Projects using all the coding concept
 
 </notable>
 [slides]: https://docs.google.com/presentation/d/1u8sEv5R7C7yipWWsqv3E4rb_8WlNr5U79H4tQw-IINw/edit?usp=sharing
-[project]: http://wwww.pixelbots.io/NN53T
+[project]: http://www.pixelbots.io/NN53T
 [worksheet]: https://docs.google.com/document/d/1M8PUzOcR0zXQguK3wxgIDGn0EQ7yjjX7fb2Ed4ZNa6k/edit?usp=sharing
