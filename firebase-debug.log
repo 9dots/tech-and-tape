@@ -1,0 +1,33 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /Users/ana/.nvm/versions/node/v7.4.0/bin/node /Users/ana/Repositories/tech-and-tape/node_modules/.bin/firebase deploy
+[debug] CLI Version:  3.2.0
+[debug] Platform:     darwin
+[debug] Node Version: v7.4.0
+[debug] Time:         Tue Aug 29 2017 12:02:18 GMT-0700 (PDT)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[debug] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/tech-and-tape 
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/tech-and-tape/tokens 
+[debug] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'tech-and-tape'...
+[info] 
+[info] i  deploying database, hosting
+[info] ✔  database: rules ready to deploy.
+[info] i  hosting: preparing public directory for upload...
+[debug] >>> HTTP REQUEST PUT https://deploy.firebase.com/v1/hosting/tech-and-tape/uploads/-KsjMrrPq4QPl3fV0BLf?fileCount=1746&message= 
+[debug] Error: socket hang up
+    at createHangUpError (_http_client.js:253:15)
+    at TLSSocket.socketOnEnd (_http_client.js:345:23)
+    at emitNone (events.js:91:20)
+    at TLSSocket.emit (events.js:185:7)
+    at endReadableNT (_stream_readable.js:974:12)
+    at _combinedTickCallback (internal/process/next_tick.js:74:11)
+    at process._tickCallback (internal/process/next_tick.js:98:9)
+[error] 
+[error] Error: Server Error. socket hang up
