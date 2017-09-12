@@ -23,19 +23,19 @@ Students are introduced to loops in block coding on PixelBots.io. Students will 
 <iconp src='/icons/materials.png'>### Materials</iconp>
 
 #### Teacher Materials
-- Computer
-- Projector
-- PixelBots.io
-- [Lesson 3 Slides][slides]
-- [T&T Emoji | 3 PixelBots playlist (Code: )][playlist]
+- [ ] Computer
+- [ ] Projector
+- [ ] PixelBots.io
+- [ ] [Lesson 3 Slides][slides]
+- [ ] [T&T Emoji | 3 PixelBots playlist (Code: )][playlist]
 
 
 
 #### Student Materials
-- Computer
-- PixelBots Account
-- PixelBots Playlist: [T&T Emoji | 3 (Code: Q545K)][playlist]
-- PixelBots Exit: [T&T Emoji | Exit 3 (Code: 8R9JX)][exit]
+- [ ] Computer
+- [ ] PixelBots Account
+- [ ] PixelBots Playlist: [T&T Emoji | 3 (Code: Q545K)][playlist]
+- [ ] PixelBots Exit: [T&T Emoji | Exit 3 (Code: 8R9JX)][exit]
 
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>

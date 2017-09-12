@@ -25,21 +25,21 @@ Students will continue to code their Emoji Projects using all the coding concept
 <iconp src='/icons/materials.png'>### Materials</iconp>
 
 #### Teacher Materials
-- Computer
-- Projector
-- PixelBots.io
-- [Lesson 9 Slides][slides]
+- [ ] Computer
+- [ ] Projector
+- [ ] PixelBots.io
+- [ ] [Lesson 9 Slides][slides]
 
 
 
 #### Student Materials
-- Computer
-- PixelBots Account
-- Journal
-- Paper for Haiku
-- Color Pencils
-- [Design Thinking Worksheet][worksheet]
-- [T&T Emoji | Project (Code: NN53T)][project]
+- [ ] Computer
+- [ ] PixelBots Account
+- [ ] Journal
+- [ ] Paper for Haiku
+- [ ] Color Pencils
+- [ ] [Design Thinking Worksheet][worksheet]
+- [ ] [T&T Emoji | Project (Code: NN53T)][project]
 
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>

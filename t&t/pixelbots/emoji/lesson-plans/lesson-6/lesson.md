@@ -23,19 +23,19 @@ Students will review loops and start coding their Emoji Projects using all the c
 <iconp src='/icons/materials.png'>### Materials</iconp>
 
 #### Teacher Materials
-- Computer
-- Projector
-- PixelBots.io
-- [Lesson 6 Slides][slides]
+- [ ] Computer
+- [ ] Projector
+- [ ] PixelBots.io
+- [ ] [Lesson 6 Slides][slides]
 
 
 
 #### Student Materials
-- Computer
-- PixelBots Account
-- [Design Thinking Worksheet][worksheet]
-- [T&T Emoji | Project (Code: NN53T)][project]
-- [T&T Emoji | 6 (Code: E678O) PixelBot Playlist][playlist]
+- [ ] Computer
+- [ ] PixelBots Account
+- [ ] [Design Thinking Worksheet][worksheet]
+- [ ] [T&T Emoji | Project (Code: NN53T)][project]
+- [ ] [T&T Emoji | 6 (Code: E678O) PixelBot Playlist][playlist]
 
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>

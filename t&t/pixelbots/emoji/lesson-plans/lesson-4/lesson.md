@@ -24,18 +24,18 @@ Students learn and apply the debugging protocol to a playlist of PixelBot Debugg
 <iconp src='/icons/materials.png'>### Materials</iconp>
 
 #### Teacher Materials
-- Computer
-- Projector
-- PixelBots.io
-- [Lesson 4 Slides][slides]
+- [ ] Computer
+- [ ] Projector
+- [ ] PixelBots.io
+- [ ] [Lesson 4 Slides][slides]
 
 
 
 #### Student Materials
-- Computer
-- PixelBots Account
-- [T&T Emoji | 4 PixelBots playlist (code: 7OBD7)][playlist]
-- [T&T Emoji | Exit 4 (code: 8K5K3)][exit]
+- [ ] Computer
+- [ ] PixelBots Account
+- [ ] [T&T Emoji | 4 PixelBots playlist (code: 7OBD7)][playlist]
+- [ ] [T&T Emoji | Exit 4 (code: 8K5K3)][exit]
 
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>

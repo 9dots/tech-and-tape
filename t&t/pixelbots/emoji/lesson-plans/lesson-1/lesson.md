@@ -30,18 +30,18 @@ Students get familiar with navigating and using their computer, as well as the P
 <iconp src='/icons/materials.png'>### Materials</iconp>
 
 #### Teacher Materials
-- Computer
-- Projector
-- PixelBots.io
-- [Lesson 1 Slides][slides]
+- [ ] Computer
+- [ ] Projector
+- [ ] PixelBots.io
+- [ ] [Lesson 1 Slides][slides]
 
 
 
 #### Student Materials
-- Computer
-- PixelBots Account
-- [T&T Emoji | 1 Playlist (Code: 9X5YW)][playlist]
-- [Scavenger Hunt Worksheet][worksheet]
+- [ ] Computer
+- [ ] PixelBots Account
+- [ ] [T&T Emoji | 1 Playlist (Code: 9X5YW)][playlist]
+- [ ] [Scavenger Hunt Worksheet][worksheet]
 
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>

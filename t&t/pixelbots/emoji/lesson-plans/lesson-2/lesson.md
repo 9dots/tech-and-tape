@@ -27,20 +27,20 @@ Students learn the fundamental coding concept of sequencing to program a bot to 
 <iconp src='/icons/materials.png'>### Materials</iconp>
 
 #### Teacher Materials
-- Computer
-- Projector
-- PixelBots.io
-- [Lesson 2 Slides][slides]
-- Example Emoji Project: [Math Eye Smiley (Code: B2G8N)][mathemoji]
-- [T&T Emoji | 2 PixelBots playlist (Code: OWZ3R)][playlist]
+- [ ] Computer
+- [ ] Projector
+- [ ] PixelBots.io
+- [ ] [Lesson 2 Slides][slides]
+- [ ] Example Emoji Project: [Math Eye Smiley (Code: B2G8N)][mathemoji]
+- [ ] [T&T Emoji | 2 PixelBots playlist (Code: OWZ3R)][playlist]
 
 
 
 #### Student Materials
-- Computer
-- PixelBots Account
-- PixelBots Playlist: [T&T Emoji | 2 (Code: OWZ3R)][playlist]
-- PixelBots Exit: [T&T Emoji | Exit 2 (Code: Y7922)][exit]
+- [ ] Computer
+- [ ] PixelBots Account
+- [ ] PixelBots Playlist: [T&T Emoji | 2 (Code: OWZ3R)][playlist]
+- [ ] PixelBots Exit: [T&T Emoji | Exit 2 (Code: Y7922)][exit]
 
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>

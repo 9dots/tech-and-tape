@@ -18,22 +18,22 @@ Students will share their projects in a showcase.
 <iconp src='/icons/materials.png'>### Materials</iconp>
 
 #### Teacher Materials
-- Computer
-- Projector
-- PixelBots.io
-- [T&T Training Showcase Slides][slides]
+- [ ] Computer
+- [ ] Projector
+- [ ] PixelBots.io
+- [ ] [T&T Training Showcase Slides][slides]
 
 
 
 
 #### Student Materials
-- Computer
-- PixelBots Account
-- Journal
-- [Design Thinking Worksheet][worksheet]
-- [T&T Emoji | Project (Code: NN53T)][project]
-- Haiku
-- Letter to Future Coder
+- [ ] Computer
+- [ ] PixelBots Account
+- [ ] Journal
+- [ ] [Design Thinking Worksheet][worksheet]
+- [ ] [T&T Emoji | Project (Code: NN53T)][project]
+- [ ] Haiku
+- [ ] Letter to Future Coder
 
 
 </note>

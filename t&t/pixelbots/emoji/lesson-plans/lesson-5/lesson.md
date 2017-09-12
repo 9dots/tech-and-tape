@@ -24,21 +24,21 @@ Students learn and use the design thinking process to design an emoji in PixelBo
 <iconp src='/icons/materials.png'>### Materials</iconp>
 
 #### Teacher Materials
-- Computer
-- Projector
-- PixelBots.io
-- [Lesson 5 Slides][slides]
-- [Project Rubric][rubric]
+- [ ] Computer
+- [ ] Projector
+- [ ] PixelBots.io
+- [ ] [Lesson 5 Slides][slides]
+- [ ] [Project Rubric][rubric]
 
 
 
 #### Student Materials
-- Computer
-- PixelBots Account
-- Colored Pencils or Pencils
-- [Design Thinking Worksheet][worksheet]
-- [T&T Emoji | Project (code: NN53T)][project]
-- [Emoji | Math Eye Smiley (Code: B2G8N)][example]
+- [ ] Computer
+- [ ] PixelBots Account
+- [ ] Colored Pencils or Pencils
+- [ ] [Design Thinking Worksheet][worksheet]
+- [ ] [T&T Emoji | Project (code: NN53T)][project]
+- [ ] [Emoji | Math Eye Smiley (Code: B2G8N)][example]
 
 
 <iconp src='/icons/vocab.png'>### Vocabulary</iconp>
