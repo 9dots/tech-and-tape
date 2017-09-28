@@ -172,4 +172,4 @@ Students get familiar with navigating and using their computer, as well as the P
 </notable>
 [slides]: https://docs.google.com/presentation/d/19R_7549Cfos9MJmAleAMrTruzvGXshbN9TBA7iEUzZI/edit?usp=sharing
 [worksheet]: https://docs.google.com/document/d/1jdyFTFEASeMM5yazZl-YTNktfYAR60AbI5iwLp5w30Y/edit
-[playlist]: http://www.pixelbots.io/9X5YW
+[playlist]: https://www.pixelbots.io/9X5YW
