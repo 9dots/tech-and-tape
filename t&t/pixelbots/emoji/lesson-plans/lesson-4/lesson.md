@@ -173,7 +173,7 @@ Students learn and apply the debugging protocol to a playlist of PixelBot Debugg
   <iconp type='question'>Who discovered the first bug in Harvard’s Mark 2 computer?</iconp>
   <iconp type='answer'>Grace Hopper</iconp>
 
->>“Now let’s reflect using emojis and hashtags. Take 30 seconds to draw how you felt about today’s lesson using an emoji (pause for 30 seconds). Take 30 seconds to write how you feel today using a hashtag! (pause for 30 seconds). Now turn in pairs and share your responses.”
+  >>"Now let’s reflect about today's lesson. Take a minute to draw an emoji OR write a hashtag! (pause for 1 minute). Now turn in pairs and share your responses to these questions. Good job today coders!"
 
 <note>![slides](./images/review.png)
 ![slides](./images/reflect.png)</note>

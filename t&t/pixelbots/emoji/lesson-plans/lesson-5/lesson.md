@@ -148,7 +148,7 @@ Students learn and use the design thinking process to design an emoji in PixelBo
 <note>![slides](./images/reflect1.png)</note>
 
 - [ ] **Reflect:** Students reflect in their coding journals according to prompts on slides.
-  >>“We are at the end of our coding lesson, let’s reflect. Take 30 seconds to draw how you felt about today’s lesson using an emoji. Take 30 seconds to write how you feel today using a hashtag! Now turn in pairs and share your responses.”
+  >>“We are at the end of our coding lesson, let’s reflect about today's lesson. Take a minute to draw an emoji OR write a hashtag! (pause for 1 minute). Now turn in pairs and share your responses to these questions. Good job today coders!"
 
 <note>![slides](./images/reflect2.png)</note>
 

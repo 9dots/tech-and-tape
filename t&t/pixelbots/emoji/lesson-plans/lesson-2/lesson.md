@@ -180,7 +180,7 @@ Students learn the fundamental coding concept of sequencing to program a bot to 
   <iconp type='question'>What is does sequence mean?</iconp>
   <iconp type='answer'>Sequence means code blocks are performed in the order they are written.</iconp>
 
-  >>"Now let’s reflect using emojis and hashtags. Take 30 seconds to draw how you felt about today’s lesson using an emoji (pause for 30 seconds). Take 30 seconds to write how you feel today using a hashtag! (pause for 30 seconds). Now turn in pairs and share your responses to these questions. Good job today coders!"
+  >>"Now let’s reflect about today's lesson. Take a minute to draw an emoji OR write a hashtag! (pause for 1 minute). Now turn in pairs and share your responses to these questions. Good job today coders!"
 
 <note>![slides](./images/reflect.png)
 **Note:** If time allows, have a few students share out their reflection responses to the whole class.</note>

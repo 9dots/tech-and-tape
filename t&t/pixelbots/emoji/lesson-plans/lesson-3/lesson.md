@@ -183,7 +183,7 @@ Students are introduced to loops in block coding on PixelBots.io. Students will 
   <iconp type='question'>How are they useful?</iconp>
   <iconp type='answer'>We can use loops to repeat sequences of code.</iconp>
 
-  >>“Now let’s reflect using emojis and hashtags. Take 30 seconds to draw how you felt about today’s lesson using an emoji (pause for 30 seconds). Take 30 seconds to write how you feel today using a hashtag! (pause for 30 seconds). Now turn in pairs and share your responses. Good job today coders!”
+  >>"Now let’s reflect about today's lesson. Take a minute to draw an emoji OR write a hashtag! (pause for 1 minute). Now turn in pairs and share your responses to these questions. Good job today coders!"
 
 <note>![slides](./images/reflect.png)
 **Note:** If time allows, have a few students share out their reflection responses to the whole class.</note>

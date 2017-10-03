@@ -99,7 +99,7 @@ Students will continue to code their Emoji Projects using all the coding concept
 #### 5. Evaluate: Wrap Up (5 minutes)
 
 - [ ] **Reflect:** Students reflect in their coding journals according to prompts on slides.
-  >>“Okay coders, we are at the end of our coding lesson, let’s reflect using emojis and hashtags. Take 30 seconds to draw how you felt about today’s lesson using an emoji (pause for 30 seconds). Take 30 seconds to write how you feel today using a hashtag! (pause for 30 seconds). Now turn in pairs and share your responses. The next time we meet will be the showcase and I am really excited about all the emojis and how you will get to share them with your friends and family."
+  >>“Okay coders, we are at the end of our coding lesson, let’s reflect! Take a minute to draw an emoji OR write a hashtag! (pause for 1 minute). Now turn in pairs and share your responses to these questions. Next week is the showcase and I am really excited about all the emojis and how you will get to share them with your friends and family."
 
 <note>**Slides:**![slides](./images/reflect.png)
 ![slides](./images/reflect2.png)</note>
