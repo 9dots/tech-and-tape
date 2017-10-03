@@ -141,7 +141,8 @@ Students get familiar with navigating and using their computer, as well as the P
   - Add four code blocks.
   - Insert an additional code block between their first and second code blocks.
   - Delete all of the blocks one by one. Then try using four different blocks.
-  - Continue experimenting. See what else you can make your PixelBot do by writing code.
+  - Continue experimenting. What else can you make the bot do by writing code.
+  - Delete all the paint blocks and click Check.
 
 
 <note>![slides](./images/pair.png)</note>
@@ -155,9 +156,9 @@ Students get familiar with navigating and using their computer, as well as the P
   >>“Using what we’ve learned, let’s try this PixelBots scavenger hunt.”
 
 <note>**Scavenger:**![slides](./images/scavenger.png)</note>
-- [ ] **Model** how to navigate to the first challenge of a [T&T Emoji | 1 playlist (Code: 9X5YW)][playlist]. Have students do the same, and give them time to work on the scavenger hunt activity individually.
+- [ ] **Model** how to navigate to the Challenge 2 of [T&T Emoji | 1 playlist (Code: 9X5YW)][playlist]. On Challenge 1, delete all the paint blocks you coded, if any and then click 'Check' then 'Submit'. Then click 'Next' to start Challenge 2. Have students do the same, and give them time to work on the scavenger hunt activity individually.
 
-- [ ] **Circulate** through the class and check for students in need of additional assistance.
+- [ ] **Circulate** around the class and check for students in need of additional assistance.
 - [ ] **Debrief:** Ask students to share their scavenger hunt answers. Go over answers as a class.
 
 #### Independent Practice & Card Game (15 minutes)
