@@ -126,6 +126,7 @@ Students get familiar with navigating and using their computer, as well as the P
   - **Tip:** Show students how to type an '@' symbol.
 <note>![slides](./images/login.png)</note>
 
+
 - [ ] **Model** how to navigate to the PixelBots Playlist by clicking on code, then typing in the playlist code and clicking go. Have students do the same.
 
 - [ ] **Share Out:** Students respond to the question below.
