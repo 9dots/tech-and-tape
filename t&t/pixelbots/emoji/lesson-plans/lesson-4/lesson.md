@@ -35,6 +35,7 @@ Students learn and apply the debugging protocol to a playlist of PixelBot Debugg
 - [ ] Computer
 - [ ] PixelBots Account
 - [ ] [T&T Emoji | 4 PixelBots playlist (code: 7OBD7)][playlist]
+- [ ] [T&T Emoji | 4 Bonus (code: 73E4Z)][bonus]
 - [ ] [T&T Emoji | Exit 4 (code: 8K5K3)][exit]
 
 
@@ -131,7 +132,9 @@ Students learn and apply the debugging protocol to a playlist of PixelBot Debugg
 - [ ] **Independent Practice:** Students apply the debugging protocol to a series of challenges. During this time circulate to assist students in need of additional help.
   >>"Alright coders, now it’s your turn. Continue to use our 3 steps to debug the remaining challenges."
 
-<note>![slides](./images/indprac.png)</note>
+
+<note>![slides](./images/indprac.png)
+**Tip:** If students finish early, direct them to the [T&T Emoji | 4 Bonus playlist (code: 73E4Z)][bonus].</note>
 
 <pagebreak/>
 - [ ] **Share** solutions for a few debugging challenge from the playlist as a class. Have students project their solutions. Encourage the class to respond with "I agree because..." and "I disagree because..."
@@ -181,4 +184,5 @@ Students learn and apply the debugging protocol to a playlist of PixelBot Debugg
 </notable>
 [slides]: https://docs.google.com/presentation/d/1FgKmWaF_pMaASm99OrymMHRuv21OxrYji2d-nUP5Z10/edit?usp=sharing
 [playlist]: http://www.pixelbots.io/7OBD7
+[bonus]: http://www.pixelbots.io/73E4Z
 [exit]: http://www.pixelbots.io/8K5K3
