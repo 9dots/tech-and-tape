@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Coding](t&t/README.md)
-  * [PixelBots](t&t/pixelbots/README.MD)
+  * [Emoji](t&t/pixelbots/emoji/README.MD)
     * [Lesson 01: Digital Literacy](t&t/pixelbots/emoji/lesson-plans/lesson-1/lesson.md)
     * [Lesson 02: Sequence](t&t/pixelbots/emoji/lesson-plans/lesson-2/lesson.md)
     * [Lesson 03: Loops](t&t/pixelbots/emoji/lesson-plans/lesson-3/lesson.md)
@@ -13,3 +13,4 @@
     * [Lesson 08: Project Time Continued](t&t/pixelbots/emoji/lesson-plans/lesson-8/lesson.md)
     * [Lesson 09: Showcase Prep](t&t/pixelbots/emoji/lesson-plans/lesson-9/lesson.md)
     * [Lesson 10: Showcase](t&t/pixelbots/emoji/lesson-plans/lesson-10/lesson.md)
+  * [Pixel Art](t&t/pixelbots/pixelart/README.MD)
