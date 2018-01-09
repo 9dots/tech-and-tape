@@ -1,4 +1,5 @@
 # PixelBots Pixel Art
+Pixel Art is an extension of the PixelBot Emoji series. Students learn to use to use a design process to turn their sketches into pixel art using code. During the course students design an assortment of pixel art ranging from cartoon characters to personalized crests. The 6 lesson series culminates with a project showcase.
 
 ## Purpose
 Empower students to use computational thinking practices to analyze problems, build solutions, and be creative.
