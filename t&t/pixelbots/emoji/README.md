@@ -1,7 +1,5 @@
 # PixelBots Emoji
 PixelBots Emoji teaches students block coding using PixelBots.io. In PixelBots.io students code a bot to move and paint squares on a grid to form a picture. They are introduced to core coding concepts: sequences and loops. During this course students will design their own emoji using the design thinking process and prototype their emoji. Students will then code a bot to paint their emoji. At the end of the course, students share their work with peers and mentors at a culminating showcase.  
-<br spacing="1"></br>
-
 
 ## Purpose
 Empower students to use computational thinking practices to analyze problems, build solutions, and be creative.
